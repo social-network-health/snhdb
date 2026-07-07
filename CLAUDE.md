@@ -72,6 +72,12 @@ path so the human can open it.
   rank relevance by `title:` and `claims[].text`, not by the gist.
 - Directory names contain spaces and punctuation (`&`, parentheses) — quote paths in shell
   commands.
+- Cards' `source.markdown` values are prefixed `Papers_Data/…` but the files live under
+  `papers/Markdown files/Papers_Data/…` — prepend the missing segment when resolving.
+- Some conversions dropped the paper's journal/DOI header line; cite those as "DOI
+  unverified in corpus copy" instead of trusting the card's `doi:`.
+- Duplicate copies exist beyond the Backup dir (`(1)`/`(2)` suffixes, `01 Extended` trees) —
+  if the same paper matches twice, cite it once and prefer the non-suffixed copy.
 
 ## Conventions for changes
 

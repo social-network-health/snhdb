@@ -27,6 +27,22 @@ Old workflow for comparison:
 
 To update the library later: `git pull`.
 
+### Optional: install the user-wide `/snhdb` skill
+
+If you want to query the corpus from Claude Code sessions in *other* directories (e.g.
+evidence-checking a claim in a document you're writing elsewhere):
+
+```sh
+mkdir -p ~/.claude/skills
+ln -s ~/src/snhdb/skill/snhdb ~/.claude/skills/snhdb
+```
+
+Then, from any new Claude Code session: `/snhdb <your question>` — or just say "use the
+snhdb skill to check whether this claim is supported." The skill locates the corpus
+(`$SNHDB_PATH` → `~/src/snhdb` → a sibling checkout), freshens it with `git pull`, and
+follows this repo's CLAUDE.md protocol. Tip: an allow rule for reading `~/src/snhdb` in
+your Claude Code settings avoids per-session permission prompts.
+
 ## How to search
 
 Just ask research questions in plain language, and ask for citations. Examples:
