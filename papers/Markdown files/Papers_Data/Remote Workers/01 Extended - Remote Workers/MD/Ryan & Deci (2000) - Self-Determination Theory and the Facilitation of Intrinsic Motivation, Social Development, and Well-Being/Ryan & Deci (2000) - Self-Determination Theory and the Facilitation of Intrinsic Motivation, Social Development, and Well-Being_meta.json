@@ -1,0 +1,729 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Self-Determination Theory and the",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          138.75,
+          39.0
+        ],
+        [
+          455.25,
+          39.0
+        ],
+        [
+          455.25,
+          59.5546875
+        ],
+        [
+          138.75,
+          59.5546875
+        ]
+      ]
+    },
+    {
+      "title": "Facilitation of Intrinsic Motivation,",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          136.8984375,
+          66.0
+        ],
+        [
+          456.0,
+          66.0
+        ],
+        [
+          456.0,
+          86.25
+        ],
+        [
+          136.8984375,
+          86.25
+        ]
+      ]
+    },
+    {
+      "title": "Social Development, and Well-Being",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          128.25,
+          92.25
+        ],
+        [
+          465.75,
+          94.5
+        ],
+        [
+          465.75,
+          117.0
+        ],
+        [
+          128.25,
+          116.7890625
+        ]
+      ]
+    },
+    {
+      "title": "Self-Determination Theory",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          304.5,
+          356.94140625
+        ],
+        [
+          469.5,
+          356.94140625
+        ],
+        [
+          469.5,
+          370.08984375
+        ],
+        [
+          304.5,
+          370.08984375
+        ]
+      ]
+    },
+    {
+      "title": "The Nature of Motivation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.541015625,
+          81.2109375
+        ],
+        [
+          464.03582763671875,
+          81.2109375
+        ],
+        [
+          464.03582763671875,
+          94.8525390625
+        ],
+        [
+          304.541015625,
+          94.8525390625
+        ]
+      ]
+    },
+    {
+      "title": "Intrinsic Motivation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.8564453125,
+          299.70703125
+        ],
+        [
+          171.00875854492188,
+          299.70703125
+        ],
+        [
+          171.00875854492188,
+          312.95623779296875
+        ],
+        [
+          47.8564453125,
+          312.95623779296875
+        ]
+      ]
+    },
+    {
+      "title": "Self-Regulation of Extrinsic \nMotivation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          303.380859375,
+          33.64453125
+        ],
+        [
+          476.67108154296875,
+          33.64453125
+        ],
+        [
+          476.67108154296875,
+          61.3419189453125
+        ],
+        [
+          303.380859375,
+          61.3419189453125
+        ]
+      ]
+    },
+    {
+      "title": "Facilitating Integration of Extrinsic \nMotivation",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          304.541015625,
+          225.45703125
+        ],
+        [
+          485.3270263671875,
+          225.45703125
+        ],
+        [
+          485.3270263671875,
+          247.403076171875
+        ],
+        [
+          304.541015625,
+          247.403076171875
+        ]
+      ]
+    },
+    {
+      "title": "Alienation and Its Prevention",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          48.146484375,
+          608.30859375
+        ],
+        [
+          203.40740966796875,
+          608.30859375
+        ],
+        [
+          203.40740966796875,
+          618.9970397949219
+        ],
+        [
+          48.146484375,
+          618.9970397949219
+        ]
+      ]
+    },
+    {
+      "title": "Psychologic.a! Needs and \nMental Health",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          304.541015625,
+          474.50390625
+        ],
+        [
+          463.77618408203125,
+          474.50390625
+        ],
+        [
+          463.77618408203125,
+          498.95989990234375
+        ],
+        [
+          304.541015625,
+          498.95989990234375
+        ]
+      ]
+    },
+    {
+      "title": "Conclusions",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          49.0166015625,
+          269.15625
+        ],
+        [
+          126.09854125976562,
+          269.15625
+        ],
+        [
+          126.09854125976562,
+          281.8960266113281
+        ],
+        [
+          49.0166015625,
+          281.8960266113281
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          304.541015625,
+          329.09765625
+        ],
+        [
+          356.8620910644531,
+          329.09765625
+        ],
+        [
+          356.8620910644531,
+          337.357666015625
+        ],
+        [
+          304.541015625,
+          337.357666015625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          106
+        ],
+        [
+          "Span",
+          51
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          179
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          173
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          214
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          133
+        ],
+        [
+          "Span",
+          53
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          211
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          213
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          208
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          250
+        ],
+        [
+          "Line",
+          125
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          350
+        ],
+        [
+          "Line",
+          146
+        ],
+        [
+          "ListItem",
+          48
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          168
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "ListItem",
+          22
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Ryan & Deci (2000) - Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being"
+}

@@ -1,0 +1,741 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Effective Work Practices for Software Engineering:\nFree/Libre Open Source Software Development",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          76.0,
+          63.03515625
+        ],
+        [
+          536.0090942382812,
+          63.03515625
+        ],
+        [
+          536.0090942382812,
+          101.1400146484375
+        ],
+        [
+          76.0,
+          101.1400146484375
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.0,
+          198.38671875
+        ],
+        [
+          118.98973083496094,
+          198.38671875
+        ],
+        [
+          118.98973083496094,
+          211.34149169921875
+        ],
+        [
+          54.0,
+          211.34149169921875
+        ]
+      ]
+    },
+    {
+      "title": "1. INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.0,
+          409.3414611816406
+        ],
+        [
+          168.0,
+          409.3414611816406
+        ],
+        [
+          168.0,
+          421.3414611816406
+        ],
+        [
+          54.0,
+          421.3414611816406
+        ]
+      ]
+    },
+    {
+      "title": "2. CURRENT RESEARCH ON FLOSS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          52.59375,
+          329.3414611816406
+        ],
+        [
+          260.9827575683594,
+          329.3414611816406
+        ],
+        [
+          260.9827575683594,
+          341.3414611816406
+        ],
+        [
+          52.59375,
+          341.3414611816406
+        ]
+      ]
+    },
+    {
+      "title": "3. WORK TEAM EFFECTIVENESS FOR\nSOFTWARE DEVELOPMENT",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.7890625,
+          584.3414611816406
+        ],
+        [
+          273.99658203125,
+          584.3414611816406
+        ],
+        [
+          273.99658203125,
+          611.3414611816406
+        ],
+        [
+          53.7890625,
+          611.3414611816406
+        ]
+      ]
+    },
+    {
+      "title": "3.1 Team effectiveness model",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          316.7578125,
+          554.3414611816406
+        ],
+        [
+          475.0021667480469,
+          554.3414611816406
+        ],
+        [
+          475.0021667480469,
+          566.3414611816406
+        ],
+        [
+          316.7578125,
+          566.3414611816406
+        ]
+      ]
+    },
+    {
+      "title": "3.1.1 Outputs.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          317.35546875,
+          678.1463394165039
+        ],
+        [
+          388.0000915527344,
+          678.1463394165039
+        ],
+        [
+          388.0000915527344,
+          689.1463394165039
+        ],
+        [
+          317.35546875,
+          689.1463394165039
+        ]
+      ]
+    },
+    {
+      "title": "3.1.2 Inputs.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          54.0,
+          295.1463317871094
+        ],
+        [
+          117.0,
+          295.1463317871094
+        ],
+        [
+          117.0,
+          306.1463317871094
+        ],
+        [
+          54.0,
+          306.1463317871094
+        ]
+      ]
+    },
+    {
+      "title": "3.1.3 Process.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          53.19140625,
+          631.1463470458984
+        ],
+        [
+          122.99983215332031,
+          631.1463470458984
+        ],
+        [
+          122.99983215332031,
+          642.1463470458984
+        ],
+        [
+          53.19140625,
+          642.1463470458984
+        ]
+      ]
+    },
+    {
+      "title": "3.1.4 Moderating factors.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          317.953125,
+          284.1463317871094
+        ],
+        [
+          440.0013732910156,
+          284.1463317871094
+        ],
+        [
+          440.0013732910156,
+          295.1463317871094
+        ],
+        [
+          317.953125,
+          295.1463317871094
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Coordination theory",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          318.0,
+          520.3414611816406
+        ],
+        [
+          447.00213623046875,
+          520.3414611816406
+        ],
+        [
+          447.00213623046875,
+          532.3414611816406
+        ],
+        [
+          318.0,
+          532.3414611816406
+        ]
+      ]
+    },
+    {
+      "title": "3.3 Collective mind",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          52.892578125,
+          428.87109375
+        ],
+        [
+          158.99795532226562,
+          428.87109375
+        ],
+        [
+          158.99795532226562,
+          441.3414611816406
+        ],
+        [
+          52.892578125,
+          441.3414611816406
+        ]
+      ]
+    },
+    {
+      "title": "4. PROPOSED DATA COLLECTION",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          316.7578125,
+          471.3414611816406
+        ],
+        [
+          520.9926147460938,
+          471.3414611816406
+        ],
+        [
+          520.9926147460938,
+          483.3414611816406
+        ],
+        [
+          316.7578125,
+          483.3414611816406
+        ]
+      ]
+    },
+    {
+      "title": "5. CONCLUSION",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          54.0,
+          271.34149169921875
+        ],
+        [
+          154.99029541015625,
+          271.34149169921875
+        ],
+        [
+          154.99029541015625,
+          283.3414611816406
+        ],
+        [
+          54.0,
+          283.3414611816406
+        ]
+      ]
+    },
+    {
+      "title": "ABOUT THE AUTHORS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          53.7890625,
+          530.3414611816406
+        ],
+        [
+          184.9966278076172,
+          530.3414611816406
+        ],
+        [
+          184.9966278076172,
+          542.3414611816406
+        ],
+        [
+          53.7890625,
+          542.3414611816406
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          53.490234375,
+          659.3414611816406
+        ],
+        [
+          130.99240112304688,
+          659.3414611816406
+        ],
+        [
+          130.99240112304688,
+          671.3414611816406
+        ],
+        [
+          53.490234375,
+          671.3414611816406
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          512
+        ],
+        [
+          "Line",
+          117
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          243
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          284
+        ],
+        [
+          "Line",
+          116
+        ],
+        [
+          "Text",
+          19
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          255
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          263
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "TableCell",
+          50
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          345
+        ],
+        [
+          "Line",
+          124
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          442
+        ],
+        [
+          "Line",
+          130
+        ],
+        [
+          "ListItem",
+          39
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          253
+        ],
+        [
+          "Line",
+          78
+        ],
+        [
+          "ListItem",
+          23
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Effective Work Practices for Software Engineering Free Libre Open Source Software Development"
+}

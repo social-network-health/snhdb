@@ -1,0 +1,1852 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The Labor of Maintaining and Scaling Free and Open-Source Software Projects",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.25,
+          83.25
+        ],
+        [
+          441.0,
+          83.25
+        ],
+        [
+          441.0,
+          114.609375
+        ],
+        [
+          44.25,
+          114.609375
+        ]
+      ]
+    },
+    {
+      "title": "ACM Reference Format:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.138671875,
+          403.9453125
+        ],
+        [
+          144.0,
+          403.9453125
+        ],
+        [
+          144.0,
+          411.75
+        ],
+        [
+          44.138671875,
+          411.75
+        ]
+      ]
+    },
+    {
+      "title": "1 INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          45.3251953125,
+          457.3828125
+        ],
+        [
+          139.5,
+          457.3828125
+        ],
+        [
+          139.5,
+          466.5
+        ],
+        [
+          45.3251953125,
+          466.5
+        ]
+      ]
+    },
+    {
+      "title": "2 BACKGROUND AND LITERATURE",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          45.087890625,
+          305.859375
+        ],
+        [
+          220.22329711914062,
+          305.859375
+        ],
+        [
+          220.22329711914062,
+          315.1582336425781
+        ],
+        [
+          45.087890625,
+          315.1582336425781
+        ]
+      ]
+    },
+    {
+      "title": "2.1 Trajectories of F/OSS research",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          44.138671875,
+          318.8671875
+        ],
+        [
+          205.48863220214844,
+          318.8671875
+        ],
+        [
+          205.48863220214844,
+          330.10223388671875
+        ],
+        [
+          44.138671875,
+          330.10223388671875
+        ]
+      ]
+    },
+    {
+      "title": "2.2 Infrastructural maintenance labor",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          45.087890625,
+          338.203125
+        ],
+        [
+          222.591796875,
+          338.203125
+        ],
+        [
+          222.591796875,
+          348.16424560546875
+        ],
+        [
+          45.087890625,
+          348.16424560546875
+        ]
+      ]
+    },
+    {
+      "title": "2.3 The many meanings of \"scale\"",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          45.5625,
+          85.4296875
+        ],
+        [
+          203.4562530517578,
+          85.4296875
+        ],
+        [
+          203.4562530517578,
+          97.006103515625
+        ],
+        [
+          45.5625,
+          97.006103515625
+        ]
+      ]
+    },
+    {
+      "title": "3 METHODS AND METHODOLOGY",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          45.087890625,
+          364.5703125
+        ],
+        [
+          217.5832061767578,
+          364.5703125
+        ],
+        [
+          217.5832061767578,
+          375.93023681640625
+        ],
+        [
+          45.087890625,
+          375.93023681640625
+        ]
+      ]
+    },
+    {
+      "title": "3.1 Research methods",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          45.7998046875,
+          378.6328125
+        ],
+        [
+          151.39170837402344,
+          378.6328125
+        ],
+        [
+          151.39170837402344,
+          390.87420654296875
+        ],
+        [
+          45.7998046875,
+          390.87420654296875
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Methodology and interpretive approaches",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          45.087890625,
+          363.6560974121094
+        ],
+        [
+          259.2568054199219,
+          363.6560974121094
+        ],
+        [
+          259.2568054199219,
+          373.0078125
+        ],
+        [
+          45.087890625,
+          373.0078125
+        ]
+      ]
+    },
+    {
+      "title": "4 FINDINGS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          44.8505859375,
+          86.8359375
+        ],
+        [
+          108.39312744140625,
+          86.8359375
+        ],
+        [
+          108.39312744140625,
+          96.9761962890625
+        ],
+        [
+          44.8505859375,
+          96.9761962890625
+        ]
+      ]
+    },
+    {
+      "title": "4.1 What is a F/OSS maintainer and how does it change as projects scale?",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          44.61328125,
+          101.953125
+        ],
+        [
+          383.01220703125,
+          101.953125
+        ],
+        [
+          383.01220703125,
+          111.95013427734375
+        ],
+        [
+          44.61328125,
+          111.95013427734375
+        ]
+      ]
+    },
+    {
+      "title": "4.2 Maintaining Users: User support",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          45.087890625,
+          560.9659271240234
+        ],
+        [
+          214.998046875,
+          560.9659271240234
+        ],
+        [
+          214.998046875,
+          570.2311401367188
+        ],
+        [
+          45.087890625,
+          570.2311401367188
+        ]
+      ]
+    },
+    {
+      "title": "4.3 Maintaining \"Mainline\" Code, Scaling Trust",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          45.5625,
+          127.265625
+        ],
+        [
+          264.656494140625,
+          127.265625
+        ],
+        [
+          264.656494140625,
+          138.43914794921875
+        ],
+        [
+          45.5625,
+          138.43914794921875
+        ]
+      ]
+    },
+    {
+      "title": "4.4 The Labor of Managing and Maintaining Donations of Labor",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          44.61328125,
+          244.27212524414062
+        ],
+        [
+          342.9126892089844,
+          244.27212524414062
+        ],
+        [
+          342.9126892089844,
+          253.587158203125
+        ],
+        [
+          44.61328125,
+          253.587158203125
+        ]
+      ]
+    },
+    {
+      "title": "4.5 Scaling through automation: continuous integration, build systems, and testing",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          43.6640625,
+          609.2578125
+        ],
+        [
+          426.53887939453125,
+          609.2578125
+        ],
+        [
+          426.53887939453125,
+          619.5421371459961
+        ],
+        [
+          43.6640625,
+          619.5421371459961
+        ]
+      ]
+    },
+    {
+      "title": "4.6 Ecosystem work: from interdependence to competition",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          44.61328125,
+          384.2578125
+        ],
+        [
+          317.4283752441406,
+          384.2578125
+        ],
+        [
+          317.4283752441406,
+          393.97418212890625
+        ],
+        [
+          44.61328125,
+          393.97418212890625
+        ]
+      ]
+    },
+    {
+      "title": "4.7 Growing a Community by Evangelizing",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          44.61328125,
+          322.734375
+        ],
+        [
+          247.849609375,
+          322.734375
+        ],
+        [
+          247.849609375,
+          333.12115478515625
+        ],
+        [
+          44.61328125,
+          333.12115478515625
+        ]
+      ]
+    },
+    {
+      "title": "4.8 Building and Maintaining Relationships: Meetups and Events",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          44.61328125,
+          167.6953125
+        ],
+        [
+          345.5926818847656,
+          167.6953125
+        ],
+        [
+          345.5926818847656,
+          177.70318603515625
+        ],
+        [
+          44.61328125,
+          177.70318603515625
+        ]
+      ]
+    },
+    {
+      "title": "4.9 Funding, finances, and donations",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          44.61328125,
+          133.9453125
+        ],
+        [
+          218.6691131591797,
+          133.9453125
+        ],
+        [
+          218.6691131591797,
+          144.2291259765625
+        ],
+        [
+          44.61328125,
+          144.2291259765625
+        ]
+      ]
+    },
+    {
+      "title": "5 DISCUSSION: LABOR AND SCALE IN MAINTAINERSHIP",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          44.61328125,
+          448.9453125
+        ],
+        [
+          319.88671875,
+          448.9453125
+        ],
+        [
+          319.88671875,
+          460.197265625
+        ],
+        [
+          44.61328125,
+          460.197265625
+        ]
+      ]
+    },
+    {
+      "title": "5.1 As projects scale, work not only increases, but fundamentally changes",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          45.5625,
+          454.21875
+        ],
+        [
+          384.2475891113281,
+          454.21875
+        ],
+        [
+          384.2475891113281,
+          464.4721221923828
+        ],
+        [
+          45.5625,
+          464.4721221923828
+        ]
+      ]
+    },
+    {
+      "title": "5.2 Scalar labor: What is needed to grow in many directions?",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          44.61328125,
+          283.7109375
+        ],
+        [
+          327.48046875,
+          283.7109375
+        ],
+        [
+          327.48046875,
+          293.2701416015625
+        ],
+        [
+          44.61328125,
+          293.2701416015625
+        ]
+      ]
+    },
+    {
+      "title": "5.3 Scalar debt and the consequences of 'catastrophic success'",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          44.61328125,
+          538.59375
+        ],
+        [
+          331.27734375,
+          538.59375
+        ],
+        [
+          331.27734375,
+          548.2842559814453
+        ],
+        [
+          44.61328125,
+          548.2842559814453
+        ]
+      ]
+    },
+    {
+      "title": "5.4 Scaling into becoming critical infrastructure for well-resourced organizations",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          44.61328125,
+          499.1481170654297
+        ],
+        [
+          419.51519775390625,
+          499.1481170654297
+        ],
+        [
+          419.51519775390625,
+          508.463134765625
+        ],
+        [
+          44.61328125,
+          508.463134765625
+        ]
+      ]
+    },
+    {
+      "title": "5.5 Scaling and the dynamics of hypervisibility",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          45.087890625,
+          389.53125
+        ],
+        [
+          264.6067199707031,
+          389.53125
+        ],
+        [
+          264.6067199707031,
+          400.8671569824219
+        ],
+        [
+          45.087890625,
+          400.8671569824219
+        ]
+      ]
+    },
+    {
+      "title": "6 CONCLUSION",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          44.8505859375,
+          267.890625
+        ],
+        [
+          127.51136779785156,
+          267.890625
+        ],
+        [
+          127.51136779785156,
+          278.0972595214844
+        ],
+        [
+          44.8505859375,
+          278.0972595214844
+        ]
+      ]
+    },
+    {
+      "title": "6.1 Limitations",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          45.5625,
+          440.5078125
+        ],
+        [
+          120.55078125,
+          440.5078125
+        ],
+        [
+          120.55078125,
+          450.2512512207031
+        ],
+        [
+          45.5625,
+          450.2512512207031
+        ]
+      ]
+    },
+    {
+      "title": "6.2 Recommendations and future work",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          44.61328125,
+          123.75
+        ],
+        [
+          229.29925537109375,
+          123.75
+        ],
+        [
+          229.29925537109375,
+          133.83819580078125
+        ],
+        [
+          44.61328125,
+          133.83819580078125
+        ]
+      ]
+    },
+    {
+      "title": "7 ACKNOWLEDGMENTS",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          45.087890625,
+          426.4453125
+        ],
+        [
+          168.65689086914062,
+          426.4453125
+        ],
+        [
+          168.65689086914062,
+          436.7022399902344
+        ],
+        [
+          45.087890625,
+          436.7022399902344
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          45.3251953125,
+          574.9139251708984
+        ],
+        [
+          108.59237670898438,
+          574.9139251708984
+        ],
+        [
+          108.59237670898438,
+          584.1492614746094
+        ],
+        [
+          45.3251953125,
+          584.1492614746094
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          57
+        ],
+        [
+          "Span",
+          22
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          138
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          160
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          118
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          111
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          111
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          168
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          128
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          281
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "ListItem",
+          27
+        ],
+        [
+          "Reference",
+          27
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          276
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "ListItem",
+          27
+        ],
+        [
+          "Reference",
+          26
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          274
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "ListItem",
+          24
+        ],
+        [
+          "Reference",
+          23
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          283
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "ListItem",
+          27
+        ],
+        [
+          "Reference",
+          27
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          267
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Reference",
+          29
+        ],
+        [
+          "ListItem",
+          28
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/The Labor of Maintaining and Scaling Free and Open-Source Software Projects"
+}

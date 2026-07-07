@@ -1,0 +1,1694 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Release Assurance",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.5,
+          585.0
+        ],
+        [
+          442.5,
+          588.0
+        ],
+        [
+          442.5,
+          636.0
+        ],
+        [
+          49.5,
+          633.0
+        ]
+      ]
+    },
+    {
+      "title": "Release Assurance",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.71875,
+          134.9375
+        ],
+        [
+          282.3031921386719,
+          134.9375
+        ],
+        [
+          282.3031921386719,
+          164.0374755859375
+        ],
+        [
+          71.71875,
+          164.0374755859375
+        ]
+      ]
+    },
+    {
+      "title": "What is psychological safety?",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          208.58203125,
+          469.08984375
+        ],
+        [
+          396.5572204589844,
+          469.08984375
+        ],
+        [
+          396.5572204589844,
+          484.2640686035156
+        ],
+        [
+          208.58203125,
+          484.2640686035156
+        ]
+      ]
+    },
+    {
+      "title": "Leadership nurtures innovation",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          180.2873992919922,
+          71.0394287109375
+        ],
+        [
+          449.8892517089844,
+          71.0394287109375
+        ],
+        [
+          449.8892517089844,
+          90.43939208984375
+        ],
+        [
+          180.2873992919922,
+          90.43939208984375
+        ]
+      ]
+    },
+    {
+      "title": "How leadership's priorities impact software releases",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          178.1015625,
+          612.8187713623047
+        ],
+        [
+          503.83587646484375,
+          612.8187713623047
+        ],
+        [
+          503.83587646484375,
+          628.41796875
+        ],
+        [
+          178.1015625,
+          628.41796875
+        ]
+      ]
+    },
+    {
+      "title": "A focus on innovation starts with leadership \nchampioning developers",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          179.296875,
+          71.10870361328125
+        ],
+        [
+          531.7877807617188,
+          71.10870361328125
+        ],
+        [
+          531.7877807617188,
+          111.10467529296875
+        ],
+        [
+          179.296875,
+          111.10467529296875
+        ]
+      ]
+    },
+    {
+      "title": "Priority of improving developer outcomes for software releases:",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          193.640625,
+          348.046875
+        ],
+        [
+          533.109375,
+          348.046875
+        ],
+        [
+          533.109375,
+          361.2458190917969
+        ],
+        [
+          193.640625,
+          361.2458190917969
+        ]
+      ]
+    },
+    {
+      "title": "Most companies have some appetite for risk",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          179.296875,
+          214.92877197265625
+        ],
+        [
+          533.1744384765625,
+          214.92877197265625
+        ],
+        [
+          533.1744384765625,
+          233.19140625
+        ],
+        [
+          179.296875,
+          233.19140625
+        ]
+      ]
+    },
+    {
+      "title": "Even if organizations want risk, the fear is still \nfelt by developers",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          179.296875,
+          145.01953125
+        ],
+        [
+          543.7242431640625,
+          145.01953125
+        ],
+        [
+          543.7242431640625,
+          186.01171875
+        ],
+        [
+          179.296875,
+          186.01171875
+        ]
+      ]
+    },
+    {
+      "title": "Which of the following best reflects your company leadership's \nview on deployments?",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          193.5,
+          217.2857666015625
+        ],
+        [
+          527.26318359375,
+          217.2857666015625
+        ],
+        [
+          527.26318359375,
+          246.33984375
+        ],
+        [
+          193.5,
+          246.33984375
+        ]
+      ]
+    },
+    {
+      "title": "Process will help your innovation \nsoar or stumble",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          180.4921875,
+          445.5
+        ],
+        [
+          444.857421875,
+          445.5
+        ],
+        [
+          444.857421875,
+          485.9246826171875
+        ],
+        [
+          180.4921875,
+          485.9246826171875
+        ]
+      ]
+    },
+    {
+      "title": "How much of an obstacle to innovation are your \ncompany's processes?",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          193.04296875,
+          516.65625
+        ],
+        [
+          447.64453125,
+          516.65625
+        ],
+        [
+          447.64453125,
+          547.59375
+        ],
+        [
+          193.04296875,
+          547.59375
+        ]
+      ]
+    },
+    {
+      "title": "The processes fueling and \nfumbling innovation",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          180.62091064453125,
+          96.73162841796875
+        ],
+        [
+          465.8849182128906,
+          96.73162841796875
+        ],
+        [
+          465.8849182128906,
+          148.7396240234375
+        ],
+        [
+          180.62091064453125,
+          148.7396240234375
+        ]
+      ]
+    },
+    {
+      "title": "Weekly or more is the new standard for \nrelease cadence",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          179.296875,
+          71.10870361328125
+        ],
+        [
+          494.0064392089844,
+          71.10870361328125
+        ],
+        [
+          494.0064392089844,
+          111.10467529296875
+        ],
+        [
+          179.296875,
+          111.10467529296875
+        ]
+      ]
+    },
+    {
+      "title": "How often does your team release new code changes \nto production?",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          193.54739379882812,
+          139.60546875
+        ],
+        [
+          478.7969970703125,
+          139.60546875
+        ],
+        [
+          478.7969970703125,
+          171.398681640625
+        ],
+        [
+          193.54739379882812,
+          171.398681640625
+        ]
+      ]
+    },
+    {
+      "title": "Almost all companies are focused on \nholding the line between the speed and \nquality of releases",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          179.296875,
+          71.10870361328125
+        ],
+        [
+          496.2744445800781,
+          71.10870361328125
+        ],
+        [
+          496.2744445800781,
+          133.8046875
+        ],
+        [
+          179.296875,
+          133.8046875
+        ]
+      ]
+    },
+    {
+      "title": "With so much focus on speed, developers \nare feeling the stress",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          180.0,
+          502.8743896484375
+        ],
+        [
+          515.2446899414062,
+          502.8743896484375
+        ],
+        [
+          515.2446899414062,
+          542.8703918457031
+        ],
+        [
+          180.0,
+          542.8703918457031
+        ]
+      ]
+    },
+    {
+      "title": "Manual approvals are still common, \ndespite increased push for automation",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          180.0,
+          145.40625
+        ],
+        [
+          488.8828125,
+          145.40625
+        ],
+        [
+          488.8828125,
+          185.92474365234375
+        ],
+        [
+          180.0,
+          185.92474365234375
+        ]
+      ]
+    },
+    {
+      "title": "The impact of failing to support \nthe psychological safety of \ndevelopers",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          179.296875,
+          93.85162353515625
+        ],
+        [
+          518.944091796875,
+          93.85162353515625
+        ],
+        [
+          518.944091796875,
+          173.86761474609375
+        ],
+        [
+          179.296875,
+          173.86761474609375
+        ]
+      ]
+    },
+    {
+      "title": "Too much focus on avoiding risk introduces \nmore risk",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          180.4921875,
+          352.32867431640625
+        ],
+        [
+          530.267333984375,
+          352.32867431640625
+        ],
+        [
+          530.267333984375,
+          392.3246765136719
+        ],
+        [
+          180.4921875,
+          392.3246765136719
+        ]
+      ]
+    },
+    {
+      "title": "There's more job satisfaction at innovative \norganizations",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          178.1015625,
+          239.42877197265625
+        ],
+        [
+          518.1966552734375,
+          239.42877197265625
+        ],
+        [
+          518.1966552734375,
+          279.59765625
+        ],
+        [
+          178.1015625,
+          279.59765625
+        ]
+      ]
+    },
+    {
+      "title": "How would you rate the general job satisfaction of developers in \nyour organization?",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          193.5,
+          310.1484375
+        ],
+        [
+          534.3911743164062,
+          310.1484375
+        ],
+        [
+          534.3911743164062,
+          339.8699951171875
+        ],
+        [
+          193.5,
+          339.8699951171875
+        ]
+      ]
+    },
+    {
+      "title": "People will quit over too much pressure \nto avoid risks",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          180.4921875,
+          225.92877197265625
+        ],
+        [
+          498.24542236328125,
+          225.92877197265625
+        ],
+        [
+          498.24542236328125,
+          265.92474365234375
+        ],
+        [
+          180.4921875,
+          265.92474365234375
+        ]
+      ]
+    },
+    {
+      "title": "Strengthening the last mile of \nsoftware delivery",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          180.0,
+          70.3828125
+        ],
+        [
+          498.0480651855469,
+          70.3828125
+        ],
+        [
+          498.0480651855469,
+          122.819580078125
+        ],
+        [
+          180.0,
+          122.819580078125
+        ]
+      ]
+    },
+    {
+      "title": "More frequent, smaller deployments \nboost confidence",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          180.0,
+          283.4286804199219
+        ],
+        [
+          473.86444091796875,
+          283.4286804199219
+        ],
+        [
+          473.86444091796875,
+          323.4246826171875
+        ],
+        [
+          180.0,
+          323.4246826171875
+        ]
+      ]
+    },
+    {
+      "title": "Developers want to experiment, and should \nbe encouraged to do so",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          178.1015625,
+          265.9287109375
+        ],
+        [
+          529.2504272460938,
+          265.9287109375
+        ],
+        [
+          529.2504272460938,
+          306.28125
+        ],
+        [
+          178.1015625,
+          306.28125
+        ]
+      ]
+    },
+    {
+      "title": "Experimentation fosters innovation \nand retention",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          178.1015625,
+          71.10870361328125
+        ],
+        [
+          464.36041259765625,
+          71.10870361328125
+        ],
+        [
+          464.36041259765625,
+          111.10467529296875
+        ],
+        [
+          178.1015625,
+          111.10467529296875
+        ]
+      ]
+    },
+    {
+      "title": "How can applying new development approaches and solutions \npositively impact business outcomes?",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          193.5,
+          142.3125
+        ],
+        [
+          528.4163208007812,
+          142.3125
+        ],
+        [
+          528.4163208007812,
+          171.84967041015625
+        ],
+        [
+          193.5,
+          171.84967041015625
+        ]
+      ]
+    },
+    {
+      "title": "Wrapping up",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          180.0,
+          71.10870361328125
+        ],
+        [
+          283.4280090332031,
+          71.10870361328125
+        ],
+        [
+          283.4280090332031,
+          89.33203125
+        ],
+        [
+          180.0,
+          89.33203125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          7
+        ],
+        [
+          "Span",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          23
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          47
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          52
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          21
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          21
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "TableCell",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/LaunchDarkly Release Assurance Why Innovative Software Delivery Starts with Trust and Psychological Safety"
+}

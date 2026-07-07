@@ -1,0 +1,1197 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Computers in Human Behavior",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          202.3939971923828,
+          84.9052734375
+        ],
+        [
+          399.20855712890625,
+          84.9052734375
+        ],
+        [
+          399.20855712890625,
+          100.76190185546875
+        ],
+        [
+          202.3939971923828,
+          100.76190185546875
+        ]
+      ]
+    },
+    {
+      "title": "Information quality, work-family conflict, loneliness, and well-being in \nremote work settings",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          37.25,
+          166.708984375
+        ],
+        [
+          468.21881103515625,
+          166.708984375
+        ],
+        [
+          468.21881103515625,
+          198.19647216796875
+        ],
+        [
+          37.25,
+          198.19647216796875
+        ]
+      ]
+    },
+    {
+      "title": "ARTICLE INFO",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.958984375,
+          271.38671875
+        ],
+        [
+          120.90568542480469,
+          271.38671875
+        ],
+        [
+          120.90568542480469,
+          279.4564208984375
+        ],
+        [
+          36.958984375,
+          279.4564208984375
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          201.673828125,
+          271.38671875
+        ],
+        [
+          263.930419921875,
+          271.38671875
+        ],
+        [
+          263.930419921875,
+          279.4564208984375
+        ],
+        [
+          201.673828125,
+          279.4564208984375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.66796875,
+          464.07128906249994
+        ],
+        [
+          87.92655944824219,
+          464.07128906249994
+        ],
+        [
+          87.92655944824219,
+          472.82000732421875
+        ],
+        [
+          36.66796875,
+          472.82000732421875
+        ]
+      ]
+    },
+    {
+      "title": "2023; Rau & Hyland, 2002).",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          305.857421875,
+          464.07128906249994
+        ],
+        [
+          409.60302734375,
+          464.07128906249994
+        ],
+        [
+          409.60302734375,
+          472.82000732421875
+        ],
+        [
+          305.857421875,
+          472.82000732421875
+        ]
+      ]
+    },
+    {
+      "title": "2. Hypothesized relationships",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.984375,
+          213.23242187499997
+        ],
+        [
+          424.8081970214844,
+          213.23242187499997
+        ],
+        [
+          424.8081970214844,
+          221.3858642578125
+        ],
+        [
+          304.984375,
+          221.3858642578125
+        ]
+      ]
+    },
+    {
+      "title": "2.1. Information quality as resources and demands",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          306.5924987792969,
+          233.39257812499997
+        ],
+        [
+          482.5069885253906,
+          233.39257812499997
+        ],
+        [
+          482.5069885253906,
+          242.304931640625
+        ],
+        [
+          306.5924987792969,
+          242.304931640625
+        ]
+      ]
+    },
+    {
+      "title": "2.2. Information quality and work-family conflict",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          36.0859375,
+          398.9384765625
+        ],
+        [
+          208.64169311523438,
+          398.9384765625
+        ],
+        [
+          208.64169311523438,
+          409.094482421875
+        ],
+        [
+          36.0859375,
+          409.094482421875
+        ]
+      ]
+    },
+    {
+      "title": "2.3. Information quality and loneliness",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          305.857421875,
+          389.6337890625
+        ],
+        [
+          441.935302734375,
+          389.6337890625
+        ],
+        [
+          441.935302734375,
+          398.6632385253906
+        ],
+        [
+          305.857421875,
+          398.6632385253906
+        ]
+      ]
+    },
+    {
+      "title": "2.4. Information quality and well-being",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          36.0859375,
+          258.205078125
+        ],
+        [
+          174.3399658203125,
+          258.205078125
+        ],
+        [
+          174.3399658203125,
+          267.590087890625
+        ],
+        [
+          36.0859375,
+          267.590087890625
+        ]
+      ]
+    },
+    {
+      "title": "2.5. Interactions between timeliness and accuracy",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          36.66796875,
+          523.0009765625
+        ],
+        [
+          208.66639709472656,
+          523.0009765625
+        ],
+        [
+          208.66639709472656,
+          534.668212890625
+        ],
+        [
+          36.66796875,
+          534.668212890625
+        ]
+      ]
+    },
+    {
+      "title": "2.6. Work-family conflict and loneliness as mediators between \ninformation quality and teleworkers' well-being",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          305.56640625,
+          53.50195312499999
+        ],
+        [
+          519.9132080078125,
+          53.50195312499999
+        ],
+        [
+          519.9132080078125,
+          73.7589111328125
+        ],
+        [
+          305.56640625,
+          73.7589111328125
+        ]
+      ]
+    },
+    {
+      "title": "3. Method",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          305.275390625,
+          305.1162109375
+        ],
+        [
+          350.0161437988281,
+          305.1162109375
+        ],
+        [
+          350.0161437988281,
+          314.9851379394531
+        ],
+        [
+          305.275390625,
+          314.9851379394531
+        ]
+      ]
+    },
+    {
+      "title": "3.1. Respondents and procedure",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          304.984375,
+          326.439453125
+        ],
+        [
+          418.73834228515625,
+          326.439453125
+        ],
+        [
+          418.73834228515625,
+          335.9042663574219
+        ],
+        [
+          304.984375,
+          335.9042663574219
+        ]
+      ]
+    },
+    {
+      "title": "3.2. Measures",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          36.66796875,
+          85.29296875
+        ],
+        [
+          89.25357055664062,
+          85.29296875
+        ],
+        [
+          89.25357055664062,
+          94.9617919921875
+        ],
+        [
+          36.66796875,
+          94.9617919921875
+        ]
+      ]
+    },
+    {
+      "title": "Control variables",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          36.958984375,
+          451.66503906249994
+        ],
+        [
+          102.64573669433594,
+          451.66503906249994
+        ],
+        [
+          102.64573669433594,
+          461.0841064453125
+        ],
+        [
+          36.958984375,
+          461.0841064453125
+        ]
+      ]
+    },
+    {
+      "title": "3.3. Analysis approaches",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          36.376953125,
+          578.8291015625
+        ],
+        [
+          125.97900390625,
+          578.8291015625
+        ],
+        [
+          125.97900390625,
+          587.3583984375
+        ],
+        [
+          36.376953125,
+          587.3583984375
+        ]
+      ]
+    },
+    {
+      "title": "4. Results",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          305.56640625,
+          179.890625
+        ],
+        [
+          348.6213684082031,
+          179.890625
+        ],
+        [
+          348.6213684082031,
+          190.1517333984375
+        ],
+        [
+          305.56640625,
+          190.1517333984375
+        ]
+      ]
+    },
+    {
+      "title": "Table 4).",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          36.376953125,
+          354.7412109375
+        ],
+        [
+          71.57748413085938,
+          354.7412109375
+        ],
+        [
+          71.57748413085938,
+          364.76397705078125
+        ],
+        [
+          36.376953125,
+          364.76397705078125
+        ]
+      ]
+    },
+    {
+      "title": "5. Discussion",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          36.958984375,
+          379.166015625
+        ],
+        [
+          92.4647216796875,
+          379.166015625
+        ],
+        [
+          92.4647216796875,
+          388.177734375
+        ],
+        [
+          36.958984375,
+          388.177734375
+        ]
+      ]
+    },
+    {
+      "title": "5.1. Theoretical implication",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          306.1484375,
+          284.568359375
+        ],
+        [
+          403.7856140136719,
+          284.568359375
+        ],
+        [
+          403.7856140136719,
+          293.7288513183594
+        ],
+        [
+          306.1484375,
+          293.7288513183594
+        ]
+      ]
+    },
+    {
+      "title": "5.2. Practical implications",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          305.56640625,
+          702.8916015625
+        ],
+        [
+          399.0808410644531,
+          702.8916015625
+        ],
+        [
+          399.0808410644531,
+          712.4580383300781
+        ],
+        [
+          305.56640625,
+          712.4580383300781
+        ]
+      ]
+    },
+    {
+      "title": "5.3. Limitations and future directions",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          37.25,
+          609.8447265625
+        ],
+        [
+          167.32867431640625,
+          609.8447265625
+        ],
+        [
+          167.32867431640625,
+          618.3740234375
+        ],
+        [
+          37.25,
+          618.3740234375
+        ]
+      ]
+    },
+    {
+      "title": "Funding",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          305.56640625,
+          464.07128906249994
+        ],
+        [
+          340.218505859375,
+          464.07128906249994
+        ],
+        [
+          340.218505859375,
+          474.00909423828125
+        ],
+        [
+          305.56640625,
+          474.00909423828125
+        ]
+      ]
+    },
+    {
+      "title": "CRediT authorship contribution statement",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          304.984375,
+          526.1025390625
+        ],
+        [
+          470.865966796875,
+          526.1025390625
+        ],
+        [
+          470.865966796875,
+          536.7672424316406
+        ],
+        [
+          304.984375,
+          536.7672424316406
+        ]
+      ]
+    },
+    {
+      "title": "Declaration of competing interest",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          304.984375,
+          609.8447265625
+        ],
+        [
+          437.5142822265625,
+          609.8447265625
+        ],
+        [
+          437.5142822265625,
+          620.4453125
+        ],
+        [
+          304.984375,
+          620.4453125
+        ]
+      ]
+    },
+    {
+      "title": "Data availability",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          305.857421875,
+          674.9775390625
+        ],
+        [
+          372.43682861328125,
+          674.9775390625
+        ],
+        [
+          372.43682861328125,
+          683.5068359375
+        ],
+        [
+          305.857421875,
+          683.5068359375
+        ]
+      ]
+    },
+    {
+      "title": "Appendix A. Supplementary data",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          36.376953125,
+          53.50195312499999
+        ],
+        [
+          168.54730224609375,
+          53.50195312499999
+        ],
+        [
+          168.54730224609375,
+          63.27099609375
+        ],
+        [
+          36.376953125,
+          63.27099609375
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          35.50390625,
+          107.00390624999999
+        ],
+        [
+          81.13603210449219,
+          107.00390624999999
+        ],
+        [
+          81.13603210449219,
+          115.597900390625
+        ],
+        [
+          35.50390625,
+          115.597900390625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          231
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          242
+        ],
+        [
+          "Line",
+          93
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          376
+        ],
+        [
+          "Line",
+          129
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          339
+        ],
+        [
+          "Line",
+          124
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          508
+        ],
+        [
+          "Line",
+          127
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          523
+        ],
+        [
+          "TableCell",
+          449
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "TableGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          289
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "TableCell",
+          19
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          204
+        ],
+        [
+          "Line",
+          81
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          638
+        ],
+        [
+          "Line",
+          171
+        ],
+        [
+          "ListItem",
+          53
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          397
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "ListItem",
+          32
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chuang et al. (2024) - Information Quality, Work-Family Conflict, Loneliness, and Well-Being in Remote Work Settings"
+}

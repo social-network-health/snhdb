@@ -1,0 +1,509 @@
+{
+  "table_of_contents": [
+    {
+      "title": "REITERATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.59375,
+          81.2109375
+        ],
+        [
+          126.86799621582031,
+          81.2109375
+        ],
+        [
+          126.86799621582031,
+          93.82916259765625
+        ],
+        [
+          52.59375,
+          93.82916259765625
+        ]
+      ]
+    },
+    {
+      "title": "Sick individuals and sick populations",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.3984375,
+          105.9609375
+        ],
+        [
+          433.8984375,
+          105.9609375
+        ],
+        [
+          433.8984375,
+          128.456787109375
+        ],
+        [
+          51.3984375,
+          128.456787109375
+        ]
+      ]
+    },
+    {
+      "title": "The Determinants of Individual Cases",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.80078125,
+          356.58917236328125
+        ],
+        [
+          263.7640380859375,
+          356.58917236328125
+        ],
+        [
+          263.7640380859375,
+          368.58917236328125
+        ],
+        [
+          50.80078125,
+          368.58917236328125
+        ]
+      ]
+    },
+    {
+      "title": "The Determinants of Population \nIncidence Rate",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.3515625,
+          400.25390625
+        ],
+        [
+          246.1719970703125,
+          400.25390625
+        ],
+        [
+          246.1719970703125,
+          425.84515380859375
+        ],
+        [
+          63.3515625,
+          425.84515380859375
+        ]
+      ]
+    },
+    {
+      "title": "How do the Causes of Cases Relate \nto the Causes of Incidence?",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          52.59375,
+          282.3491516113281
+        ],
+        [
+          251.72801208496094,
+          282.3491516113281
+        ],
+        [
+          251.72801208496094,
+          307.34515380859375
+        ],
+        [
+          52.59375,
+          307.34515380859375
+        ]
+      ]
+    },
+    {
+      "title": "Prevention",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          304.8046875,
+          207.34918212890625
+        ],
+        [
+          366.1300048828125,
+          207.34918212890625
+        ],
+        [
+          366.1300048828125,
+          219.34918212890625
+        ],
+        [
+          304.8046875,
+          219.34918212890625
+        ]
+      ]
+    },
+    {
+      "title": "The 'High-Risk' Strategy",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          305.103515625,
+          297.0
+        ],
+        [
+          416.865234375,
+          297.0
+        ],
+        [
+          416.865234375,
+          307.5841064453125
+        ],
+        [
+          305.103515625,
+          307.5841064453125
+        ]
+      ]
+    },
+    {
+      "title": "The Population Strategy",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          305.40234375,
+          474.4941101074219
+        ],
+        [
+          416.56640625,
+          474.4941101074219
+        ],
+        [
+          416.56640625,
+          483.78515625
+        ],
+        [
+          305.40234375,
+          483.78515625
+        ]
+      ]
+    },
+    {
+      "title": "Conclusions",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          317.35546875,
+          174.34918212890625
+        ],
+        [
+          386.15802001953125,
+          174.34918212890625
+        ],
+        [
+          386.15802001953125,
+          186.34918212890625
+        ],
+        [
+          317.35546875,
+          186.34918212890625
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          317.654296875,
+          329.87109375
+        ],
+        [
+          377.4940185546875,
+          329.87109375
+        ],
+        [
+          377.4940185546875,
+          342.8491516113281
+        ],
+        [
+          317.654296875,
+          342.8491516113281
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          188
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          242
+        ],
+        [
+          "Line",
+          113
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          246
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          250
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "TableCell",
+          51
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TableGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          261
+        ],
+        [
+          "Line",
+          93
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Sick Individuals and Sick Populations"
+}

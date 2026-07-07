@@ -1,0 +1,624 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Howopen sourcemaintainers\nkeep contributors\u2014and",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.77058792114258,
+          693.9931640625
+        ],
+        [
+          502.758056640625,
+          693.9931640625
+        ],
+        [
+          502.758056640625,
+          783.9701919555664
+        ],
+        [
+          52.77058792114258,
+          783.9701919555664
+        ]
+      ]
+    },
+    {
+      "title": "themselves\u2014happy",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          52.3828125,
+          30.4599609375
+        ],
+        [
+          361.8560791015625,
+          30.4599609375
+        ],
+        [
+          361.8560791015625,
+          76.99725341796875
+        ],
+        [
+          52.3828125,
+          76.99725341796875
+        ]
+      ]
+    },
+    {
+      "title": "Community building",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          52.77058792114258,
+          698.7991485595703
+        ],
+        [
+          235.56399536132812,
+          698.7991485595703
+        ],
+        [
+          235.56399536132812,
+          716.7770919799805
+        ],
+        [
+          52.77058792114258,
+          716.7770919799805
+        ]
+      ]
+    },
+    {
+      "title": "Bttr contribution through automation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          51.21875,
+          699.755859375
+        ],
+        [
+          411.9403076171875,
+          699.755859375
+        ],
+        [
+          411.9403076171875,
+          718.2766036987305
+        ],
+        [
+          51.21875,
+          718.2766036987305
+        ]
+      ]
+    },
+    {
+      "title": "Stting boundari",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          51.80078125,
+          389.3935546875
+        ],
+        [
+          221.9081573486328,
+          389.3935546875
+        ],
+        [
+          221.9081573486328,
+          407.89794921875
+        ],
+        [
+          51.80078125,
+          407.89794921875
+        ]
+      ]
+    },
+    {
+      "title": "or tori",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          64.7558822631836,
+          561.9066467285156
+        ],
+        [
+          157.09402465820312,
+          561.9066467285156
+        ],
+        [
+          157.09402465820312,
+          576.8882751464844
+        ],
+        [
+          64.7558822631836,
+          576.8882751464844
+        ]
+      ]
+    },
+    {
+      "title": "About The\nReadME Project",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          63.44140625,
+          79.44287109375
+        ],
+        [
+          362.58953857421875,
+          79.44287109375
+        ],
+        [
+          362.58953857421875,
+          162.5145263671875
+        ],
+        [
+          63.44140625,
+          162.5145263671875
+        ]
+      ]
+    },
+    {
+      "title": "NOMINATE A DEVELOPER",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          64.0234375,
+          475.833984375
+        ],
+        [
+          224.6640625,
+          475.833984375
+        ],
+        [
+          224.6640625,
+          497.06292724609375
+        ],
+        [
+          64.0234375,
+          497.06292724609375
+        ]
+      ]
+    },
+    {
+      "title": "SUPPORT THE COMMUNITY",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          62.859375,
+          564.744140625
+        ],
+        [
+          242.125,
+          564.744140625
+        ],
+        [
+          242.125,
+          586.2777709960938
+        ],
+        [
+          62.859375,
+          586.2777709960938
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          18
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          337
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          424
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          756
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          43
+        ],
+        [
+          "Span",
+          9
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          441
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          528
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          23
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          29
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          25
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          252
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/How Open Source Maintainers Keep Contributors and Themselves Happy"
+}

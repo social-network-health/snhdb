@@ -1,0 +1,463 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Understanding The Challenges Of Remote Working And It's \nImpact To Workers",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          89.6328125,
+          129.095703125
+        ],
+        [
+          509.4346008300781,
+          129.095703125
+        ],
+        [
+          509.4346008300781,
+          163.774169921875
+        ],
+        [
+          89.6328125,
+          163.774169921875
+        ]
+      ]
+    },
+    {
+      "title": "Dr. Marivic F. Flores",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          238.00999450683594,
+          176.787109375
+        ],
+        [
+          357.420166015625,
+          176.787109375
+        ],
+        [
+          357.420166015625,
+          191.1195068359375
+        ],
+        [
+          238.00999450683594,
+          191.1195068359375
+        ]
+      ]
+    },
+    {
+      "title": "I. Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          243.4099884033203,
+          436.2119140625
+        ],
+        [
+          345.7724304199219,
+          436.2119140625
+        ],
+        [
+          345.7724304199219,
+          448.5841369628906
+        ],
+        [
+          243.4099884033203,
+          448.5841369628906
+        ]
+      ]
+    },
+    {
+      "title": "II. Statement of the Problem",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          208.3671875,
+          162.80859375
+        ],
+        [
+          375.9921875,
+          162.80859375
+        ],
+        [
+          375.9921875,
+          174.21417236328125
+        ],
+        [
+          208.3671875,
+          174.21417236328125
+        ]
+      ]
+    },
+    {
+      "title": "III. Methodology",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          233.9765625,
+          290.88409423828125
+        ],
+        [
+          346.69879150390625,
+          290.88409423828125
+        ],
+        [
+          346.69879150390625,
+          301.92413330078125
+        ],
+        [
+          233.9765625,
+          301.92413330078125
+        ]
+      ]
+    },
+    {
+      "title": "IV. Results",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          244.744140625,
+          384.0041198730469
+        ],
+        [
+          332.88922119140625,
+          384.0041198730469
+        ],
+        [
+          332.88922119140625,
+          395.04412841796875
+        ],
+        [
+          244.744140625,
+          395.04412841796875
+        ]
+      ]
+    },
+    {
+      "title": "V. Discussion",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          244.453125,
+          162.80859375
+        ],
+        [
+          340.5989685058594,
+          162.80859375
+        ],
+        [
+          340.5989685058594,
+          174.21417236328125
+        ],
+        [
+          244.453125,
+          174.21417236328125
+        ]
+      ]
+    },
+    {
+      "title": "VI. Conclusions",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          237.46875,
+          297.72412109375
+        ],
+        [
+          344.5625,
+          297.72412109375
+        ],
+        [
+          344.5625,
+          308.76416015625
+        ],
+        [
+          237.46875,
+          308.76416015625
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgments",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          71.0078125,
+          501.9931640625
+        ],
+        [
+          150.21994018554688,
+          501.9931640625
+        ],
+        [
+          150.21994018554688,
+          512.3334045410156
+        ],
+        [
+          71.0078125,
+          512.3334045410156
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          272.0899963378906,
+          548.0400390625
+        ],
+        [
+          323.5143127441406,
+          548.0400390625
+        ],
+        [
+          323.5143127441406,
+          559.4641418457031
+        ],
+        [
+          272.0899963378906,
+          559.4641418457031
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          223
+        ],
+        [
+          "TableCell",
+          64
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TableGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          207
+        ],
+        [
+          "TableCell",
+          86
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Understanding the Challenges of Remote Working and Its Impact on Workers"
+}

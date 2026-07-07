@@ -1,0 +1,454 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Maintaining Balance for Open Source\nMaintainers",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          83.8125,
+          76.84716796875
+        ],
+        [
+          514.9080200195312,
+          76.84716796875
+        ],
+        [
+          514.9080200195312,
+          130.8060302734375
+        ],
+        [
+          83.8125,
+          130.8060302734375
+        ]
+      ]
+    },
+    {
+      "title": "Section 1",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          270.0625,
+          193.05029296875
+        ],
+        [
+          327.2526550292969,
+          193.05029296875
+        ],
+        [
+          327.2526550292969,
+          207.32476806640625
+        ],
+        [
+          270.0625,
+          207.32476806640625
+        ]
+      ]
+    },
+    {
+      "title": "Tips for Self-Care and Avoiding Burnout as a\nMaintainer:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          90.796875,
+          228.861328125
+        ],
+        [
+          507.8744201660156,
+          228.861328125
+        ],
+        [
+          507.8744201660156,
+          273.86932373046875
+        ],
+        [
+          90.796875,
+          273.86932373046875
+        ]
+      ]
+    },
+    {
+      "title": "Identify your motivations for working in open source",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          46.5625,
+          296.3671875
+        ],
+        [
+          461.5133361816406,
+          296.3671875
+        ],
+        [
+          461.5133361816406,
+          314.51641845703125
+        ],
+        [
+          46.5625,
+          314.51641845703125
+        ]
+      ]
+    },
+    {
+      "title": "Reflect on what causes you to get out of balance and stressed\nout",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          46.5625,
+          441.66943359375
+        ],
+        [
+          541.8715209960938,
+          441.66943359375
+        ],
+        [
+          541.8715209960938,
+          483.95001220703125
+        ],
+        [
+          46.5625,
+          483.95001220703125
+        ]
+      ]
+    },
+    {
+      "title": "Watch out for signs of burnout",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          45.3984375,
+          151.88818359375
+        ],
+        [
+          289.18963623046875,
+          151.88818359375
+        ],
+        [
+          289.18963623046875,
+          170.57293701171875
+        ],
+        [
+          45.3984375,
+          170.57293701171875
+        ]
+      ]
+    },
+    {
+      "title": "What would you need to continue sustaining yourself and your\ncommunity?",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.52702331542969,
+          305.01123046875
+        ],
+        [
+          540.7858276367188,
+          305.01123046875
+        ],
+        [
+          540.7858276367188,
+          347.50360107421875
+        ],
+        [
+          47.52702331542969,
+          347.50360107421875
+        ]
+      ]
+    },
+    {
+      "title": "Section 2",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          269.07940673828125,
+          314.06689453125
+        ],
+        [
+          328.9596862792969,
+          314.06689453125
+        ],
+        [
+          328.9596862792969,
+          327.27801513671875
+        ],
+        [
+          269.07940673828125,
+          327.27801513671875
+        ]
+      ]
+    },
+    {
+      "title": "Additional Resources",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          199.1339569091797,
+          347.408203125
+        ],
+        [
+          399.76226806640625,
+          347.408203125
+        ],
+        [
+          399.76226806640625,
+          369.082275390625
+        ],
+        [
+          199.1339569091797,
+          369.082275390625
+        ]
+      ]
+    },
+    {
+      "title": "Section 3",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          268.607421875,
+          600.9313354492188
+        ],
+        [
+          329.2877197265625,
+          600.9313354492188
+        ],
+        [
+          329.2877197265625,
+          613.6657104492188
+        ],
+        [
+          268.607421875,
+          613.6657104492188
+        ]
+      ]
+    },
+    {
+      "title": "Contributors",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          238.05078125,
+          634.30810546875
+        ],
+        [
+          360.22607421875,
+          634.30810546875
+        ],
+        [
+          360.22607421875,
+          655.4699859619141
+        ],
+        [
+          238.05078125,
+          655.4699859619141
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Maintaining Balance for Open Source Maintainers"
+}

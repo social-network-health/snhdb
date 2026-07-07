@@ -1,0 +1,301 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Cobbler 2 Cobbler Peer Mentoring Program",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          109.96875,
+          140.37890625
+        ],
+        [
+          501.05596923828125,
+          140.37890625
+        ],
+        [
+          501.05596923828125,
+          158.56695556640625
+        ],
+        [
+          109.96875,
+          158.56695556640625
+        ]
+      ]
+    },
+    {
+      "title": "Research basis",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.869140625,
+          37.8984375
+        ],
+        [
+          134.26861572265625,
+          37.8984375
+        ],
+        [
+          134.26861572265625,
+          48.21844482421875
+        ],
+        [
+          58.869140625,
+          48.21844482421875
+        ]
+      ]
+    },
+    {
+      "title": "Program design",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.869140625,
+          735.15234375
+        ],
+        [
+          138.68603515625,
+          735.15234375
+        ],
+        [
+          138.68603515625,
+          746.078426361084
+        ],
+        [
+          58.869140625,
+          746.078426361084
+        ]
+      ]
+    },
+    {
+      "title": "Native American involvement",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          58.869140625,
+          521.0584106445312
+        ],
+        [
+          207.685546875,
+          521.0584106445312
+        ],
+        [
+          207.685546875,
+          531.0783996582031
+        ],
+        [
+          58.869140625,
+          531.0783996582031
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          59.16796875,
+          322.3784484863281
+        ],
+        [
+          115.46190643310547,
+          322.3784484863281
+        ],
+        [
+          115.46190643310547,
+          332.3984375
+        ],
+        [
+          59.16796875,
+          332.3984375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          57.97265625,
+          601.734375
+        ],
+        [
+          200.21484375,
+          601.734375
+        ],
+        [
+          200.21484375,
+          617.203125
+        ],
+        [
+          57.97265625,
+          617.203125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          72
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          138
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          158
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          163
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/NAERA Newsletter Q1 2016 Focus Article Cobbler 2 Cobbler Peer Mentoring Program"
+}

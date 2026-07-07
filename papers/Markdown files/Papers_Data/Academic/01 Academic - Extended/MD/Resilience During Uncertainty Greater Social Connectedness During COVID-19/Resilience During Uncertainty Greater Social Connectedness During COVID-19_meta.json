@@ -1,0 +1,1420 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Special Section Article",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.6240234375,
+          118.94628906249999
+        ],
+        [
+          193.7158203125,
+          118.94628906249999
+        ],
+        [
+          193.7158203125,
+          132.16595458984375
+        ],
+        [
+          69.6240234375,
+          132.16595458984375
+        ]
+      ]
+    },
+    {
+      "title": "Resilience during uncertainty? Greater social\nconnectedness during COVID-19 lockdown is\nassociated with reduced distress and fatigue",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.52600860595703,
+          136.328125
+        ],
+        [
+          404.482421875,
+          136.328125
+        ],
+        [
+          404.482421875,
+          188.84783935546875
+        ],
+        [
+          70.52600860595703,
+          188.84783935546875
+        ]
+      ]
+    },
+    {
+      "title": "554 Jonas P. Nitschke et al.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          40.732421875,
+          35.1044921875
+        ],
+        [
+          143.037109375,
+          35.1044921875
+        ],
+        [
+          143.037109375,
+          45.69482421875
+        ],
+        [
+          40.732421875,
+          45.69482421875
+        ]
+      ]
+    },
+    {
+      "title": "Statement of contribution",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          49.2578125,
+          165.638671875
+        ],
+        [
+          185.6640625,
+          165.638671875
+        ],
+        [
+          185.6640625,
+          177.51043701171875
+        ],
+        [
+          49.2578125,
+          177.51043701171875
+        ]
+      ]
+    },
+    {
+      "title": "What is already known on this subject?",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          49.32279968261719,
+          179.6123046875
+        ],
+        [
+          235.23291015625,
+          179.6123046875
+        ],
+        [
+          235.23291015625,
+          189.6217041015625
+        ],
+        [
+          49.32279968261719,
+          189.6217041015625
+        ]
+      ]
+    },
+    {
+      "title": "What does this study add?",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.51340103149414,
+          255.61523437499997
+        ],
+        [
+          175.92361450195312,
+          255.61523437499997
+        ],
+        [
+          175.92361450195312,
+          265.98699951171875
+        ],
+        [
+          50.51340103149414,
+          265.98699951171875
+        ]
+      ]
+    },
+    {
+      "title": "Background",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          43.33740234375,
+          387.853515625
+        ],
+        [
+          105.07678985595703,
+          387.853515625
+        ],
+        [
+          105.07678985595703,
+          400.0262451171875
+        ],
+        [
+          43.33740234375,
+          400.0262451171875
+        ]
+      ]
+    },
+    {
+      "title": "Methods",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.33447265625,
+          451.5869140625
+        ],
+        [
+          114.67981719970703,
+          451.5869140625
+        ],
+        [
+          114.67981719970703,
+          462.05218505859375
+        ],
+        [
+          70.33447265625,
+          462.05218505859375
+        ]
+      ]
+    },
+    {
+      "title": "Sample",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.86083984375,
+          467.68914794921875
+        ],
+        [
+          102.97120666503906,
+          467.68914794921875
+        ],
+        [
+          102.97120666503906,
+          476.85472106933594
+        ],
+        [
+          69.86083984375,
+          476.85472106933594
+        ]
+      ]
+    },
+    {
+      "title": "Social network index",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          42.86376953125,
+          164.6162109375
+        ],
+        [
+          135.22216796875,
+          164.6162109375
+        ],
+        [
+          135.22216796875,
+          175.021240234375
+        ],
+        [
+          42.86376953125,
+          175.021240234375
+        ]
+      ]
+    },
+    {
+      "title": "Stress and worry measures",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          42.86376953125,
+          380.6962890625
+        ],
+        [
+          158.0301055908203,
+          380.6962890625
+        ],
+        [
+          158.0301055908203,
+          390.2253723144531
+        ],
+        [
+          42.86376953125,
+          390.2253723144531
+        ]
+      ]
+    },
+    {
+      "title": "Fatigue",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          42.86376953125,
+          584.3345642089844
+        ],
+        [
+          75.63938903808594,
+          584.3345642089844
+        ],
+        [
+          75.63938903808594,
+          593.4104919433594
+        ],
+        [
+          42.86376953125,
+          593.4104919433594
+        ]
+      ]
+    },
+    {
+      "title": "COVID-19-specific worries",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.09765625,
+          117.2421875
+        ],
+        [
+          185.66879272460938,
+          117.2421875
+        ],
+        [
+          185.66879272460938,
+          127.1722412109375
+        ],
+        [
+          70.09765625,
+          127.1722412109375
+        ]
+      ]
+    },
+    {
+      "title": "Analyses",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          68.91357421875,
+          320.0302734375
+        ],
+        [
+          107.8548583984375,
+          320.0302734375
+        ],
+        [
+          107.8548583984375,
+          330.41436767578125
+        ],
+        [
+          68.91357421875,
+          330.41436767578125
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          42.1533203125,
+          56.576171875
+        ],
+        [
+          80.95826893353942,
+          55.53978494623656
+        ],
+        [
+          80.95826893353942,
+          64.755859375
+        ],
+        [
+          42.1533203125,
+          66.04731182795699
+        ]
+      ]
+    },
+    {
+      "title": "Social connectedness",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          41.91650390625,
+          72.0516129032258
+        ],
+        [
+          136.42967542503862,
+          72.0516129032258
+        ],
+        [
+          136.42967542503862,
+          80.0927734375
+        ],
+        [
+          41.91650390625,
+          80.0927734375
+        ]
+      ]
+    },
+    {
+      "title": "Levels of distress and fatigue",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          42.1533203125,
+          179.271484375
+        ],
+        [
+          167.91344667697064,
+          179.271484375
+        ],
+        [
+          167.91344667697064,
+          188.814453125
+        ],
+        [
+          42.1533203125,
+          188.814453125
+        ]
+      ]
+    },
+    {
+      "title": "Social Connectedness and Distress",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          149.66796875,
+          323.4384765625
+        ],
+        [
+          300.59505409582687,
+          323.4384765625
+        ],
+        [
+          300.59505409582687,
+          332.4881720430107
+        ],
+        [
+          149.66796875,
+          332.4881720430107
+        ]
+      ]
+    },
+    {
+      "title": "Association between social connectedness and distress",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          68.6767578125,
+          116.33333333333333
+        ],
+        [
+          306.5919629057187,
+          116.33333333333333
+        ],
+        [
+          306.5919629057187,
+          124.74023437499999
+        ],
+        [
+          68.6767578125,
+          124.74023437499999
+        ]
+      ]
+    },
+    {
+      "title": "Association between social connectedness and risk perception of contracting COVID-19",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          41.97836166924266,
+          355.4755859375
+        ],
+        [
+          413.78670788253476,
+          355.4755859375
+        ],
+        [
+          413.78670788253476,
+          375.2431640625
+        ],
+        [
+          41.97836166924266,
+          375.2431640625
+        ]
+      ]
+    },
+    {
+      "title": "Fatigue",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          42.727975270479135,
+          535.8838709677419
+        ],
+        [
+          76.46058732612056,
+          535.8838709677419
+        ],
+        [
+          76.46058732612056,
+          544.1397849462365
+        ],
+        [
+          42.727975270479135,
+          544.1397849462365
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          42.727975270479135,
+          186.4287109375
+        ],
+        [
+          97.44976816074188,
+          186.4287109375
+        ],
+        [
+          97.44976816074188,
+          195.89032258064515
+        ],
+        [
+          42.727975270479135,
+          195.89032258064515
+        ]
+      ]
+    },
+    {
+      "title": "Greater social connectedness is associated with lower levels of stress and worry",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          42.626953125,
+          466.8344086021505
+        ],
+        [
+          387.5502318392581,
+          466.8344086021505
+        ],
+        [
+          387.5502318392581,
+          475.44433593749994
+        ],
+        [
+          42.626953125,
+          475.44433593749994
+        ]
+      ]
+    },
+    {
+      "title": "Distress mediates the association between social connectedness and fatigue",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          41.6796875,
+          55.89453125
+        ],
+        [
+          371.6034851074219,
+          55.89453125
+        ],
+        [
+          371.6034851074219,
+          67.4185791015625
+        ],
+        [
+          41.6796875,
+          67.4185791015625
+        ]
+      ]
+    },
+    {
+      "title": "Limitations and future directions",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          41.2060546875,
+          307.7607421875
+        ],
+        [
+          185.6405792236328,
+          307.7607421875
+        ],
+        [
+          185.6405792236328,
+          318.4523010253906
+        ],
+        [
+          41.2060546875,
+          318.4523010253906
+        ]
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          70.33447265625,
+          427.0478515625
+        ],
+        [
+          119.11865234375,
+          427.0478515625
+        ],
+        [
+          119.11865234375,
+          438.0164489746094
+        ],
+        [
+          70.33447265625,
+          438.0164489746094
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          69.6240234375,
+          594.7314453125
+        ],
+        [
+          171.4244384765625,
+          594.7314453125
+        ],
+        [
+          171.4244384765625,
+          605.5947494506836
+        ],
+        [
+          69.6240234375,
+          605.5947494506836
+        ]
+      ]
+    },
+    {
+      "title": "Authors' contributions",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          41.44287109375,
+          56.2353515625
+        ],
+        [
+          160.41731066460588,
+          56.2353515625
+        ],
+        [
+          160.41731066460588,
+          65.29677419354839
+        ],
+        [
+          41.44287109375,
+          65.29677419354839
+        ]
+      ]
+    },
+    {
+      "title": "Funding",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          42.626953125,
+          143.352688172043
+        ],
+        [
+          85.45595054095827,
+          143.352688172043
+        ],
+        [
+          85.45595054095827,
+          153.7099609375
+        ],
+        [
+          42.626953125,
+          153.7099609375
+        ]
+      ]
+    },
+    {
+      "title": "Conflicts of interest",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          41.91650390625,
+          217.7841796875
+        ],
+        [
+          145.42503863987636,
+          217.7841796875
+        ],
+        [
+          145.42503863987636,
+          226.66236559139784
+        ],
+        [
+          41.91650390625,
+          226.66236559139784
+        ]
+      ]
+    },
+    {
+      "title": "Data availability statement",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          42.727975270479135,
+          270.19354838709677
+        ],
+        [
+          182.15610510046366,
+          270.19354838709677
+        ],
+        [
+          182.15610510046366,
+          280.4951171875
+        ],
+        [
+          42.727975270479135,
+          280.4951171875
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          42.727975270479135,
+          320.37109375
+        ],
+        [
+          100.44822256568779,
+          320.37109375
+        ],
+        [
+          100.44822256568779,
+          328.7354838709677
+        ],
+        [
+          42.727975270479135,
+          328.7354838709677
+        ]
+      ]
+    },
+    {
+      "title": "Supporting Information",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          76.728515625,
+          499.30175781249994
+        ],
+        [
+          198.16033935546875,
+          499.30175781249994
+        ],
+        [
+          198.16033935546875,
+          510.06715393066406
+        ],
+        [
+          76.728515625,
+          510.06715393066406
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          131
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Footnote",
+          7
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          52
+        ],
+        [
+          "Span",
+          44
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          132
+        ],
+        [
+          "TableCell",
+          66
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          58
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          54
+        ],
+        [
+          "Span",
+          45
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          62
+        ],
+        [
+          "Span",
+          36
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          241
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          273
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          196
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Resilience During Uncertainty Greater Social Connectedness During COVID-19"
+}

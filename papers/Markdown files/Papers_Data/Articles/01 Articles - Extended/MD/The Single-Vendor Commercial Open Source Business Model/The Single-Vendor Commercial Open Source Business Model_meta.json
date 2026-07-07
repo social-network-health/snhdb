@@ -1,0 +1,935 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ORIGINAL ARTICLE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.80887372013652,
+          57.021372328458945
+        ],
+        [
+          144.16382252559725,
+          57.021372328458945
+        ],
+        [
+          144.16382252559725,
+          65.27446569178854
+        ],
+        [
+          51.80887372013652,
+          65.27446569178854
+        ]
+      ]
+    },
+    {
+      "title": "The single-vendor commercial open course business model",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          48.984375,
+          92.16845703125
+        ],
+        [
+          343.89078498293514,
+          92.16845703125
+        ],
+        [
+          343.89078498293514,
+          116.29358830146232
+        ],
+        [
+          48.984375,
+          116.29358830146232
+        ]
+      ]
+    },
+    {
+      "title": "1 Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.2734375,
+          503.4386951631046
+        ],
+        [
+          116.38225255972695,
+          503.4386951631046
+        ],
+        [
+          116.38225255972695,
+          511.6917885264342
+        ],
+        [
+          50.2734375,
+          511.6917885264342
+        ]
+      ]
+    },
+    {
+      "title": "2 Prior and related work",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          50.703125,
+          56.99462890625001
+        ],
+        [
+          162.00396728515625,
+          56.99462890625001
+        ],
+        [
+          162.00396728515625,
+          68.60015869140625
+        ],
+        [
+          50.703125,
+          68.60015869140625
+        ]
+      ]
+    },
+    {
+      "title": "3 Commercial versus community open source",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.84375,
+          147.8603515625
+        ],
+        [
+          250.6473846435547,
+          147.8603515625
+        ],
+        [
+          250.6473846435547,
+          158.28799438476562
+        ],
+        [
+          49.84375,
+          158.28799438476562
+        ]
+      ]
+    },
+    {
+      "title": "3.1 Community open source",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.84375,
+          291.48681640625
+        ],
+        [
+          168.4375,
+          291.48681640625
+        ],
+        [
+          168.4375,
+          301.80340576171875
+        ],
+        [
+          49.84375,
+          301.80340576171875
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Single-vendor commercial open source",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          50.703125,
+          56.99462890625001
+        ],
+        [
+          228.01715087890625,
+          56.99462890625001
+        ],
+        [
+          228.01715087890625,
+          68.68408203125
+        ],
+        [
+          50.703125,
+          68.68408203125
+        ]
+      ]
+    },
+    {
+      "title": "4 The Single-vendor commercial open source business model",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          48.984375,
+          381.4437561035156
+        ],
+        [
+          316.6942443847656,
+          381.4437561035156
+        ],
+        [
+          316.6942443847656,
+          391.4063720703125
+        ],
+        [
+          48.984375,
+          391.4063720703125
+        ]
+      ]
+    },
+    {
+      "title": "4.1 Revenue sources",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          50.05859375,
+          560.8454055786133
+        ],
+        [
+          136.724853515625,
+          560.8454055786133
+        ],
+        [
+          136.724853515625,
+          570.8080062866211
+        ],
+        [
+          50.05859375,
+          570.8080062866211
+        ]
+      ]
+    },
+    {
+      "title": "4.2 Business functions",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          49.19921875,
+          428.92529296875
+        ],
+        [
+          144.47474670410156,
+          428.92529296875
+        ],
+        [
+          144.47474670410156,
+          439.6221008300781
+        ],
+        [
+          49.19921875,
+          439.6221008300781
+        ]
+      ]
+    },
+    {
+      "title": "4.2.1 Community management",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          49.4140625,
+          208.06027221679688
+        ],
+        [
+          176.3351593017578,
+          208.06027221679688
+        ],
+        [
+          176.3351593017578,
+          218.02288818359375
+        ],
+        [
+          49.4140625,
+          218.02288818359375
+        ]
+      ]
+    },
+    {
+      "title": "4.2.2 Sales",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          50.2734375,
+          309.9931335449219
+        ],
+        [
+          97.09566497802734,
+          309.9931335449219
+        ],
+        [
+          97.09566497802734,
+          319.95574951171875
+        ],
+        [
+          50.2734375,
+          319.95574951171875
+        ]
+      ]
+    },
+    {
+      "title": "4.2.3 Marketing",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          50.05859375,
+          428.92529296875
+        ],
+        [
+          117.63970184326172,
+          428.92529296875
+        ],
+        [
+          117.63970184326172,
+          439.5199279785156
+        ],
+        [
+          50.05859375,
+          439.5199279785156
+        ]
+      ]
+    },
+    {
+      "title": "4.2.4 Product management",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          49.84375,
+          153.0712890625
+        ],
+        [
+          162.50205993652344,
+          153.0712890625
+        ],
+        [
+          162.50205993652344,
+          164.56207275390625
+        ],
+        [
+          49.84375,
+          164.56207275390625
+        ]
+      ]
+    },
+    {
+      "title": "4.2.5 Engineering",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          49.84375,
+          57.32031250000001
+        ],
+        [
+          125.42130279541016,
+          57.32031250000001
+        ],
+        [
+          125.42130279541016,
+          68.5819091796875
+        ],
+        [
+          49.84375,
+          68.5819091796875
+        ]
+      ]
+    },
+    {
+      "title": "4.2.6 Support",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          49.84375,
+          297.6748046875
+        ],
+        [
+          107.5095443725586,
+          297.6748046875
+        ],
+        [
+          107.5095443725586,
+          307.710205078125
+        ],
+        [
+          49.84375,
+          307.710205078125
+        ]
+      ]
+    },
+    {
+      "title": "5 Conclusion",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          50.05859375,
+          559.19873046875
+        ],
+        [
+          108.58251953125,
+          559.19873046875
+        ],
+        [
+          108.58251953125,
+          570.7240829467773
+        ],
+        [
+          50.05859375,
+          570.7240829467773
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          50.48828125,
+          307.8595886230469
+        ],
+        [
+          97.66749572753906,
+          307.8595886230469
+        ],
+        [
+          97.66749572753906,
+          317.82220458984375
+        ],
+        [
+          50.48828125,
+          317.82220458984375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          47
+        ],
+        [
+          "Span",
+          15
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          124
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          114
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          19
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/The Single-Vendor Commercial Open Source Business Model"
+}

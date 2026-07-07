@@ -1,0 +1,343 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Editorial",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          278.03466796875,
+          123.28710937499999
+        ],
+        [
+          323.57830810546875,
+          123.28710937499999
+        ],
+        [
+          323.57830810546875,
+          135.69915771484375
+        ],
+        [
+          278.03466796875,
+          135.69915771484375
+        ]
+      ]
+    },
+    {
+      "title": "Effects of a universal classroom behavior program in first\nand second grades on young adult problem outcomes-",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          106.9140625,
+          144.008544921875
+        ],
+        [
+          497.3828125,
+          144.008544921875
+        ],
+        [
+          497.3828125,
+          181.0537109375
+        ],
+        [
+          106.9140625,
+          181.0537109375
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          42.631797790527344,
+          235.33105468749997
+        ],
+        [
+          109.52880859375,
+          235.33105468749997
+        ],
+        [
+          109.52880859375,
+          245.3988037109375
+        ],
+        [
+          42.631797790527344,
+          245.3988037109375
+        ]
+      ]
+    },
+    {
+      "title": "2. Synopses of papers",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          301.80841064453125,
+          627.2341156005859
+        ],
+        [
+          395.40771484375,
+          627.2341156005859
+        ],
+        [
+          395.40771484375,
+          637.1967163085938
+        ],
+        [
+          301.80841064453125,
+          637.1967163085938
+        ]
+      ]
+    },
+    {
+      "title": "3. Development of this issue",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          309.41162109375,
+          662.5712890625
+        ],
+        [
+          431.4730529785156,
+          662.5712890625
+        ],
+        [
+          431.4730529785156,
+          673.0620727539062
+        ],
+        [
+          309.41162109375,
+          673.0620727539062
+        ]
+      ]
+    },
+    {
+      "title": "Conflicts of interest",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          31.9580078125,
+          219.82324218749997
+        ],
+        [
+          115.64726257324219,
+          219.82324218749997
+        ],
+        [
+          115.64726257324219,
+          230.72308349609375
+        ],
+        [
+          31.9580078125,
+          230.72308349609375
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          31.08642578125,
+          292.49127197265625
+        ],
+        [
+          115.17903137207031,
+          292.49127197265625
+        ],
+        [
+          115.17903137207031,
+          302.453857421875
+        ],
+        [
+          31.08642578125,
+          302.453857421875
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          30.7958984375,
+          529.2041015625
+        ],
+        [
+          79.10443878173828,
+          529.2041015625
+        ],
+        [
+          79.10443878173828,
+          541.5563659667969
+        ],
+        [
+          30.7958984375,
+          541.5563659667969
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          177
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          211
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          204
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          164
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "Text",
+          23
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Effects of a Universal Classroom Behavior Management Program on Young Adult Outcomes (4)"
+}

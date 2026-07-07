@@ -1,0 +1,481 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Coworker Exchange: Relationships Between Coworkers,\nLeader\u2013Member Exchange, and Work Attitudes",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          112.59379577636719,
+          91.73822021484375
+        ],
+        [
+          483.08593749999994,
+          91.73822021484375
+        ],
+        [
+          483.08593749999994,
+          125.73822021484375
+        ],
+        [
+          112.59379577636719,
+          125.73822021484375
+        ]
+      ]
+    },
+    {
+      "title": "Theory and Hypotheses",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          378.029296875,
+          376.9954833984375
+        ],
+        [
+          474.98089599609375,
+          376.9954833984375
+        ],
+        [
+          474.98089599609375,
+          386.9954833984375
+        ],
+        [
+          378.029296875,
+          386.9954833984375
+        ]
+      ]
+    },
+    {
+      "title": "Method",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          153.10231018066406,
+          619.0295867919922
+        ],
+        [
+          184.21231079101562,
+          619.0295867919922
+        ],
+        [
+          184.21231079101562,
+          629.0295867919922
+        ],
+        [
+          153.10231018066406,
+          629.0295867919922
+        ]
+      ]
+    },
+    {
+      "title": "Sample and Procedure",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.14453125,
+          637.9014739990234
+        ],
+        [
+          142.59765625,
+          637.9014739990234
+        ],
+        [
+          142.59765625,
+          647.9014739990234
+        ],
+        [
+          47.14453125,
+          647.9014739990234
+        ]
+      ]
+    },
+    {
+      "title": "Measures",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          304.111328125,
+          293.07861328125
+        ],
+        [
+          345.53631591796875,
+          293.07861328125
+        ],
+        [
+          345.53631591796875,
+          304.1036376953125
+        ],
+        [
+          304.111328125,
+          304.1036376953125
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          410.33203124999994,
+          595.08544921875
+        ],
+        [
+          441.76171874999994,
+          595.08544921875
+        ],
+        [
+          441.76171874999994,
+          607.4272766113281
+        ],
+        [
+          410.33203124999994,
+          607.4272766113281
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          404.22070312499994,
+          495.71044921875
+        ],
+        [
+          448.60882568359375,
+          495.71044921875
+        ],
+        [
+          448.60882568359375,
+          507.33636474609375
+        ],
+        [
+          404.22070312499994,
+          507.33636474609375
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          145.798828125,
+          211.9482421875
+        ],
+        [
+          190.86888122558594,
+          211.9482421875
+        ],
+        [
+          190.86888122558594,
+          222.6658935546875
+        ],
+        [
+          145.798828125,
+          222.6658935546875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          176
+        ],
+        [
+          "Line",
+          93
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          183
+        ],
+        [
+          "Line",
+          90
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          263
+        ],
+        [
+          "Line",
+          117
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          397
+        ],
+        [
+          "TableCell",
+          255
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          355
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "TableCell",
+          33
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "TableGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          217
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          322
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "ListItem",
+          31
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Sherony & Green (2002) - Coworker Exchange - Relationships Between Coworkers, Leader-Member Exchange, and Work Attitudes"
+}

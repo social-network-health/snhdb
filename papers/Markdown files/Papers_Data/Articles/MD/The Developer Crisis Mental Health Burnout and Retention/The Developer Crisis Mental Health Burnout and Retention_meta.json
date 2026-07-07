@@ -1,0 +1,484 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The Developer Crisis: Mental Health, Burnout,\nand Retention",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.0390625,
+          67.505859375
+        ],
+        [
+          537.4827270507812,
+          67.505859375
+        ],
+        [
+          537.4827270507812,
+          115.05096435546875
+        ],
+        [
+          57.0390625,
+          115.05096435546875
+        ]
+      ]
+    },
+    {
+      "title": "Consider Their Mental Health",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          56.45703125,
+          127.19091796875
+        ],
+        [
+          287.450927734375,
+          127.19091796875
+        ],
+        [
+          287.450927734375,
+          144.38409423828125
+        ],
+        [
+          56.45703125,
+          144.38409423828125
+        ]
+      ]
+    },
+    {
+      "title": "TRENDING STORIES",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          77.9921875,
+          509.17529296875
+        ],
+        [
+          176.18710327148438,
+          509.17529296875
+        ],
+        [
+          176.18710327148438,
+          519.4878540039062
+        ],
+        [
+          77.9921875,
+          519.4878540039062
+        ]
+      ]
+    },
+    {
+      "title": "Select the Right (and Drop the Wrong) Resources",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          57.0390625,
+          145.30224609375
+        ],
+        [
+          439.943359375,
+          145.30224609375
+        ],
+        [
+          439.943359375,
+          162.37701416015625
+        ],
+        [
+          57.0390625,
+          162.37701416015625
+        ]
+      ]
+    },
+    {
+      "title": "Invest in Tech to Alleviate the More Menial Tasks",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          57.0390625,
+          653.24267578125
+        ],
+        [
+          441.5029296875,
+          653.24267578125
+        ],
+        [
+          441.5029296875,
+          669.1783599853516
+        ],
+        [
+          57.0390625,
+          669.1783599853516
+        ]
+      ]
+    },
+    {
+      "title": "Build an RPG Using the Bluesky Jetstream, ScyllaDB,\nand Rust",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          57.0390625,
+          31.69482421875
+        ],
+        [
+          397.0609436035156,
+          31.69482421875
+        ],
+        [
+          397.0609436035156,
+          65.94635009765625
+        ],
+        [
+          57.0390625,
+          65.94635009765625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          55.875,
+          114.01904296875
+        ],
+        [
+          150.1640625,
+          114.01904296875
+        ],
+        [
+          150.1640625,
+          134.60009765625
+        ],
+        [
+          55.875,
+          134.60009765625
+        ]
+      ]
+    },
+    {
+      "title": "TNS DAILY NEWSLETTER",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          206.0390625,
+          633.4851379394531
+        ],
+        [
+          389.48431396484375,
+          633.4851379394531
+        ],
+        [
+          389.48431396484375,
+          646.9685974121094
+        ],
+        [
+          206.0390625,
+          646.9685974121094
+        ]
+      ]
+    },
+    {
+      "title": "Receive a free roundup of the\nmost recent TNS articles in",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          64.76758575439453,
+          670.8601379394531
+        ],
+        [
+          536.5031127929688,
+          670.8601379394531
+        ],
+        [
+          536.5031127929688,
+          751.0499114990234
+        ],
+        [
+          64.76758575439453,
+          751.0499114990234
+        ]
+      ]
+    },
+    {
+      "title": "your inbox each day.",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          136.3399200439453,
+          36.6085205078125
+        ],
+        [
+          462.0655517578125,
+          36.6085205078125
+        ],
+        [
+          462.0655517578125,
+          71.0662841796875
+        ],
+        [
+          136.3399200439453,
+          71.0662841796875
+        ]
+      ]
+    },
+    {
+      "title": "SUBSCRIBE",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          259.5859375,
+          166.70654296875
+        ],
+        [
+          337.63702392578125,
+          166.70654296875
+        ],
+        [
+          337.63702392578125,
+          179.35797119140625
+        ],
+        [
+          259.5859375,
+          179.35797119140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          325
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          593
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          743
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          473
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          199
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/The Developer Crisis Mental Health Burnout and Retention"
+}

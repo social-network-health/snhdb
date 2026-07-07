@@ -1,0 +1,243 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Stronger than fear: Mental health in the open",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.875,
+          63.3896484375
+        ],
+        [
+          459.5924987792969,
+          63.3896484375
+        ],
+        [
+          459.5924987792969,
+          82.7987060546875
+        ],
+        [
+          55.875,
+          82.7987060546875
+        ]
+      ]
+    },
+    {
+      "title": "Image by:\nOpensource.com",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.0390625,
+          467.6015625
+        ],
+        [
+          230.7433319091797,
+          467.6015625
+        ],
+        [
+          230.7433319091797,
+          482.1790771484375
+        ],
+        [
+          57.0390625,
+          482.1790771484375
+        ]
+      ]
+    },
+    {
+      "title": "Ben Cotton",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          204.583984375,
+          158.80267333984375
+        ],
+        [
+          302.9280700683594,
+          158.80267333984375
+        ],
+        [
+          302.9280700683594,
+          175.76220703125
+        ],
+        [
+          204.583984375,
+          175.76220703125
+        ]
+      ]
+    },
+    {
+      "title": "4 Comments",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          55.875,
+          412.85595703125
+        ],
+        [
+          162.7882080078125,
+          412.85595703125
+        ],
+        [
+          162.7882080078125,
+          429.4328308105469
+        ],
+        [
+          55.875,
+          429.4328308105469
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          319
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          729
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          321
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          249
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Stronger than Fear Mental Health in the Open"
+}

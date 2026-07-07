@@ -1,0 +1,616 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Mental Health in Open Source",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.21875,
+          38.25
+        ],
+        [
+          435.3652392947103,
+          38.25
+        ],
+        [
+          435.3652392947103,
+          63.80126953125
+        ],
+        [
+          51.21875,
+          63.80126953125
+        ]
+      ]
+    },
+    {
+      "title": "\u4e2d\u6587\u7ffb\u8bd1 Chinese Version",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.544080604534,
+          123.75
+        ],
+        [
+          198.16624685138538,
+          123.75
+        ],
+        [
+          198.16624685138538,
+          135.8349609375
+        ],
+        [
+          52.544080604534,
+          135.8349609375
+        ]
+      ]
+    },
+    {
+      "title": "Unprepared",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.042821158690174,
+          584.91357421875
+        ],
+        [
+          137.3652392947103,
+          584.91357421875
+        ],
+        [
+          137.3652392947103,
+          600.55517578125
+        ],
+        [
+          51.042821158690174,
+          600.55517578125
+        ]
+      ]
+    },
+    {
+      "title": "\"Expectations\"",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          51.986392974853516,
+          155.5927734375
+        ],
+        [
+          159.52723693847656,
+          155.5927734375
+        ],
+        [
+          159.52723693847656,
+          172.58154296875
+        ],
+        [
+          51.986392974853516,
+          172.58154296875
+        ]
+      ]
+    },
+    {
+      "title": "\"Self-Expectations\"",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          51.80078125,
+          210.33837890625
+        ],
+        [
+          193.51385498046875,
+          210.33837890625
+        ],
+        [
+          193.51385498046875,
+          227.31011962890625
+        ],
+        [
+          51.80078125,
+          227.31011962890625
+        ]
+      ]
+    },
+    {
+      "title": "When Your Dream Becomes Your Job",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          50.63671875,
+          209.51513671875
+        ],
+        [
+          321.4578552246094,
+          209.51513671875
+        ],
+        [
+          321.4578552246094,
+          227.31011962890625
+        ],
+        [
+          50.63671875,
+          227.31011962890625
+        ]
+      ]
+    },
+    {
+      "title": "Velocity, Scope, and Quality",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          51.80078125,
+          752.443359375
+        ],
+        [
+          253.23983764648438,
+          752.443359375
+        ],
+        [
+          253.23983764648438,
+          770.0972671508789
+        ],
+        [
+          51.80078125,
+          770.0972671508789
+        ]
+      ]
+    },
+    {
+      "title": "Scope",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          51.042821158690174,
+          141.18603515625
+        ],
+        [
+          99.08312342569269,
+          141.18603515625
+        ],
+        [
+          99.08312342569269,
+          156.82763671875
+        ],
+        [
+          51.042821158690174,
+          156.82763671875
+        ]
+      ]
+    },
+    {
+      "title": "Capacity",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          51.986392974853516,
+          204.57568359375
+        ],
+        [
+          117.69568634033203,
+          204.57568359375
+        ],
+        [
+          117.69568634033203,
+          221.31243896484375
+        ],
+        [
+          51.986392974853516,
+          221.31243896484375
+        ]
+      ]
+    },
+    {
+      "title": "I'd Love to Hear From You",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          51.042821158690174,
+          99.0
+        ],
+        [
+          234.9471032745592,
+          99.0
+        ],
+        [
+          234.9471032745592,
+          111.54931640625
+        ],
+        [
+          51.042821158690174,
+          111.54931640625
+        ]
+      ]
+    },
+    {
+      "title": "Thanks",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          51.042821158690174,
+          375.75
+        ],
+        [
+          105.83879093198992,
+          375.75
+        ],
+        [
+          105.83879093198992,
+          387.75
+        ],
+        [
+          51.042821158690174,
+          387.75
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          39
+        ],
+        [
+          "Span",
+          15
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          72
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          72
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          41
+        ],
+        [
+          "Span",
+          17
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          40
+        ],
+        [
+          "Span",
+          20
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Mental Health in Open Source"
+}

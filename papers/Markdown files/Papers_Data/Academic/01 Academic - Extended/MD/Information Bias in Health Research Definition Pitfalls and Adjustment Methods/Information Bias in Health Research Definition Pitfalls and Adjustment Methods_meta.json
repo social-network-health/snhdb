@@ -1,0 +1,719 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Information bias in health research: definition, pitfalls, and adjustment methods",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.75,
+          99.75
+        ],
+        [
+          513.75,
+          99.75
+        ],
+        [
+          513.75,
+          150.8203125
+        ],
+        [
+          69.75,
+          150.8203125
+        ]
+      ]
+    },
+    {
+      "title": "Alaa Althubaiti",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.1328125,
+          248.25
+        ],
+        [
+          142.5,
+          248.25
+        ],
+        [
+          142.5,
+          257.25
+        ],
+        [
+          68.1328125,
+          257.25
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          219.75,
+          419.58984375
+        ],
+        [
+          303.75,
+          419.58984375
+        ],
+        [
+          303.75,
+          429.75
+        ],
+        [
+          219.75,
+          429.75
+        ]
+      ]
+    },
+    {
+      "title": "Self-reporting bias",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.7890625,
+          202.54388427734375
+        ],
+        [
+          173.95599365234375,
+          202.54388427734375
+        ],
+        [
+          173.95599365234375,
+          220.1558837890625
+        ],
+        [
+          53.7890625,
+          220.1558837890625
+        ]
+      ]
+    },
+    {
+      "title": "Social desirability bias",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.490234375,
+          566.837890625
+        ],
+        [
+          176.2659912109375,
+          566.837890625
+        ],
+        [
+          176.2659912109375,
+          583.6378784179688
+        ],
+        [
+          53.490234375,
+          583.6378784179688
+        ]
+      ]
+    },
+    {
+      "title": "Overcoming social desirability bias",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          303.01171875,
+          51.60198974609375
+        ],
+        [
+          458.01702880859375,
+          51.60198974609375
+        ],
+        [
+          458.01702880859375,
+          64.802001953125
+        ],
+        [
+          303.01171875,
+          64.802001953125
+        ]
+      ]
+    },
+    {
+      "title": "Recall bias",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.5234375,
+          50.67083740234375
+        ],
+        [
+          129.58001708984375,
+          50.67083740234375
+        ],
+        [
+          129.58001708984375,
+          67.4708251953125
+        ],
+        [
+          70.5234375,
+          67.4708251953125
+        ]
+      ]
+    },
+    {
+      "title": "Overcoming recall bias",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.92578125,
+          331.62481689453125
+        ],
+        [
+          172.72265625,
+          331.62481689453125
+        ],
+        [
+          172.72265625,
+          344.8247985839844
+        ],
+        [
+          69.92578125,
+          344.8247985839844
+        ]
+      ]
+    },
+    {
+      "title": "Measurement error bias",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          320.34375,
+          608.5438995361328
+        ],
+        [
+          479.4920654296875,
+          608.5438995361328
+        ],
+        [
+          479.4920654296875,
+          626.1558990478516
+        ],
+        [
+          320.34375,
+          626.1558990478516
+        ]
+      ]
+    },
+    {
+      "title": "Systematic and random error",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          53.19140625,
+          370.8379821777344
+        ],
+        [
+          220.32400512695312,
+          370.8379821777344
+        ],
+        [
+          220.32400512695312,
+          387.6379699707031
+        ],
+        [
+          53.19140625,
+          387.6379699707031
+        ]
+      ]
+    },
+    {
+      "title": "Adjusting for measurement error bias",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          301.81640625,
+          146.83782958984375
+        ],
+        [
+          518.43603515625,
+          146.83782958984375
+        ],
+        [
+          518.43603515625,
+          163.6378173828125
+        ],
+        [
+          301.81640625,
+          163.6378173828125
+        ]
+      ]
+    },
+    {
+      "title": "Confirmation bias",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          303.908203125,
+          678.5438995361328
+        ],
+        [
+          422.841796875,
+          678.5438995361328
+        ],
+        [
+          422.841796875,
+          696.1558990478516
+        ],
+        [
+          303.908203125,
+          696.1558990478516
+        ]
+      ]
+    },
+    {
+      "title": "Overcoming confirmation bias",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.8499984741211,
+          314.8380126953125
+        ],
+        [
+          242.6719970703125,
+          314.8380126953125
+        ],
+        [
+          242.6719970703125,
+          331.63800048828125
+        ],
+        [
+          70.8499984741211,
+          331.63800048828125
+        ]
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          321.60003662109375,
+          356.5439758300781
+        ],
+        [
+          394.453125,
+          356.5439758300781
+        ],
+        [
+          394.453125,
+          374.1559753417969
+        ],
+        [
+          321.60003662109375,
+          374.1559753417969
+        ]
+      ]
+    },
+    {
+      "title": "Disclosure",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          53.7890625,
+          635.5438842773438
+        ],
+        [
+          121.81999969482422,
+          635.5438842773438
+        ],
+        [
+          121.81999969482422,
+          653.1558837890625
+        ],
+        [
+          53.7890625,
+          653.1558837890625
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          53.85000228881836,
+          676.9439849853516
+        ],
+        [
+          125.44599914550781,
+          676.9439849853516
+        ],
+        [
+          125.44599914550781,
+          694.5559844970703
+        ],
+        [
+          53.85000228881836,
+          694.5559844970703
+        ]
+      ]
+    },
+    {
+      "title": "Journal of Multidisciplinary Healthcare",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          83.25,
+          639.0
+        ],
+        [
+          239.25,
+          639.0
+        ],
+        [
+          239.25,
+          650.84765625
+        ],
+        [
+          83.25,
+          650.84765625
+        ]
+      ]
+    },
+    {
+      "title": "Publish your work in this journal",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          82.4765625,
+          655.5
+        ],
+        [
+          265.5,
+          655.5
+        ],
+        [
+          265.5,
+          667.08984375
+        ],
+        [
+          82.4765625,
+          667.08984375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          81
+        ],
+        [
+          "Span",
+          29
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageFooter",
+          6
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          190
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          193
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          200
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          199
+        ],
+        [
+          "Line",
+          88
+        ],
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          343
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "ListItem",
+          24
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          187
+        ],
+        [
+          "Span",
+          123
+        ],
+        [
+          "ListItem",
+          31
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Information Bias in Health Research Definition Pitfalls and Adjustment Methods"
+}

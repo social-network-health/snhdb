@@ -1,0 +1,120 @@
+{
+  "root": "/Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH",
+  "generated_at": "2026-06-24T23:27:53",
+  "folders": {
+    "Academic": {
+      "markdown_files": 61,
+      "docx": {
+        "path": "Papers_Data/Academic/Academic_Card_Schemas.docx",
+        "bytes": 49180,
+        "paragraphs": 9790,
+        "card_headings": 61
+      },
+      "risk_of_bias_counts": {
+        "low": 8,
+        "medium": 47,
+        "unclear": 6
+      },
+      "article_type_counts": {
+        "review": 11,
+        "empirical": 44,
+        "theory": 6
+      },
+      "method_design_counts": {
+        "review-systematic": 7,
+        "qualitative": 8,
+        "longitudinal": 4,
+        "theory": 6,
+        "review-scoping": 4,
+        "cross-sectional": 31,
+        "rct": 1
+      }
+    },
+    "Articles": {
+      "markdown_files": 45,
+      "docx": {
+        "path": "Papers_Data/Articles/Articles_Card_Schemas.docx",
+        "bytes": 29147,
+        "paragraphs": 7011,
+        "card_headings": 45
+      },
+      "risk_of_bias_counts": {
+        "medium": 26,
+        "unclear": 5,
+        "high": 14
+      },
+      "article_type_counts": {
+        "empirical": 26,
+        "theory": 5,
+        "commentary": 14
+      },
+      "method_design_counts": {
+        "qualitative": 7,
+        "theory": 19,
+        "longitudinal": 5,
+        "cross-sectional": 14
+      }
+    },
+    "Mental Health": {
+      "markdown_files": 52,
+      "docx": {
+        "path": "Papers_Data/Mental Health/Mental_Health_Card_Schemas.docx",
+        "bytes": 38241,
+        "paragraphs": 8173,
+        "card_headings": 52
+      },
+      "risk_of_bias_counts": {
+        "unclear": 17,
+        "low": 23,
+        "medium": 12
+      },
+      "article_type_counts": {
+        "theory": 17,
+        "review": 3,
+        "empirical": 32
+      },
+      "method_design_counts": {
+        "theory": 17,
+        "review-systematic": 2,
+        "longitudinal": 5,
+        "cross-sectional": 5,
+        "rct": 21,
+        "review-scoping": 1,
+        "qualitative": 1
+      }
+    },
+    "Remote Workers": {
+      "markdown_files": 150,
+      "docx": {
+        "path": "Papers_Data/Remote Workers/Remote_Workers_Card_Schemas.docx",
+        "bytes": 109678,
+        "paragraphs": 23706,
+        "card_headings": 150
+      },
+      "risk_of_bias_counts": {
+        "medium": 109,
+        "unclear": 24,
+        "low": 17
+      },
+      "article_type_counts": {
+        "empirical": 101,
+        "theory": 24,
+        "review": 25
+      },
+      "method_design_counts": {
+        "longitudinal": 14,
+        "theory": 24,
+        "review-scoping": 10,
+        "cross-sectional": 71,
+        "qualitative": 14,
+        "review-systematic": 15,
+        "rct": 2
+      }
+    }
+  },
+  "notes": [
+    "Only .md and .markdown files were read.",
+    "PDF files were not opened or parsed.",
+    "Fields not present in markdown are recorded as null or conservative caveats."
+  ]
+}

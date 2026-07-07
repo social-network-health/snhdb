@@ -1,0 +1,500 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Analysing the Sentiments towards Work-From-Home\nExperience during COVID-19 Pandemic",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          80.3203125,
+          187.8876953125
+        ],
+        [
+          513.3515625,
+          187.8876953125
+        ],
+        [
+          513.3515625,
+          232.2430419921875
+        ],
+        [
+          80.3203125,
+          232.2430419921875
+        ]
+      ]
+    },
+    {
+      "title": "Akash D Dubey",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          257.5269775390625,
+          279.5703125
+        ],
+        [
+          337.578125,
+          279.5703125
+        ],
+        [
+          337.578125,
+          289.63037109375
+        ],
+        [
+          257.5269775390625,
+          289.63037109375
+        ]
+      ]
+    },
+    {
+      "title": "Letter from Academia",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          220.03994750976562,
+          355.18170166015625
+        ],
+        [
+          375.41015625,
+          355.18170166015625
+        ],
+        [
+          375.41015625,
+          372.3970947265625
+        ],
+        [
+          220.03994750976562,
+          372.3970947265625
+        ]
+      ]
+    },
+    {
+      "title": "1 Introduction",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.716796875,
+          113.2572021484375
+        ],
+        [
+          175.89453125,
+          113.2572021484375
+        ],
+        [
+          175.89453125,
+          127.6033935546875
+        ],
+        [
+          70.716796875,
+          127.6033935546875
+        ]
+      ]
+    },
+    {
+      "title": "2 Methodology",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          69.84375,
+          597.3759765625
+        ],
+        [
+          179.69613647460938,
+          597.3759765625
+        ],
+        [
+          179.69613647460938,
+          612.9990234375
+        ],
+        [
+          69.84375,
+          612.9990234375
+        ]
+      ]
+    },
+    {
+      "title": "3 Results and Discussion",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.42578125,
+          247.89324951171875
+        ],
+        [
+          247.63986206054688,
+          247.89324951171875
+        ],
+        [
+          247.63986206054688,
+          262.23944091796875
+        ],
+        [
+          70.42578125,
+          262.23944091796875
+        ]
+      ]
+    },
+    {
+      "title": "4 Summary",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.42578125,
+          180.076171875
+        ],
+        [
+          155.6663818359375,
+          180.076171875
+        ],
+        [
+          155.6663818359375,
+          194.493408203125
+        ],
+        [
+          70.42578125,
+          194.493408203125
+        ]
+      ]
+    },
+    {
+      "title": "5 References",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.42578125,
+          377.0782470703125
+        ],
+        [
+          162.86817932128906,
+          377.0782470703125
+        ],
+        [
+          162.86817932128906,
+          391.4244384765625
+        ],
+        [
+          70.42578125,
+          391.4244384765625
+        ]
+      ]
+    },
+    {
+      "title": "Biographies",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          69.84375,
+          113.2572021484375
+        ],
+        [
+          151.76422119140625,
+          113.2572021484375
+        ],
+        [
+          151.76422119140625,
+          127.6033935546875
+        ],
+        [
+          69.84375,
+          127.6033935546875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          72
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          44
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Analysing the Sentiments towards Work-From-Home  Experience during COVID-19 Pandemic"
+}

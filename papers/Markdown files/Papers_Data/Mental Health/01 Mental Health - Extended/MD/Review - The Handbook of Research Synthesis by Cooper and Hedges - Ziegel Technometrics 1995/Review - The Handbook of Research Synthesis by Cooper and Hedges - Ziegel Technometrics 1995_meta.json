@@ -1,0 +1,125 @@
+{
+  "table_of_contents": [
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          138.0,
+          710.62890625
+        ],
+        [
+          192.0,
+          710.62890625
+        ],
+        [
+          192.0,
+          721.2932072227
+        ],
+        [
+          138.0,
+          721.2932072227
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          389.25,
+          669.75390625
+        ],
+        [
+          441.88330078125,
+          669.75390625
+        ],
+        [
+          441.88330078125,
+          680.055030094583
+        ],
+        [
+          389.25,
+          680.055030094583
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          42
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          152
+        ],
+        [
+          "Span",
+          51
+        ],
+        [
+          "Text",
+          22
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Review - The Handbook of Research Synthesis by Cooper and Hedges - Ziegel Technometrics 1995"
+}

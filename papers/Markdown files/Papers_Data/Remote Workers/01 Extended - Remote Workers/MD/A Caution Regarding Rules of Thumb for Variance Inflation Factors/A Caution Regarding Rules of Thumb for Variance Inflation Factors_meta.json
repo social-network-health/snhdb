@@ -1,0 +1,1018 @@
+{
+  "table_of_contents": [
+    {
+      "title": "A Caution Regarding Rules of Thumb for Variance Inflation Factors",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          38.20648464163823,
+          108.9404296875
+        ],
+        [
+          321.3839590443686,
+          108.9404296875
+        ],
+        [
+          321.3839590443686,
+          144.7119140625
+        ],
+        [
+          38.20648464163823,
+          144.7119140625
+        ]
+      ]
+    },
+    {
+      "title": "ROBERT M. O'BRIEN",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          39.70477815699659,
+          172.6787109375
+        ],
+        [
+          156.57167235494882,
+          171.75
+        ],
+        [
+          156.57167235494882,
+          181.1337890625
+        ],
+        [
+          39.70477815699659,
+          182.25
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          39.70477815699659,
+          462.0
+        ],
+        [
+          111.62286689419795,
+          462.0
+        ],
+        [
+          111.62286689419795,
+          471.8583984375
+        ],
+        [
+          39.70477815699659,
+          471.8583984375
+        ]
+      ]
+    },
+    {
+      "title": "2. Exclusive Focus on Multi-collinearity",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          38.583984375,
+          514.1337890625
+        ],
+        [
+          228.4897610921502,
+          514.1337890625
+        ],
+        [
+          228.4897610921502,
+          526.4912109375
+        ],
+        [
+          38.583984375,
+          526.4912109375
+        ]
+      ]
+    },
+    {
+      "title": "3. Specifying the Effects of Several Factors on the Variance of the Regression Coefficients",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          37.7265625,
+          461.77734375
+        ],
+        [
+          325.12969283276453,
+          461.77734375
+        ],
+        [
+          325.12969283276453,
+          485.19140625
+        ],
+        [
+          37.7265625,
+          485.19140625
+        ]
+      ]
+    },
+    {
+      "title": "3.1. EFFECT OF THE VARIANCE INFLATION FACTOR",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          38.95563139931741,
+          355.4384765625
+        ],
+        [
+          269.6928327645051,
+          355.4384765625
+        ],
+        [
+          269.6928327645051,
+          365.25
+        ],
+        [
+          38.95563139931741,
+          364.5
+        ]
+      ]
+    },
+    {
+      "title": "3.2. EFFECT OF R_v^2",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          38.95563139931741,
+          65.0390625
+        ],
+        [
+          126.89843750000001,
+          65.0390625
+        ],
+        [
+          126.89843750000001,
+          79.34765625
+        ],
+        [
+          38.95563139931741,
+          79.34765625
+        ]
+      ]
+    },
+    {
+      "title": "3.3. EFFECT OF THE SAMPLE SIZE",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          38.95563139931741,
+          389.25
+        ],
+        [
+          193.2798634812287,
+          389.2587890625
+        ],
+        [
+          193.2798634812287,
+          399.0
+        ],
+        [
+          38.95563139931741,
+          397.5
+        ]
+      ]
+    },
+    {
+      "title": "3.4. EFFECT OF THE VARIANCE OF THE INDEPENDENT VARIABLE",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          38.95563139931741,
+          249.75
+        ],
+        [
+          330.3737201365188,
+          249.75
+        ],
+        [
+          330.3737201365188,
+          258.75
+        ],
+        [
+          38.95563139931741,
+          258.0
+        ]
+      ]
+    },
+    {
+      "title": "3.5. The value of t and \\hat{\\sigma}^2(b_i)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          38.95563139931741,
+          474.78515625
+        ],
+        [
+          195.52730375426623,
+          474.75
+        ],
+        [
+          195.52730375426623,
+          487.79296875
+        ],
+        [
+          38.95563139931741,
+          487.79296875
+        ]
+      ]
+    },
+    {
+      "title": "4. Variance Inflation Factors in Context",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          38.95563139931741,
+          242.25
+        ],
+        [
+          231.4863481228669,
+          242.25
+        ],
+        [
+          231.4863481228669,
+          251.3759765625
+        ],
+        [
+          38.95563139931741,
+          251.3759765625
+        ]
+      ]
+    },
+    {
+      "title": "5. Treating Rejection and Non-Rejection in the Same Manner",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          38.95563139931741,
+          67.640625
+        ],
+        [
+          332.6796875,
+          67.640625
+        ],
+        [
+          332.6796875,
+          78.046875
+        ],
+        [
+          38.95563139931741,
+          78.046875
+        ]
+      ]
+    },
+    {
+      "title": "6. Suggested Remedies for Reducing Collinearity",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          39.44140625,
+          261.45703125
+        ],
+        [
+          270.1471862792969,
+          261.45703125
+        ],
+        [
+          270.1471862792969,
+          272.9832458496094
+        ],
+        [
+          39.44140625,
+          272.9832458496094
+        ]
+      ]
+    },
+    {
+      "title": "7. Discussion",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          39.65576171875,
+          380.0811462402344
+        ],
+        [
+          102.60751342773438,
+          380.0811462402344
+        ],
+        [
+          102.60751342773438,
+          391.0400390625
+        ],
+        [
+          39.65576171875,
+          391.0400390625
+        ]
+      ]
+    },
+    {
+      "title": "Appendix: Derivation of the Formula for the Variance of the Regression Coefficients",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          38.583984375,
+          394.4619140625
+        ],
+        [
+          295.1638225255973,
+          394.4619140625
+        ],
+        [
+          295.1638225255973,
+          417.2255859375
+        ],
+        [
+          38.583984375,
+          417.2255859375
+        ]
+      ]
+    },
+    {
+      "title": "Notes",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          38.95563139931741,
+          539.25
+        ],
+        [
+          67.42320819112628,
+          539.25
+        ],
+        [
+          67.42320819112628,
+          547.5
+        ],
+        [
+          38.95563139931741,
+          547.5
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          39.65576171875,
+          396.0248718261719
+        ],
+        [
+          89.13899230957031,
+          396.0248718261719
+        ],
+        [
+          89.13899230957031,
+          406.9837646484375
+        ],
+        [
+          39.65576171875,
+          406.9837646484375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          45
+        ],
+        [
+          "Span",
+          22
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          49
+        ],
+        [
+          "Span",
+          27
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          45
+        ],
+        [
+          "Span",
+          41
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          45
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          62
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          45
+        ],
+        [
+          "Span",
+          41
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          50
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          54
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          54
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          54
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          48
+        ],
+        [
+          "Span",
+          44
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          72
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Equation",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          52
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          62
+        ],
+        [
+          "Span",
+          52
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          178
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/A Caution Regarding Rules of Thumb for Variance Inflation Factors"
+}

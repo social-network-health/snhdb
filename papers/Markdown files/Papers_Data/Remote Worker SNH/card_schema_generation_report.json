@@ -1,0 +1,38 @@
+{
+  "root": "/Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH",
+  "generated_at": "2026-06-25T06:56:35",
+  "folders": {
+    "Remote Worker SNH": {
+      "markdown_files": 16,
+      "docx": {
+        "path": "Papers_Data/Remote Worker SNH/Remote_Worker_SNH_Card_Schemas.docx",
+        "bytes": 17805,
+        "paragraphs": 2620,
+        "card_headings": 16
+      },
+      "risk_of_bias_counts": {
+        "medium": 4,
+        "low": 9,
+        "unclear": 3
+      },
+      "article_type_counts": {
+        "empirical": 8,
+        "review": 5,
+        "theory": 3
+      },
+      "method_design_counts": {
+        "qualitative": 1,
+        "rct": 5,
+        "review-systematic": 4,
+        "theory": 3,
+        "cross-sectional": 2,
+        "review-scoping": 1
+      }
+    }
+  },
+  "notes": [
+    "Only .md and .markdown files were read.",
+    "PDF files were not opened or parsed.",
+    "Fields not present in markdown are recorded as null or conservative caveats."
+  ]
+}

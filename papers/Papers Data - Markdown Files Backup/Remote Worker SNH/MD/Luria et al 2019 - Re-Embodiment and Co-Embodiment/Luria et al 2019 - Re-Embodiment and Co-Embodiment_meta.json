@@ -1,0 +1,1389 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Re-Embodiment and Co-Embodiment: Exploration of social presence for robots and conversational agents",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.0,
+          78.0
+        ],
+        [
+          562.5,
+          78.0
+        ],
+        [
+          562.5,
+          115.62890625
+        ],
+        [
+          54.0,
+          115.62890625
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.5,
+          230.09765625
+        ],
+        [
+          103.5,
+          230.09765625
+        ],
+        [
+          103.5,
+          237.75
+        ],
+        [
+          52.5,
+          237.75
+        ]
+      ]
+    },
+    {
+      "title": "Author Keywords",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.5,
+          450.140625
+        ],
+        [
+          129.0,
+          450.140625
+        ],
+        [
+          129.0,
+          460.5
+        ],
+        [
+          52.5,
+          460.5
+        ]
+      ]
+    },
+    {
+      "title": "CCS Concepts",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.294921875,
+          509.30859375
+        ],
+        [
+          117.0,
+          509.30859375
+        ],
+        [
+          117.0,
+          519.0
+        ],
+        [
+          52.294921875,
+          519.0
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.5,
+          555.71484375
+        ],
+        [
+          123.0,
+          555.71484375
+        ],
+        [
+          123.0,
+          566.25
+        ],
+        [
+          52.5,
+          566.25
+        ]
+      ]
+    },
+    {
+      "title": "Human-Robot Interaction",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          52.5,
+          40.5
+        ],
+        [
+          162.75,
+          40.5
+        ],
+        [
+          162.75,
+          48.75
+        ],
+        [
+          52.5,
+          48.75
+        ]
+      ]
+    },
+    {
+      "title": "RELATED WORK",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          52.5,
+          413.40234375
+        ],
+        [
+          127.5,
+          413.40234375
+        ],
+        [
+          127.5,
+          423.0
+        ],
+        [
+          52.5,
+          423.0
+        ]
+      ]
+    },
+    {
+      "title": "Re-Embodiment and Co-Embodiment",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          319.74609375,
+          359.25
+        ],
+        [
+          480.75,
+          359.25
+        ],
+        [
+          480.75,
+          368.25
+        ],
+        [
+          319.74609375,
+          368.25
+        ]
+      ]
+    },
+    {
+      "title": "Human-Robot Interaction",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          52.5,
+          40.5
+        ],
+        [
+          162.75,
+          40.5
+        ],
+        [
+          162.75,
+          48.75
+        ],
+        [
+          52.5,
+          48.75
+        ]
+      ]
+    },
+    {
+      "title": "METHOD",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          52.294921875,
+          265.5
+        ],
+        [
+          93.75,
+          265.5
+        ],
+        [
+          93.75,
+          274.5
+        ],
+        [
+          52.294921875,
+          274.5
+        ]
+      ]
+    },
+    {
+      "title": "Designing the User Enactments",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          319.447265625,
+          375.75
+        ],
+        [
+          457.5,
+          375.75
+        ],
+        [
+          457.5,
+          384.78515625
+        ],
+        [
+          319.447265625,
+          384.78515625
+        ]
+      ]
+    },
+    {
+      "title": "Human-Robot Interaction",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          52.5,
+          40.5
+        ],
+        [
+          162.75,
+          40.5
+        ],
+        [
+          162.75,
+          48.75
+        ],
+        [
+          52.5,
+          48.75
+        ]
+      ]
+    },
+    {
+      "title": "The Enactments",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          52.5,
+          444.0
+        ],
+        [
+          123.75,
+          444.0
+        ],
+        [
+          123.75,
+          452.84765625
+        ],
+        [
+          52.5,
+          452.84765625
+        ]
+      ]
+    },
+    {
+      "title": "DMV",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          52.294921875,
+          502.5
+        ],
+        [
+          75.75,
+          502.5
+        ],
+        [
+          75.75,
+          511.62890625
+        ],
+        [
+          52.294921875,
+          511.62890625
+        ]
+      ]
+    },
+    {
+      "title": "Home and Work",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          320.25,
+          63.80859375
+        ],
+        [
+          387.0,
+          63.80859375
+        ],
+        [
+          387.0,
+          72.0
+        ],
+        [
+          320.25,
+          72.0
+        ]
+      ]
+    },
+    {
+      "title": "Health Center",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          320.25,
+          459.0
+        ],
+        [
+          378.0,
+          459.0
+        ],
+        [
+          378.0,
+          468.31640625
+        ],
+        [
+          320.25,
+          468.31640625
+        ]
+      ]
+    },
+    {
+      "title": "Autonomous Car",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          52.5,
+          301.25390625
+        ],
+        [
+          122.25,
+          301.25390625
+        ],
+        [
+          122.25,
+          309.0
+        ],
+        [
+          52.5,
+          309.0
+        ]
+      ]
+    },
+    {
+      "title": "Participants",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          52.5,
+          552.62109375
+        ],
+        [
+          106.5,
+          552.62109375
+        ],
+        [
+          106.5,
+          561.12890625
+        ],
+        [
+          52.5,
+          561.12890625
+        ]
+      ]
+    },
+    {
+      "title": "Procedure",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          320.25,
+          258.0
+        ],
+        [
+          366.0,
+          258.0
+        ],
+        [
+          366.0,
+          266.8359375
+        ],
+        [
+          320.25,
+          266.8359375
+        ]
+      ]
+    },
+    {
+      "title": "Human-Robot Interaction",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          52.5,
+          40.5
+        ],
+        [
+          162.75,
+          40.5
+        ],
+        [
+          162.75,
+          48.75
+        ],
+        [
+          52.5,
+          48.75
+        ]
+      ]
+    },
+    {
+      "title": "Analysis",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          52.5,
+          672.890625
+        ],
+        [
+          92.25,
+          672.890625
+        ],
+        [
+          92.25,
+          682.171875
+        ],
+        [
+          52.5,
+          682.171875
+        ]
+      ]
+    },
+    {
+      "title": "RESULTS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          319.447265625,
+          248.25
+        ],
+        [
+          363.0,
+          248.25
+        ],
+        [
+          363.0,
+          256.5
+        ],
+        [
+          319.447265625,
+          256.5
+        ]
+      ]
+    },
+    {
+      "title": "Acceptance of Re-embodiment",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          318.849609375,
+          340.3125
+        ],
+        [
+          453.75,
+          340.3125
+        ],
+        [
+          453.75,
+          349.59375
+        ],
+        [
+          318.849609375,
+          349.59375
+        ]
+      ]
+    },
+    {
+      "title": "Human-Robot Interaction",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          52.5,
+          40.5
+        ],
+        [
+          162.75,
+          40.5
+        ],
+        [
+          162.75,
+          48.75
+        ],
+        [
+          52.5,
+          48.75
+        ]
+      ]
+    },
+    {
+      "title": "Perception of Agent Expertise",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          52.5,
+          215.015625
+        ],
+        [
+          183.0,
+          215.015625
+        ],
+        [
+          183.0,
+          225.0
+        ],
+        [
+          52.5,
+          225.0
+        ]
+      ]
+    },
+    {
+      "title": "Crossing Contextual Boundaries",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          320.25,
+          216.75
+        ],
+        [
+          461.25,
+          216.75
+        ],
+        [
+          461.25,
+          225.45703125
+        ],
+        [
+          320.25,
+          225.45703125
+        ]
+      ]
+    },
+    {
+      "title": "Private and Public Spheres",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          320.25,
+          312.75
+        ],
+        [
+          430.5,
+          312.75
+        ],
+        [
+          430.5,
+          322.91015625
+        ],
+        [
+          320.25,
+          322.91015625
+        ]
+      ]
+    },
+    {
+      "title": "Human-Robot Interaction",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          52.5,
+          40.5
+        ],
+        [
+          162.75,
+          40.5
+        ],
+        [
+          162.75,
+          48.75
+        ],
+        [
+          52.5,
+          48.75
+        ]
+      ]
+    },
+    {
+      "title": "Private and Professional Spheres",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          52.294921875,
+          108.75
+        ],
+        [
+          187.5,
+          108.75
+        ],
+        [
+          187.5,
+          118.5
+        ],
+        [
+          52.294921875,
+          118.5
+        ]
+      ]
+    },
+    {
+      "title": "Perceived Agent Cognitive Ability",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          52.5,
+          402.75
+        ],
+        [
+          198.75,
+          402.75
+        ],
+        [
+          198.75,
+          412.62890625
+        ],
+        [
+          52.5,
+          412.62890625
+        ]
+      ]
+    },
+    {
+      "title": "Co-Embodiment",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          319.447265625,
+          169.5
+        ],
+        [
+          391.5,
+          169.5
+        ],
+        [
+          391.5,
+          177.0
+        ],
+        [
+          319.447265625,
+          177.0
+        ]
+      ]
+    },
+    {
+      "title": "Human-Robot Interaction",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          52.5,
+          40.5
+        ],
+        [
+          162.75,
+          40.5
+        ],
+        [
+          162.75,
+          48.75
+        ],
+        [
+          52.5,
+          48.75
+        ]
+      ]
+    },
+    {
+      "title": "DISCUSSION",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          52.5,
+          428.87109375
+        ],
+        [
+          110.25,
+          428.87109375
+        ],
+        [
+          110.25,
+          439.5
+        ],
+        [
+          52.5,
+          439.5
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSION",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          52.5,
+          660.90234375
+        ],
+        [
+          115.5,
+          660.90234375
+        ],
+        [
+          115.5,
+          670.5
+        ],
+        [
+          52.5,
+          670.5
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGEMENTS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          319.1484375,
+          530.96484375
+        ],
+        [
+          424.5,
+          530.96484375
+        ],
+        [
+          424.5,
+          539.47265625
+        ],
+        [
+          319.1484375,
+          539.47265625
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          319.5,
+          650.25
+        ],
+        [
+          383.25,
+          650.25
+        ],
+        [
+          383.25,
+          660.12890625
+        ],
+        [
+          319.5,
+          660.12890625
+        ]
+      ]
+    },
+    {
+      "title": "Human-Robot Interaction",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          52.5,
+          40.5
+        ],
+        [
+          162.75,
+          40.5
+        ],
+        [
+          162.75,
+          48.75
+        ],
+        [
+          52.5,
+          48.75
+        ]
+      ]
+    },
+    {
+      "title": "Human-Robot Interaction",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          52.5,
+          40.5
+        ],
+        [
+          162.75,
+          40.5
+        ],
+        [
+          162.75,
+          48.75
+        ],
+        [
+          52.5,
+          48.75
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          117
+        ],
+        [
+          "Span",
+          48
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          143
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          120
+        ],
+        [
+          "Span",
+          38
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          130
+        ],
+        [
+          "Span",
+          61
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          101
+        ],
+        [
+          "Span",
+          30
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          142
+        ],
+        [
+          "Span",
+          45
+        ],
+        [
+          "Text",
+          29
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          140
+        ],
+        [
+          "Span",
+          33
+        ],
+        [
+          "Text",
+          20
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          155
+        ],
+        [
+          "Span",
+          50
+        ],
+        [
+          "Text",
+          25
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          135
+        ],
+        [
+          "Span",
+          45
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          131
+        ],
+        [
+          "Span",
+          30
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          170
+        ],
+        [
+          "Span",
+          92
+        ],
+        [
+          "ListItem",
+          24
+        ],
+        [
+          "Reference",
+          24
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          106
+        ],
+        [
+          "Span",
+          48
+        ],
+        [
+          "ListItem",
+          17
+        ],
+        [
+          "Reference",
+          17
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Luria et al 2019 - Re-Embodiment and Co-Embodiment"
+}

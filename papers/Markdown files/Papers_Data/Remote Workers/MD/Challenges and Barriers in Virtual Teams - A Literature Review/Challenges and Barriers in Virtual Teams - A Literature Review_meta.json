@@ -1,0 +1,2727 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Challenges and barriers in virtual teams: a literature review",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.023597717285156,
+          105.673095703125
+        ],
+        [
+          430.703125,
+          105.673095703125
+        ],
+        [
+          430.703125,
+          122.048828125
+        ],
+        [
+          51.023597717285156,
+          122.048828125
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.763671875,
+          207.7919921875
+        ],
+        [
+          89.10459899902344,
+          207.7919921875
+        ],
+        [
+          89.10459899902344,
+          218.03546142578125
+        ],
+        [
+          49.763671875,
+          218.03546142578125
+        ]
+      ]
+    },
+    {
+      "title": "1 Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.023597717285156,
+          468.49755859375
+        ],
+        [
+          131.32640075683594,
+          468.49755859375
+        ],
+        [
+          131.32640075683594,
+          480.9389953613281
+        ],
+        [
+          51.023597717285156,
+          480.9389953613281
+        ]
+      ]
+    },
+    {
+      "title": "2 Related work",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.111328125,
+          57.162109375
+        ],
+        [
+          389.669921875,
+          57.162109375
+        ],
+        [
+          389.669921875,
+          69.3111572265625
+        ],
+        [
+          304.111328125,
+          69.3111572265625
+        ]
+      ]
+    },
+    {
+      "title": "3 Method",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          51.023597717285156,
+          130.0511474609375
+        ],
+        [
+          105.75440216064453,
+          130.0511474609375
+        ],
+        [
+          105.75440216064453,
+          142.0511474609375
+        ],
+        [
+          51.023597717285156,
+          142.0511474609375
+        ]
+      ]
+    },
+    {
+      "title": "3.1 Planning the review",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.763671875,
+          368.3655700683594
+        ],
+        [
+          162.095703125,
+          368.3655700683594
+        ],
+        [
+          162.095703125,
+          379.3655700683594
+        ],
+        [
+          49.763671875,
+          379.3655700683594
+        ]
+      ]
+    },
+    {
+      "title": "3.1.1 Specifying research questions",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          50.63671875,
+          443.77880859375
+        ],
+        [
+          194.98046875,
+          443.77880859375
+        ],
+        [
+          194.98046875,
+          454.1907958984375
+        ],
+        [
+          50.63671875,
+          454.1907958984375
+        ]
+      ]
+    },
+    {
+      "title": "3.1.2 Developing and executing the search strategy",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          305.56640625,
+          269.1907958984375
+        ],
+        [
+          513.93359375,
+          269.1907958984375
+        ],
+        [
+          513.93359375,
+          279.630859375
+        ],
+        [
+          305.56640625,
+          279.630859375
+        ]
+      ]
+    },
+    {
+      "title": "3.1.3 Inclusion and exclusion criteria",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.47265625,
+          319.0976867675781
+        ],
+        [
+          199.0416259765625,
+          319.0976867675781
+        ],
+        [
+          199.0416259765625,
+          329.0976867675781
+        ],
+        [
+          49.47265625,
+          329.0976867675781
+        ]
+      ]
+    },
+    {
+      "title": "3.1.4 Paper categorization",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          51.02360534667969,
+          494.0976867675781
+        ],
+        [
+          158.73260498046875,
+          494.0976867675781
+        ],
+        [
+          158.73260498046875,
+          504.80322265625
+        ],
+        [
+          51.02360534667969,
+          504.80322265625
+        ]
+      ]
+    },
+    {
+      "title": "4 Factors afecting virtual teams",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          306.1417236328125,
+          56.3896484375
+        ],
+        [
+          480.7578125,
+          56.3896484375
+        ],
+        [
+          480.7578125,
+          68.39910888671875
+        ],
+        [
+          306.1417236328125,
+          68.39910888671875
+        ]
+      ]
+    },
+    {
+      "title": "5 Distance factors",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          306.1417236328125,
+          318.64013671875
+        ],
+        [
+          406.2578125,
+          318.64013671875
+        ],
+        [
+          406.2578125,
+          330.89910888671875
+        ],
+        [
+          306.1417236328125,
+          330.89910888671875
+        ]
+      ]
+    },
+    {
+      "title": "5.1 Geographical distance",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          303.529296875,
+          444.7135925292969
+        ],
+        [
+          427.6455078125,
+          444.7135925292969
+        ],
+        [
+          427.6455078125,
+          455.7135925292969
+        ],
+        [
+          303.529296875,
+          455.7135925292969
+        ]
+      ]
+    },
+    {
+      "title": "5.1.1 Motivation and awareness in distributed \ncollaborations",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          50.0546875,
+          419.1947937011719
+        ],
+        [
+          239.09584045410156,
+          419.1947937011719
+        ],
+        [
+          239.09584045410156,
+          441.6947937011719
+        ],
+        [
+          50.0546875,
+          441.6947937011719
+        ]
+      ]
+    },
+    {
+      "title": "5.1.2 Establishing trust",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          50.0546875,
+          219.19085693359375
+        ],
+        [
+          145.50262451171875,
+          219.19085693359375
+        ],
+        [
+          145.50262451171875,
+          229.19085693359375
+        ],
+        [
+          50.0546875,
+          229.19085693359375
+        ]
+      ]
+    },
+    {
+      "title": "5.1.3 Informal and face\u2011to\u2011face communication",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          304.40234375,
+          206.2470703125
+        ],
+        [
+          497.1758728027344,
+          206.2470703125
+        ],
+        [
+          497.1758728027344,
+          216.69482421875
+        ],
+        [
+          304.40234375,
+          216.69482421875
+        ]
+      ]
+    },
+    {
+      "title": "5.1.4 Intra\u2011team confict",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          306.1478271484375,
+          55.6171875
+        ],
+        [
+          405.67578125,
+          55.6171875
+        ],
+        [
+          405.67578125,
+          66.69482421875
+        ],
+        [
+          306.1478271484375,
+          66.69482421875
+        ]
+      ]
+    },
+    {
+      "title": "5.2 Temporal distance",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          49.763671875,
+          418.3655700683594
+        ],
+        [
+          154.02540588378906,
+          418.3655700683594
+        ],
+        [
+          154.02540588378906,
+          429.3655700683594
+        ],
+        [
+          49.763671875,
+          429.3655700683594
+        ]
+      ]
+    },
+    {
+      "title": "5.3 Perceived distance",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          306.1417236328125,
+          55.23095703125
+        ],
+        [
+          410.9140625,
+          55.23095703125
+        ],
+        [
+          410.9140625,
+          67.53961181640625
+        ],
+        [
+          306.1417236328125,
+          67.53961181640625
+        ]
+      ]
+    },
+    {
+      "title": "6 Contributing factors",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          49.763671875,
+          105.0511474609375
+        ],
+        [
+          172.13720703125,
+          105.0511474609375
+        ],
+        [
+          172.13720703125,
+          117.0511474609375
+        ],
+        [
+          49.763671875,
+          117.0511474609375
+        ]
+      ]
+    },
+    {
+      "title": "6.1 Nature of work",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          50.63671875,
+          268.3656005859375
+        ],
+        [
+          138.73651123046875,
+          268.3656005859375
+        ],
+        [
+          138.73651123046875,
+          279.3656005859375
+        ],
+        [
+          50.63671875,
+          279.3656005859375
+        ]
+      ]
+    },
+    {
+      "title": "6.2 Explicit management and leadership",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          50.0546875,
+          268.3656005859375
+        ],
+        [
+          237.989501953125,
+          268.3656005859375
+        ],
+        [
+          237.989501953125,
+          280.01708984375
+        ],
+        [
+          50.0546875,
+          280.01708984375
+        ]
+      ]
+    },
+    {
+      "title": "6.3 Confguration",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          50.0546875,
+          168.3656005859375
+        ],
+        [
+          134.094482421875,
+          168.3656005859375
+        ],
+        [
+          134.094482421875,
+          179.3656005859375
+        ],
+        [
+          50.0546875,
+          179.3656005859375
+        ]
+      ]
+    },
+    {
+      "title": "6.4 Group composition",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          304.40234375,
+          430.8655700683594
+        ],
+        [
+          413.3686828613281,
+          430.8655700683594
+        ],
+        [
+          413.3686828613281,
+          441.8655700683594
+        ],
+        [
+          304.40234375,
+          441.8655700683594
+        ]
+      ]
+    },
+    {
+      "title": "6.4.1 Common ground",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          305.275390625,
+          569.1907958984375
+        ],
+        [
+          398.7608337402344,
+          569.1907958984375
+        ],
+        [
+          398.7608337402344,
+          579.1907958984375
+        ],
+        [
+          305.275390625,
+          579.1907958984375
+        ]
+      ]
+    },
+    {
+      "title": "6.4.2 Socio\u2011cultural distance",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          304.984375,
+          119.19085693359375
+        ],
+        [
+          422.2216491699219,
+          119.19085693359375
+        ],
+        [
+          422.2216491699219,
+          129.19085693359375
+        ],
+        [
+          304.984375,
+          129.19085693359375
+        ]
+      ]
+    },
+    {
+      "title": "6.4.3 Work culture",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          306.10784912109375,
+          569.1947937011719
+        ],
+        [
+          382.39453125,
+          569.1947937011719
+        ],
+        [
+          382.39453125,
+          579.1947937011719
+        ],
+        [
+          306.10784912109375,
+          579.1947937011719
+        ]
+      ]
+    },
+    {
+      "title": "7 Summary of fndings and open questions",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          50.63671875,
+          553.46826171875
+        ],
+        [
+          282.6692199707031,
+          553.46826171875
+        ],
+        [
+          282.6692199707031,
+          567.0511016845703
+        ],
+        [
+          50.63671875,
+          567.0511016845703
+        ]
+      ]
+    },
+    {
+      "title": "7.1 Questions of theory",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          305.857421875,
+          205.8656005859375
+        ],
+        [
+          415.9635009765625,
+          205.8656005859375
+        ],
+        [
+          415.9635009765625,
+          216.8656005859375
+        ],
+        [
+          305.857421875,
+          216.8656005859375
+        ]
+      ]
+    },
+    {
+      "title": "7.1.1 Should future research pursue 'awareness'?",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          303.8203125,
+          230.57958984375
+        ],
+        [
+          502.7097473144531,
+          230.57958984375
+        ],
+        [
+          502.7097473144531,
+          241.69085693359375
+        ],
+        [
+          303.8203125,
+          241.69085693359375
+        ]
+      ]
+    },
+    {
+      "title": "7.1.2 Are coordination costs higher in teams that are \ntemporally distributed?",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          305.56640625,
+          393.955078125
+        ],
+        [
+          519.5197143554688,
+          393.955078125
+        ],
+        [
+          519.5197143554688,
+          416.6908264160156
+        ],
+        [
+          305.56640625,
+          416.6908264160156
+        ]
+      ]
+    },
+    {
+      "title": "7.1.3 How do the disparities in levels of confict and trust \nbetween balanced and imbalanced teams afect \ncollaboration?",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          304.984375,
+          581.6908264160156
+        ],
+        [
+          536.7587280273438,
+          581.6908264160156
+        ],
+        [
+          536.7587280273438,
+          616.6908264160156
+        ],
+        [
+          304.984375,
+          616.6908264160156
+        ]
+      ]
+    },
+    {
+      "title": "7.1.4 Does tightly coupled work have a negative \nor a positive efect on collaboration?",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          49.47265625,
+          56.3896484375
+        ],
+        [
+          247.2416229248047,
+          56.3896484375
+        ],
+        [
+          247.2416229248047,
+          79.19085693359375
+        ],
+        [
+          49.47265625,
+          79.19085693359375
+        ]
+      ]
+    },
+    {
+      "title": "7.1.5 What efect does geographic dispersion have on task \nand afective confict?",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          50.0546875,
+          256.69085693359375
+        ],
+        [
+          287.8016357421875,
+          256.69085693359375
+        ],
+        [
+          287.8016357421875,
+          279.1908264160156
+        ],
+        [
+          50.0546875,
+          279.1908264160156
+        ]
+      ]
+    },
+    {
+      "title": "7.1.6 Does background heterogeneity have a positive \nor a negative efect on collaboration?",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          49.47265625,
+          431.033203125
+        ],
+        [
+          268.47064208984375,
+          431.033203125
+        ],
+        [
+          268.47064208984375,
+          454.1908264160156
+        ],
+        [
+          49.47265625,
+          454.1908264160156
+        ]
+      ]
+    },
+    {
+      "title": "7.1.7 Do virtual teams encounter more work\u2011culture \nrelated problems than co\u2011located teams?",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          49.47265625,
+          569.1908264160156
+        ],
+        [
+          263.17059326171875,
+          569.1908264160156
+        ],
+        [
+          263.17059326171875,
+          591.6908264160156
+        ],
+        [
+          49.47265625,
+          591.6908264160156
+        ]
+      ]
+    },
+    {
+      "title": "7.2 Questions of technology",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          306.1417236328125,
+          56.53961181640625
+        ],
+        [
+          438.8515625,
+          56.53961181640625
+        ],
+        [
+          438.8515625,
+          67.53961181640625
+        ],
+        [
+          306.1417236328125,
+          67.53961181640625
+        ]
+      ]
+    },
+    {
+      "title": "7.2.1 How can we better support communication \nin temporally distant work?",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          305.56640625,
+          81.880859375
+        ],
+        [
+          505.979736328125,
+          81.880859375
+        ],
+        [
+          505.979736328125,
+          104.8648681640625
+        ],
+        [
+          305.56640625,
+          104.8648681640625
+        ]
+      ]
+    },
+    {
+      "title": "7.2.2 How can we better support informal communication?",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          306.1417541503906,
+          293.53515625
+        ],
+        [
+          544.78125,
+          293.53515625
+        ],
+        [
+          544.78125,
+          304.8648376464844
+        ],
+        [
+          306.1417541503906,
+          304.8648376464844
+        ]
+      ]
+    },
+    {
+      "title": "7.2.3 How can we design technology to assist \nin the development of trust?",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          303.8203125,
+          419.06005859375
+        ],
+        [
+          491.05975341796875,
+          419.06005859375
+        ],
+        [
+          491.05975341796875,
+          442.3648376464844
+        ],
+        [
+          303.8203125,
+          442.3648376464844
+        ]
+      ]
+    },
+    {
+      "title": "7.2.4 How do we support explicit management in teams \nthat reject formal administration?",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          305.56640625,
+          582.3648376464844
+        ],
+        [
+          533.938720703125,
+          582.3648376464844
+        ],
+        [
+          533.938720703125,
+          604.8648376464844
+        ],
+        [
+          305.56640625,
+          604.8648376464844
+        ]
+      ]
+    },
+    {
+      "title": "7.2.5 How can we support synchronous communication \nacross language barriers?",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          50.0546875,
+          56.3896484375
+        ],
+        [
+          277.18585205078125,
+          56.3896484375
+        ],
+        [
+          277.18585205078125,
+          79.19488525390625
+        ],
+        [
+          50.0546875,
+          79.19488525390625
+        ]
+      ]
+    },
+    {
+      "title": "7.2.6 How do we develop technology that supports \nstructures for negotiating terminologies \nand methodologies while still facilitating fexibility?",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          49.47265625,
+          231.35205078125
+        ],
+        [
+          282.7947998046875,
+          231.35205078125
+        ],
+        [
+          282.7947998046875,
+          266.69482421875
+        ],
+        [
+          49.47265625,
+          266.69482421875
+        ]
+      ]
+    },
+    {
+      "title": "7.2.7 How can we leverage existing tools developed \nfor supporting Scrum to mitigate problems caused \nby cultural diferences?",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          48.890625,
+          419.06005859375
+        ],
+        [
+          279.3838806152344,
+          419.06005859375
+        ],
+        [
+          279.3838806152344,
+          454.1947937011719
+        ],
+        [
+          48.890625,
+          454.1947937011719
+        ]
+      ]
+    },
+    {
+      "title": "7.2.8 How can we design communication technology \nto support building a sense of shared goals \nand expectations?",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          50.0546875,
+          594.1947937011719
+        ],
+        [
+          266.5658264160156,
+          594.1947937011719
+        ],
+        [
+          266.5658264160156,
+          629.1947937011719
+        ],
+        [
+          50.0546875,
+          629.1947937011719
+        ]
+      ]
+    },
+    {
+      "title": "7.3 Recommendations for future research",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          306.1417236328125,
+          105.8656005859375
+        ],
+        [
+          499.3828125,
+          105.8656005859375
+        ],
+        [
+          499.3828125,
+          116.8656005859375
+        ],
+        [
+          306.1417236328125,
+          116.8656005859375
+        ]
+      ]
+    },
+    {
+      "title": "8 Implications for design",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          305.275390625,
+          342.55108642578125
+        ],
+        [
+          441.2365417480469,
+          342.55108642578125
+        ],
+        [
+          441.2365417480469,
+          354.5595703125
+        ],
+        [
+          305.275390625,
+          354.5595703125
+        ]
+      ]
+    },
+    {
+      "title": "8.1 Assist creation of common ground and work \nstandards",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          306.1417236328125,
+          455.8655700683594
+        ],
+        [
+          528.1734008789062,
+          455.8655700683594
+        ],
+        [
+          528.1734008789062,
+          479.361572265625
+        ],
+        [
+          306.1417236328125,
+          479.361572265625
+        ]
+      ]
+    },
+    {
+      "title": "8.2 Facilitate communication",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          49.763671875,
+          56.53961181640625
+        ],
+        [
+          186.541015625,
+          56.53961181640625
+        ],
+        [
+          186.541015625,
+          67.53961181640625
+        ],
+        [
+          49.763671875,
+          67.53961181640625
+        ]
+      ]
+    },
+    {
+      "title": "8.3 Provide mechanisms for work transparency",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          50.63671875,
+          344.0395812988281
+        ],
+        [
+          268.31640625,
+          344.0395812988281
+        ],
+        [
+          268.31640625,
+          355.0395812988281
+        ],
+        [
+          50.63671875,
+          355.0395812988281
+        ]
+      ]
+    },
+    {
+      "title": "8.4 Design lightweight, familiar technology",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          50.0546875,
+          656.5395812988281
+        ],
+        [
+          252.6015625,
+          656.5395812988281
+        ],
+        [
+          252.6015625,
+          667.5395812988281
+        ],
+        [
+          50.0546875,
+          667.5395812988281
+        ]
+      ]
+    },
+    {
+      "title": "9 Conclusion",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          304.111328125,
+          283.10693359375
+        ],
+        [
+          377.8297424316406,
+          283.10693359375
+        ],
+        [
+          377.8297424316406,
+          295.55108642578125
+        ],
+        [
+          304.111328125,
+          295.55108642578125
+        ]
+      ]
+    },
+    {
+      "title": "Compliance with ethical standards",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          304.40234375,
+          559.3855743408203
+        ],
+        [
+          464.25677490234375,
+          559.3855743408203
+        ],
+        [
+          464.25677490234375,
+          570.3855743408203
+        ],
+        [
+          304.40234375,
+          570.3855743408203
+        ]
+      ]
+    },
+    {
+      "title": "Appendix",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          306.1417236328125,
+          634.5711059570312
+        ],
+        [
+          359.6953125,
+          634.5711059570312
+        ],
+        [
+          359.6953125,
+          646.5711059570312
+        ],
+        [
+          306.1417236328125,
+          646.5711059570312
+        ]
+      ]
+    },
+    {
+      "title": "Table 2\n        Case study papers by contribution",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          48.79093198992443,
+          54.73270142180095
+        ],
+        [
+          156.8816120906801,
+          56.98199052132701
+        ],
+        [
+          156.8816120906801,
+          74.97630331753554
+        ],
+        [
+          48.79093198992443,
+          74.97630331753554
+        ]
+      ]
+    },
+    {
+      "title": "Table 5 Survey papers by\ncontribution",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          49.541561712846345,
+          56.98199052132701
+        ],
+        [
+          141.86901763224182,
+          56.98199052132701
+        ],
+        [
+          141.86901763224182,
+          74.97630331753554
+        ],
+        [
+          49.541561712846345,
+          74.97630331753554
+        ]
+      ]
+    },
+    {
+      "title": "Table 6 Literature review\npapers by contribution",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          49.541561712846345,
+          331.3952606635071
+        ],
+        [
+          141.1183879093199,
+          331.3952606635071
+        ],
+        [
+          141.1183879093199,
+          350.88909952606633
+        ],
+        [
+          49.541561712846345,
+          350.88909952606633
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          51.023597717285156,
+          330.22705078125
+        ],
+        [
+          109.8716049194336,
+          330.22705078125
+        ],
+        [
+          109.8716049194336,
+          343.3060607910156
+        ],
+        [
+          51.023597717285156,
+          343.3060607910156
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          128
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          228
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          227
+        ],
+        [
+          "Line",
+          90
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          233
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Reference",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          272
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          286
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          265
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          270
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          293
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          278
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          266
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          231
+        ],
+        [
+          "Line",
+          102
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          263
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          259
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          276
+        ],
+        [
+          "Line",
+          102
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          275
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          271
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          274
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          249
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          262
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          227
+        ],
+        [
+          "Line",
+          98
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          195
+        ],
+        [
+          "Line",
+          88
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          194
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          176
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          56
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Span",
+          29
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          81
+        ],
+        [
+          "Span",
+          81
+        ],
+        [
+          "Text",
+          29
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          319
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "Reference",
+          24
+        ],
+        [
+          "ListItem",
+          23
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          323
+        ],
+        [
+          "Line",
+          131
+        ],
+        [
+          "ListItem",
+          44
+        ],
+        [
+          "Reference",
+          42
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          338
+        ],
+        [
+          "Line",
+          134
+        ],
+        [
+          "ListItem",
+          44
+        ],
+        [
+          "Reference",
+          43
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          334
+        ],
+        [
+          "Line",
+          132
+        ],
+        [
+          "ListItem",
+          43
+        ],
+        [
+          "Reference",
+          43
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          337
+        ],
+        [
+          "Line",
+          134
+        ],
+        [
+          "ListItem",
+          44
+        ],
+        [
+          "Reference",
+          44
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          344
+        ],
+        [
+          "Line",
+          134
+        ],
+        [
+          "ListItem",
+          44
+        ],
+        [
+          "Reference",
+          42
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 32,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          292
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "ListItem",
+          34
+        ],
+        [
+          "Reference",
+          34
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Challenges and Barriers in Virtual Teams - A Literature Review"
+}

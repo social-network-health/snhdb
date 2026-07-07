@@ -1,0 +1,247 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Open Source and Mental Health",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.7578125,
+          39.10400390625
+        ],
+        [
+          418.8923645019531,
+          39.10400390625
+        ],
+        [
+          418.8923645019531,
+          67.2742919921875
+        ],
+        [
+          33.7578125,
+          67.2742919921875
+        ]
+      ]
+    },
+    {
+      "title": "By jackpot51 on Saturday, June 12, 2021",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.33984375,
+          89.32177734375
+        ],
+        [
+          189.485107421875,
+          89.32177734375
+        ],
+        [
+          189.485107421875,
+          99.4947509765625
+        ],
+        [
+          34.33984375,
+          99.4947509765625
+        ]
+      ]
+    },
+    {
+      "title": "Reflection",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.79264831542969,
+          277.84423828125
+        ],
+        [
+          134.6156463623047,
+          277.84423828125
+        ],
+        [
+          134.6156463623047,
+          301.55462646484375
+        ],
+        [
+          34.79264831542969,
+          301.55462646484375
+        ]
+      ]
+    },
+    {
+      "title": "Open Source and Mental Health",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          33.7578125,
+          185.64111328125
+        ],
+        [
+          342.0729675292969,
+          185.64111328125
+        ],
+        [
+          342.0729675292969,
+          207.091552734375
+        ],
+        [
+          33.7578125,
+          207.091552734375
+        ]
+      ]
+    },
+    {
+      "title": "My Own Journey",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.33984375,
+          556.4721069335938
+        ],
+        [
+          191.11033630371094,
+          556.4721069335938
+        ],
+        [
+          191.11033630371094,
+          577.4463500976562
+        ],
+        [
+          34.33984375,
+          577.4463500976562
+        ]
+      ]
+    },
+    {
+      "title": "A Solution?",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          33.7578125,
+          380.337890625
+        ],
+        [
+          145.28025817871094,
+          380.337890625
+        ],
+        [
+          145.28025817871094,
+          402.01519775390625
+        ],
+        [
+          33.7578125,
+          402.01519775390625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1245
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1155
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          887
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Open Source and Mental Health Redox OS"
+}

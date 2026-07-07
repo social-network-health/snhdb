@@ -1,0 +1,944 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The Moderator-Mediator Variable Distinction in Social Psychological\nResearch: Conceptual, Strategic, and Statistical Considerations",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.015625,
+          81.64202880859375
+        ],
+        [
+          530.0556030273438,
+          81.64202880859375
+        ],
+        [
+          530.0556030273438,
+          119.7900390625
+        ],
+        [
+          50.015625,
+          119.7900390625
+        ]
+      ]
+    },
+    {
+      "title": "Reuben M. Baron and David A. Kenny\nUniversity of Connecticut",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          197.220703125,
+          135.6390380859375
+        ],
+        [
+          383.1097106933594,
+          135.6390380859375
+        ],
+        [
+          383.1097106933594,
+          157.1650390625
+        ],
+        [
+          197.220703125,
+          157.1650390625
+        ]
+      ]
+    },
+    {
+      "title": "The Nature of Moderators",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          106.283203125,
+          125.52447509765625
+        ],
+        [
+          219.25025939941406,
+          125.52447509765625
+        ],
+        [
+          219.25025939941406,
+          137.13751220703125
+        ],
+        [
+          106.283203125,
+          137.13751220703125
+        ]
+      ]
+    },
+    {
+      "title": "Toward Establishing an Analytic Framework\nfor Testing Moderator Effects",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          40.548370361328125,
+          563.5243377685547
+        ],
+        [
+          234.1640625,
+          563.5243377685547
+        ],
+        [
+          234.1640625,
+          587.3773498535156
+        ],
+        [
+          40.548370361328125,
+          587.3773498535156
+        ]
+      ]
+    },
+    {
+      "title": "Choosing an Appropriate Analytic Procedure:\nTesting Moderation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          300.09375,
+          485.7643737792969
+        ],
+        [
+          491.8872375488281,
+          485.7643737792969
+        ],
+        [
+          491.8872375488281,
+          509.3775939941406
+        ],
+        [
+          300.09375,
+          509.3775939941406
+        ]
+      ]
+    },
+    {
+      "title": "Casel",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          42.05859375,
+          125.79888916015625
+        ],
+        [
+          70.4765625,
+          125.79888916015625
+        ],
+        [
+          70.4765625,
+          137.96490478515625
+        ],
+        [
+          42.05859375,
+          137.96490478515625
+        ]
+      ]
+    },
+    {
+      "title": "Case 2",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          41.490234375,
+          238.8388671875
+        ],
+        [
+          71.36894989013672,
+          238.8388671875
+        ],
+        [
+          71.36894989013672,
+          251.0048828125
+        ],
+        [
+          41.490234375,
+          251.0048828125
+        ]
+      ]
+    },
+    {
+      "title": "Case 3",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          42.05859375,
+          681.357421875
+        ],
+        [
+          71.82453155517578,
+          681.357421875
+        ],
+        [
+          71.82453155517578,
+          694.2848739624023
+        ],
+        [
+          42.05859375,
+          694.2848739624023
+        ]
+      ]
+    },
+    {
+      "title": "Case 4",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          41.7744140625,
+          331.34765625
+        ],
+        [
+          72.0,
+          331.34765625
+        ],
+        [
+          72.0,
+          341.25
+        ],
+        [
+          41.7744140625,
+          341.25
+        ]
+      ]
+    },
+    {
+      "title": "The Nature of Mediator Variables",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          90.0,
+          672.216796875
+        ],
+        [
+          234.75,
+          672.216796875
+        ],
+        [
+          234.75,
+          682.5
+        ],
+        [
+          90.0,
+          682.5
+        ]
+      ]
+    },
+    {
+      "title": "General Analytic Considerations",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          297.251953125,
+          289.072265625
+        ],
+        [
+          436.5,
+          289.072265625
+        ],
+        [
+          436.5,
+          298.974609375
+        ],
+        [
+          297.251953125,
+          298.974609375
+        ]
+      ]
+    },
+    {
+      "title": "Testing Mediation",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          39.990234375,
+          76.84716796875
+        ],
+        [
+          119.05216979980469,
+          76.84716796875
+        ],
+        [
+          119.05216979980469,
+          89.3585205078125
+        ],
+        [
+          39.990234375,
+          89.3585205078125
+        ]
+      ]
+    },
+    {
+      "title": "Overview of Conceptual Distinctions\nBetween Moderators and Mediators",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          342.2021484375,
+          675.1845703125
+        ],
+        [
+          501.0920104980469,
+          675.1845703125
+        ],
+        [
+          501.0920104980469,
+          699.4860763549805
+        ],
+        [
+          342.2021484375,
+          699.4860763549805
+        ]
+      ]
+    },
+    {
+      "title": "Strategic Considerations",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          42.203125,
+          479.05224609375
+        ],
+        [
+          149.07723999023438,
+          479.05224609375
+        ],
+        [
+          149.07723999023438,
+          488.99420166015625
+        ],
+        [
+          42.203125,
+          488.99420166015625
+        ]
+      ]
+    },
+    {
+      "title": "Operational Implications",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          299.4140625,
+          534.10693359375
+        ],
+        [
+          408.7645263671875,
+          534.10693359375
+        ],
+        [
+          408.7645263671875,
+          544.4248504638672
+        ],
+        [
+          299.4140625,
+          544.4248504638672
+        ]
+      ]
+    },
+    {
+      "title": "A Framework for Combining Mediation and Moderation",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          39.86199951171875,
+          399.2410888671875
+        ],
+        [
+          279.5439453125,
+          399.2410888671875
+        ],
+        [
+          279.5439453125,
+          410.4117126464844
+        ],
+        [
+          39.86199951171875,
+          410.4117126464844
+        ]
+      ]
+    },
+    {
+      "title": "Implications and Applications of the\nModerator-Mediator Distinction",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          343.4400329589844,
+          562.91015625
+        ],
+        [
+          499.03521728515625,
+          562.91015625
+        ],
+        [
+          499.03521728515625,
+          585.765625
+        ],
+        [
+          343.4400329589844,
+          585.765625
+        ]
+      ]
+    },
+    {
+      "title": "Clarifying the Meaning of Control",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          300.89404296875,
+          651.8374176025391
+        ],
+        [
+          446.07470703125,
+          651.8374176025391
+        ],
+        [
+          446.07470703125,
+          662.5656204223633
+        ],
+        [
+          300.89404296875,
+          662.5656204223633
+        ]
+      ]
+    },
+    {
+      "title": "Behavior Intention-Behavior Relation",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          43.44800567626953,
+          467.4140625
+        ],
+        [
+          207.16015625,
+          467.4140625
+        ],
+        [
+          207.16015625,
+          479.7513122558594
+        ],
+        [
+          43.44800567626953,
+          479.7513122558594
+        ]
+      ]
+    },
+    {
+      "title": "Linking Global Dispositions to Behavior:\nAttitudes and Traits",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          298.72265625,
+          380.1328125
+        ],
+        [
+          475.8021240234375,
+          380.1328125
+        ],
+        [
+          475.8021240234375,
+          403.5340270996094
+        ],
+        [
+          298.72265625,
+          403.5340270996094
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          140.58203125,
+          266.09765625
+        ],
+        [
+          184.42347717285156,
+          266.09765625
+        ],
+        [
+          184.42347717285156,
+          276.88970947265625
+        ],
+        [
+          140.58203125,
+          276.88970947265625
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          138.30078125,
+          439.29052734375
+        ],
+        [
+          186.7545623779297,
+          439.29052734375
+        ],
+        [
+          186.7545623779297,
+          450.4126892089844
+        ],
+        [
+          138.30078125,
+          450.4126892089844
+        ]
+      ]
+    },
+    {
+      "title": "Instructions to Authors",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          242.51002502441406,
+          286.36083984375
+        ],
+        [
+          341.34521484375,
+          286.36083984375
+        ],
+        [
+          341.34521484375,
+          297.2243957519531
+        ],
+        [
+          242.51002502441406,
+          297.2243957519531
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          179
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          203
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          195
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          133
+        ],
+        [
+          "Span",
+          95
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          221
+        ],
+        [
+          "Line",
+          116
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          201
+        ],
+        [
+          "Line",
+          117
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          217
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          205
+        ],
+        [
+          "Line",
+          117
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          287
+        ],
+        [
+          "Line",
+          125
+        ],
+        [
+          "ListItem",
+          36
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/The Moderator-Mediator Variable Distinction in Social Psychological Research Conceptual Strategic and Statistical Considerations"
+}

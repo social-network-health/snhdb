@@ -1,0 +1,380 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Why I quit open source",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.7578125,
+          27.48687744140625
+        ],
+        [
+          425.6843566894531,
+          27.48687744140625
+        ],
+        [
+          425.6843566894531,
+          78.61962890625
+        ],
+        [
+          33.7578125,
+          78.61962890625
+        ]
+      ]
+    },
+    {
+      "title": "Entitlement and toxicity of users",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.7578125,
+          652.4283599853516
+        ],
+        [
+          378.7109069824219,
+          652.4283599853516
+        ],
+        [
+          378.7109069824219,
+          685.34912109375
+        ],
+        [
+          33.7578125,
+          685.34912109375
+        ]
+      ]
+    },
+    {
+      "title": "Low quality of contributions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          33.7578125,
+          512.98291015625
+        ],
+        [
+          336.6372375488281,
+          512.98291015625
+        ],
+        [
+          336.6372375488281,
+          546.6328125
+        ],
+        [
+          33.7578125,
+          546.6328125
+        ]
+      ]
+    },
+    {
+      "title": "Lack of community",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          33.7578125,
+          327.055908203125
+        ],
+        [
+          245.68663024902344,
+          327.055908203125
+        ],
+        [
+          245.68663024902344,
+          358.93359375
+        ],
+        [
+          33.7578125,
+          358.93359375
+        ]
+      ]
+    },
+    {
+      "title": "Lack of compensation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          33.7578125,
+          164.3697509765625
+        ],
+        [
+          274.6268310546875,
+          164.3697509765625
+        ],
+        [
+          274.6268310546875,
+          195.1083984375
+        ],
+        [
+          33.7578125,
+          195.1083984375
+        ]
+      ]
+    },
+    {
+      "title": "Lack oftooling",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          34.79264831542969,
+          637.4342193603516
+        ],
+        [
+          197.8659210205078,
+          637.4342193603516
+        ],
+        [
+          197.8659210205078,
+          668.47265625
+        ],
+        [
+          34.79264831542969,
+          668.47265625
+        ]
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          34.79264831542969,
+          648.6800689697266
+        ],
+        [
+          159.7541046142578,
+          648.6800689697266
+        ],
+        [
+          159.7541046142578,
+          675.64697265625
+        ],
+        [
+          34.79264831542969,
+          675.64697265625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          537
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          574
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          621
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          493
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          487
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          324
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Why I Quit Open Source"
+}

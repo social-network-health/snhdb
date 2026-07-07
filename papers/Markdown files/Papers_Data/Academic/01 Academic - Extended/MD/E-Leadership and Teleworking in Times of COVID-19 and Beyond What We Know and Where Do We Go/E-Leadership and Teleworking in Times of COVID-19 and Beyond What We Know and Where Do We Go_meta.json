@@ -1,0 +1,921 @@
+{
+  "table_of_contents": [
+    {
+      "title": "E-Leadership and Teleworking in\nTimes of COVID-19 and Beyond:\nWhat We Know and Where Do We Go",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          174.609375,
+          196.5234375
+        ],
+        [
+          548.489990234375,
+          196.5234375
+        ],
+        [
+          548.489990234375,
+          261.99102783203125
+        ],
+        [
+          174.609375,
+          261.99102783203125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          85.849609375,
+          385.810546875
+        ],
+        [
+          157.439453125,
+          385.810546875
+        ],
+        [
+          157.439453125,
+          394.189453125
+        ],
+        [
+          85.849609375,
+          394.189453125
+        ]
+      ]
+    },
+    {
+      "title": "Edited by:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          123.099609375,
+          410.1839904785156
+        ],
+        [
+          159.5500030517578,
+          410.1839904785156
+        ],
+        [
+          159.5500030517578,
+          418.564453125
+        ],
+        [
+          123.099609375,
+          418.564453125
+        ]
+      ]
+    },
+    {
+      "title": "Reviewed by:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          115.19099426269531,
+          440.654296875
+        ],
+        [
+          159.5500030517578,
+          440.654296875
+        ],
+        [
+          159.5500030517578,
+          450.51800537109375
+        ],
+        [
+          115.19099426269531,
+          450.51800537109375
+        ]
+      ]
+    },
+    {
+      "title": "*Correspondence:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          98.9453125,
+          516.826171875
+        ],
+        [
+          159.5500030517578,
+          516.826171875
+        ],
+        [
+          159.5500030517578,
+          525.205078125
+        ],
+        [
+          98.9453125,
+          525.205078125
+        ]
+      ]
+    },
+    {
+      "title": "Specialty section:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          100.69401550292969,
+          556.435546875
+        ],
+        [
+          159.55001831054688,
+          556.435546875
+        ],
+        [
+          159.55001831054688,
+          565.5860595703125
+        ],
+        [
+          100.69401550292969,
+          565.5860595703125
+        ]
+      ]
+    },
+    {
+      "title": "Citation:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          128.919921875,
+          644.794921875
+        ],
+        [
+          159.55001831054688,
+          644.794921875
+        ],
+        [
+          159.55001831054688,
+          653.2570724487305
+        ],
+        [
+          128.919921875,
+          653.2570724487305
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          175.482421875,
+          611.279296875
+        ],
+        [
+          269.5370178222656,
+          611.279296875
+        ],
+        [
+          269.5370178222656,
+          624.3689880371094
+        ],
+        [
+          175.482421875,
+          624.3689880371094
+        ]
+      ]
+    },
+    {
+      "title": "TELEWORKING AND THE EMERGENCE\nOF COVID-19",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          302.65625,
+          139.775390625
+        ],
+        [
+          530.8125,
+          139.775390625
+        ],
+        [
+          530.8125,
+          166.08746337890625
+        ],
+        [
+          302.65625,
+          166.08746337890625
+        ]
+      ]
+    },
+    {
+      "title": "Opportunities of Teleworking",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          44.234375,
+          346.201171875
+        ],
+        [
+          210.25599670410156,
+          346.201171875
+        ],
+        [
+          210.25599670410156,
+          358.5655212402344
+        ],
+        [
+          44.234375,
+          358.5655212402344
+        ]
+      ]
+    },
+    {
+      "title": "Risks of Teleworking",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          303.666015625,
+          369.052734375
+        ],
+        [
+          422.5546875,
+          369.052734375
+        ],
+        [
+          422.5546875,
+          381.4790954589844
+        ],
+        [
+          303.666015625,
+          381.4790954589844
+        ]
+      ]
+    },
+    {
+      "title": "MANAGEMENT, LEADERSHIP AND\nTELEWORK ENVIRONMENTS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          44.234375,
+          357.24609375
+        ],
+        [
+          244.453125,
+          357.24609375
+        ],
+        [
+          244.453125,
+          383.7715148925781
+        ],
+        [
+          44.234375,
+          383.7715148925781
+        ]
+      ]
+    },
+    {
+      "title": "E-LEADERSHIP AND ITS\nCONCEPTUALIZATION",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          303.6670227050781,
+          585.0
+        ],
+        [
+          445.8359375,
+          585.0
+        ],
+        [
+          445.8359375,
+          612.9120941162109
+        ],
+        [
+          303.6670227050781,
+          612.9120941162109
+        ]
+      ]
+    },
+    {
+      "title": "E-LEADERSHIP, TELEWORKING AND\nVIRTUAL TEAMS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          43.0703125,
+          320.302734375
+        ],
+        [
+          258.3039855957031,
+          320.302734375
+        ],
+        [
+          258.3039855957031,
+          347.58349609375
+        ],
+        [
+          43.0703125,
+          347.58349609375
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 2 | Main issues about e-leadership.",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          44.525390625,
+          574.716796875
+        ],
+        [
+          173.98300170898438,
+          574.716796875
+        ],
+        [
+          173.98300170898438,
+          583.2939910888672
+        ],
+        [
+          44.525390625,
+          583.2939910888672
+        ]
+      ]
+    },
+    {
+      "title": "Main issues",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          44.525390625,
+          592.998046875
+        ],
+        [
+          84.685546875,
+          592.998046875
+        ],
+        [
+          84.685546875,
+          601.5820007324219
+        ],
+        [
+          44.525390625,
+          601.5820007324219
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSION AND PROPOSITIONS FOR\nFURTHER STUDIES",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          303.6670227050781,
+          643.271484375
+        ],
+        [
+          537.9309692382812,
+          643.271484375
+        ],
+        [
+          537.9309692382812,
+          670.1971054077148
+        ],
+        [
+          303.6670227050781,
+          670.1971054077148
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          44.234375,
+          623.466796875
+        ],
+        [
+          126.10001373291016,
+          623.466796875
+        ],
+        [
+          126.10001373291016,
+          634.8041076660156
+        ],
+        [
+          44.234375,
+          634.8041076660156
+        ]
+      ]
+    },
+    {
+      "title": "AUTHOR CONTRIBUTIONS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          303.23828125,
+          404.091796875
+        ],
+        [
+          460.38671875,
+          404.091796875
+        ],
+        [
+          460.38671875,
+          418.14208984375
+        ],
+        [
+          303.23828125,
+          418.14208984375
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGMENTS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          303.5940246582031,
+          544.248046875
+        ],
+        [
+          435.650390625,
+          544.248046875
+        ],
+        [
+          435.650390625,
+          555.6260986328125
+        ],
+        [
+          303.5940246582031,
+          555.6260986328125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          175
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          296
+        ],
+        [
+          "Line",
+          113
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          393
+        ],
+        [
+          "Line",
+          114
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          319
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          424
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "TableCell",
+          48
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          349
+        ],
+        [
+          "Line",
+          116
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          371
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          341
+        ],
+        [
+          "Line",
+          113
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          284
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "Reference",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          530
+        ],
+        [
+          "Line",
+          138
+        ],
+        [
+          "ListItem",
+          46
+        ],
+        [
+          "Reference",
+          46
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          425
+        ],
+        [
+          "Line",
+          102
+        ],
+        [
+          "ListItem",
+          30
+        ],
+        [
+          "Reference",
+          30
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/E-Leadership and Teleworking in Times of COVID-19 and Beyond What We Know and Where Do We Go"
+}

@@ -1,0 +1,1782 @@
+{
+  "folder": "Remote Worker SNH",
+  "source_docx": "Papers_Data/Remote Worker SNH/Remote_Worker_SNH_Card_Schemas.docx",
+  "card_count": 16,
+  "cards": [
+    {
+      "id": "10.1111/nin.12493",
+      "title": "ABNFF-Journal-June-2024",
+      "authors": [],
+      "year": 2024,
+      "doi": "10.1111/nin.12493",
+      "venue": {
+        "type": "journal",
+        "name": "EDITORIALS",
+        "volume": null,
+        "issue": null,
+        "pages": null
+      },
+      "citation": "Unknown author (2024). ABNFF-Journal-June-2024. EDITORIALS.",
+      "article_type": "empirical",
+      "method": {
+        "design": "qualitative",
+        "approach": "other",
+        "evidence_level": "weak",
+        "preregistered": false
+      },
+      "gist": "This source gives the project a retrieval card for SNH remote-worker social connection, workplace isolation, remote collaboration, sampling, and prevention design: Method: The researchers employed an autoethnographic qualitative study of faculty and academic leaders to examine their context critically.",
+      "claims": [
+        {
+          "text": "Findings: The inductive process resulted in four major themes: mentoring, a culture of oppression, a sense of duty, and breaking the cycle to build a legacy accompanied by thirteen sub-themes reported.",
+          "evidence": "qualitative",
+          "support_strength": "weak",
+          "outcomes": [
+            "turnover",
+            "collaboration"
+          ],
+          "predictors": [
+            "organizational-culture",
+            "leadership-style",
+            "community-engagement"
+          ]
+        }
+      ],
+      "population": {
+        "who": "students/adolescents",
+        "where": [
+          "USA"
+        ],
+        "when": "during the COVID-19 pandemic",
+        "n": null,
+        "sector": [
+          "tech",
+          "education",
+          "healthcare"
+        ],
+        "sample_notes": "Participants held a Ph.D. or DNP from diverse institutions, ranks, and tenure, with 2 to 35 academic years."
+      },
+      "limitation": {
+        "primary": "Study Limitations Though this research does not seek to be generalizable, the findings should be considered in context with the setting and sample size.",
+        "others": [
+          "The questionnaire contained four questions and was submitted by less than 30 RN-BSN students.",
+          "Additionally, due to the shorter length of the program (two to three semesters), most of the first-year graduates were not included in the sample."
+        ]
+      },
+      "risk_of_bias": "medium",
+      "relevance_to_project": "Useful for the SNH remote-worker evidence stream because it indexes social connection, workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention mechanisms.",
+      "tags": {
+        "topic": [
+          "collaboration"
+        ],
+        "method": [
+          "survey",
+          "qualitative"
+        ],
+        "population": [
+          "students-adolescents",
+          "tech",
+          "education",
+          "healthcare"
+        ]
+      },
+      "source": {
+        "markdown": "Papers_Data/Remote Worker SNH/MD/ABNFF-Journal-June-2024/ABNFF-Journal-June-2024.md",
+        "pdf": null,
+        "notes": null
+      },
+      "raw_markdown": "id: \"10.1111/nin.12493\"\ntitle: \"ABNFF-Journal-June-2024\"\nauthors: []\nyear: 2024\ndoi: \"10.1111/nin.12493\"\nvenue: {type: \"journal\", name: \"EDITORIALS\", volume: null, issue: null, pages: null}\ncitation: \"Unknown author (2024). ABNFF-Journal-June-2024. EDITORIALS.\"\narticle_type: \"empirical\"\nmethod: {design: \"qualitative\", approach: \"other\", evidence_level: \"weak\", preregistered: false}\ngist: >\n  This source gives the project a retrieval card for SNH remote-worker social connection,\n  workplace isolation, remote collaboration, sampling, and prevention design: Method: The\n  researchers employed an autoethnographic qualitative study of faculty and academic leaders\n  to examine their context critically.\nclaims:\n  - text: \"Findings: The inductive process resulted in four major themes: mentoring, a culture of oppression, a sense of duty, and breaking the cycle to build a legacy accompanied by thirteen sub-themes reported.\"\n    evidence: \"qualitative\"\n    support_strength: \"weak\"\n    outcomes: [\"turnover\", \"collaboration\"]\n    predictors: [\"organizational-culture\", \"leadership-style\", \"community-engagement\"]\npopulation:\n  who: \"students/adolescents\"\n  where: [\"USA\"]\n  when: \"during the COVID-19 pandemic\"\n  n: null\n  sector: [\"tech\", \"education\", \"healthcare\"]\n  sample_notes: >\n    Participants held a Ph.D. or DNP from diverse institutions, ranks, and tenure, with 2 to 35\n    academic years.\nlimitation:\n  primary: \"Study Limitations Though this research does not seek to be generalizable, the findings should be considered in context with the setting and sample size.\"\n  others: [\"The questionnaire contained four questions and was submitted by less than 30 RN-BSN students.\", \"Additionally, due to the shorter length of the program (two to three semesters), most of the first-year graduates were not included in the sample.\"]\nrisk_of_bias: \"medium\"\nrelevance_to_project: >\n  Useful for the SNH remote-worker evidence stream because it indexes social connection,\n  workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention\n  mechanisms.\ntags:\n  topic: [\"collaboration\"]\n  method: [\"survey\", \"qualitative\"]\n  population: [\"students-adolescents\", \"tech\", \"education\", \"healthcare\"]\nsource:\n  markdown: \"Papers_Data/Remote Worker SNH/MD/ABNFF-Journal-June-2024/ABNFF-Journal-June-2024.md\"\n  pdf: null\n  notes: null"
+    },
+    {
+      "id": "10.2105/ajph.2009.190025",
+      "title": "An Outcome Evaluation of the Sources of Strength Suicide Prevention ProgramDelivered by Adolescent Peer Leaders in High Schools",
+      "authors": [
+        "Wyman, Peter A.",
+        "Brown, C. Hendricks",
+        "LoMurray, Mark",
+        "Schmeelk-Cone, Karen",
+        "Petrova, Mariya",
+        "Yu, Qin",
+        "Walsh, Erin",
+        "Tu, Xin",
+        "Wang, Wei"
+      ],
+      "year": 2010,
+      "doi": "10.2105/ajph.2009.190025",
+      "venue": {
+        "type": "report",
+        "name": null,
+        "volume": null,
+        "issue": null,
+        "pages": null
+      },
+      "citation": "Wyman et al. (2010). An Outcome Evaluation of the Sources of Strength Suicide Prevention ProgramDelivered by Adolescent Peer Leaders in High Schools.",
+      "article_type": "empirical",
+      "method": {
+        "design": "rct",
+        "approach": "experiment",
+        "evidence_level": "strong",
+        "preregistered": false
+      },
+      "gist": "This source gives the project a retrieval card for SNH remote-worker social connection, workplace isolation, remote collaboration, sampling, and prevention design: An Outcome Evaluation of the Sources of Strength Suicide Prevention ProgramDelivered by Adolescent Peer Leaders in High Schools",
+      "claims": [
+        {
+          "text": "Among students, the intervention increased perceptions of adult support for suicidal youths and the acceptability of seeking help.",
+          "evidence": "rct",
+          "support_strength": "strong",
+          "outcomes": [
+            "wellbeing",
+            "mental-health",
+            "suicidal-ideation",
+            "job-engagement",
+            "collaboration"
+          ],
+          "predictors": [
+            "social-support",
+            "leadership-style"
+          ]
+        },
+        {
+          "text": "Perception of adult support increased most in students with a history of suicidal ideation.",
+          "evidence": "rct",
+          "support_strength": "strong",
+          "outcomes": [
+            "wellbeing",
+            "mental-health",
+            "suicidal-ideation",
+            "job-engagement",
+            "collaboration"
+          ],
+          "predictors": [
+            "social-support",
+            "leadership-style"
+          ]
+        },
+        {
+          "text": "Sources of Strength is the first suicide prevention program involving peer leaders to enhance protective factors associated with reducing suicide at the school population level. (Am J Public Health.",
+          "evidence": "rct",
+          "support_strength": "strong",
+          "outcomes": [
+            "wellbeing",
+            "mental-health",
+            "suicidal-ideation",
+            "job-engagement",
+            "collaboration"
+          ],
+          "predictors": [
+            "social-support",
+            "leadership-style"
+          ]
+        }
+      ],
+      "population": {
+        "who": "students/adolescents",
+        "where": [
+          "USA"
+        ],
+        "when": null,
+        "n": 2675,
+        "sector": [
+          "tech",
+          "open-source",
+          "education",
+          "healthcare"
+        ],
+        "sample_notes": "We examined the effectiveness of the Sources of Strength suicide prevention program in enhancing protective factors among peer leaders trained to conduct schoolwide messaging and among the full population of high school students."
+      },
+      "limitation": {
+        "primary": "Another limitation of programs relying on referrals to address the needs of suicidal adolescents is that the programs may not suit many communities' resources.",
+        "others": [
+          "In many rural and underserved communities, where suicide rates among youths are 2 to 10 times above the national average,19,20 there is scarcity of, and low accessibility to, mental health services.21 Modifying socioecological factors at...",
+          "Suicide acceptance is linked to increased suicidal behavior and planning.33-35 Sources of Strength is built on a universal school-based suicide prevention approach designed to build socioecological protective influences across a full..."
+        ]
+      },
+      "risk_of_bias": "low",
+      "relevance_to_project": "Useful for the SNH remote-worker evidence stream because it indexes social connection, workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention mechanisms.",
+      "tags": {
+        "topic": [
+          "mental-health",
+          "wellbeing",
+          "open-source",
+          "suicide-prevention",
+          "social-support",
+          "collaboration"
+        ],
+        "method": [
+          "survey",
+          "rct"
+        ],
+        "population": [
+          "students-adolescents",
+          "tech",
+          "open-source",
+          "education",
+          "healthcare"
+        ]
+      },
+      "source": {
+        "markdown": "Papers_Data/Remote Worker SNH/MD/An Outcome Evaluation of the Sources of Strength Suicide/An Outcome Evaluation of the Sources of Strength Suicide.md",
+        "pdf": null,
+        "notes": null
+      },
+      "raw_markdown": "id: \"10.2105/ajph.2009.190025\"\ntitle: \"An Outcome Evaluation of the Sources of Strength Suicide Prevention ProgramDelivered by Adolescent Peer Leaders in High Schools\"\nauthors: [\"Wyman, Peter A.\", \"Brown, C. Hendricks\", \"LoMurray, Mark\", \"Schmeelk-Cone, Karen\", \"Petrova, Mariya\", \"Yu, Qin\", \"Walsh, Erin\", \"Tu, Xin\", \"Wang, Wei\"]\nyear: 2010\ndoi: \"10.2105/ajph.2009.190025\"\nvenue: {type: \"report\", name: null, volume: null, issue: null, pages: null}\ncitation: \"Wyman et al. (2010). An Outcome Evaluation of the Sources of Strength Suicide Prevention ProgramDelivered by Adolescent Peer Leaders in High Schools.\"\narticle_type: \"empirical\"\nmethod: {design: \"rct\", approach: \"experiment\", evidence_level: \"strong\", preregistered: false}\ngist: >\n  This source gives the project a retrieval card for SNH remote-worker social connection,\n  workplace isolation, remote collaboration, sampling, and prevention design: An Outcome\n  Evaluation of the Sources of Strength Suicide Prevention ProgramDelivered by Adolescent\n  Peer Leaders in High Schools\nclaims:\n  - text: \"Among students, the intervention increased perceptions of adult support for suicidal youths and the acceptability of seeking help.\"\n    evidence: \"rct\"\n    support_strength: \"strong\"\n    outcomes: [\"wellbeing\", \"mental-health\", \"suicidal-ideation\", \"job-engagement\", \"collaboration\"]\n    predictors: [\"social-support\", \"leadership-style\"]\n  - text: \"Perception of adult support increased most in students with a history of suicidal ideation.\"\n    evidence: \"rct\"\n    support_strength: \"strong\"\n    outcomes: [\"wellbeing\", \"mental-health\", \"suicidal-ideation\", \"job-engagement\", \"collaboration\"]\n    predictors: [\"social-support\", \"leadership-style\"]\n  - text: \"Sources of Strength is the first suicide prevention program involving peer leaders to enhance protective factors associated with reducing suicide at the school population level. (Am J Public Health.\"\n    evidence: \"rct\"\n    support_strength: \"strong\"\n    outcomes: [\"wellbeing\", \"mental-health\", \"suicidal-ideation\", \"job-engagement\", \"collaboration\"]\n    predictors: [\"social-support\", \"leadership-style\"]\npopulation:\n  who: \"students/adolescents\"\n  where: [\"USA\"]\n  when: null\n  n: 2675\n  sector: [\"tech\", \"open-source\", \"education\", \"healthcare\"]\n  sample_notes: >\n    We examined the effectiveness of the Sources of Strength suicide prevention program in\n    enhancing protective factors among peer leaders trained to conduct schoolwide messaging and\n    among the full population of high school students.\nlimitation:\n  primary: \"Another limitation of programs relying on referrals to address the needs of suicidal adolescents is that the programs may not suit many communities' resources.\"\n  others: [\"In many rural and underserved communities, where suicide rates among youths are 2 to 10 times above the national average,19,20 there is scarcity of, and low accessibility to, mental health services.21 Modifying socioecological factors at...\", \"Suicide acceptance is linked to increased suicidal behavior and planning.33-35 Sources of Strength is built on a universal school-based suicide prevention approach designed to build socioecological protective influences across a full...\"]\nrisk_of_bias: \"low\"\nrelevance_to_project: >\n  Useful for the SNH remote-worker evidence stream because it indexes social connection,\n  workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention\n  mechanisms.\ntags:\n  topic: [\"mental-health\", \"wellbeing\", \"open-source\", \"suicide-prevention\", \"social-support\", \"collaboration\"]\n  method: [\"survey\", \"rct\"]\n  population: [\"students-adolescents\", \"tech\", \"open-source\", \"education\", \"healthcare\"]\nsource:\n  markdown: \"Papers_Data/Remote Worker SNH/MD/An Outcome Evaluation of the Sources of Strength Suicide/An Outcome Evaluation of the Sources of Strength Suicide.md\"\n  pdf: null\n  notes: null"
+    },
+    {
+      "id": "10.1001/archinte.162.15.1682",
+      "title": "Reaching the hard-to-reach: a systematic review of strategies for improving health and medical research with socially disadvantaged groups",
+      "authors": [
+        "Bonevski, Billie",
+        "Randell, Madeleine",
+        "Paul, Chris",
+        "Chapman, Kathy",
+        "Twyman, Laura",
+        "Bryant, Jamie",
+        "Brozek, Irena",
+        "Hughes, Clare"
+      ],
+      "year": 2014,
+      "doi": "10.1001/archinte.162.15.1682",
+      "venue": {
+        "type": "thesis",
+        "name": "Background",
+        "volume": null,
+        "issue": null,
+        "pages": null
+      },
+      "citation": "Bonevski et al. (2014). Reaching the hard-to-reach: a systematic review of strategies for improving health and medical research with socially disadvantaged groups. Background.",
+      "article_type": "review",
+      "method": {
+        "design": "review-systematic",
+        "approach": "secondary-data",
+        "evidence_level": "strong",
+        "preregistered": false
+      },
+      "gist": "This source gives the project a retrieval card for SNH remote-worker social connection, workplace isolation, remote collaboration, sampling, and prevention design: Results: In total, 116 papers from 115 studies met inclusion criteria and 31 previous literature reviews were included.",
+      "claims": [
+        {
+          "text": "Articles were included if they reported attempts to increase disadvantaged group participation in research, or the barriers to research with disadvantaged groups.",
+          "evidence": "review-systematic",
+          "support_strength": "strong",
+          "outcomes": [
+            "turnover"
+          ],
+          "predictors": [
+            "community-engagement"
+          ]
+        },
+        {
+          "text": "Most studies of strategies to address the barriers were of a descriptive nature and only nine studies reported the results of randomised trials.",
+          "evidence": "review-systematic",
+          "support_strength": "strong",
+          "outcomes": [
+            "turnover"
+          ],
+          "predictors": [
+            "community-engagement"
+          ]
+        },
+        {
+          "text": "Conclusions: To tackle the challenges of research with socially disadvantaged groups, and increase their representation in health and medical research, researchers and research institutions need to acknowledge extended timeframes, plan for higher resourcing costs and operate via community partnerships.",
+          "evidence": "review-systematic",
+          "support_strength": "strong",
+          "outcomes": [
+            "turnover"
+          ],
+          "predictors": [
+            "community-engagement"
+          ]
+        }
+      ],
+      "population": {
+        "who": "students/adolescents",
+        "where": [
+          "Australia"
+        ],
+        "when": null,
+        "n": null,
+        "sector": [
+          "tech",
+          "open-source",
+          "education",
+          "healthcare"
+        ],
+        "sample_notes": "Failure to obtain medical research data which accurately Researchers continue to struggle to access, engage and retain participants from socially disadvantaged groups [7], resulting in labels such as \"hard-to-reach\" or \"hidden\"."
+      },
+      "limitation": {
+        "primary": "Study strengths and limitations The main limitation of the study is the extent of methodological variation in the studies included in the review.",
+        "others": [
+          "The extent of heterogeneity between studies prohibited combining the results statistically in a metaanalysis.",
+          "The inclusion of low level evidence also prohibits conclusive comments regarding the effectiveness of many of the strategies discussed in this review."
+        ]
+      },
+      "risk_of_bias": "low",
+      "relevance_to_project": "Useful for the SNH remote-worker evidence stream because it indexes social connection, workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention mechanisms.",
+      "tags": {
+        "topic": [
+          "open-source"
+        ],
+        "method": [
+          "review-systematic",
+          "rct",
+          "qualitative",
+          "systematic-review"
+        ],
+        "population": [
+          "students-adolescents",
+          "tech",
+          "open-source",
+          "education",
+          "healthcare"
+        ]
+      },
+      "source": {
+        "markdown": "Papers_Data/Remote Worker SNH/MD/Bonevski et al 2014 - Reaching the hard-to-reach (systematic review)/Bonevski et al 2014 - Reaching the hard-to-reach (systematic review).md",
+        "pdf": null,
+        "notes": null
+      },
+      "raw_markdown": "id: \"10.1001/archinte.162.15.1682\"\ntitle: \"Reaching the hard-to-reach: a systematic review of strategies for improving health and medical research with socially disadvantaged groups\"\nauthors: [\"Bonevski, Billie\", \"Randell, Madeleine\", \"Paul, Chris\", \"Chapman, Kathy\", \"Twyman, Laura\", \"Bryant, Jamie\", \"Brozek, Irena\", \"Hughes, Clare\"]\nyear: 2014\ndoi: \"10.1001/archinte.162.15.1682\"\nvenue: {type: \"thesis\", name: \"Background\", volume: null, issue: null, pages: null}\ncitation: \"Bonevski et al. (2014). Reaching the hard-to-reach: a systematic review of strategies for improving health and medical research with socially disadvantaged groups. Background.\"\narticle_type: \"review\"\nmethod: {design: \"review-systematic\", approach: \"secondary-data\", evidence_level: \"strong\", preregistered: false}\ngist: >\n  This source gives the project a retrieval card for SNH remote-worker social connection,\n  workplace isolation, remote collaboration, sampling, and prevention design: Results: In\n  total, 116 papers from 115 studies met inclusion criteria and 31 previous literature\n  reviews were included.\nclaims:\n  - text: \"Articles were included if they reported attempts to increase disadvantaged group participation in research, or the barriers to research with disadvantaged groups.\"\n    evidence: \"review-systematic\"\n    support_strength: \"strong\"\n    outcomes: [\"turnover\"]\n    predictors: [\"community-engagement\"]\n  - text: \"Most studies of strategies to address the barriers were of a descriptive nature and only nine studies reported the results of randomised trials.\"\n    evidence: \"review-systematic\"\n    support_strength: \"strong\"\n    outcomes: [\"turnover\"]\n    predictors: [\"community-engagement\"]\n  - text: \"Conclusions: To tackle the challenges of research with socially disadvantaged groups, and increase their representation in health and medical research, researchers and research institutions need to acknowledge extended timeframes, plan for higher resourcing costs and operate via community partnerships.\"\n    evidence: \"review-systematic\"\n    support_strength: \"strong\"\n    outcomes: [\"turnover\"]\n    predictors: [\"community-engagement\"]\npopulation:\n  who: \"students/adolescents\"\n  where: [\"Australia\"]\n  when: null\n  n: null\n  sector: [\"tech\", \"open-source\", \"education\", \"healthcare\"]\n  sample_notes: >\n    Failure to obtain medical research data which accurately Researchers continue to struggle\n    to access, engage and retain participants from socially disadvantaged groups [7], resulting\n    in labels such as \"hard-to-reach\" or \"hidden\".\nlimitation:\n  primary: \"Study strengths and limitations The main limitation of the study is the extent of methodological variation in the studies included in the review.\"\n  others: [\"The extent of heterogeneity between studies prohibited combining the results statistically in a metaanalysis.\", \"The inclusion of low level evidence also prohibits conclusive comments regarding the effectiveness of many of the strategies discussed in this review.\"]\nrisk_of_bias: \"low\"\nrelevance_to_project: >\n  Useful for the SNH remote-worker evidence stream because it indexes social connection,\n  workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention\n  mechanisms.\ntags:\n  topic: [\"open-source\"]\n  method: [\"review-systematic\", \"rct\", \"qualitative\", \"systematic-review\"]\n  population: [\"students-adolescents\", \"tech\", \"open-source\", \"education\", \"healthcare\"]\nsource:\n  markdown: \"Papers_Data/Remote Worker SNH/MD/Bonevski et al 2014 - Reaching the hard-to-reach (systematic review)/Bonevski et al 2014 - Reaching the hard-to-reach (systematic review).md\"\n  pdf: null\n  notes: null"
+    },
+    {
+      "id": "10.1080/1359432x.2018.1541886",
+      "title": "Systematically Reviewing Remote E-workers' Well-being at Work:",
+      "authors": [
+        "MBPsS, Maria Charalampous",
+        "BSc",
+        "author), MSc ( corresponding"
+      ],
+      "year": 2018,
+      "doi": "10.1080/1359432x.2018.1541886",
+      "venue": {
+        "type": "journal",
+        "name": "Original citation & hyperlink:",
+        "volume": null,
+        "issue": null,
+        "pages": null
+      },
+      "citation": "MBPsS et al. (2018). Systematically Reviewing Remote E-workers' Well-being at Work:. Original citation & hyperlink:.",
+      "article_type": "review",
+      "method": {
+        "design": "review-systematic",
+        "approach": "secondary-data",
+        "evidence_level": "strong",
+        "preregistered": false
+      },
+      "gist": "This source gives the project a retrieval card for SNH remote-worker social connection, workplace isolation, remote collaboration, sampling, and prevention design: The criteria for qualitative evidence are concerned with relevant sources of data used, relevant process of analysing data, and consideration of the findings in relation to the context and researchers' influence.",
+      "claims": [
+        {
+          "text": "The criteria for qualitative evidence are concerned with relevant sources of data used, relevant process of analysing data, and consideration of the findings in relation to the context and researchers' influence.",
+          "evidence": "review-systematic",
+          "support_strength": "strong",
+          "outcomes": [
+            "wellbeing",
+            "isolation",
+            "work-life-balance",
+            "collaboration"
+          ],
+          "predictors": [
+            "remote-work-intensity",
+            "social-support",
+            "team-cohesion"
+          ]
+        },
+        {
+          "text": "Each study can achieve a lower score of 25% ( ) when one criterion is met and a higher score of 100% ( ) when all criteria are met.",
+          "evidence": "review-systematic",
+          "support_strength": "strong",
+          "outcomes": [
+            "wellbeing",
+            "isolation",
+            "work-life-balance",
+            "collaboration"
+          ],
+          "predictors": [
+            "remote-work-intensity",
+            "social-support",
+            "team-cohesion"
+          ]
+        },
+        {
+          "text": "Findings indicate that we know more about remote e-workers' affective state, and their social and professional life than we know about their cognitive functioning and psychosomatic conditions.",
+          "evidence": "review-systematic",
+          "support_strength": "strong",
+          "outcomes": [
+            "wellbeing",
+            "isolation",
+            "work-life-balance",
+            "collaboration"
+          ],
+          "predictors": [
+            "remote-work-intensity",
+            "social-support",
+            "team-cohesion"
+          ]
+        }
+      ],
+      "population": {
+        "who": "employees/workers",
+        "where": [
+          "UK"
+        ],
+        "when": null,
+        "n": 215,
+        "sector": [
+          "tech",
+          "open-source",
+          "education",
+          "white-collar",
+          "remote-workers"
+        ],
+        "sample_notes": "Systematically Reviewing Remote E-workers' Well-being at Work: In cases where the decision to include one article or not could not be made by just the title, keywords and abstract (e.g., when flexible working was not clearly defined) then the article was retrieved and skim-read before making a decision."
+      },
+      "limitation": {
+        "primary": "Limitations and Future Research Despite the strengths of the current review, such as its rigorous theoretical and contextual framework and the breadth of information it provides there are some limitations that need to be addressed.",
+        "others": [
+          "Particularly, this review focuses on research within a specific time frame, excluding any research conducted, before and after the inclusion criteria.",
+          "Consequently, future research including different studies could reach different conclusions."
+        ]
+      },
+      "risk_of_bias": "low",
+      "relevance_to_project": "Useful for the SNH remote-worker evidence stream because it indexes social connection, workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention mechanisms.",
+      "tags": {
+        "topic": [
+          "remote-work",
+          "isolation",
+          "wellbeing",
+          "work-life-balance",
+          "open-source",
+          "social-support",
+          "collaboration"
+        ],
+        "method": [
+          "review-systematic",
+          "qualitative",
+          "systematic-review",
+          "theory"
+        ],
+        "population": [
+          "employees-workers",
+          "tech",
+          "open-source",
+          "education",
+          "white-collar",
+          "remote-workers"
+        ]
+      },
+      "source": {
+        "markdown": "Papers_Data/Remote Worker SNH/MD/Charalampous et al 2018 - Systematically reviewing remote e-workers wellbeing/Charalampous et al 2018 - Systematically reviewing remote e-workers wellbeing.md",
+        "pdf": null,
+        "notes": null
+      },
+      "raw_markdown": "id: \"10.1080/1359432x.2018.1541886\"\ntitle: \"Systematically Reviewing Remote E-workers' Well-being at Work:\"\nauthors: [\"MBPsS, Maria Charalampous\", \"BSc\", \"author), MSc ( corresponding\"]\nyear: 2018\ndoi: \"10.1080/1359432x.2018.1541886\"\nvenue: {type: \"journal\", name: \"Original citation & hyperlink:\", volume: null, issue: null, pages: null}\ncitation: \"MBPsS et al. (2018). Systematically Reviewing Remote E-workers' Well-being at Work:. Original citation & hyperlink:.\"\narticle_type: \"review\"\nmethod: {design: \"review-systematic\", approach: \"secondary-data\", evidence_level: \"strong\", preregistered: false}\ngist: >\n  This source gives the project a retrieval card for SNH remote-worker social connection,\n  workplace isolation, remote collaboration, sampling, and prevention design: The criteria\n  for qualitative evidence are concerned with relevant sources of data used, relevant process\n  of analysing data, and consideration of the findings in relation to the context and\n  researchers' influence.\nclaims:\n  - text: \"The criteria for qualitative evidence are concerned with relevant sources of data used, relevant process of analysing data, and consideration of the findings in relation to the context and researchers' influence.\"\n    evidence: \"review-systematic\"\n    support_strength: \"strong\"\n    outcomes: [\"wellbeing\", \"isolation\", \"work-life-balance\", \"collaboration\"]\n    predictors: [\"remote-work-intensity\", \"social-support\", \"team-cohesion\"]\n  - text: \"Each study can achieve a lower score of 25% ( ) when one criterion is met and a higher score of 100% ( ) when all criteria are met.\"\n    evidence: \"review-systematic\"\n    support_strength: \"strong\"\n    outcomes: [\"wellbeing\", \"isolation\", \"work-life-balance\", \"collaboration\"]\n    predictors: [\"remote-work-intensity\", \"social-support\", \"team-cohesion\"]\n  - text: \"Findings indicate that we know more about remote e-workers' affective state, and their social and professional life than we know about their cognitive functioning and psychosomatic conditions.\"\n    evidence: \"review-systematic\"\n    support_strength: \"strong\"\n    outcomes: [\"wellbeing\", \"isolation\", \"work-life-balance\", \"collaboration\"]\n    predictors: [\"remote-work-intensity\", \"social-support\", \"team-cohesion\"]\npopulation:\n  who: \"employees/workers\"\n  where: [\"UK\"]\n  when: null\n  n: 215\n  sector: [\"tech\", \"open-source\", \"education\", \"white-collar\", \"remote-workers\"]\n  sample_notes: >\n    Systematically Reviewing Remote E-workers' Well-being at Work: In cases where the decision\n    to include one article or not could not be made by just the title, keywords and abstract\n    (e.g., when flexible working was not clearly defined) then the article was retrieved and\n    skim-read before making a decision.\nlimitation:\n  primary: \"Limitations and Future Research Despite the strengths of the current review, such as its rigorous theoretical and contextual framework and the breadth of information it provides there are some limitations that need to be addressed.\"\n  others: [\"Particularly, this review focuses on research within a specific time frame, excluding any research conducted, before and after the inclusion criteria.\", \"Consequently, future research including different studies could reach different conclusions.\"]\nrisk_of_bias: \"low\"\nrelevance_to_project: >\n  Useful for the SNH remote-worker evidence stream because it indexes social connection,\n  workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention\n  mechanisms.\ntags:\n  topic: [\"remote-work\", \"isolation\", \"wellbeing\", \"work-life-balance\", \"open-source\", \"social-support\", \"collaboration\"]\n  method: [\"review-systematic\", \"qualitative\", \"systematic-review\", \"theory\"]\n  population: [\"employees-workers\", \"tech\", \"open-source\", \"education\", \"white-collar\", \"remote-workers\"]\nsource:\n  markdown: \"Papers_Data/Remote Worker SNH/MD/Charalampous et al 2018 - Systematically reviewing remote e-workers wellbeing/Charalampous et al 2018 - Systematically reviewing remote e-workers wellbeing.md\"\n  pdf: null\n  notes: null"
+    },
+    {
+      "id": "10.1080/03075079.2024.2326956",
+      "title": "When artificial intelligence substitutes humans in higher education: the cost of loneliness, student success, and retention",
+      "authors": [
+        "Crawford, Joseph",
+        "Allen, Kelly-Ann",
+        "Pani, Bianca",
+        "Cowling, Michael"
+      ],
+      "year": 2024,
+      "doi": "10.1080/03075079.2024.2326956",
+      "venue": {
+        "type": "journal",
+        "name": "ARTICLE HISTORY",
+        "volume": null,
+        "issue": null,
+        "pages": null
+      },
+      "citation": "Crawford et al. (2024). When artificial intelligence substitutes humans in higher education: the cost of loneliness, student success, and retention. ARTICLE HISTORY.",
+      "article_type": "theory",
+      "method": {
+        "design": "theory",
+        "approach": "modelling",
+        "evidence_level": "speculative",
+        "preregistered": false
+      },
+      "gist": "This source gives the project a retrieval card for SNH remote-worker social connection, workplace isolation, remote collaboration, sampling, and prevention design: Much of the AI in higher education research to date has focused on academic integrity and matters of authorship; yet, there may be unintended consequences beyond these concerns for students.",
+      "claims": [
+        {
+          "text": "When artificial intelligence substitutes humans in higher education: the cost of loneliness, student success, and retention Artificial intelligence (AI) may be the new-new-norm in a post-pandemic learning environment.",
+          "evidence": "theory",
+          "support_strength": "speculative",
+          "outcomes": [
+            "wellbeing",
+            "performance",
+            "loneliness",
+            "turnover",
+            "sense-of-belonging"
+          ],
+          "predictors": [
+            "loneliness",
+            "sense-of-belonging",
+            "social-support"
+          ]
+        },
+        {
+          "text": "Much of the AI in higher education research to date has focused on academic integrity and matters of authorship; yet, there may be unintended consequences beyond these concerns for students.",
+          "evidence": "theory",
+          "support_strength": "speculative",
+          "outcomes": [
+            "wellbeing",
+            "performance",
+            "loneliness",
+            "turnover",
+            "sense-of-belonging"
+          ],
+          "predictors": [
+            "loneliness",
+            "sense-of-belonging",
+            "social-support"
+          ]
+        },
+        {
+          "text": "Using structural equation modelling, the study finds evidence that while AI chatbots designed for information provision may be associated with student performance, when social support, psychological wellbeing, loneliness, and sense of belonging are considered it has a net negative effect on achievement.",
+          "evidence": "theory",
+          "support_strength": "speculative",
+          "outcomes": [
+            "wellbeing",
+            "performance",
+            "loneliness",
+            "turnover",
+            "sense-of-belonging"
+          ],
+          "predictors": [
+            "loneliness",
+            "sense-of-belonging",
+            "social-support"
+          ]
+        }
+      ],
+      "population": {
+        "who": "students/adolescents",
+        "where": [
+          "UK",
+          "Australia"
+        ],
+        "when": "COVID-19 pandemic",
+        "n": null,
+        "sector": [
+          "tech",
+          "open-source",
+          "education"
+        ],
+        "sample_notes": "There is a growing number of university students using AI like ChatGPT and Bard to support their academic experience."
+      },
+      "limitation": {
+        "primary": "Strengths and limitations This research provides novel evidence about the relationship between ChatGPT use and psychosocial outcomes in university students, a topic with limited empirical literature.",
+        "others": [
+          "The research findings address an obvious gap in the literature regarding psychological outcomes with AI usage and has the potential to serve as foundational work for this emerging field.",
+          "However, these preliminary contributions should be viewed considering the study's limitations."
+        ]
+      },
+      "risk_of_bias": "unclear",
+      "relevance_to_project": "Useful for the SNH remote-worker evidence stream because it indexes social connection, workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention mechanisms.",
+      "tags": {
+        "topic": [
+          "loneliness",
+          "wellbeing",
+          "productivity",
+          "open-source",
+          "community-health",
+          "social-support"
+        ],
+        "method": [
+          "theory"
+        ],
+        "population": [
+          "students-adolescents",
+          "tech",
+          "open-source",
+          "education"
+        ]
+      },
+      "source": {
+        "markdown": "Papers_Data/Remote Worker SNH/MD/Crawford et al 2024 - When AI substitutes humans (loneliness, retention)/Crawford et al 2024 - When AI substitutes humans (loneliness, retention).md",
+        "pdf": null,
+        "notes": null
+      },
+      "raw_markdown": "id: \"10.1080/03075079.2024.2326956\"\ntitle: \"When artificial intelligence substitutes humans in higher education: the cost of loneliness, student success, and retention\"\nauthors: [\"Crawford, Joseph\", \"Allen, Kelly-Ann\", \"Pani, Bianca\", \"Cowling, Michael\"]\nyear: 2024\ndoi: \"10.1080/03075079.2024.2326956\"\nvenue: {type: \"journal\", name: \"ARTICLE HISTORY\", volume: null, issue: null, pages: null}\ncitation: \"Crawford et al. (2024). When artificial intelligence substitutes humans in higher education: the cost of loneliness, student success, and retention. ARTICLE HISTORY.\"\narticle_type: \"theory\"\nmethod: {design: \"theory\", approach: \"modelling\", evidence_level: \"speculative\", preregistered: false}\ngist: >\n  This source gives the project a retrieval card for SNH remote-worker social connection,\n  workplace isolation, remote collaboration, sampling, and prevention design: Much of the AI\n  in higher education research to date has focused on academic integrity and matters of\n  authorship; yet, there may be unintended consequences beyond these concerns for students.\nclaims:\n  - text: \"When artificial intelligence substitutes humans in higher education: the cost of loneliness, student success, and retention Artificial intelligence (AI) may be the new-new-norm in a post-pandemic learning environment.\"\n    evidence: \"theory\"\n    support_strength: \"speculative\"\n    outcomes: [\"wellbeing\", \"performance\", \"loneliness\", \"turnover\", \"sense-of-belonging\"]\n    predictors: [\"loneliness\", \"sense-of-belonging\", \"social-support\"]\n  - text: \"Much of the AI in higher education research to date has focused on academic integrity and matters of authorship; yet, there may be unintended consequences beyond these concerns for students.\"\n    evidence: \"theory\"\n    support_strength: \"speculative\"\n    outcomes: [\"wellbeing\", \"performance\", \"loneliness\", \"turnover\", \"sense-of-belonging\"]\n    predictors: [\"loneliness\", \"sense-of-belonging\", \"social-support\"]\n  - text: \"Using structural equation modelling, the study finds evidence that while AI chatbots designed for information provision may be associated with student performance, when social support, psychological wellbeing, loneliness, and sense of belonging are considered it has a net negative effect on achievement.\"\n    evidence: \"theory\"\n    support_strength: \"speculative\"\n    outcomes: [\"wellbeing\", \"performance\", \"loneliness\", \"turnover\", \"sense-of-belonging\"]\n    predictors: [\"loneliness\", \"sense-of-belonging\", \"social-support\"]\npopulation:\n  who: \"students/adolescents\"\n  where: [\"UK\", \"Australia\"]\n  when: \"COVID-19 pandemic\"\n  n: null\n  sector: [\"tech\", \"open-source\", \"education\"]\n  sample_notes: >\n    There is a growing number of university students using AI like ChatGPT and Bard to support\n    their academic experience.\nlimitation:\n  primary: \"Strengths and limitations This research provides novel evidence about the relationship between ChatGPT use and psychosocial outcomes in university students, a topic with limited empirical literature.\"\n  others: [\"The research findings address an obvious gap in the literature regarding psychological outcomes with AI usage and has the potential to serve as foundational work for this emerging field.\", \"However, these preliminary contributions should be viewed considering the study's limitations.\"]\nrisk_of_bias: \"unclear\"\nrelevance_to_project: >\n  Useful for the SNH remote-worker evidence stream because it indexes social connection,\n  workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention\n  mechanisms.\ntags:\n  topic: [\"loneliness\", \"wellbeing\", \"productivity\", \"open-source\", \"community-health\", \"social-support\"]\n  method: [\"theory\"]\n  population: [\"students-adolescents\", \"tech\", \"open-source\", \"education\"]\nsource:\n  markdown: \"Papers_Data/Remote Worker SNH/MD/Crawford et al 2024 - When AI substitutes humans (loneliness, retention)/Crawford et al 2024 - When AI substitutes humans (loneliness, retention).md\"\n  pdf: null\n  notes: null"
+    },
+    {
+      "id": "10.1001/jamanetworkopen.2020.22532",
+      "title": "Effect of the Wingman-Connect Upstream Suicide Prevention Program for Air Force Personnel in Training A Cluster Randomized Clinical Trial",
+      "authors": [
+        "Wyman, Peter A.",
+        "Pisani, Anthony R.",
+        "Brown, C. Hendricks",
+        "Yates, Bryan",
+        "Morgan-DeVelder, Lacy",
+        "Schmeelk-Cone, Karen",
+        "Gibbons, Robert D.",
+        "Caine, Eric D.",
+        "Petrova, Mariya",
+        "Neal-Walden, Tracy",
+        "Linkh, David J.",
+        "Matteson, Alicia"
+      ],
+      "year": 2020,
+      "doi": "10.1001/jamanetworkopen.2020.22532",
+      "venue": {
+        "type": "journal",
+        "name": "Original Investigation Public Health",
+        "volume": null,
+        "issue": null,
+        "pages": null
+      },
+      "citation": "Wyman et al. (2020). Effect of the Wingman-Connect Upstream Suicide Prevention Program for Air Force Personnel in Training A Cluster Randomized Clinical Trial. Original Investigation Public Health.",
+      "article_type": "empirical",
+      "method": {
+        "design": "rct",
+        "approach": "experiment",
+        "evidence_level": "very-strong",
+        "preregistered": true
+      },
+      "gist": "This source gives the project a retrieval card for SNH remote-worker social connection, workplace isolation, remote collaboration, sampling, and prevention design: RESULTS A total of 215 classes including 1485 individuals (1222 men [82.3%]; mean [SD] age, 20.9 [3.1] years) participated; 748 individuals were enrolled in the Wingman-Connect program and 737 individuals were enrolled in the stress management program.",
+      "claims": [
+        {
+          "text": "At 1 month, the Wingman-Connect group reported lower suicidal ideation severity (effect size...",
+          "evidence": "rct",
+          "support_strength": "very-strong",
+          "outcomes": [
+            "mental-health",
+            "depression",
+            "suicidal-ideation",
+            "turnover",
+            "occupational-impairment"
+          ],
+          "predictors": [
+            "social-support",
+            "team-cohesion"
+          ]
+        },
+        {
+          "text": "At 1 month, the Wingman-Connect group reported lower suicidal ideation severity (effect size [ES], −0.23; 95% CI, −0.39 to −0.09; P =.001) and depression symptoms (ES, −0.24; 95% CI, −0.41 to −0.08; P =.002) and fewer occupational problems (ES, −0.14; 95% CI, −0.31 to −0.02; P =.02).",
+          "evidence": "rct",
+          "support_strength": "very-strong",
+          "outcomes": [
+            "mental-health",
+            "depression",
+            "suicidal-ideation",
+            "turnover",
+            "occupational-impairment"
+          ],
+          "predictors": [
+            "social-support",
+            "team-cohesion"
+          ]
+        },
+        {
+          "text": "At 6 months, the Wingman-Connect group reported lower depression symptoms (ES, −0.16; 95% CI, −0.34 to −0.02; P =.03), (continued) Key Points Question Does group training to build cohesion, shared purpose, and healthy coping for classes of new US Air Force Airmen reduce suicidal thoughts, depression...",
+          "evidence": "rct",
+          "support_strength": "very-strong",
+          "outcomes": [
+            "mental-health",
+            "depression",
+            "suicidal-ideation",
+            "turnover",
+            "occupational-impairment"
+          ],
+          "predictors": [
+            "social-support",
+            "team-cohesion"
+          ]
+        }
+      ],
+      "population": {
+        "who": "Air Force personnel in training",
+        "where": [],
+        "when": "from October 2017 to October 2019",
+        "n": 216,
+        "sector": [
+          "military",
+          "education",
+          "healthcare"
+        ],
+        "sample_notes": "OBJECTIVES To determine whether the Wingman-Connect program for Airmen-in-training reduces suicidal ideation, depression, and occupational problems compared with a stress management program and to test the underlying network health model positing that cohesive, healthy units are protective against suicidal ideation."
+      },
+      "limitation": {
+        "primary": "Limitations Study limitations include the fact that participants and school leadership were not blinded to the intervention condition.",
+        "others": [
+          "Although training satisfaction ratings were comparable between the 2 conditions, the impact of awareness of the condition on self-ratings cannot be ruled out.",
+          "Second, the outcomes relied on self-reports; however, these self-reported measures have been validated against structured clinical interviews with strong agreement."
+        ]
+      },
+      "risk_of_bias": "low",
+      "relevance_to_project": "Useful for the SNH remote-worker evidence stream because it indexes social connection, workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention mechanisms.",
+      "tags": {
+        "topic": [
+          "mental-health",
+          "suicide-prevention"
+        ],
+        "method": [
+          "longitudinal",
+          "rct"
+        ],
+        "population": [
+          "air-force-personnel-in-training",
+          "military",
+          "education",
+          "healthcare"
+        ]
+      },
+      "source": {
+        "markdown": "Papers_Data/Remote Worker SNH/MD/Effect of the Wingman-Connect Upstream Suicide Prevention Program/Effect of the Wingman-Connect Upstream Suicide Prevention Program.md",
+        "pdf": null,
+        "notes": null
+      },
+      "raw_markdown": "id: \"10.1001/jamanetworkopen.2020.22532\"\ntitle: \"Effect of the Wingman-Connect Upstream Suicide Prevention Program for Air Force Personnel in Training A Cluster Randomized Clinical Trial\"\nauthors: [\"Wyman, Peter A.\", \"Pisani, Anthony R.\", \"Brown, C. Hendricks\", \"Yates, Bryan\", \"Morgan-DeVelder, Lacy\", \"Schmeelk-Cone, Karen\", \"Gibbons, Robert D.\", \"Caine, Eric D.\", \"Petrova, Mariya\", \"Neal-Walden, Tracy\", \"Linkh, David J.\", \"Matteson, Alicia\"]\nyear: 2020\ndoi: \"10.1001/jamanetworkopen.2020.22532\"\nvenue: {type: \"journal\", name: \"Original Investigation Public Health\", volume: null, issue: null, pages: null}\ncitation: \"Wyman et al. (2020). Effect of the Wingman-Connect Upstream Suicide Prevention Program for Air Force Personnel in Training A Cluster Randomized Clinical Trial. Original Investigation Public Health.\"\narticle_type: \"empirical\"\nmethod: {design: \"rct\", approach: \"experiment\", evidence_level: \"very-strong\", preregistered: true}\ngist: >\n  This source gives the project a retrieval card for SNH remote-worker social connection,\n  workplace isolation, remote collaboration, sampling, and prevention design: RESULTS A total\n  of 215 classes including 1485 individuals (1222 men [82.3%]; mean [SD] age, 20.9 [3.1]\n  years) participated; 748 individuals were enrolled in the Wingman-Connect program and 737\n  individuals were enrolled in the stress management program.\nclaims:\n  - text: \"At 1 month, the Wingman-Connect group reported lower suicidal ideation severity (effect size...\"\n    evidence: \"rct\"\n    support_strength: \"very-strong\"\n    outcomes: [\"mental-health\", \"depression\", \"suicidal-ideation\", \"turnover\", \"occupational-impairment\"]\n    predictors: [\"social-support\", \"team-cohesion\"]\n  - text: \"At 1 month, the Wingman-Connect group reported lower suicidal ideation severity (effect size [ES], −0.23; 95% CI, −0.39 to −0.09; P =.001) and depression symptoms (ES, −0.24; 95% CI, −0.41 to −0.08; P =.002) and fewer occupational problems (ES, −0.14; 95% CI, −0.31 to −0.02; P =.02).\"\n    evidence: \"rct\"\n    support_strength: \"very-strong\"\n    outcomes: [\"mental-health\", \"depression\", \"suicidal-ideation\", \"turnover\", \"occupational-impairment\"]\n    predictors: [\"social-support\", \"team-cohesion\"]\n  - text: \"At 6 months, the Wingman-Connect group reported lower depression symptoms (ES, −0.16; 95% CI, −0.34 to −0.02; P =.03), (continued) Key Points Question Does group training to build cohesion, shared purpose, and healthy coping for classes of new US Air Force Airmen reduce suicidal thoughts, depression...\"\n    evidence: \"rct\"\n    support_strength: \"very-strong\"\n    outcomes: [\"mental-health\", \"depression\", \"suicidal-ideation\", \"turnover\", \"occupational-impairment\"]\n    predictors: [\"social-support\", \"team-cohesion\"]\npopulation:\n  who: \"Air Force personnel in training\"\n  where: []\n  when: \"from October 2017 to October 2019\"\n  n: 216\n  sector: [\"military\", \"education\", \"healthcare\"]\n  sample_notes: >\n    OBJECTIVES To determine whether the Wingman-Connect program for Airmen-in-training reduces\n    suicidal ideation, depression, and occupational problems compared with a stress management\n    program and to test the underlying network health model positing that cohesive, healthy\n    units are protective against suicidal ideation.\nlimitation:\n  primary: \"Limitations Study limitations include the fact that participants and school leadership were not blinded to the intervention condition.\"\n  others: [\"Although training satisfaction ratings were comparable between the 2 conditions, the impact of awareness of the condition on self-ratings cannot be ruled out.\", \"Second, the outcomes relied on self-reports; however, these self-reported measures have been validated against structured clinical interviews with strong agreement.\"]\nrisk_of_bias: \"low\"\nrelevance_to_project: >\n  Useful for the SNH remote-worker evidence stream because it indexes social connection,\n  workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention\n  mechanisms.\ntags:\n  topic: [\"mental-health\", \"suicide-prevention\"]\n  method: [\"longitudinal\", \"rct\"]\n  population: [\"air-force-personnel-in-training\", \"military\", \"education\", \"healthcare\"]\nsource:\n  markdown: \"Papers_Data/Remote Worker SNH/MD/Effect of the Wingman-Connect Upstream Suicide Prevention Program/Effect of the Wingman-Connect Upstream Suicide Prevention Program.md\"\n  pdf: null\n  notes: null"
+    },
+    {
+      "id": "10.1007/s12193-020-00330-2",
+      "title": "Multimodal interfaces and communication cues for remote collaboration",
+      "authors": [],
+      "year": 2020,
+      "doi": "10.1007/s12193-020-00330-2",
+      "venue": {
+        "type": "conference",
+        "name": "EDITORIAL",
+        "volume": null,
+        "issue": null,
+        "pages": null
+      },
+      "citation": "Unknown author (2020). Multimodal interfaces and communication cues for remote collaboration. EDITORIAL.",
+      "article_type": "theory",
+      "method": {
+        "design": "theory",
+        "approach": "other",
+        "evidence_level": "speculative",
+        "preregistered": false
+      },
+      "gist": "This source gives the project a retrieval card for SNH remote-worker social connection, workplace isolation, remote collaboration, sampling, and prevention design: However, despite the increasing research interest in remote collaboration study with VR/AR/MR technologies, there is still a lack of academic venues specifically focusing on VR/AR/MR remote collaboration research.",
+      "claims": [
+        {
+          "text": "However, there was a lack of academic journals, which could provide comprehensive yet novel findings and knowledge, particularly focusing on AR/VR/MR remote collaboration with multimodal input.",
+          "evidence": "theory",
+          "support_strength": "speculative",
+          "outcomes": [
+            "performance",
+            "collaboration"
+          ],
+          "predictors": [
+            "organizational-culture",
+            "social-support"
+          ]
+        }
+      ],
+      "population": {
+        "who": "remote workers, social connection, or SNH-relevant study participants",
+        "where": [
+          "USA",
+          "Australia"
+        ],
+        "when": null,
+        "n": null,
+        "sector": [
+          "tech",
+          "open-source",
+          "education"
+        ],
+        "sample_notes": "Population details were not clearly extractable from the markdown; see the source card fields and source path."
+      },
+      "limitation": {
+        "primary": "The markdown did not expose an explicit limitation section; interpret claims according to method and source type.",
+        "others": [
+          "Use this card as an index and verify fine-grained methodological caveats in the source text."
+        ]
+      },
+      "risk_of_bias": "unclear",
+      "relevance_to_project": "Useful for the SNH remote-worker evidence stream because it indexes social connection, workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention mechanisms.",
+      "tags": {
+        "topic": [
+          "productivity",
+          "open-source",
+          "social-support",
+          "collaboration"
+        ],
+        "method": [
+          "theory"
+        ],
+        "population": [
+          "remote-workers-social-connection-or-snh",
+          "tech",
+          "open-source",
+          "education"
+        ]
+      },
+      "source": {
+        "markdown": "Papers_Data/Remote Worker SNH/MD/Kim et al 2020 - Multimodal interfaces & cues for remote collaboration/Kim et al 2020 - Multimodal interfaces & cues for remote collaboration.md",
+        "pdf": null,
+        "notes": null
+      },
+      "raw_markdown": "id: \"10.1007/s12193-020-00330-2\"\ntitle: \"Multimodal interfaces and communication cues for remote collaboration\"\nauthors: []\nyear: 2020\ndoi: \"10.1007/s12193-020-00330-2\"\nvenue: {type: \"conference\", name: \"EDITORIAL\", volume: null, issue: null, pages: null}\ncitation: \"Unknown author (2020). Multimodal interfaces and communication cues for remote collaboration. EDITORIAL.\"\narticle_type: \"theory\"\nmethod: {design: \"theory\", approach: \"other\", evidence_level: \"speculative\", preregistered: false}\ngist: >\n  This source gives the project a retrieval card for SNH remote-worker social connection,\n  workplace isolation, remote collaboration, sampling, and prevention design: However,\n  despite the increasing research interest in remote collaboration study with VR/AR/MR\n  technologies, there is still a lack of academic venues specifically focusing on VR/AR/MR\n  remote collaboration research.\nclaims:\n  - text: \"However, there was a lack of academic journals, which could provide comprehensive yet novel findings and knowledge, particularly focusing on AR/VR/MR remote collaboration with multimodal input.\"\n    evidence: \"theory\"\n    support_strength: \"speculative\"\n    outcomes: [\"performance\", \"collaboration\"]\n    predictors: [\"organizational-culture\", \"social-support\"]\npopulation:\n  who: \"remote workers, social connection, or SNH-relevant study participants\"\n  where: [\"USA\", \"Australia\"]\n  when: null\n  n: null\n  sector: [\"tech\", \"open-source\", \"education\"]\n  sample_notes: >\n    Population details were not clearly extractable from the markdown; see the source card\n    fields and source path.\nlimitation:\n  primary: \"The markdown did not expose an explicit limitation section; interpret claims according to method and source type.\"\n  others: [\"Use this card as an index and verify fine-grained methodological caveats in the source text.\"]\nrisk_of_bias: \"unclear\"\nrelevance_to_project: >\n  Useful for the SNH remote-worker evidence stream because it indexes social connection,\n  workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention\n  mechanisms.\ntags:\n  topic: [\"productivity\", \"open-source\", \"social-support\", \"collaboration\"]\n  method: [\"theory\"]\n  population: [\"remote-workers-social-connection-or-snh\", \"tech\", \"open-source\", \"education\"]\nsource:\n  markdown: \"Papers_Data/Remote Worker SNH/MD/Kim et al 2020 - Multimodal interfaces & cues for remote collaboration/Kim et al 2020 - Multimodal interfaces & cues for remote collaboration.md\"\n  pdf: null\n  notes: null"
+    },
+    {
+      "id": "10.1145/3322276.3322340",
+      "title": "Re-Embodiment and Co-Embodiment: Exploration of social presence for robots and conversational agents",
+      "authors": [],
+      "year": 2019,
+      "doi": "10.1145/3322276.3322340",
+      "venue": {
+        "type": "conference",
+        "name": "Author Keywords",
+        "volume": null,
+        "issue": null,
+        "pages": null
+      },
+      "citation": "Unknown author (2019). Re-Embodiment and Co-Embodiment: Exploration of social presence for robots and conversational agents. Author Keywords.",
+      "article_type": "empirical",
+      "method": {
+        "design": "cross-sectional",
+        "approach": "survey",
+        "evidence_level": "weak",
+        "preregistered": false
+      },
+      "gist": "This source gives the project a retrieval card for SNH remote-worker social connection, workplace isolation, remote collaboration, sampling, and prevention design: Reactions showed that participants felt comfortable with re-embodying agents, who created more seamless and efficient experiences.",
+      "claims": [
+        {
+          "text": "Reactions showed that participants felt comfortable with re-embodying agents, who created more seamless and efficient experiences.",
+          "evidence": "cross-sectional",
+          "support_strength": "weak",
+          "outcomes": [
+            "collaboration"
+          ],
+          "predictors": [
+            "open-source-maintenance"
+          ]
+        }
+      ],
+      "population": {
+        "who": "remote workers, social connection, or SNH-relevant study participants",
+        "where": [
+          "USA"
+        ],
+        "when": null,
+        "n": null,
+        "sector": [
+          "tech",
+          "open-source",
+          "education",
+          "healthcare"
+        ],
+        "sample_notes": "We conducted a User Enactments study in which participants interacted with agents that had one social presence per body, that could re-embody (move their social presence from body to body), and that could co-embody (move their social presence into a body that already contains another)."
+      },
+      "limitation": {
+        "primary": "If you had presented me with Ari [one of the robots] who was sitting on the little table, and then something that looks humanoid, then there might be some difference.\" Perhaps a more critical aspect to examine further is the exterior design of re-embodying...",
+        "others": [
+          "Perception of Agent Expertise In the DMV enactment, participants first interacted with several distinct social presences across touchpoints, each in a separate body (one-for-one).",
+          "In the next variation, they interacted with a single social presence that moved from one body to another (re-embodiment)."
+        ]
+      },
+      "risk_of_bias": "medium",
+      "relevance_to_project": "Useful for the SNH remote-worker evidence stream because it indexes social connection, workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention mechanisms.",
+      "tags": {
+        "topic": [
+          "open-source",
+          "collaboration"
+        ],
+        "method": [
+          "cross-sectional"
+        ],
+        "population": [
+          "remote-workers-social-connection-or-snh",
+          "tech",
+          "open-source",
+          "education",
+          "healthcare"
+        ]
+      },
+      "source": {
+        "markdown": "Papers_Data/Remote Worker SNH/MD/Luria et al 2019 - Re-Embodiment and Co-Embodiment/Luria et al 2019 - Re-Embodiment and Co-Embodiment.md",
+        "pdf": null,
+        "notes": null
+      },
+      "raw_markdown": "id: \"10.1145/3322276.3322340\"\ntitle: \"Re-Embodiment and Co-Embodiment: Exploration of social presence for robots and conversational agents\"\nauthors: []\nyear: 2019\ndoi: \"10.1145/3322276.3322340\"\nvenue: {type: \"conference\", name: \"Author Keywords\", volume: null, issue: null, pages: null}\ncitation: \"Unknown author (2019). Re-Embodiment and Co-Embodiment: Exploration of social presence for robots and conversational agents. Author Keywords.\"\narticle_type: \"empirical\"\nmethod: {design: \"cross-sectional\", approach: \"survey\", evidence_level: \"weak\", preregistered: false}\ngist: >\n  This source gives the project a retrieval card for SNH remote-worker social connection,\n  workplace isolation, remote collaboration, sampling, and prevention design: Reactions\n  showed that participants felt comfortable with re-embodying agents, who created more\n  seamless and efficient experiences.\nclaims:\n  - text: \"Reactions showed that participants felt comfortable with re-embodying agents, who created more seamless and efficient experiences.\"\n    evidence: \"cross-sectional\"\n    support_strength: \"weak\"\n    outcomes: [\"collaboration\"]\n    predictors: [\"open-source-maintenance\"]\npopulation:\n  who: \"remote workers, social connection, or SNH-relevant study participants\"\n  where: [\"USA\"]\n  when: null\n  n: null\n  sector: [\"tech\", \"open-source\", \"education\", \"healthcare\"]\n  sample_notes: >\n    We conducted a User Enactments study in which participants interacted with agents that had\n    one social presence per body, that could re-embody (move their social presence from body to\n    body), and that could co-embody (move their social presence into a body that already\n    contains another).\nlimitation:\n  primary: \"If you had presented me with Ari [one of the robots] who was sitting on the little table, and then something that looks humanoid, then there might be some difference.\\\" Perhaps a more critical aspect to examine further is the exterior design of re-embodying...\"\n  others: [\"Perception of Agent Expertise In the DMV enactment, participants first interacted with several distinct social presences across touchpoints, each in a separate body (one-for-one).\", \"In the next variation, they interacted with a single social presence that moved from one body to another (re-embodiment).\"]\nrisk_of_bias: \"medium\"\nrelevance_to_project: >\n  Useful for the SNH remote-worker evidence stream because it indexes social connection,\n  workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention\n  mechanisms.\ntags:\n  topic: [\"open-source\", \"collaboration\"]\n  method: [\"cross-sectional\"]\n  population: [\"remote-workers-social-connection-or-snh\", \"tech\", \"open-source\", \"education\", \"healthcare\"]\nsource:\n  markdown: \"Papers_Data/Remote Worker SNH/MD/Luria et al 2019 - Re-Embodiment and Co-Embodiment/Luria et al 2019 - Re-Embodiment and Co-Embodiment.md\"\n  pdf: null\n  notes: null"
+    },
+    {
+      "id": "10.3389/frobt.2018.00114/full",
+      "title": "A Systematic Review of Social Presence: Definition, Antecedents, and Implications",
+      "authors": [
+        "Oh, Catherine S.",
+        "Bailenson, Jeremy N.",
+        "Welch, Gregory F."
+      ],
+      "year": 2018,
+      "doi": "10.3389/frobt.2018.00114/full",
+      "venue": {
+        "type": "journal",
+        "name": "Edited by:",
+        "volume": null,
+        "issue": null,
+        "pages": null
+      },
+      "citation": "Oh et al. (2018). A Systematic Review of Social Presence: Definition, Antecedents, and Implications. Edited by:.",
+      "article_type": "review",
+      "method": {
+        "design": "review-systematic",
+        "approach": "secondary-data",
+        "evidence_level": "strong",
+        "preregistered": false
+      },
+      "gist": "This source gives the project a retrieval card for SNH remote-worker social connection, workplace isolation, remote collaboration, sampling, and prevention design: This paper reviews the concept, antecedents, and implications of social presence, with a focus on the literature regarding the predictors of social presence.",
+      "claims": [
+        {
+          "text": "After establishing the definition of social presence, the article offers a systematic review of 233 separate findings identified from 152 studies that investigate the factors (i.e., immersive qualities, contextual differences, and individual psychological traits) that predict social presence.",
+          "evidence": "review-systematic",
+          "support_strength": "strong",
+          "outcomes": [
+            "collaboration"
+          ],
+          "predictors": [
+            "hope"
+          ]
+        },
+        {
+          "text": "This increased accessibility of VR technology has fueled a renewed interest in the social applications of VR, which is exemplified by the launch of multiple platforms including AltSpace VR, Facebook Spaces, High Fidelity, Normal VR, Oculus Medium, Rec Room, Sansar, and VR Chat.",
+          "evidence": "review-systematic",
+          "support_strength": "strong",
+          "outcomes": [
+            "collaboration"
+          ],
+          "predictors": [
+            "hope"
+          ]
+        }
+      ],
+      "population": {
+        "who": "remote workers, social connection, or SNH-relevant study participants",
+        "where": [
+          "USA",
+          "UK",
+          "Israel"
+        ],
+        "when": null,
+        "n": null,
+        "sector": [
+          "tech",
+          "education"
+        ],
+        "sample_notes": "Population details were not clearly extractable from the markdown; see the source card fields and source path."
+      },
+      "limitation": {
+        "primary": "Finally, while we are aware of the strengths of behavioral and physiological measures and limitations of self-report measures (Slater, 2004; Friedman et al., 2006), we did not include studies that exclusively used behavioral and/or physiological measures of...",
+        "others": [
+          "The criteria used to select studies were adapted from Cummings and Bailenson (2016) to fit the current context.",
+          "Based on this process ( Figure 1 ), we were able to identify 152 studies with 233 separate findings regarding the factors that can predict social presence."
+        ]
+      },
+      "risk_of_bias": "low",
+      "relevance_to_project": "Useful for the SNH remote-worker evidence stream because it indexes social connection, workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention mechanisms.",
+      "tags": {
+        "topic": [
+          "collaboration"
+        ],
+        "method": [
+          "review-systematic",
+          "systematic-review",
+          "theory"
+        ],
+        "population": [
+          "remote-workers-social-connection-or-snh",
+          "tech",
+          "education"
+        ]
+      },
+      "source": {
+        "markdown": "Papers_Data/Remote Worker SNH/MD/Oh et al 2018 - A Systematic Review of Social Presence/Oh et al 2018 - A Systematic Review of Social Presence.md",
+        "pdf": null,
+        "notes": null
+      },
+      "raw_markdown": "id: \"10.3389/frobt.2018.00114/full\"\ntitle: \"A Systematic Review of Social Presence: Definition, Antecedents, and Implications\"\nauthors: [\"Oh, Catherine S.\", \"Bailenson, Jeremy N.\", \"Welch, Gregory F.\"]\nyear: 2018\ndoi: \"10.3389/frobt.2018.00114/full\"\nvenue: {type: \"journal\", name: \"Edited by:\", volume: null, issue: null, pages: null}\ncitation: \"Oh et al. (2018). A Systematic Review of Social Presence: Definition, Antecedents, and Implications. Edited by:.\"\narticle_type: \"review\"\nmethod: {design: \"review-systematic\", approach: \"secondary-data\", evidence_level: \"strong\", preregistered: false}\ngist: >\n  This source gives the project a retrieval card for SNH remote-worker social connection,\n  workplace isolation, remote collaboration, sampling, and prevention design: This paper\n  reviews the concept, antecedents, and implications of social presence, with a focus on the\n  literature regarding the predictors of social presence.\nclaims:\n  - text: \"After establishing the definition of social presence, the article offers a systematic review of 233 separate findings identified from 152 studies that investigate the factors (i.e., immersive qualities, contextual differences, and individual psychological traits) that predict social presence.\"\n    evidence: \"review-systematic\"\n    support_strength: \"strong\"\n    outcomes: [\"collaboration\"]\n    predictors: [\"hope\"]\n  - text: \"This increased accessibility of VR technology has fueled a renewed interest in the social applications of VR, which is exemplified by the launch of multiple platforms including AltSpace VR, Facebook Spaces, High Fidelity, Normal VR, Oculus Medium, Rec Room, Sansar, and VR Chat.\"\n    evidence: \"review-systematic\"\n    support_strength: \"strong\"\n    outcomes: [\"collaboration\"]\n    predictors: [\"hope\"]\npopulation:\n  who: \"remote workers, social connection, or SNH-relevant study participants\"\n  where: [\"USA\", \"UK\", \"Israel\"]\n  when: null\n  n: null\n  sector: [\"tech\", \"education\"]\n  sample_notes: >\n    Population details were not clearly extractable from the markdown; see the source card\n    fields and source path.\nlimitation:\n  primary: \"Finally, while we are aware of the strengths of behavioral and physiological measures and limitations of self-report measures (Slater, 2004; Friedman et al., 2006), we did not include studies that exclusively used behavioral and/or physiological measures of...\"\n  others: [\"The criteria used to select studies were adapted from Cummings and Bailenson (2016) to fit the current context.\", \"Based on this process ( Figure 1 ), we were able to identify 152 studies with 233 separate findings regarding the factors that can predict social presence.\"]\nrisk_of_bias: \"low\"\nrelevance_to_project: >\n  Useful for the SNH remote-worker evidence stream because it indexes social connection,\n  workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention\n  mechanisms.\ntags:\n  topic: [\"collaboration\"]\n  method: [\"review-systematic\", \"systematic-review\", \"theory\"]\n  population: [\"remote-workers-social-connection-or-snh\", \"tech\", \"education\"]\nsource:\n  markdown: \"Papers_Data/Remote Worker SNH/MD/Oh et al 2018 - A Systematic Review of Social Presence/Oh et al 2018 - A Systematic Review of Social Presence.md\"\n  pdf: null\n  notes: null"
+    },
+    {
+      "id": "10.1192/bjo.2024.7",
+      "title": "A cross-sectional investigation on remote working, loneliness, workplace isolation, well-being and perceived social support in healthcare workers",
+      "authors": [
+        "O'Hare, Dearbhla",
+        "Gaughran, Fiona",
+        "Stewart, Robert",
+        "Costa, Mariana Pinto da"
+      ],
+      "year": 2024,
+      "doi": "10.1192/bjo.2024.7",
+      "venue": {
+        "type": "journal",
+        "name": "Background",
+        "volume": null,
+        "issue": null,
+        "pages": null
+      },
+      "citation": "O'Hare et al. (2024). A cross-sectional investigation on remote working, loneliness, workplace isolation, well-being and perceived social support in healthcare workers. Background.",
+      "article_type": "review",
+      "method": {
+        "design": "review-systematic",
+        "approach": "secondary-data",
+        "evidence_level": "strong",
+        "preregistered": false
+      },
+      "gist": "This source gives the project a retrieval card for SNH remote-worker social connection, workplace isolation, remote collaboration, sampling, and prevention design: Results A total of 520 participants responded to the study, of whom 112 were men (21.5%) and 406 were women (78.1%), with an age range of 21-77 years (mean 40.0, s.d. = 12.1).",
+      "claims": [
+        {
+          "text": "Very few (3.1%) worked remotely before the COVID-19 pandemic, and this had increased significantly (96.9%).",
+          "evidence": "review-systematic",
+          "support_strength": "strong",
+          "outcomes": [
+            "wellbeing",
+            "mental-health",
+            "job-satisfaction",
+            "productivity",
+            "loneliness",
+            "isolation"
+          ],
+          "predictors": [
+            "remote-work-intensity",
+            "loneliness",
+            "social-support",
+            "leadership-style"
+          ]
+        },
+        {
+          "text": "Those who worked ≥31 h a week remotely reported higher stress and lower workplace satisfaction at that time, compared with office work, yet also felt more productive.",
+          "evidence": "review-systematic",
+          "support_strength": "strong",
+          "outcomes": [
+            "wellbeing",
+            "mental-health",
+            "job-satisfaction",
+            "productivity",
+            "loneliness",
+            "isolation"
+          ],
+          "predictors": [
+            "remote-work-intensity",
+            "loneliness",
+            "social-support",
+            "leadership-style"
+          ]
+        },
+        {
+          "text": "Current loneliness, workplace isolation and perceived social support were cross-sectionally associated with lower current well-being.",
+          "evidence": "review-systematic",
+          "support_strength": "strong",
+          "outcomes": [
+            "wellbeing",
+            "mental-health",
+            "job-satisfaction",
+            "productivity",
+            "loneliness",
+            "isolation"
+          ],
+          "predictors": [
+            "remote-work-intensity",
+            "loneliness",
+            "social-support",
+            "leadership-style"
+          ]
+        }
+      ],
+      "population": {
+        "who": "remote workers",
+        "where": [
+          "USA",
+          "UK"
+        ],
+        "when": "COVID-19 pandemic",
+        "n": 520,
+        "sector": [
+          "tech",
+          "open-source",
+          "education",
+          "healthcare",
+          "white-collar",
+          "remote-workers"
+        ],
+        "sample_notes": "Results A total of 520 participants responded to the study, of whom 112 were men (21.5%) and 406 were women (78.1%), with an age range of 21-77 years (mean 40.0, s.d. = 12.1)."
+      },
+      "limitation": {
+        "primary": "Strengths and limitations This study reports findings from a large mental healthcare provider, adding to the limited literature on the impact of the COVID-19 pandemic and remote working on healthcare workers in the UK and providing further understanding of...",
+        "others": [
+          "However, the response rate of 14% of SLaM healthcare staff limits the generalisability of the results to the entire population.",
+          "The cross-sectional survey nature of this study and data collection methods prevents the ability to test causative effects of remote working."
+        ]
+      },
+      "risk_of_bias": "low",
+      "relevance_to_project": "Useful for the SNH remote-worker evidence stream because it indexes social connection, workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention mechanisms.",
+      "tags": {
+        "topic": [
+          "remote-work",
+          "mental-health",
+          "loneliness",
+          "isolation",
+          "wellbeing",
+          "job-satisfaction",
+          "productivity",
+          "open-source",
+          "social-support"
+        ],
+        "method": [
+          "review-systematic",
+          "survey",
+          "cross-sectional",
+          "systematic-review"
+        ],
+        "population": [
+          "tech",
+          "open-source",
+          "education",
+          "healthcare",
+          "white-collar",
+          "remote-workers"
+        ]
+      },
+      "source": {
+        "markdown": "Papers_Data/Remote Worker SNH/MD/OHare et al 2024 - Remote working, loneliness & workplace isolation (healthcare)/OHare et al 2024 - Remote working, loneliness & workplace isolation (healthcare).md",
+        "pdf": null,
+        "notes": null
+      },
+      "raw_markdown": "id: \"10.1192/bjo.2024.7\"\ntitle: \"A cross-sectional investigation on remote working, loneliness, workplace isolation, well-being and perceived social support in healthcare workers\"\nauthors: [\"O'Hare, Dearbhla\", \"Gaughran, Fiona\", \"Stewart, Robert\", \"Costa, Mariana Pinto da\"]\nyear: 2024\ndoi: \"10.1192/bjo.2024.7\"\nvenue: {type: \"journal\", name: \"Background\", volume: null, issue: null, pages: null}\ncitation: \"O'Hare et al. (2024). A cross-sectional investigation on remote working, loneliness, workplace isolation, well-being and perceived social support in healthcare workers. Background.\"\narticle_type: \"review\"\nmethod: {design: \"review-systematic\", approach: \"secondary-data\", evidence_level: \"strong\", preregistered: false}\ngist: >\n  This source gives the project a retrieval card for SNH remote-worker social connection,\n  workplace isolation, remote collaboration, sampling, and prevention design: Results A total\n  of 520 participants responded to the study, of whom 112 were men (21.5%) and 406 were women\n  (78.1%), with an age range of 21-77 years (mean 40.0, s.d. = 12.1).\nclaims:\n  - text: \"Very few (3.1%) worked remotely before the COVID-19 pandemic, and this had increased significantly (96.9%).\"\n    evidence: \"review-systematic\"\n    support_strength: \"strong\"\n    outcomes: [\"wellbeing\", \"mental-health\", \"job-satisfaction\", \"productivity\", \"loneliness\", \"isolation\"]\n    predictors: [\"remote-work-intensity\", \"loneliness\", \"social-support\", \"leadership-style\"]\n  - text: \"Those who worked ≥31 h a week remotely reported higher stress and lower workplace satisfaction at that time, compared with office work, yet also felt more productive.\"\n    evidence: \"review-systematic\"\n    support_strength: \"strong\"\n    outcomes: [\"wellbeing\", \"mental-health\", \"job-satisfaction\", \"productivity\", \"loneliness\", \"isolation\"]\n    predictors: [\"remote-work-intensity\", \"loneliness\", \"social-support\", \"leadership-style\"]\n  - text: \"Current loneliness, workplace isolation and perceived social support were cross-sectionally associated with lower current well-being.\"\n    evidence: \"review-systematic\"\n    support_strength: \"strong\"\n    outcomes: [\"wellbeing\", \"mental-health\", \"job-satisfaction\", \"productivity\", \"loneliness\", \"isolation\"]\n    predictors: [\"remote-work-intensity\", \"loneliness\", \"social-support\", \"leadership-style\"]\npopulation:\n  who: \"remote workers\"\n  where: [\"USA\", \"UK\"]\n  when: \"COVID-19 pandemic\"\n  n: 520\n  sector: [\"tech\", \"open-source\", \"education\", \"healthcare\", \"white-collar\", \"remote-workers\"]\n  sample_notes: >\n    Results A total of 520 participants responded to the study, of whom 112 were men (21.5%)\n    and 406 were women (78.1%), with an age range of 21-77 years (mean 40.0, s.d. = 12.1).\nlimitation:\n  primary: \"Strengths and limitations This study reports findings from a large mental healthcare provider, adding to the limited literature on the impact of the COVID-19 pandemic and remote working on healthcare workers in the UK and providing further understanding of...\"\n  others: [\"However, the response rate of 14% of SLaM healthcare staff limits the generalisability of the results to the entire population.\", \"The cross-sectional survey nature of this study and data collection methods prevents the ability to test causative effects of remote working.\"]\nrisk_of_bias: \"low\"\nrelevance_to_project: >\n  Useful for the SNH remote-worker evidence stream because it indexes social connection,\n  workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention\n  mechanisms.\ntags:\n  topic: [\"remote-work\", \"mental-health\", \"loneliness\", \"isolation\", \"wellbeing\", \"job-satisfaction\", \"productivity\", \"open-source\", \"social-support\"]\n  method: [\"review-systematic\", \"survey\", \"cross-sectional\", \"systematic-review\"]\n  population: [\"tech\", \"open-source\", \"education\", \"healthcare\", \"white-collar\", \"remote-workers\"]\nsource:\n  markdown: \"Papers_Data/Remote Worker SNH/MD/OHare et al 2024 - Remote working, loneliness & workplace isolation (healthcare)/OHare et al 2024 - Remote working, loneliness & workplace isolation (healthcare).md\"\n  pdf: null\n  notes: null"
+    },
+    {
+      "id": "10.1177/001440291207900103",
+      "title": "PBIS Reduces the Use of and Inequities in the Use of Exclusionary Discipline",
+      "authors": [],
+      "year": 2023,
+      "doi": "10.1177/001440291207900103",
+      "venue": {
+        "type": "journal",
+        "name": "IS POSITIVE BEHAVIORAL INTERVENTIONS AND SUPPORTS (PBIS) AN EVIDENCE-BASED PRACTICE?",
+        "volume": null,
+        "issue": null,
+        "pages": null
+      },
+      "citation": "Unknown author (2023). PBIS Reduces the Use of and Inequities in the Use of Exclusionary Discipline. IS POSITIVE BEHAVIORAL INTERVENTIONS AND SUPPORTS (PBIS) AN EVIDENCE-BASED PRACTICE?.",
+      "article_type": "review",
+      "method": {
+        "design": "review-scoping",
+        "approach": "secondary-data",
+        "evidence_level": "moderate",
+        "preregistered": false
+      },
+      "gist": "This source gives the project a retrieval card for SNH remote-worker social connection, workplace isolation, remote collaboration, sampling, and prevention design: This brief presents the findings of a systematic literature review exploring how Tier 1 PBIS implementation affects valued educational outcomes.",
+      "claims": [
+        {
+          "text": "This brief presents the findings of a systematic literature review exploring how Tier 1 PBIS implementation affects valued educational outcomes.",
+          "evidence": "review-scoping",
+          "support_strength": "moderate",
+          "outcomes": [
+            "mental-health"
+          ],
+          "predictors": [
+            "inclusiveness",
+            "social-support"
+          ]
+        },
+        {
+          "text": "Findings demonstrate that PBIS can be designated an evidence-based practice for reducing exclusionary discipline and improving social, emotional, and behavioral outcomes.",
+          "evidence": "review-scoping",
+          "support_strength": "moderate",
+          "outcomes": [
+            "mental-health"
+          ],
+          "predictors": [
+            "inclusiveness",
+            "social-support"
+          ]
+        },
+        {
+          "text": "Policymakers, practitioners, students, and families have an interest in implementing and supporting practices that are most likely to improve valued outcomes for each and every student.",
+          "evidence": "review-scoping",
+          "support_strength": "moderate",
+          "outcomes": [
+            "mental-health"
+          ],
+          "predictors": [
+            "inclusiveness",
+            "social-support"
+          ]
+        }
+      ],
+      "population": {
+        "who": "students/adolescents",
+        "where": [
+          "USA",
+          "Canada",
+          "Australia",
+          "Germany",
+          "Norway",
+          "France",
+          "Japan"
+        ],
+        "when": null,
+        "n": null,
+        "sector": [
+          "tech",
+          "open-source",
+          "education",
+          "healthcare"
+        ],
+        "sample_notes": "Authors María Reina Santiago-Rosario Kent McIntosh Sara Izzard Dana Cohen Lissman Flyse Calhoun Purpose ositive Behavioral Interventions and Supports (PBIS) is a widely implemented framework for promoting positive school systems and fostering students' social, emotional, behavioral, and mental health."
+      },
+      "limitation": {
+        "primary": "Review conclusions depend on search scope, inclusion criteria, and quality of included studies.",
+        "others": [
+          "Heterogeneity across source studies may limit direct transfer to the SNH setting."
+        ]
+      },
+      "risk_of_bias": "medium",
+      "relevance_to_project": "Useful for the SNH remote-worker evidence stream because it indexes social connection, workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention mechanisms.",
+      "tags": {
+        "topic": [
+          "mental-health",
+          "open-source"
+        ],
+        "method": [
+          "review-scoping",
+          "rct",
+          "case-study"
+        ],
+        "population": [
+          "students-adolescents",
+          "tech",
+          "open-source",
+          "education",
+          "healthcare"
+        ]
+      },
+      "source": {
+        "markdown": "Papers_Data/Remote Worker SNH/MD/PBIS/PBIS.md",
+        "pdf": null,
+        "notes": null
+      },
+      "raw_markdown": "id: \"10.1177/001440291207900103\"\ntitle: \"PBIS Reduces the Use of and Inequities in the Use of Exclusionary Discipline\"\nauthors: []\nyear: 2023\ndoi: \"10.1177/001440291207900103\"\nvenue: {type: \"journal\", name: \"IS POSITIVE BEHAVIORAL INTERVENTIONS AND SUPPORTS (PBIS) AN EVIDENCE-BASED PRACTICE?\", volume: null, issue: null, pages: null}\ncitation: \"Unknown author (2023). PBIS Reduces the Use of and Inequities in the Use of Exclusionary Discipline. IS POSITIVE BEHAVIORAL INTERVENTIONS AND SUPPORTS (PBIS) AN EVIDENCE-BASED PRACTICE?.\"\narticle_type: \"review\"\nmethod: {design: \"review-scoping\", approach: \"secondary-data\", evidence_level: \"moderate\", preregistered: false}\ngist: >\n  This source gives the project a retrieval card for SNH remote-worker social connection,\n  workplace isolation, remote collaboration, sampling, and prevention design: This brief\n  presents the findings of a systematic literature review exploring how Tier 1 PBIS\n  implementation affects valued educational outcomes.\nclaims:\n  - text: \"This brief presents the findings of a systematic literature review exploring how Tier 1 PBIS implementation affects valued educational outcomes.\"\n    evidence: \"review-scoping\"\n    support_strength: \"moderate\"\n    outcomes: [\"mental-health\"]\n    predictors: [\"inclusiveness\", \"social-support\"]\n  - text: \"Findings demonstrate that PBIS can be designated an evidence-based practice for reducing exclusionary discipline and improving social, emotional, and behavioral outcomes.\"\n    evidence: \"review-scoping\"\n    support_strength: \"moderate\"\n    outcomes: [\"mental-health\"]\n    predictors: [\"inclusiveness\", \"social-support\"]\n  - text: \"Policymakers, practitioners, students, and families have an interest in implementing and supporting practices that are most likely to improve valued outcomes for each and every student.\"\n    evidence: \"review-scoping\"\n    support_strength: \"moderate\"\n    outcomes: [\"mental-health\"]\n    predictors: [\"inclusiveness\", \"social-support\"]\npopulation:\n  who: \"students/adolescents\"\n  where: [\"USA\", \"Canada\", \"Australia\", \"Germany\", \"Norway\", \"France\", \"Japan\"]\n  when: null\n  n: null\n  sector: [\"tech\", \"open-source\", \"education\", \"healthcare\"]\n  sample_notes: >\n    Authors María Reina Santiago-Rosario Kent McIntosh Sara Izzard Dana Cohen Lissman Flyse\n    Calhoun Purpose ositive Behavioral Interventions and Supports (PBIS) is a widely\n    implemented framework for promoting positive school systems and fostering students' social,\n    emotional, behavioral, and mental health.\nlimitation:\n  primary: \"Review conclusions depend on search scope, inclusion criteria, and quality of included studies.\"\n  others: [\"Heterogeneity across source studies may limit direct transfer to the SNH setting.\"]\nrisk_of_bias: \"medium\"\nrelevance_to_project: >\n  Useful for the SNH remote-worker evidence stream because it indexes social connection,\n  workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention\n  mechanisms.\ntags:\n  topic: [\"mental-health\", \"open-source\"]\n  method: [\"review-scoping\", \"rct\", \"case-study\"]\n  population: [\"students-adolescents\", \"tech\", \"open-source\", \"education\", \"healthcare\"]\nsource:\n  markdown: \"Papers_Data/Remote Worker SNH/MD/PBIS/PBIS.md\"\n  pdf: null\n  notes: null"
+    },
+    {
+      "id": "10.1111/jcpp.13102",
+      "title": "Peer-adult network structure and suicide attempts in 38 high schools: implications for network-informed suicide prevention",
+      "authors": [
+        "Wyman, Peter A.",
+        "Pickering, Trevor A.",
+        "Pisani, Anthony R.",
+        "Rulison, Kelly",
+        "Schmeelk-Cone, Karen",
+        "Hartley, Chelsey",
+        "Gould, Madelyn",
+        "Caine, Eric D.",
+        "LoMurray, Mark",
+        "Brown, Charles Hendricks",
+        "Valente, Thomas W."
+      ],
+      "year": 2019,
+      "doi": "10.1111/jcpp.13102",
+      "venue": {
+        "type": "journal",
+        "name": "Journal of Child Psychology and Psychiatry",
+        "volume": 10,
+        "issue": 2019,
+        "pages": null
+      },
+      "citation": "Wyman et al. (2019). Peer-adult network structure and suicide attempts in 38 high schools: implications for network-informed suicide prevention. Journal of Child Psychology and Psychiatry.",
+      "article_type": "empirical",
+      "method": {
+        "design": "rct",
+        "approach": "experiment",
+        "evidence_level": "strong",
+        "preregistered": false
+      },
+      "gist": "This source gives the project a retrieval card for SNH remote-worker social connection, workplace isolation, remote collaboration, sampling, and prevention design: References - Angold, A., Costello, E.J., Messer, S.C., & Pickles, A. (1995).",
+      "claims": [
+        {
+          "text": "Results: Lower peer network integration and cohesion increased likelihood of SI and SA across individual and school-level models.",
+          "evidence": "rct",
+          "support_strength": "strong",
+          "outcomes": [
+            "mental-health",
+            "depression",
+            "suicidal-ideation",
+            "isolation",
+            "sense-of-belonging"
+          ],
+          "predictors": [
+            "sense-of-belonging",
+            "social-support",
+            "team-cohesion"
+          ]
+        },
+        {
+          "text": "Two factors increased SA: student isolation from adults and suicidal students' popularity and clustering.",
+          "evidence": "rct",
+          "support_strength": "strong",
+          "outcomes": [
+            "mental-health",
+            "depression",
+            "suicidal-ideation",
+            "isolation",
+            "sense-of-belonging"
+          ],
+          "predictors": [
+            "sense-of-belonging",
+            "social-support",
+            "team-cohesion"
+          ]
+        },
+        {
+          "text": "A multivariable model identified higher SA in schools where youth-adult relationships were concentrated in fewer students (B = 4.95 [1.46, 8.44]) and suicidal students had higher relative popularity versus nonsuicidal peers (B = 0.93 [0.10, 1.77]).",
+          "evidence": "rct",
+          "support_strength": "strong",
+          "outcomes": [
+            "mental-health",
+            "depression",
+            "suicidal-ideation",
+            "isolation",
+            "sense-of-belonging"
+          ],
+          "predictors": [
+            "sense-of-belonging",
+            "social-support",
+            "team-cohesion"
+          ]
+        }
+      ],
+      "population": {
+        "who": "students/adolescents",
+        "where": [
+          "USA",
+          "Ireland"
+        ],
+        "when": null,
+        "n": 10291,
+        "sector": [
+          "tech",
+          "open-source",
+          "education",
+          "healthcare"
+        ],
+        "sample_notes": "Methods: In 38 US high schools, 10,291 students nominated close friends and trusted adults to construct social networks."
+      },
+      "limitation": {
+        "primary": "Limitations Network data were collected contemporaneously with student self-reports of STB, and therefore our analyses could not determine whether network characteristics contribute to future STB or whether they are a consequence (e.g., students who make...",
+        "others": [
+          "Students could only nominate friends enrolled in their high school.",
+          "However, it is likely that a majority of students' friends attend their high school in these primarily small town, micropolitan communities, versus more urban communities with multiple high schools."
+        ]
+      },
+      "risk_of_bias": "low",
+      "relevance_to_project": "Useful for the SNH remote-worker evidence stream because it indexes social connection, workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention mechanisms.",
+      "tags": {
+        "topic": [
+          "mental-health",
+          "isolation",
+          "open-source",
+          "community-health",
+          "suicide-prevention",
+          "social-support"
+        ],
+        "method": [
+          "survey",
+          "longitudinal",
+          "rct",
+          "theory"
+        ],
+        "population": [
+          "students-adolescents",
+          "tech",
+          "open-source",
+          "education",
+          "healthcare"
+        ]
+      },
+      "source": {
+        "markdown": "Papers_Data/Remote Worker SNH/MD/Peer-adult network structure and suicide attempts/Peer-adult network structure and suicide attempts.md",
+        "pdf": null,
+        "notes": null
+      },
+      "raw_markdown": "id: \"10.1111/jcpp.13102\"\ntitle: \"Peer-adult network structure and suicide attempts in 38 high schools: implications for network-informed suicide prevention\"\nauthors: [\"Wyman, Peter A.\", \"Pickering, Trevor A.\", \"Pisani, Anthony R.\", \"Rulison, Kelly\", \"Schmeelk-Cone, Karen\", \"Hartley, Chelsey\", \"Gould, Madelyn\", \"Caine, Eric D.\", \"LoMurray, Mark\", \"Brown, Charles Hendricks\", \"Valente, Thomas W.\"]\nyear: 2019\ndoi: \"10.1111/jcpp.13102\"\nvenue: {type: \"journal\", name: \"Journal of Child Psychology and Psychiatry\", volume: 10, issue: 2019, pages: null}\ncitation: \"Wyman et al. (2019). Peer-adult network structure and suicide attempts in 38 high schools: implications for network-informed suicide prevention. Journal of Child Psychology and Psychiatry.\"\narticle_type: \"empirical\"\nmethod: {design: \"rct\", approach: \"experiment\", evidence_level: \"strong\", preregistered: false}\ngist: >\n  This source gives the project a retrieval card for SNH remote-worker social connection,\n  workplace isolation, remote collaboration, sampling, and prevention design: References -\n  Angold, A., Costello, E.J., Messer, S.C., & Pickles, A. (1995).\nclaims:\n  - text: \"Results: Lower peer network integration and cohesion increased likelihood of SI and SA across individual and school-level models.\"\n    evidence: \"rct\"\n    support_strength: \"strong\"\n    outcomes: [\"mental-health\", \"depression\", \"suicidal-ideation\", \"isolation\", \"sense-of-belonging\"]\n    predictors: [\"sense-of-belonging\", \"social-support\", \"team-cohesion\"]\n  - text: \"Two factors increased SA: student isolation from adults and suicidal students' popularity and clustering.\"\n    evidence: \"rct\"\n    support_strength: \"strong\"\n    outcomes: [\"mental-health\", \"depression\", \"suicidal-ideation\", \"isolation\", \"sense-of-belonging\"]\n    predictors: [\"sense-of-belonging\", \"social-support\", \"team-cohesion\"]\n  - text: \"A multivariable model identified higher SA in schools where youth-adult relationships were concentrated in fewer students (B = 4.95 [1.46, 8.44]) and suicidal students had higher relative popularity versus nonsuicidal peers (B = 0.93 [0.10, 1.77]).\"\n    evidence: \"rct\"\n    support_strength: \"strong\"\n    outcomes: [\"mental-health\", \"depression\", \"suicidal-ideation\", \"isolation\", \"sense-of-belonging\"]\n    predictors: [\"sense-of-belonging\", \"social-support\", \"team-cohesion\"]\npopulation:\n  who: \"students/adolescents\"\n  where: [\"USA\", \"Ireland\"]\n  when: null\n  n: 10291\n  sector: [\"tech\", \"open-source\", \"education\", \"healthcare\"]\n  sample_notes: >\n    Methods: In 38 US high schools, 10,291 students nominated close friends and trusted adults\n    to construct social networks.\nlimitation:\n  primary: \"Limitations Network data were collected contemporaneously with student self-reports of STB, and therefore our analyses could not determine whether network characteristics contribute to future STB or whether they are a consequence (e.g., students who make...\"\n  others: [\"Students could only nominate friends enrolled in their high school.\", \"However, it is likely that a majority of students' friends attend their high school in these primarily small town, micropolitan communities, versus more urban communities with multiple high schools.\"]\nrisk_of_bias: \"low\"\nrelevance_to_project: >\n  Useful for the SNH remote-worker evidence stream because it indexes social connection,\n  workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention\n  mechanisms.\ntags:\n  topic: [\"mental-health\", \"isolation\", \"open-source\", \"community-health\", \"suicide-prevention\", \"social-support\"]\n  method: [\"survey\", \"longitudinal\", \"rct\", \"theory\"]\n  population: [\"students-adolescents\", \"tech\", \"open-source\", \"education\", \"healthcare\"]\nsource:\n  markdown: \"Papers_Data/Remote Worker SNH/MD/Peer-adult network structure and suicide attempts/Peer-adult network structure and suicide attempts.md\"\n  pdf: null\n  notes: null"
+    },
+    {
+      "id": "10.1109/tvcg.2020.3023603",
+      "title": "Construction of the Virtual Embodiment Questionnaire (VEQ)",
+      "authors": [
+        "Member, Daniel Roth",
+        "Member, IEEE Marc Erich Latoschik",
+        "IEEE"
+      ],
+      "year": 2020,
+      "doi": "10.1109/tvcg.2020.3023603",
+      "venue": {
+        "type": "conference",
+        "name": null,
+        "volume": null,
+        "issue": null,
+        "pages": null
+      },
+      "citation": "Member et al. (2020). Construction of the Virtual Embodiment Questionnaire (VEQ).",
+      "article_type": "empirical",
+      "method": {
+        "design": "cross-sectional",
+        "approach": "survey",
+        "evidence_level": "moderate",
+        "preregistered": false
+      },
+      "gist": "This source gives the project a retrieval card for SNH remote-worker social connection, workplace isolation, remote collaboration, sampling, and prevention design: We present the proposed scale and study results and discuss resulting implications.",
+      "claims": [
+        {
+          "text": "10.1109/TVCG.2020.3023603 reported, and approaches to cross-validating different measures often failed (see [39, 72] for discussions).",
+          "evidence": "cross-sectional",
+          "support_strength": "moderate",
+          "outcomes": [
+            "collaboration"
+          ],
+          "predictors": []
+        }
+      ],
+      "population": {
+        "who": "remote workers, social connection, or SNH-relevant study participants",
+        "where": [],
+        "when": null,
+        "n": 196,
+        "sector": [
+          "tech",
+          "open-source",
+          "education"
+        ],
+        "sample_notes": "Population details were not clearly extractable from the markdown; see the source card fields and source path."
+      },
+      "limitation": {
+        "primary": "Cross-sectional and often self-report design limits causal inference.",
+        "others": [
+          "Sampling and nonresponse constraints should be checked in the full source when using effect claims."
+        ]
+      },
+      "risk_of_bias": "medium",
+      "relevance_to_project": "Useful for the SNH remote-worker evidence stream because it indexes social connection, workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention mechanisms.",
+      "tags": {
+        "topic": [
+          "open-source",
+          "collaboration"
+        ],
+        "method": [
+          "cross-sectional",
+          "survey",
+          "theory"
+        ],
+        "population": [
+          "remote-workers-social-connection-or-snh",
+          "tech",
+          "open-source",
+          "education"
+        ]
+      },
+      "source": {
+        "markdown": "Papers_Data/Remote Worker SNH/MD/Roth et al 2020 - Construction of the Virtual Embodiment Questionnaire/Roth et al 2020 - Construction of the Virtual Embodiment Questionnaire.md",
+        "pdf": null,
+        "notes": null
+      },
+      "raw_markdown": "id: \"10.1109/tvcg.2020.3023603\"\ntitle: \"Construction of the Virtual Embodiment Questionnaire (VEQ)\"\nauthors: [\"Member, Daniel Roth\", \"Member, IEEE Marc Erich Latoschik\", \"IEEE\"]\nyear: 2020\ndoi: \"10.1109/tvcg.2020.3023603\"\nvenue: {type: \"conference\", name: null, volume: null, issue: null, pages: null}\ncitation: \"Member et al. (2020). Construction of the Virtual Embodiment Questionnaire (VEQ).\"\narticle_type: \"empirical\"\nmethod: {design: \"cross-sectional\", approach: \"survey\", evidence_level: \"moderate\", preregistered: false}\ngist: >\n  This source gives the project a retrieval card for SNH remote-worker social connection,\n  workplace isolation, remote collaboration, sampling, and prevention design: We present the\n  proposed scale and study results and discuss resulting implications.\nclaims:\n  - text: \"10.1109/TVCG.2020.3023603 reported, and approaches to cross-validating different measures often failed (see [39, 72] for discussions).\"\n    evidence: \"cross-sectional\"\n    support_strength: \"moderate\"\n    outcomes: [\"collaboration\"]\n    predictors: []\npopulation:\n  who: \"remote workers, social connection, or SNH-relevant study participants\"\n  where: []\n  when: null\n  n: 196\n  sector: [\"tech\", \"open-source\", \"education\"]\n  sample_notes: >\n    Population details were not clearly extractable from the markdown; see the source card\n    fields and source path.\nlimitation:\n  primary: \"Cross-sectional and often self-report design limits causal inference.\"\n  others: [\"Sampling and nonresponse constraints should be checked in the full source when using effect claims.\"]\nrisk_of_bias: \"medium\"\nrelevance_to_project: >\n  Useful for the SNH remote-worker evidence stream because it indexes social connection,\n  workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention\n  mechanisms.\ntags:\n  topic: [\"open-source\", \"collaboration\"]\n  method: [\"cross-sectional\", \"survey\", \"theory\"]\n  population: [\"remote-workers-social-connection-or-snh\", \"tech\", \"open-source\", \"education\"]\nsource:\n  markdown: \"Papers_Data/Remote Worker SNH/MD/Roth et al 2020 - Construction of the Virtual Embodiment Questionnaire/Roth et al 2020 - Construction of the Virtual Embodiment Questionnaire.md\"\n  pdf: null\n  notes: null"
+    },
+    {
+      "id": "2006-variance-estimation-design-effects-and-sample-size-calculations-f",
+      "title": "Variance Estimation, Design Effects, and Sample Size Calculations for Respondent-Driven Sampling",
+      "authors": [],
+      "year": 2006,
+      "doi": null,
+      "venue": {
+        "type": "report",
+        "name": null,
+        "volume": null,
+        "issue": null,
+        "pages": null
+      },
+      "citation": "Unknown author (2006). Variance Estimation, Design Effects, and Sample Size Calculations for Respondent-Driven Sampling.",
+      "article_type": "theory",
+      "method": {
+        "design": "theory",
+        "approach": "other",
+        "evidence_level": "speculative",
+        "preregistered": false
+      },
+      "gist": "This source gives the project a retrieval card for SNH remote-worker social connection, workplace isolation, remote collaboration, sampling, and prevention design: ABSTRACT Hidden populations, such as injection drug users and sex workers, are central to a number of public health problems.",
+      "claims": [
+        {
+          "text": "Variance Estimation, Design Effects, and Sample Size Calculations for Respondent-Driven Sampling ABSTRACT Hidden populations, such as injection drug users and sex workers, are central to a number of public health problems.",
+          "evidence": "theory",
+          "support_strength": "speculative",
+          "outcomes": [],
+          "predictors": []
+        },
+        {
+          "text": "However, because of the nature of these groups, it is difficult to collect accurate information about them, and this difficulty complicates disease prevention efforts.",
+          "evidence": "theory",
+          "support_strength": "speculative",
+          "outcomes": [],
+          "predictors": []
+        }
+      ],
+      "population": {
+        "who": "employees/workers",
+        "where": [
+          "USA"
+        ],
+        "when": null,
+        "n": null,
+        "sector": [
+          "tech",
+          "open-source",
+          "healthcare",
+          "white-collar"
+        ],
+        "sample_notes": "Variance Estimation, Design Effects, and Sample Size Calculations for Respondent-Driven Sampling ABSTRACT Hidden populations, such as injection drug users and sex workers, are central to a number of public health problems."
+      },
+      "limitation": {
+        "primary": "The markdown did not expose an explicit limitation section; interpret claims according to method and source type.",
+        "others": [
+          "Use this card as an index and verify fine-grained methodological caveats in the source text."
+        ]
+      },
+      "risk_of_bias": "unclear",
+      "relevance_to_project": "Useful for the SNH remote-worker evidence stream because it indexes social connection, workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention mechanisms.",
+      "tags": {
+        "topic": [
+          "open-source"
+        ],
+        "method": [
+          "theory"
+        ],
+        "population": [
+          "employees-workers",
+          "tech",
+          "open-source",
+          "healthcare",
+          "white-collar"
+        ]
+      },
+      "source": {
+        "markdown": "Papers_Data/Remote Worker SNH/MD/Salganik 2006 - Variance Estimation & Sample Size for RDS/Salganik 2006 - Variance Estimation & Sample Size for RDS.md",
+        "pdf": null,
+        "notes": null
+      },
+      "raw_markdown": "id: \"2006-variance-estimation-design-effects-and-sample-size-calculations-f\"\ntitle: \"Variance Estimation, Design Effects, and Sample Size Calculations for Respondent-Driven Sampling\"\nauthors: []\nyear: 2006\ndoi: null\nvenue: {type: \"report\", name: null, volume: null, issue: null, pages: null}\ncitation: \"Unknown author (2006). Variance Estimation, Design Effects, and Sample Size Calculations for Respondent-Driven Sampling.\"\narticle_type: \"theory\"\nmethod: {design: \"theory\", approach: \"other\", evidence_level: \"speculative\", preregistered: false}\ngist: >\n  This source gives the project a retrieval card for SNH remote-worker social connection,\n  workplace isolation, remote collaboration, sampling, and prevention design: ABSTRACT Hidden\n  populations, such as injection drug users and sex workers, are central to a number of\n  public health problems.\nclaims:\n  - text: \"Variance Estimation, Design Effects, and Sample Size Calculations for Respondent-Driven Sampling ABSTRACT Hidden populations, such as injection drug users and sex workers, are central to a number of public health problems.\"\n    evidence: \"theory\"\n    support_strength: \"speculative\"\n    outcomes: []\n    predictors: []\n  - text: \"However, because of the nature of these groups, it is difficult to collect accurate information about them, and this difficulty complicates disease prevention efforts.\"\n    evidence: \"theory\"\n    support_strength: \"speculative\"\n    outcomes: []\n    predictors: []\npopulation:\n  who: \"employees/workers\"\n  where: [\"USA\"]\n  when: null\n  n: null\n  sector: [\"tech\", \"open-source\", \"healthcare\", \"white-collar\"]\n  sample_notes: >\n    Variance Estimation, Design Effects, and Sample Size Calculations for Respondent-Driven\n    Sampling ABSTRACT Hidden populations, such as injection drug users and sex workers, are\n    central to a number of public health problems.\nlimitation:\n  primary: \"The markdown did not expose an explicit limitation section; interpret claims according to method and source type.\"\n  others: [\"Use this card as an index and verify fine-grained methodological caveats in the source text.\"]\nrisk_of_bias: \"unclear\"\nrelevance_to_project: >\n  Useful for the SNH remote-worker evidence stream because it indexes social connection,\n  workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention\n  mechanisms.\ntags:\n  topic: [\"open-source\"]\n  method: [\"theory\"]\n  population: [\"employees-workers\", \"tech\", \"open-source\", \"healthcare\", \"white-collar\"]\nsource:\n  markdown: \"Papers_Data/Remote Worker SNH/MD/Salganik 2006 - Variance Estimation & Sample Size for RDS/Salganik 2006 - Variance Estimation & Sample Size for RDS.md\"\n  pdf: null\n  notes: null"
+    },
+    {
+      "id": "10.1007/s10869-024-09970-7",
+      "title": "The Infuence of Working from Home vs. Working at the Ofce on Job Performance in a Hybrid Work Arrangement: A Diary Study",
+      "authors": [],
+      "year": 2024,
+      "doi": "10.1007/s10869-024-09970-7",
+      "venue": {
+        "type": "journal",
+        "name": "ORIGINAL PAPER",
+        "volume": null,
+        "issue": null,
+        "pages": null
+      },
+      "citation": "Unknown author (2024). The Infuence of Working from Home vs. Working at the Ofce on Job Performance in a Hybrid Work Arrangement: A Diary Study. ORIGINAL PAPER.",
+      "article_type": "empirical",
+      "method": {
+        "design": "rct",
+        "approach": "experiment",
+        "evidence_level": "strong",
+        "preregistered": false
+      },
+      "gist": "This source gives the project a retrieval card for SNH remote-worker social connection, workplace isolation, remote collaboration, sampling, and prevention design: Results showed that working from home (WFH) had an indirect positive relationship with job performance through daily concentration and work engagement.",
+      "claims": [
+        {
+          "text": "Results showed that working from home (WFH) had an indirect positive relationship with job performance through daily concentration and work engagement.",
+          "evidence": "rct",
+          "support_strength": "strong",
+          "outcomes": [
+            "job-engagement",
+            "performance",
+            "isolation"
+          ],
+          "predictors": [
+            "remote-work-intensity",
+            "social-support",
+            "leadership-style",
+            "workload"
+          ]
+        },
+        {
+          "text": "However, a disengagement \"efect\" was found, as the indirect relationship of WFH with daily job performance via daily social isolation and work engagement was negative and statistically signifcant.",
+          "evidence": "rct",
+          "support_strength": "strong",
+          "outcomes": [
+            "job-engagement",
+            "performance",
+            "isolation"
+          ],
+          "predictors": [
+            "remote-work-intensity",
+            "social-support",
+            "leadership-style",
+            "workload"
+          ]
+        },
+        {
+          "text": "From a practical standpoint, the study suggests that organizations implementing hybrid work should enhance employee motivation, for instance, by providing tools to improve employee concentration and addressing potential feelings of social isolation when working from home.",
+          "evidence": "rct",
+          "support_strength": "strong",
+          "outcomes": [
+            "job-engagement",
+            "performance",
+            "isolation"
+          ],
+          "predictors": [
+            "remote-work-intensity",
+            "social-support",
+            "leadership-style",
+            "workload"
+          ]
+        }
+      ],
+      "population": {
+        "who": "Air Force personnel in training",
+        "where": [
+          "USA",
+          "Italy",
+          "Spain"
+        ],
+        "when": "COVID-19 pandemic",
+        "n": 203,
+        "sector": [
+          "tech",
+          "military",
+          "education",
+          "healthcare",
+          "white-collar",
+          "remote-workers"
+        ],
+        "sample_notes": "The study was conducted in a public organization, and 203 employees engaged in hybrid work arrangements answered an online survey for eight consecutive workdays."
+      },
+      "limitation": {
+        "primary": "Limitations and Strengths This study has several limitations that must be considered when interpreting its results.",
+        "others": [
+          "First, the data analyzed in this study come from civil servants working in a public organization (a municipality).",
+          "This limits the generalizability of our fndings to other types of organizations."
+        ]
+      },
+      "risk_of_bias": "low",
+      "relevance_to_project": "Useful for the SNH remote-worker evidence stream because it indexes social connection, workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention mechanisms.",
+      "tags": {
+        "topic": [
+          "remote-work",
+          "hybrid-work",
+          "isolation",
+          "job-engagement",
+          "productivity"
+        ],
+        "method": [
+          "survey",
+          "rct",
+          "secondary-data",
+          "theory"
+        ],
+        "population": [
+          "air-force-personnel-in-training",
+          "tech",
+          "military",
+          "education",
+          "healthcare",
+          "white-collar"
+        ]
+      },
+      "source": {
+        "markdown": "Papers_Data/Remote Worker SNH/MD/Toscano et al 2024 - WFH vs office job performance (diary study)/Toscano et al 2024 - WFH vs office job performance (diary study).md",
+        "pdf": null,
+        "notes": null
+      },
+      "raw_markdown": "id: \"10.1007/s10869-024-09970-7\"\ntitle: \"The Infuence of Working from Home vs. Working at the Ofce on Job Performance in a Hybrid Work Arrangement: A Diary Study\"\nauthors: []\nyear: 2024\ndoi: \"10.1007/s10869-024-09970-7\"\nvenue: {type: \"journal\", name: \"ORIGINAL PAPER\", volume: null, issue: null, pages: null}\ncitation: \"Unknown author (2024). The Infuence of Working from Home vs. Working at the Ofce on Job Performance in a Hybrid Work Arrangement: A Diary Study. ORIGINAL PAPER.\"\narticle_type: \"empirical\"\nmethod: {design: \"rct\", approach: \"experiment\", evidence_level: \"strong\", preregistered: false}\ngist: >\n  This source gives the project a retrieval card for SNH remote-worker social connection,\n  workplace isolation, remote collaboration, sampling, and prevention design: Results showed\n  that working from home (WFH) had an indirect positive relationship with job performance\n  through daily concentration and work engagement.\nclaims:\n  - text: \"Results showed that working from home (WFH) had an indirect positive relationship with job performance through daily concentration and work engagement.\"\n    evidence: \"rct\"\n    support_strength: \"strong\"\n    outcomes: [\"job-engagement\", \"performance\", \"isolation\"]\n    predictors: [\"remote-work-intensity\", \"social-support\", \"leadership-style\", \"workload\"]\n  - text: \"However, a disengagement \\\"efect\\\" was found, as the indirect relationship of WFH with daily job performance via daily social isolation and work engagement was negative and statistically signifcant.\"\n    evidence: \"rct\"\n    support_strength: \"strong\"\n    outcomes: [\"job-engagement\", \"performance\", \"isolation\"]\n    predictors: [\"remote-work-intensity\", \"social-support\", \"leadership-style\", \"workload\"]\n  - text: \"From a practical standpoint, the study suggests that organizations implementing hybrid work should enhance employee motivation, for instance, by providing tools to improve employee concentration and addressing potential feelings of social isolation when working from home.\"\n    evidence: \"rct\"\n    support_strength: \"strong\"\n    outcomes: [\"job-engagement\", \"performance\", \"isolation\"]\n    predictors: [\"remote-work-intensity\", \"social-support\", \"leadership-style\", \"workload\"]\npopulation:\n  who: \"Air Force personnel in training\"\n  where: [\"USA\", \"Italy\", \"Spain\"]\n  when: \"COVID-19 pandemic\"\n  n: 203\n  sector: [\"tech\", \"military\", \"education\", \"healthcare\", \"white-collar\", \"remote-workers\"]\n  sample_notes: >\n    The study was conducted in a public organization, and 203 employees engaged in hybrid work\n    arrangements answered an online survey for eight consecutive workdays.\nlimitation:\n  primary: \"Limitations and Strengths This study has several limitations that must be considered when interpreting its results.\"\n  others: [\"First, the data analyzed in this study come from civil servants working in a public organization (a municipality).\", \"This limits the generalizability of our fndings to other types of organizations.\"]\nrisk_of_bias: \"low\"\nrelevance_to_project: >\n  Useful for the SNH remote-worker evidence stream because it indexes social connection,\n  workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention\n  mechanisms.\ntags:\n  topic: [\"remote-work\", \"hybrid-work\", \"isolation\", \"job-engagement\", \"productivity\"]\n  method: [\"survey\", \"rct\", \"secondary-data\", \"theory\"]\n  population: [\"air-force-personnel-in-training\", \"tech\", \"military\", \"education\", \"healthcare\", \"white-collar\"]\nsource:\n  markdown: \"Papers_Data/Remote Worker SNH/MD/Toscano et al 2024 - WFH vs office job performance (diary study)/Toscano et al 2024 - WFH vs office job performance (diary study).md\"\n  pdf: null\n  notes: null"
+    },
+    {
+      "id": "10.1186/s12874-016-0242-z",
+      "title": "Comparing two sampling methods to engage hard-to-reach communities in research priority setting",
+      "authors": [
+        "Valerio, Melissa A.",
+        "Rodriguez, Natalia",
+        "Winkler, Paula",
+        "Lopez, Jaime",
+        "Dennison, Meagen",
+        "Liang, Yuanyuan",
+        "Turner, Barbara J."
+      ],
+      "year": 2016,
+      "doi": "10.1186/s12874-016-0242-z",
+      "venue": {
+        "type": "journal",
+        "name": "Background",
+        "volume": null,
+        "issue": null,
+        "pages": null
+      },
+      "citation": "Valerio et al. (2016). Comparing two sampling methods to engage hard-to-reach communities in research priority setting. Background.",
+      "article_type": "empirical",
+      "method": {
+        "design": "rct",
+        "approach": "experiment",
+        "evidence_level": "strong",
+        "preregistered": false
+      },
+      "gist": "This source gives the project a retrieval card for SNH remote-worker social connection, workplace isolation, remote collaboration, sampling, and prevention design: Results: Of 65 eligible stakeholders in one community recruited by snowball sampling, 55 (85 %) consented, 52 (95 %) attended the first meeting, and 36 (65 %) attended all 3 meetings.",
+      "claims": [
+        {
+          "text": "Engaging persons from hard-to-reach or vulnerable communities has high priority, given evidence that lack of engaging racial-ethnic minorities and lower socioeconomic populations in research and decisionmaking contributes to disparities in enrollment in randomized clinical trials, cancer prevention, and...",
+          "evidence": "rct",
+          "support_strength": "strong",
+          "outcomes": [
+            "job-engagement",
+            "turnover",
+            "collaboration"
+          ],
+          "predictors": [
+            "community-engagement"
+          ]
+        }
+      ],
+      "population": {
+        "who": "remote workers, social connection, or SNH-relevant study participants",
+        "where": [
+          "USA"
+        ],
+        "when": null,
+        "n": null,
+        "sector": [
+          "tech",
+          "open-source",
+          "education",
+          "healthcare"
+        ],
+        "sample_notes": "Commonly used sampling methods for identification of participants in community settings vary from random to purposive [11, [12]]( page-9-0)."
+      },
+      "limitation": {
+        "primary": "Trial context and follow-up window may limit generalizability beyond the tested population.",
+        "others": [
+          "Implementation fidelity and attrition should be checked before adapting the intervention model."
+        ]
+      },
+      "risk_of_bias": "low",
+      "relevance_to_project": "Useful for the SNH remote-worker evidence stream because it indexes social connection, workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention mechanisms.",
+      "tags": {
+        "topic": [
+          "open-source",
+          "community-health",
+          "collaboration"
+        ],
+        "method": [
+          "rct"
+        ],
+        "population": [
+          "remote-workers-social-connection-or-snh",
+          "tech",
+          "open-source",
+          "education",
+          "healthcare"
+        ]
+      },
+      "source": {
+        "markdown": "Papers_Data/Remote Worker SNH/MD/Valerio et al 2016 - Comparing two sampling methods for hard-to-reach communities/Valerio et al 2016 - Comparing two sampling methods for hard-to-reach communities.md",
+        "pdf": null,
+        "notes": null
+      },
+      "raw_markdown": "id: \"10.1186/s12874-016-0242-z\"\ntitle: \"Comparing two sampling methods to engage hard-to-reach communities in research priority setting\"\nauthors: [\"Valerio, Melissa A.\", \"Rodriguez, Natalia\", \"Winkler, Paula\", \"Lopez, Jaime\", \"Dennison, Meagen\", \"Liang, Yuanyuan\", \"Turner, Barbara J.\"]\nyear: 2016\ndoi: \"10.1186/s12874-016-0242-z\"\nvenue: {type: \"journal\", name: \"Background\", volume: null, issue: null, pages: null}\ncitation: \"Valerio et al. (2016). Comparing two sampling methods to engage hard-to-reach communities in research priority setting. Background.\"\narticle_type: \"empirical\"\nmethod: {design: \"rct\", approach: \"experiment\", evidence_level: \"strong\", preregistered: false}\ngist: >\n  This source gives the project a retrieval card for SNH remote-worker social connection,\n  workplace isolation, remote collaboration, sampling, and prevention design: Results: Of 65\n  eligible stakeholders in one community recruited by snowball sampling, 55 (85 %) consented,\n  52 (95 %) attended the first meeting, and 36 (65 %) attended all 3 meetings.\nclaims:\n  - text: \"Engaging persons from hard-to-reach or vulnerable communities has high priority, given evidence that lack of engaging racial-ethnic minorities and lower socioeconomic populations in research and decisionmaking contributes to disparities in enrollment in randomized clinical trials, cancer prevention, and...\"\n    evidence: \"rct\"\n    support_strength: \"strong\"\n    outcomes: [\"job-engagement\", \"turnover\", \"collaboration\"]\n    predictors: [\"community-engagement\"]\npopulation:\n  who: \"remote workers, social connection, or SNH-relevant study participants\"\n  where: [\"USA\"]\n  when: null\n  n: null\n  sector: [\"tech\", \"open-source\", \"education\", \"healthcare\"]\n  sample_notes: >\n    Commonly used sampling methods for identification of participants in community settings\n    vary from random to purposive [11, [12]]( page-9-0).\nlimitation:\n  primary: \"Trial context and follow-up window may limit generalizability beyond the tested population.\"\n  others: [\"Implementation fidelity and attrition should be checked before adapting the intervention model.\"]\nrisk_of_bias: \"low\"\nrelevance_to_project: >\n  Useful for the SNH remote-worker evidence stream because it indexes social connection,\n  workplace isolation, loneliness, remote collaboration, sampling, and upstream prevention\n  mechanisms.\ntags:\n  topic: [\"open-source\", \"community-health\", \"collaboration\"]\n  method: [\"rct\"]\n  population: [\"remote-workers-social-connection-or-snh\", \"tech\", \"open-source\", \"education\", \"healthcare\"]\nsource:\n  markdown: \"Papers_Data/Remote Worker SNH/MD/Valerio et al 2016 - Comparing two sampling methods for hard-to-reach communities/Valerio et al 2016 - Comparing two sampling methods for hard-to-reach communities.md\"\n  pdf: null\n  notes: null"
+    }
+  ]
+}

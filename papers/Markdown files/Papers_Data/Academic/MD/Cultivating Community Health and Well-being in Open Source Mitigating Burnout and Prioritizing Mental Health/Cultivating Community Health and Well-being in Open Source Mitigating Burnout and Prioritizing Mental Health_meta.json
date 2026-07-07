@@ -1,0 +1,953 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.375,
+          137.28515625
+        ],
+        [
+          389.671875,
+          137.28515625
+        ],
+        [
+          389.671875,
+          302.02734375
+        ],
+        [
+          57.375,
+          302.02734375
+        ]
+      ]
+    },
+    {
+      "title": "Cultivating Community Health and Well-being in Open Source: Mitigating \nBurnout and Prioritizing Mental Health",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          80.0859375,
+          80.4375
+        ],
+        [
+          533.66796875,
+          80.4375
+        ],
+        [
+          533.66796875,
+          112.05401611328125
+        ],
+        [
+          80.0859375,
+          112.05401611328125
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          282.09375,
+          204.57421875
+        ],
+        [
+          328.2440185546875,
+          204.57421875
+        ],
+        [
+          328.2440185546875,
+          217.84197998046875
+        ],
+        [
+          282.09375,
+          217.84197998046875
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.12109375,
+          78.50390625
+        ],
+        [
+          149.25698852539062,
+          78.50390625
+        ],
+        [
+          149.25698852539062,
+          91.21197509765625
+        ],
+        [
+          71.12109375,
+          91.21197509765625
+        ]
+      ]
+    },
+    {
+      "title": "2. Understanding Burnout in Open Source",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          72.0250015258789,
+          415.72265625
+        ],
+        [
+          289.3569641113281,
+          415.72265625
+        ],
+        [
+          289.3569641113281,
+          426.6920166015625
+        ],
+        [
+          72.0250015258789,
+          426.6920166015625
+        ]
+      ]
+    },
+    {
+      "title": "2.1 Definition of Burnout",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.12109375,
+          437.7640075683594
+        ],
+        [
+          200.42599487304688,
+          437.7640075683594
+        ],
+        [
+          200.42599487304688,
+          448.49200439453125
+        ],
+        [
+          71.12109375,
+          448.49200439453125
+        ]
+      ]
+    },
+    {
+      "title": "2.2 Prevalence of Burnout and Stress Issues in Open Source",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          68.1328125,
+          147.7265625
+        ],
+        [
+          377.1009216308594,
+          147.7265625
+        ],
+        [
+          377.1009216308594,
+          160.6419677734375
+        ],
+        [
+          68.1328125,
+          160.6419677734375
+        ]
+      ]
+    },
+    {
+      "title": "3. Root Causes of Burnout",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.5234375,
+          315.94921875
+        ],
+        [
+          206.7890625,
+          315.94921875
+        ],
+        [
+          206.7890625,
+          328.86199951171875
+        ],
+        [
+          70.5234375,
+          328.86199951171875
+        ]
+      ]
+    },
+    {
+      "title": "4. Strategies for Promoting Community Health and Well-being",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.5234375,
+          638.47265625
+        ],
+        [
+          393.89801025390625,
+          638.47265625
+        ],
+        [
+          393.89801025390625,
+          651.3419952392578
+        ],
+        [
+          70.5234375,
+          651.3419952392578
+        ]
+      ]
+    },
+    {
+      "title": "4.1 Raise Awareness and Reduce Stigma",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.5234375,
+          662.4140014648438
+        ],
+        [
+          281.4849853515625,
+          662.4140014648438
+        ],
+        [
+          281.4849853515625,
+          673.1420059204102
+        ],
+        [
+          70.5234375,
+          673.1420059204102
+        ]
+      ]
+    },
+    {
+      "title": "4.2 Implement Flexible Contributing Policies",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          69.92578125,
+          195.29296875
+        ],
+        [
+          301.6329345703125,
+          195.29296875
+        ],
+        [
+          301.6329345703125,
+          208.24200439453125
+        ],
+        [
+          69.92578125,
+          208.24200439453125
+        ]
+      ]
+    },
+    {
+      "title": "4.3 Cultivate a Supportive Community Culture",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          70.5234375,
+          334.51171875
+        ],
+        [
+          316.2729797363281,
+          334.51171875
+        ],
+        [
+          316.2729797363281,
+          347.26202392578125
+        ],
+        [
+          70.5234375,
+          347.26202392578125
+        ]
+      ]
+    },
+    {
+      "title": "4.4 Provide Resources and Support",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          71.12109375,
+          459.421875
+        ],
+        [
+          255.07296752929688,
+          459.421875
+        ],
+        [
+          255.07296752929688,
+          470.49200439453125
+        ],
+        [
+          71.12109375,
+          470.49200439453125
+        ]
+      ]
+    },
+    {
+      "title": "5. The Role of Organizational Structures and Leadership",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          71.12109375,
+          549.52734375
+        ],
+        [
+          363.97265625,
+          549.52734375
+        ],
+        [
+          363.97265625,
+          561.7119903564453
+        ],
+        [
+          71.12109375,
+          561.7119903564453
+        ]
+      ]
+    },
+    {
+      "title": "5.1 Leadership Support and Role Modeling",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          70.5234375,
+          573.0139923095703
+        ],
+        [
+          293.2209777832031,
+          573.0139923095703
+        ],
+        [
+          293.2209777832031,
+          583.7419891357422
+        ],
+        [
+          70.5234375,
+          583.7419891357422
+        ]
+      ]
+    },
+    {
+      "title": "5.2 Establishing Clear Communication Channels",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          69.92578125,
+          663.99609375
+        ],
+        [
+          321.3129577636719,
+          663.99609375
+        ],
+        [
+          321.3129577636719,
+          674.9420013427734
+        ],
+        [
+          69.92578125,
+          674.9420013427734
+        ]
+      ]
+    },
+    {
+      "title": "5.3 Implementing Mentorship and Peer Support Programs",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.5234375,
+          116.7890625
+        ],
+        [
+          371.84490966796875,
+          116.7890625
+        ],
+        [
+          371.84490966796875,
+          129.011962890625
+        ],
+        [
+          70.5234375,
+          129.011962890625
+        ]
+      ]
+    },
+    {
+      "title": "6. Impact of Burnout on Project Sustainability",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          71.12109375,
+          191.8125
+        ],
+        [
+          309.75799560546875,
+          191.8125
+        ],
+        [
+          309.75799560546875,
+          204.44195556640625
+        ],
+        [
+          71.12109375,
+          204.44195556640625
+        ]
+      ]
+    },
+    {
+      "title": "7. Leveraging Data Analytics for Early Detection",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          71.12109375,
+          283.8515625
+        ],
+        [
+          322.1289978027344,
+          283.8515625
+        ],
+        [
+          322.1289978027344,
+          295.87200927734375
+        ],
+        [
+          71.12109375,
+          295.87200927734375
+        ]
+      ]
+    },
+    {
+      "title": "8. Intersectionality and Diversity in Mental Health Advocacy",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          71.71875,
+          390.19921875
+        ],
+        [
+          382.92095947265625,
+          390.19921875
+        ],
+        [
+          382.92095947265625,
+          403.0920104980469
+        ],
+        [
+          71.71875,
+          403.0920104980469
+        ]
+      ]
+    },
+    {
+      "title": "9. Nurturing Psychological Safety and Trust",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          71.12109375,
+          530.96484375
+        ],
+        [
+          297.8289489746094,
+          530.96484375
+        ],
+        [
+          297.8289489746094,
+          542.1219940185547
+        ],
+        [
+          71.12109375,
+          542.1219940185547
+        ]
+      ]
+    },
+    {
+      "title": "10. Empowering Contributors Through Self-Care Practices",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          71.71875,
+          622.6139984130859
+        ],
+        [
+          376.0880126953125,
+          622.6139984130859
+        ],
+        [
+          376.0880126953125,
+          633.3419952392578
+        ],
+        [
+          71.71875,
+          633.3419952392578
+        ]
+      ]
+    },
+    {
+      "title": "11. Conclusion",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          71.419921875,
+          78.50390625
+        ],
+        [
+          147.24899291992188,
+          78.50390625
+        ],
+        [
+          147.24899291992188,
+          91.21197509765625
+        ],
+        [
+          71.419921875,
+          91.21197509765625
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          70.822265625,
+          240.15234375
+        ],
+        [
+          128.0290069580078,
+          240.15234375
+        ],
+        [
+          128.0290069580078,
+          252.0419921875
+        ],
+        [
+          70.822265625,
+          252.0419921875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          3
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          52
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          42
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          111
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Cultivating Community Health and Well-being in Open Source Mitigating Burnout and Prioritizing Mental Health"
+}

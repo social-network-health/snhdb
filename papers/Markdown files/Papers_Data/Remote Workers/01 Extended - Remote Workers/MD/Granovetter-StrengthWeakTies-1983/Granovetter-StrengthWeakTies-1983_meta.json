@@ -1,0 +1,2304 @@
+{
+  "table_of_contents": [
+    {
+      "title": "THE STRENGTH OF WEAK TIES:\nA NETWORK THEORY REVISITED",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          39.609375,
+          242.70510864257812
+        ],
+        [
+          347.34375,
+          242.70510864257812
+        ],
+        [
+          347.34375,
+          278.4651184082031
+        ],
+        [
+          39.609375,
+          278.4651184082031
+        ]
+      ]
+    },
+    {
+      "title": "Mark Granovetter",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          211.7578125,
+          295.962890625
+        ],
+        [
+          351.9140625,
+          295.962890625
+        ],
+        [
+          351.9140625,
+          313.12396240234375
+        ],
+        [
+          211.7578125,
+          313.12396240234375
+        ]
+      ]
+    },
+    {
+      "title": "The Argument Recapitulated",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          130.25390625,
+          367.552734375
+        ],
+        [
+          259.74609375,
+          367.552734375
+        ],
+        [
+          259.74609375,
+          377.447265625
+        ],
+        [
+          130.25390625,
+          377.447265625
+        ]
+      ]
+    },
+    {
+      "title": "The Impact of Weak Ties on Individuals",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          105.498046875,
+          168.498046875
+        ],
+        [
+          284.501953125,
+          168.498046875
+        ],
+        [
+          284.501953125,
+          178.392578125
+        ],
+        [
+          105.498046875,
+          178.392578125
+        ]
+      ]
+    },
+    {
+      "title": "Excursus on the Strength of Strong Ties",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          107.40234375,
+          373.955078125
+        ],
+        [
+          282.59765625,
+          373.955078125
+        ],
+        [
+          282.59765625,
+          385.01367187499994
+        ],
+        [
+          107.40234375,
+          385.01367187499994
+        ]
+      ]
+    },
+    {
+      "title": "Weak Ties in the Spread of Ideas",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          124.16015625,
+          63.73242187499999
+        ],
+        [
+          268.88671875,
+          63.73242187499999
+        ],
+        [
+          268.88671875,
+          73.9622802734375
+        ],
+        [
+          124.16015625,
+          73.9622802734375
+        ]
+      ]
+    },
+    {
+      "title": "Weak Ties and Social Organization",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          117.3046875,
+          180.4296875
+        ],
+        [
+          272.6953125,
+          180.4296875
+        ],
+        [
+          272.6953125,
+          189.87252807617188
+        ],
+        [
+          117.3046875,
+          189.87252807617188
+        ]
+      ]
+    },
+    {
+      "title": "The Question of Verification",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          132.919921875,
+          102.43749999999999
+        ],
+        [
+          260.126953125,
+          102.43749999999999
+        ],
+        [
+          260.126953125,
+          112.3623046875
+        ],
+        [
+          132.919921875,
+          112.3623046875
+        ]
+      ]
+    },
+    {
+      "title": "Note",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          184.1455078125,
+          490.36132812499994
+        ],
+        [
+          205.8544921875,
+          490.36132812499994
+        ],
+        [
+          205.8544921875,
+          499.1919860839844
+        ],
+        [
+          184.1455078125,
+          499.1919860839844
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          171.47999572753906,
+          63.15039062499999
+        ],
+        [
+          217.470703125,
+          63.15039062499999
+        ],
+        [
+          217.470703125,
+          73.01202392578125
+        ],
+        [
+          171.47999572753906,
+          73.01202392578125
+        ]
+      ]
+    },
+    {
+      "title": "BALTZELL, E. D.",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          40.560001373291016,
+          91.087890625
+        ],
+        [
+          101.8798828125,
+          91.087890625
+        ],
+        [
+          101.8798828125,
+          98.45199584960938
+        ],
+        [
+          40.560001373291016,
+          98.45199584960938
+        ]
+      ]
+    },
+    {
+      "title": "BEARDEN, JAMES, AND OTHERS",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          39.609375,
+          128.919921875
+        ],
+        [
+          164.53125,
+          128.919921875
+        ],
+        [
+          164.53125,
+          136.97198486328125
+        ],
+        [
+          39.609375,
+          136.97198486328125
+        ]
+      ]
+    },
+    {
+      "title": "BLAU, JUDITH",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          39.609375,
+          181.302734375
+        ],
+        [
+          95.21484375,
+          181.302734375
+        ],
+        [
+          95.21484375,
+          188.869140625
+        ],
+        [
+          39.609375,
+          188.869140625
+        ]
+      ]
+    },
+    {
+      "title": "BLAU, PETER",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          39.228515625,
+          234.26757812499997
+        ],
+        [
+          91.025390625,
+          234.26757812499997
+        ],
+        [
+          91.025390625,
+          241.97198486328125
+        ],
+        [
+          39.228515625,
+          241.97198486328125
+        ]
+      ]
+    },
+    {
+      "title": "BOORMAN, SCOTT",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          39.609375,
+          274.71875
+        ],
+        [
+          111.2109375,
+          274.71875
+        ],
+        [
+          111.2109375,
+          282.1719970703125
+        ],
+        [
+          39.609375,
+          282.1719970703125
+        ]
+      ]
+    },
+    {
+      "title": "BREIGER, RONALD, AND PATTISON, PHILIPPA",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          39.228515625,
+          328.5719909667969
+        ],
+        [
+          219.755859375,
+          328.5719909667969
+        ],
+        [
+          219.755859375,
+          336.123046875
+        ],
+        [
+          39.228515625,
+          336.123046875
+        ]
+      ]
+    },
+    {
+      "title": "CHUBIN, DARYL",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          39.720001220703125,
+          369.01197814941406
+        ],
+        [
+          103.212890625,
+          369.01197814941406
+        ],
+        [
+          103.212890625,
+          376.01197814941406
+        ],
+        [
+          39.720001220703125,
+          376.01197814941406
+        ]
+      ]
+    },
+    {
+      "title": "COLLINS, HARRY",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          39.720001220703125,
+          408.85198974609375
+        ],
+        [
+          107.2119140625,
+          408.85198974609375
+        ],
+        [
+          107.2119140625,
+          415.85198974609375
+        ],
+        [
+          39.720001220703125,
+          415.85198974609375
+        ]
+      ]
+    },
+    {
+      "title": "COSER, ROSE",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          39.599998474121094,
+          448.45507812499994
+        ],
+        [
+          89.8828125,
+          448.45507812499994
+        ],
+        [
+          89.8828125,
+          456.05198669433594
+        ],
+        [
+          39.599998474121094,
+          456.05198669433594
+        ]
+      ]
+    },
+    {
+      "title": "DELANY, JOHN",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          39.0380859375,
+          513.642578125
+        ],
+        [
+          98.8330078125,
+          513.642578125
+        ],
+        [
+          98.8330078125,
+          521.2119827270508
+        ],
+        [
+          39.0380859375,
+          521.2119827270508
+        ]
+      ]
+    },
+    {
+      "title": "ERICKSEN, E., AND YANCEY, W.",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          41.89453125,
+          91.087890625
+        ],
+        [
+          166.81640625,
+          91.087890625
+        ],
+        [
+          166.81640625,
+          99.47198486328125
+        ],
+        [
+          41.89453125,
+          99.47198486328125
+        ]
+      ]
+    },
+    {
+      "title": "FELD, SCOTT",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          41.1328125,
+          156.275390625
+        ],
+        [
+          91.40625,
+          156.275390625
+        ],
+        [
+          91.40625,
+          163.61199951171875
+        ],
+        [
+          41.1328125,
+          163.61199951171875
+        ]
+      ]
+    },
+    {
+      "title": "FINE, GARY, AND KLEINMAN, SHERRYL",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          40.37109375,
+          194.10742187499997
+        ],
+        [
+          198.80859375,
+          194.10742187499997
+        ],
+        [
+          198.80859375,
+          202.07199096679688
+        ],
+        [
+          40.37109375,
+          202.07199096679688
+        ]
+      ]
+    },
+    {
+      "title": "FRANK, OVE",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          41.89453125,
+          233.10351562499997
+        ],
+        [
+          89.12109375,
+          233.10351562499997
+        ],
+        [
+          89.12109375,
+          240.65200805664062
+        ],
+        [
+          41.89453125,
+          240.65200805664062
+        ]
+      ]
+    },
+    {
+      "title": "FRIEDKIN, NOAH",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          41.7041015625,
+          271.517578125
+        ],
+        [
+          109.8779296875,
+          271.517578125
+        ],
+        [
+          109.8779296875,
+          279.2920227050781
+        ],
+        [
+          41.7041015625,
+          279.2920227050781
+        ]
+      ]
+    },
+    {
+      "title": "GANS, HERBERT",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          40.751953125,
+          322.736328125
+        ],
+        [
+          105.498046875,
+          322.736328125
+        ],
+        [
+          105.498046875,
+          330.7720031738281
+        ],
+        [
+          40.751953125,
+          330.7720031738281
+        ]
+      ]
+    },
+    {
+      "title": "GRANOVETTER, MARK S.",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          40.37109375,
+          348.345703125
+        ],
+        [
+          137.87109375,
+          348.345703125
+        ],
+        [
+          137.87109375,
+          356.6919860839844
+        ],
+        [
+          40.37109375,
+          356.6919860839844
+        ]
+      ]
+    },
+    {
+      "title": "HALBERSTAM, DAVID",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          40.37109375,
+          438.85156249999994
+        ],
+        [
+          124.16015625,
+          438.85156249999994
+        ],
+        [
+          124.16015625,
+          446.4519805908203
+        ],
+        [
+          40.37109375,
+          446.4519805908203
+        ]
+      ]
+    },
+    {
+      "title": "HOMANS, GEORGE",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          39.609375,
+          464.75195312499994
+        ],
+        [
+          111.97265625,
+          464.75195312499994
+        ],
+        [
+          111.97265625,
+          472.1319808959961
+        ],
+        [
+          39.609375,
+          472.1319808959961
+        ]
+      ]
+    },
+    {
+      "title": "KARWEIT, NANCY, HANSELL, STEPHEN, AND RICKS, MARGARET",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          38.0859375,
+          503.531982421875
+        ],
+        [
+          289.453125,
+          503.531982421875
+        ],
+        [
+          289.453125,
+          511.02343749999994
+        ],
+        [
+          38.0859375,
+          511.02343749999994
+        ]
+      ]
+    },
+    {
+      "title": "LANGLOIS, SIMON",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          42.275390625,
+          66.642578125
+        ],
+        [
+          113.876953125,
+          66.642578125
+        ],
+        [
+          113.876953125,
+          74.6319580078125
+        ],
+        [
+          42.275390625,
+          74.6319580078125
+        ]
+      ]
+    },
+    {
+      "title": "LAUMANN, E., AND PAPPI, F.",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          41.89453125,
+          105.34765624999999
+        ],
+        [
+          157.67578125,
+          105.34765624999999
+        ],
+        [
+          157.67578125,
+          113.33200073242188
+        ],
+        [
+          41.89453125,
+          113.33200073242188
+        ]
+      ]
+    },
+    {
+      "title": "LAUMANN, E., MARSDEN, P., AND GALASKIEWICZ, J.",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          41.89453125,
+          144.634765625
+        ],
+        [
+          247.55859375,
+          144.634765625
+        ],
+        [
+          247.55859375,
+          152.81201171875
+        ],
+        [
+          41.89453125,
+          152.81201171875
+        ]
+      ]
+    },
+    {
+      "title": "LIN, NAN, DAYTON, PAUL, AND GREENWALD, PETER",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          40.37109375,
+          184.794921875
+        ],
+        [
+          249.08203125,
+          184.794921875
+        ],
+        [
+          249.08203125,
+          193.01199340820312
+        ],
+        [
+          40.37109375,
+          193.01199340820312
+        ]
+      ]
+    },
+    {
+      "title": "LIN, NAN, ENSEL, W., AND VAUGHN, J.",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          40.37109375,
+          238.34179687499997
+        ],
+        [
+          195.76171875,
+          238.34179687499997
+        ],
+        [
+          195.76171875,
+          246.4119873046875
+        ],
+        [
+          40.37109375,
+          246.4119873046875
+        ]
+      ]
+    },
+    {
+      "title": "LOMNITZ, LARISSA",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          40.5615234375,
+          292.470703125
+        ],
+        [
+          115.5908203125,
+          292.470703125
+        ],
+        [
+          115.5908203125,
+          300.052001953125
+        ],
+        [
+          40.5615234375,
+          300.052001953125
+        ]
+      ]
+    },
+    {
+      "title": "MILGRAM, STANLEY",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          39.609375,
+          319.6920166015625
+        ],
+        [
+          121.11328125,
+          319.6920166015625
+        ],
+        [
+          121.11328125,
+          326.810546875
+        ],
+        [
+          39.609375,
+          326.810546875
+        ]
+      ]
+    },
+    {
+      "title": "MURRAY, S., RANKIN, J., AND MAGILL, D.",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          39.990234375,
+          359.89198303222656
+        ],
+        [
+          206.806640625,
+          359.89198303222656
+        ],
+        [
+          206.806640625,
+          366.89198303222656
+        ],
+        [
+          39.990234375,
+          366.89198303222656
+        ]
+      ]
+    },
+    {
+      "title": "POOL, ITHIEL",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          41.3232421875,
+          399.56445312499994
+        ],
+        [
+          97.3095703125,
+          399.56445312499994
+        ],
+        [
+          97.3095703125,
+          407.09197998046875
+        ],
+        [
+          41.3232421875,
+          407.09197998046875
+        ]
+      ]
+    },
+    {
+      "title": "ROGERS, EVERETT",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          40.37109375,
+          464.75195312499994
+        ],
+        [
+          111.2109375,
+          464.75195312499994
+        ],
+        [
+          111.2109375,
+          473.45198822021484
+        ],
+        [
+          40.37109375,
+          473.45198822021484
+        ]
+      ]
+    },
+    {
+      "title": "ROGERS, EVERETT, AND KINCAID, D. LAWRENCE",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          41.1328125,
+          515.970703125
+        ],
+        [
+          231.5625,
+          515.970703125
+        ],
+        [
+          231.5625,
+          523.7319793701172
+        ],
+        [
+          41.1328125,
+          523.7319793701172
+        ]
+      ]
+    },
+    {
+      "title": "SIMMEL, GEORG",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          41.3232421875,
+          66.3515625
+        ],
+        [
+          106.4501953125,
+          66.3515625
+        ],
+        [
+          106.4501953125,
+          74.21197509765625
+        ],
+        [
+          41.3232421875,
+          74.21197509765625
+        ]
+      ]
+    },
+    {
+      "title": "STACK, CAROL",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          40.37109375,
+          105.05664062499999
+        ],
+        [
+          98.26171875,
+          105.05664062499999
+        ],
+        [
+          98.26171875,
+          112.73202514648438
+        ],
+        [
+          40.37109375,
+          112.73202514648438
+        ]
+      ]
+    },
+    {
+      "title": "STEINBERG, LOIS",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          39.609375,
+          130.95703125
+        ],
+        [
+          108.1640625,
+          130.95703125
+        ],
+        [
+          108.1640625,
+          138.29202270507812
+        ],
+        [
+          39.609375,
+          138.29202270507812
+        ]
+      ]
+    },
+    {
+      "title": "WEIMANN, GABRIEL",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          40.1806640625,
+          182.7578125
+        ],
+        [
+          121.3037109375,
+          182.7578125
+        ],
+        [
+          121.3037109375,
+          189.77200317382812
+        ],
+        [
+          40.1806640625,
+          189.77200317382812
+        ]
+      ]
+    },
+    {
+      "title": "WELLMAN, BARRY",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          39.609375,
+          220.29882812499997
+        ],
+        [
+          115.01953125,
+          220.29882812499997
+        ],
+        [
+          115.01953125,
+          228.1719970703125
+        ],
+        [
+          39.609375,
+          228.1719970703125
+        ]
+      ]
+    },
+    {
+      "title": "WHITE, HARRISON, BOORMAN, SCOTT, AND BREIGER, RONALD",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          38.84765625,
+          270.935546875
+        ],
+        [
+          288.69140625,
+          270.935546875
+        ],
+        [
+          288.69140625,
+          279.7720031738281
+        ],
+        [
+          38.84765625,
+          279.7720031738281
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          72
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          66
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          74
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          74
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          74
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          70
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          72
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "SectionHeader",
+          11
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          10
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 32,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "SectionHeader",
+          11
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 33,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Granovetter-StrengthWeakTies-1983"
+}

@@ -1,0 +1,1223 @@
+{
+  "table_of_contents": [
+    {
+      "title": "How to Not Get Rich:\nAn Empirical Study of Donations in Open $ource",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          118.12960815429688,
+          99.0306396484375
+        ],
+        [
+          497.25,
+          99.0306396484375
+        ],
+        [
+          497.25,
+          143.361572265625
+        ],
+        [
+          118.12960815429688,
+          143.361572265625
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.673828125,
+          186.295166015625
+        ],
+        [
+          115.79696655273438,
+          186.295166015625
+        ],
+        [
+          115.79696655273438,
+          197.0950927734375
+        ],
+        [
+          57.673828125,
+          197.0950927734375
+        ]
+      ]
+    },
+    {
+      "title": "ACM Reference format:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.076171875,
+          391.0635070800781
+        ],
+        [
+          142.79830932617188,
+          391.0635070800781
+        ],
+        [
+          142.79830932617188,
+          400.25390625
+        ],
+        [
+          57.076171875,
+          400.25390625
+        ]
+      ]
+    },
+    {
+      "title": "1 INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.97265625,
+          465.15936279296875
+        ],
+        [
+          159.9458465576172,
+          465.15936279296875
+        ],
+        [
+          159.9458465576172,
+          476.068359375
+        ],
+        [
+          57.97265625,
+          476.068359375
+        ]
+      ]
+    },
+    {
+      "title": "2 BACKGROUND AND RELATED WORK:\nOPEN SOURCE AND MONEY",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          57.97265625,
+          357.6070556640625
+        ],
+        [
+          270.2630920410156,
+          357.6070556640625
+        ],
+        [
+          270.2630920410156,
+          381.69140625
+        ],
+        [
+          57.97265625,
+          381.69140625
+        ]
+      ]
+    },
+    {
+      "title": "3 STUDY OVERVIEW",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          313.76953125,
+          476.144287109375
+        ],
+        [
+          427.5637512207031,
+          476.144287109375
+        ],
+        [
+          427.5637512207031,
+          487.05328369140625
+        ],
+        [
+          313.76953125,
+          487.05328369140625
+        ]
+      ]
+    },
+    {
+      "title": "4 STEP 1: FREQUENCY OF DONATION REQUESTS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          56.1796875,
+          631.5
+        ],
+        [
+          256.5,
+          631.5
+        ],
+        [
+          256.5,
+          654.71484375
+        ],
+        [
+          56.1796875,
+          654.71484375
+        ]
+      ]
+    },
+    {
+      "title": "4.1 Research Methods",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          313.171875,
+          295.83984375
+        ],
+        [
+          428.25,
+          295.83984375
+        ],
+        [
+          428.25,
+          304.34765625
+        ],
+        [
+          313.171875,
+          304.34765625
+        ]
+      ]
+    },
+    {
+      "title": "4.2 Results",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          311.9765625,
+          324.0
+        ],
+        [
+          375.0,
+          324.0
+        ],
+        [
+          375.0,
+          332.25
+        ],
+        [
+          311.9765625,
+          332.25
+        ]
+      ]
+    },
+    {
+      "title": "5 STEP 2: CHARACTERISTICS OF PROJECTS ASKING FOR AND RECEIVING DONATIONS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          311.37890625,
+          587.25
+        ],
+        [
+          552.0,
+          587.25
+        ],
+        [
+          552.0,
+          610.62890625
+        ],
+        [
+          311.37890625,
+          610.62890625
+        ]
+      ]
+    },
+    {
+      "title": "5.1 Research Methods",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          57.0,
+          114.46875
+        ],
+        [
+          173.25,
+          114.46875
+        ],
+        [
+          173.25,
+          123.0
+        ],
+        [
+          57.0,
+          123.0
+        ]
+      ]
+    },
+    {
+      "title": "5.2 Results",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          313.5,
+          568.08984375
+        ],
+        [
+          375.0,
+          568.08984375
+        ],
+        [
+          375.0,
+          576.75
+        ],
+        [
+          313.5,
+          576.75
+        ]
+      ]
+    },
+    {
+      "title": "6 STEP 3: EXPECTATIONS FOR DONATIONS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          314.3671875,
+          300.75
+        ],
+        [
+          542.25,
+          300.75
+        ],
+        [
+          542.25,
+          309.0
+        ],
+        [
+          314.3671875,
+          309.0
+        ]
+      ]
+    },
+    {
+      "title": "6.1 Research Methods",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          313.171875,
+          380.25
+        ],
+        [
+          428.25,
+          380.25
+        ],
+        [
+          428.25,
+          389.25
+        ],
+        [
+          313.171875,
+          389.25
+        ]
+      ]
+    },
+    {
+      "title": "6.2 Results",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          57.0,
+          275.25
+        ],
+        [
+          119.53125,
+          275.25
+        ],
+        [
+          119.53125,
+          283.8515625
+        ],
+        [
+          57.0,
+          283.8515625
+        ]
+      ]
+    },
+    {
+      "title": "7 STEP 4: OBSERVABLE OUTCOMES OF DONATIONS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          310.78125,
+          101.25
+        ],
+        [
+          518.25,
+          102.75
+        ],
+        [
+          518.25,
+          123.75
+        ],
+        [
+          310.78125,
+          123.75
+        ]
+      ]
+    },
+    {
+      "title": "7.1 Research Methods",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          312.75,
+          302.25
+        ],
+        [
+          428.25,
+          302.25
+        ],
+        [
+          428.25,
+          311.25
+        ],
+        [
+          312.75,
+          311.25
+        ]
+      ]
+    },
+    {
+      "title": "7.2 Results",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          313.5,
+          484.55859375
+        ],
+        [
+          375.0,
+          484.55859375
+        ],
+        [
+          375.0,
+          494.25
+        ],
+        [
+          313.5,
+          494.25
+        ]
+      ]
+    },
+    {
+      "title": "8 STEP 5: USE OF DONATIONS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          57.375,
+          388.5
+        ],
+        [
+          216.0,
+          388.5
+        ],
+        [
+          216.0,
+          398.25
+        ],
+        [
+          57.375,
+          398.25
+        ]
+      ]
+    },
+    {
+      "title": "8.1 Research Methods",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          56.25,
+          459.80859375
+        ],
+        [
+          172.125,
+          459.80859375
+        ],
+        [
+          172.125,
+          468.75
+        ],
+        [
+          56.25,
+          468.75
+        ]
+      ]
+    },
+    {
+      "title": "8.2 Results",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          312.75,
+          493.83984375
+        ],
+        [
+          375.0,
+          493.83984375
+        ],
+        [
+          375.0,
+          502.34765625
+        ],
+        [
+          312.75,
+          502.34765625
+        ]
+      ]
+    },
+    {
+      "title": "9 DISCUSSION",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          313.470703125,
+          198.75
+        ],
+        [
+          394.154296875,
+          198.75
+        ],
+        [
+          394.154296875,
+          207.75
+        ],
+        [
+          313.470703125,
+          207.75
+        ]
+      ]
+    },
+    {
+      "title": "10 CONCLUSION",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          57.85325622558594,
+          491.7566223144531
+        ],
+        [
+          150.3812255859375,
+          491.7566223144531
+        ],
+        [
+          150.3812255859375,
+          502.6656188964844
+        ],
+        [
+          57.85325622558594,
+          502.6656188964844
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGEMENTS",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          313.171875,
+          134.26165771484375
+        ],
+        [
+          437.484375,
+          134.26165771484375
+        ],
+        [
+          437.484375,
+          145.06158447265625
+        ],
+        [
+          313.171875,
+          145.06158447265625
+        ]
+      ]
+    },
+    {
+      "title": "SUPPLEMENTARY MATERIAL AND\nREPLICATION PACKAGE",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          313.76953125,
+          256.774169921875
+        ],
+        [
+          494.26171875,
+          256.774169921875
+        ],
+        [
+          494.26171875,
+          280.5046691894531
+        ],
+        [
+          313.76953125,
+          280.5046691894531
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          312.57421875,
+          327.2284851074219
+        ],
+        [
+          382.7373046875,
+          327.2284851074219
+        ],
+        [
+          382.7373046875,
+          338.02838134765625
+        ],
+        [
+          312.57421875,
+          338.02838134765625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          304
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          323
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          141
+        ],
+        [
+          "Span",
+          54
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          122
+        ],
+        [
+          "Span",
+          76
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          125
+        ],
+        [
+          "Span",
+          83
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          102
+        ],
+        [
+          "Line",
+          94
+        ],
+        [
+          "Span",
+          86
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TableGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          128
+        ],
+        [
+          "Span",
+          49
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          105
+        ],
+        [
+          "TableCell",
+          48
+        ],
+        [
+          "Span",
+          46
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          137
+        ],
+        [
+          "Span",
+          69
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          129
+        ],
+        [
+          "Span",
+          57
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          367
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "Line",
+          152
+        ],
+        [
+          "ListItem",
+          58
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/How to Not Get Rich An Empirical Study of Donations in Open Source"
+}

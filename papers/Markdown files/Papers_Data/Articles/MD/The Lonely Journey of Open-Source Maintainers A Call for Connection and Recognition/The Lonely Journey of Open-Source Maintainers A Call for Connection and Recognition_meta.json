@@ -1,0 +1,557 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The Lonely Journey of Open-Source Maintainers:\nA Callfor Connection and Recognition",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.79264831542969,
+          108.25634765625
+        ],
+        [
+          555.9374389648438,
+          108.25634765625
+        ],
+        [
+          555.9374389648438,
+          159.14306640625
+        ],
+        [
+          34.79264831542969,
+          159.14306640625
+        ]
+      ]
+    },
+    {
+      "title": "Combatting Maintainer Loneliness",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.79264831542969,
+          367.57763671875
+        ],
+        [
+          500.90380859375,
+          367.57763671875
+        ],
+        [
+          500.90380859375,
+          397.53143310546875
+        ],
+        [
+          34.79264831542969,
+          397.53143310546875
+        ]
+      ]
+    },
+    {
+      "title": "Identifying the Right Kind of Support",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          34.79264831542969,
+          316.53662109375
+        ],
+        [
+          527.1593017578125,
+          316.53662109375
+        ],
+        [
+          527.1593017578125,
+          346.55145263671875
+        ],
+        [
+          34.79264831542969,
+          346.55145263671875
+        ]
+      ]
+    },
+    {
+      "title": "The Return of Social Coding",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          34.79264831542969,
+          253.8048095703125
+        ],
+        [
+          413.45623779296875,
+          253.8048095703125
+        ],
+        [
+          413.45623779296875,
+          283.57635498046875
+        ],
+        [
+          34.79264831542969,
+          283.57635498046875
+        ]
+      ]
+    },
+    {
+      "title": "Finding the Right Connections",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          34.79264831542969,
+          719.513671875
+        ],
+        [
+          445.0653076171875,
+          719.513671875
+        ],
+        [
+          445.0653076171875,
+          750.6432495117188
+        ],
+        [
+          34.79264831542969,
+          750.6432495117188
+        ]
+      ]
+    },
+    {
+      "title": "Share Your Story",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          34.33984375,
+          129.23638916015625
+        ],
+        [
+          229.40170288085938,
+          129.23638916015625
+        ],
+        [
+          229.40170288085938,
+          153.20703125
+        ],
+        [
+          34.33984375,
+          153.20703125
+        ]
+      ]
+    },
+    {
+      "title": "Identify the Right People for You",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          33.7578125,
+          627.1583099365234
+        ],
+        [
+          469.6999816894531,
+          627.1583099365234
+        ],
+        [
+          469.6999816894531,
+          656.9298706054688
+        ],
+        [
+          33.7578125,
+          656.9298706054688
+        ]
+      ]
+    },
+    {
+      "title": "Connect",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          34.79264831542969,
+          491.4755859375
+        ],
+        [
+          135.2867889404297,
+          491.4755859375
+        ],
+        [
+          135.2867889404297,
+          516.8144226074219
+        ],
+        [
+          34.79264831542969,
+          516.8144226074219
+        ]
+      ]
+    },
+    {
+      "title": "OpenSauced is joining the Linux Foundation",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          33.7578125,
+          596.8505859375
+        ],
+        [
+          423.3320617675781,
+          596.8505859375
+        ],
+        [
+          423.3320617675781,
+          617.6986694335938
+        ],
+        [
+          33.7578125,
+          617.6986694335938
+        ]
+      ]
+    },
+    {
+      "title": "OpenSauced on Azure: Lessons learned from a near-zero downtime migration",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          33.02770780856423,
+          355.5
+        ],
+        [
+          538.9521410579345,
+          355.5
+        ],
+        [
+          538.9521410579345,
+          399.75
+        ],
+        [
+          33.02770780856423,
+          399.75
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          159
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          260
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          589
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          516
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          245
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          299
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          219
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          15
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/The Lonely Journey of Open-Source Maintainers A Call for Connection and Recognition"
+}

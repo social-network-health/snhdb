@@ -1,0 +1,716 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The Dark Side of Open Source",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          112.9140625,
+          286.42242431640625
+        ],
+        [
+          488.0209045410156,
+          286.42242431640625
+        ],
+        [
+          488.0209045410156,
+          313.38934326171875
+        ],
+        [
+          112.9140625,
+          313.38934326171875
+        ]
+      ]
+    },
+    {
+      "title": "Status check",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.33984375,
+          79.03125
+        ],
+        [
+          171.436767578125,
+          79.03125
+        ],
+        [
+          171.436767578125,
+          103.3714599609375
+        ],
+        [
+          34.33984375,
+          103.3714599609375
+        ]
+      ]
+    },
+    {
+      "title": "Enjoy being undiscovered",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.79264831542969,
+          568.44873046875
+        ],
+        [
+          306.1531982421875,
+          568.44873046875
+        ],
+        [
+          306.1531982421875,
+          592.1798553466797
+        ],
+        [
+          34.79264831542969,
+          592.1798553466797
+        ]
+      ]
+    },
+    {
+      "title": "It's a product, not a feature",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          34.79264831542969,
+          493.9872131347656
+        ],
+        [
+          310.7767639160156,
+          493.9872131347656
+        ],
+        [
+          310.7767639160156,
+          517.40771484375
+        ],
+        [
+          34.79264831542969,
+          517.40771484375
+        ]
+      ]
+    },
+    {
+      "title": "Open source libraries are products.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.77426528930664,
+          168.61474609375
+        ],
+        [
+          431.4064636230469,
+          168.61474609375
+        ],
+        [
+          431.4064636230469,
+          191.08721923828125
+        ],
+        [
+          49.77426528930664,
+          191.08721923828125
+        ]
+      ]
+    },
+    {
+      "title": "Enthusiasm is great but it makes for a poor\ndinner.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          48.890625,
+          486.4902648925781
+        ],
+        [
+          514.2634887695312,
+          486.4902648925781
+        ],
+        [
+          514.2634887695312,
+          538.9509582519531
+        ],
+        [
+          48.890625,
+          538.9509582519531
+        ]
+      ]
+    },
+    {
+      "title": "Money in open source",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          34.79264831542969,
+          127.6025390625
+        ],
+        [
+          265.54443359375,
+          127.6025390625
+        ],
+        [
+          265.54443359375,
+          150.60308837890625
+        ],
+        [
+          34.79264831542969,
+          150.60308837890625
+        ]
+      ]
+    },
+    {
+      "title": "Because there's no money in open source.",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          49.77426528930664,
+          333.5503234863281
+        ],
+        [
+          507.5776062011719,
+          333.5503234863281
+        ],
+        [
+          507.5776062011719,
+          356.87548828125
+        ],
+        [
+          49.77426528930664,
+          356.87548828125
+        ]
+      ]
+    },
+    {
+      "title": "Plan your exit",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          34.79264831542969,
+          224.093017578125
+        ],
+        [
+          177.36119079589844,
+          224.093017578125
+        ],
+        [
+          177.36119079589844,
+          246.56549072265625
+        ],
+        [
+          34.79264831542969,
+          246.56549072265625
+        ]
+      ]
+    },
+    {
+      "title": "Establish a healthy balance",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          34.79264831542969,
+          128.01416015625
+        ],
+        [
+          317.86962890625,
+          128.01416015625
+        ],
+        [
+          317.86962890625,
+          150.60284423828125
+        ],
+        [
+          34.79264831542969,
+          150.60284423828125
+        ]
+      ]
+    },
+    {
+      "title": "Closing thoughts",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          34.33984375,
+          175.76220703125
+        ],
+        [
+          215.28652954101562,
+          175.76220703125
+        ],
+        [
+          215.28652954101562,
+          199.33428955078125
+        ],
+        [
+          34.33984375,
+          199.33428955078125
+        ]
+      ]
+    },
+    {
+      "title": "Keep on reading",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          49.77426528930664,
+          401.7421875
+        ],
+        [
+          222.54147338867188,
+          401.7421875
+        ],
+        [
+          222.54147338867188,
+          424.79296875
+        ],
+        [
+          49.77426528930664,
+          424.79296875
+        ]
+      ]
+    },
+    {
+      "title": "Mocking in Node.js Has Just\nChanged Forever",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          49.77426528930664,
+          189.502685546875
+        ],
+        [
+          295.2728271484375,
+          189.502685546875
+        ],
+        [
+          295.2728271484375,
+          231.4713134765625
+        ],
+        [
+          49.77426528930664,
+          231.4713134765625
+        ]
+      ]
+    },
+    {
+      "title": "Why I Wouldn't Want to Have an\nEngineering Degree",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          48.890625,
+          31.283203125
+        ],
+        [
+          326.27520751953125,
+          31.283203125
+        ],
+        [
+          326.27520751953125,
+          74.7823486328125
+        ],
+        [
+          48.890625,
+          74.7823486328125
+        ]
+      ]
+    },
+    {
+      "title": "Writing a Custom Webpack Loader",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          49.47265625,
+          627.3307800292969
+        ],
+        [
+          349.02056884765625,
+          627.3307800292969
+        ],
+        [
+          349.02056884765625,
+          647.47998046875
+        ],
+        [
+          49.47265625,
+          647.47998046875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          62
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          23
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/The Dark Side of Open Source"
+}

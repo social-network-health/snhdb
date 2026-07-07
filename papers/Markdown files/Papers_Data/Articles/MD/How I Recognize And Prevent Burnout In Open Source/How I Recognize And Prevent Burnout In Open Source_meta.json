@@ -1,0 +1,353 @@
+{
+  "table_of_contents": [
+    {
+      "title": "How I Recognize And\nPrevent Burnout In Open\nSource",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.429481506347656,
+          160.94384765625
+        ],
+        [
+          484.6003112792969,
+          160.94384765625
+        ],
+        [
+          484.6003112792969,
+          278.595947265625
+        ],
+        [
+          49.429481506347656,
+          278.595947265625
+        ]
+      ]
+    },
+    {
+      "title": "Preventing burnout",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          34.69413757324219,
+          584.501953125
+        ],
+        [
+          380.0721130371094,
+          584.501953125
+        ],
+        [
+          380.0721130371094,
+          620.724609375
+        ],
+        [
+          34.69413757324219,
+          620.724609375
+        ]
+      ]
+    },
+    {
+      "title": "Taking care of ourselves and\nothers",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          34.69413757324219,
+          562.4754028320312
+        ],
+        [
+          548.1124267578125,
+          562.4754028320312
+        ],
+        [
+          548.1124267578125,
+          637.6537017822266
+        ],
+        [
+          34.69413757324219,
+          637.6537017822266
+        ]
+      ]
+    },
+    {
+      "title": "Related Topics",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          34.69413757324219,
+          64.62451171875
+        ],
+        [
+          122.93216705322266,
+          64.62451171875
+        ],
+        [
+          122.93216705322266,
+          78.79620361328125
+        ],
+        [
+          34.69413757324219,
+          78.79620361328125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          25
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          127
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          701
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          612
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          749
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          386
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/How I Recognize And Prevent Burnout In Open Source"
+}

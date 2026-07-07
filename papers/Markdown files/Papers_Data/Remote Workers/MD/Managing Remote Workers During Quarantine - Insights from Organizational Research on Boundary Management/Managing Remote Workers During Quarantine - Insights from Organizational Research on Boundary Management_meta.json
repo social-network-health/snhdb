@@ -1,0 +1,640 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Managing remote \nworkers during quarantine: \nInsights from organizational \nresearch on boundary \nmanagement",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.0,
+          82.74908447265625
+        ],
+        [
+          548.7238159179688,
+          82.74908447265625
+        ],
+        [
+          548.7238159179688,
+          290.74908447265625
+        ],
+        [
+          54.0,
+          290.74908447265625
+        ]
+      ]
+    },
+    {
+      "title": "abstract *",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          262.072265625,
+          456.71484375
+        ],
+        [
+          328.79791259765625,
+          456.71484375
+        ],
+        [
+          328.79791259765625,
+          476.9581604003906
+        ],
+        [
+          262.072265625,
+          476.9581604003906
+        ]
+      ]
+    },
+    {
+      "title": "Assess\u2013Create\u2013Support \nFramework",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          361.20001220703125,
+          43.69921875
+        ],
+        [
+          510.0500183105469,
+          43.69921875
+        ],
+        [
+          510.0500183105469,
+          71.20599365234375
+        ],
+        [
+          361.20001220703125,
+          71.20599365234375
+        ]
+      ]
+    },
+    {
+      "title": "Assess",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          361.20001220703125,
+          334.8984375
+        ],
+        [
+          392.0625,
+          334.8984375
+        ],
+        [
+          392.0625,
+          344.9056396484375
+        ],
+        [
+          361.20001220703125,
+          344.9056396484375
+        ]
+      ]
+    },
+    {
+      "title": "Assess",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          109.82050323486328,
+          101.3203125
+        ],
+        [
+          136.81149291992188,
+          101.3203125
+        ],
+        [
+          136.81149291992188,
+          110.3985595703125
+        ],
+        [
+          109.82050323486328,
+          110.3985595703125
+        ]
+      ]
+    },
+    {
+      "title": "Action items for managers:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.16796875,
+          143.47265625
+        ],
+        [
+          153.21559143066406,
+          143.47265625
+        ],
+        [
+          153.21559143066406,
+          151.1279296875
+        ],
+        [
+          59.16796875,
+          151.1279296875
+        ]
+      ]
+    },
+    {
+      "title": "Create",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          291.955078125,
+          101.3985595703125
+        ],
+        [
+          321.9048156738281,
+          101.3985595703125
+        ],
+        [
+          321.9048156738281,
+          110.3985595703125
+        ],
+        [
+          291.955078125,
+          110.3985595703125
+        ]
+      ]
+    },
+    {
+      "title": "Action items for managers include:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          244.142578125,
+          161.26171875
+        ],
+        [
+          365.19580078125,
+          161.26171875
+        ],
+        [
+          365.19580078125,
+          169.1279296875
+        ],
+        [
+          244.142578125,
+          169.1279296875
+        ]
+      ]
+    },
+    {
+      "title": "Support",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          474.240234375,
+          99.39849853515625
+        ],
+        [
+          510.697265625,
+          99.39849853515625
+        ],
+        [
+          510.697265625,
+          108.39849853515625
+        ],
+        [
+          474.240234375,
+          108.39849853515625
+        ]
+      ]
+    },
+    {
+      "title": "Action items for managers:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          427.623046875,
+          141.15234375
+        ],
+        [
+          521.2158203125,
+          141.15234375
+        ],
+        [
+          521.2158203125,
+          149.1279296875
+        ],
+        [
+          427.623046875,
+          149.1279296875
+        ]
+      ]
+    },
+    {
+      "title": "Create",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          151.505859375,
+          139.9056396484375
+        ],
+        [
+          183.181640625,
+          139.9056396484375
+        ],
+        [
+          183.181640625,
+          149.9056396484375
+        ],
+        [
+          151.505859375,
+          149.9056396484375
+        ]
+      ]
+    },
+    {
+      "title": "Support",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          359.7890625,
+          529.9056396484375
+        ],
+        [
+          398.7210998535156,
+          529.9056396484375
+        ],
+        [
+          398.7210998535156,
+          539.9056243896484
+        ],
+        [
+          359.7890625,
+          539.9056243896484
+        ]
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          262.072265625,
+          332.19140625
+        ],
+        [
+          331.6960754394531,
+          332.19140625
+        ],
+        [
+          331.6960754394531,
+          345.4550476074219
+        ],
+        [
+          262.072265625,
+          345.4550476074219
+        ]
+      ]
+    },
+    {
+      "title": "author affiliations",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          262.79998779296875,
+          619.2867584228516
+        ],
+        [
+          359.2296142578125,
+          619.2867584228516
+        ],
+        [
+          359.2296142578125,
+          631.2867584228516
+        ],
+        [
+          262.79998779296875,
+          631.2867584228516
+        ]
+      ]
+    },
+    {
+      "title": "references",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          47.513671875,
+          25.08673095703125
+        ],
+        [
+          106.77599334716797,
+          25.08673095703125
+        ],
+        [
+          106.77599334716797,
+          37.08673095703125
+        ],
+        [
+          47.513671875,
+          37.08673095703125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          52
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          200
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          232
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          184
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          182
+        ],
+        [
+          "Line",
+          94
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          412
+        ],
+        [
+          "Line",
+          189
+        ],
+        [
+          "ListItem",
+          29
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          421
+        ],
+        [
+          "Line",
+          183
+        ],
+        [
+          "ListItem",
+          29
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Managing Remote Workers During Quarantine - Insights from Organizational Research on Boundary Management"
+}

@@ -1,0 +1,891 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Obesity 1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          119.025390625,
+          122.265625
+        ],
+        [
+          186.9149932861328,
+          122.265625
+        ],
+        [
+          186.9149932861328,
+          140.39935302734375
+        ],
+        [
+          119.025390625,
+          140.39935302734375
+        ]
+      ]
+    },
+    {
+      "title": "The global obesity pandemic: shaped by global drivers and \nlocal environments",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          117.5703125,
+          155.39337158203125
+        ],
+        [
+          543.1189575195312,
+          155.39337158203125
+        ],
+        [
+          543.1189575195312,
+          195.38934326171875
+        ],
+        [
+          117.5703125,
+          195.38934326171875
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          119.05500030517578,
+          369.7312927246094
+        ],
+        [
+          175.89199829101562,
+          369.7312927246094
+        ],
+        [
+          175.89199829101562,
+          380.7312927246094
+        ],
+        [
+          119.05500030517578,
+          380.7312927246094
+        ]
+      ]
+    },
+    {
+      "title": "Key messages",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          351.255859375,
+          378.90625
+        ],
+        [
+          398.8544921875,
+          378.90625
+        ],
+        [
+          398.8544921875,
+          388.5965576171875
+        ],
+        [
+          351.255859375,
+          388.5965576171875
+        ]
+      ]
+    },
+    {
+      "title": "The global rise in obesity prevalence",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.0859375,
+          125.78125
+        ],
+        [
+          195.8773956298828,
+          125.78125
+        ],
+        [
+          195.8773956298828,
+          138.73126220703125
+        ],
+        [
+          36.0859375,
+          138.73126220703125
+        ]
+      ]
+    },
+    {
+      "title": "Broad economic eff ects on obesity",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          118.15234375,
+          226.171875
+        ],
+        [
+          270.64453125,
+          226.171875
+        ],
+        [
+          270.64453125,
+          237.73126220703125
+        ],
+        [
+          118.15234375,
+          237.73126220703125
+        ]
+      ]
+    },
+    {
+      "title": "Panel 1: Is the market failing children?",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          35.84640121459961,
+          501.466552734375
+        ],
+        [
+          164.71484375,
+          501.466552734375
+        ],
+        [
+          164.71484375,
+          510.54687499999994
+        ],
+        [
+          35.84640121459961,
+          510.54687499999994
+        ]
+      ]
+    },
+    {
+      "title": "Drivers of the obesity epidemic",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          343.689453125,
+          688.7312774658203
+        ],
+        [
+          481.1553649902344,
+          688.7312774658203
+        ],
+        [
+          481.1553649902344,
+          699.7312774658203
+        ],
+        [
+          343.689453125,
+          699.7312774658203
+        ]
+      ]
+    },
+    {
+      "title": "Panel 2: Energy balance fl ipping point",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          269.48046875,
+          283.203125
+        ],
+        [
+          397.57049560546875,
+          283.203125
+        ],
+        [
+          397.57049560546875,
+          292.4762878417969
+        ],
+        [
+          269.48046875,
+          292.4762878417969
+        ]
+      ]
+    },
+    {
+      "title": "Other environmental and individual eff ects",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          344.4100036621094,
+          270.703125
+        ],
+        [
+          535.46875,
+          270.703125
+        ],
+        [
+          535.46875,
+          281.73126220703125
+        ],
+        [
+          344.4100036621094,
+          281.73126220703125
+        ]
+      ]
+    },
+    {
+      "title": "Approaches to address the obesity epidemic",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          34.921875,
+          611.328125
+        ],
+        [
+          230.68540954589844,
+          611.328125
+        ],
+        [
+          230.68540954589844,
+          622.7312774658203
+        ],
+        [
+          34.921875,
+          622.7312774658203
+        ]
+      ]
+    },
+    {
+      "title": "Panel 3: Modelling for obesity",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          268.607421875,
+          135.546875
+        ],
+        [
+          370.3194885253906,
+          135.546875
+        ],
+        [
+          370.3194885253906,
+          145.4923095703125
+        ],
+        [
+          268.607421875,
+          145.4923095703125
+        ]
+      ]
+    },
+    {
+      "title": "Panel 4: How much can genetics explain of the obesity epidemic?",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          34.52896725440806,
+          423.264540337711
+        ],
+        [
+          256.71536523929467,
+          423.264540337711
+        ],
+        [
+          256.71536523929467,
+          432.421875
+        ],
+        [
+          34.52896725440806,
+          432.421875
+        ]
+      ]
+    },
+    {
+      "title": "Implications",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          343.7884130982368,
+          698.828125
+        ],
+        [
+          401.58690176322415,
+          698.828125
+        ],
+        [
+          401.58690176322415,
+          708.4427767354596
+        ],
+        [
+          343.7884130982368,
+          708.4427767354596
+        ]
+      ]
+    },
+    {
+      "title": "Contributors",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          261.33203125,
+          373.046875
+        ],
+        [
+          298.5559997558594,
+          373.046875
+        ],
+        [
+          298.5559997558594,
+          381.7801208496094
+        ],
+        [
+          261.33203125,
+          381.7801208496094
+        ]
+      ]
+    },
+    {
+      "title": "Confl icts of interest",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          262.20501708984375,
+          455.078125
+        ],
+        [
+          317.63104248046875,
+          455.078125
+        ],
+        [
+          317.63104248046875,
+          464.77911376953125
+        ],
+        [
+          262.20501708984375,
+          464.77911376953125
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgments",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          261.623046875,
+          476.953125
+        ],
+        [
+          315.751953125,
+          476.953125
+        ],
+        [
+          315.751953125,
+          486.52813720703125
+        ],
+        [
+          261.623046875,
+          486.52813720703125
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          261.623046875,
+          605.078125
+        ],
+        [
+          292.4730224609375,
+          605.078125
+        ],
+        [
+          292.4730224609375,
+          613.671875
+        ],
+        [
+          261.623046875,
+          613.671875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          289
+        ],
+        [
+          "Line",
+          128
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          264
+        ],
+        [
+          "Line",
+          117
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          229
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          222
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          100
+        ],
+        [
+          "Span",
+          85
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          247
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          415
+        ],
+        [
+          "Line",
+          149
+        ],
+        [
+          "ListItem",
+          49
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          442
+        ],
+        [
+          "Line",
+          148
+        ],
+        [
+          "ListItem",
+          51
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          149
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/The Global Obesity Pandemic Shaped by Global Drivers and Local Environments"
+}

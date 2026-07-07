@@ -1,0 +1,686 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Focus on Research Methods",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          111.01000213623047,
+          62.575439453125
+        ],
+        [
+          393.03399658203125,
+          62.575439453125
+        ],
+        [
+          393.03399658203125,
+          86.575439453125
+        ],
+        [
+          111.01000213623047,
+          86.575439453125
+        ]
+      ]
+    },
+    {
+      "title": "Combining Qualitative \nand Quantitative Sampling,\nData Collection, \nand Analysis Techniques \nin Mixed-Method Studies",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          109.265625,
+          100.57464599609375
+        ],
+        [
+          393.7228088378906,
+          100.57464599609375
+        ],
+        [
+          393.7228088378906,
+          228.57147216796875
+        ],
+        [
+          109.265625,
+          228.57147216796875
+        ]
+      ]
+    },
+    {
+      "title": "THE WHERE, WHY, AND WHAT \nOF COMBINATIONS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          284.9765625,
+          548.8307037353516
+        ],
+        [
+          436.1199645996094,
+          548.8307037353516
+        ],
+        [
+          436.1199645996094,
+          570.8307037353516
+        ],
+        [
+          284.9765625,
+          570.8307037353516
+        ]
+      ]
+    },
+    {
+      "title": "At the Paradigm Level",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          44.296875,
+          112.48065185546875
+        ],
+        [
+          150.02999877929688,
+          112.48065185546875
+        ],
+        [
+          150.02999877929688,
+          122.48065185546875
+        ],
+        [
+          44.296875,
+          122.48065185546875
+        ]
+      ]
+    },
+    {
+      "title": "At the Method Level",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          261.0,
+          332.2265625
+        ],
+        [
+          357.08203125,
+          332.2265625
+        ],
+        [
+          357.08203125,
+          342.48077392578125
+        ],
+        [
+          261.0,
+          342.48077392578125
+        ]
+      ]
+    },
+    {
+      "title": "At the Technique Level",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          43.3125,
+          303.2807312011719
+        ],
+        [
+          153.72999572753906,
+          303.2807312011719
+        ],
+        [
+          153.72999572753906,
+          313.2807312011719
+        ],
+        [
+          43.3125,
+          313.2807312011719
+        ]
+      ]
+    },
+    {
+      "title": "THE HOW OF COMBINATIONS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.859375,
+          557.2805480957031
+        ],
+        [
+          216.13999938964844,
+          557.2805480957031
+        ],
+        [
+          216.13999938964844,
+          567.2805480957031
+        ],
+        [
+          71.859375,
+          567.2805480957031
+        ]
+      ]
+    },
+    {
+      "title": "Combining Sampling Strategies",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          259.3828125,
+          111.796875
+        ],
+        [
+          412.1399841308594,
+          111.796875
+        ],
+        [
+          412.1399841308594,
+          122.28045654296875
+        ],
+        [
+          259.3828125,
+          122.28045654296875
+        ]
+      ]
+    },
+    {
+      "title": "Combining Data Collection Techniques",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          258.3984375,
+          563.480224609375
+        ],
+        [
+          446.4140625,
+          563.480224609375
+        ],
+        [
+          446.4140625,
+          573.480224609375
+        ],
+        [
+          258.3984375,
+          573.480224609375
+        ]
+      ]
+    },
+    {
+      "title": "The Varied Uses of Instruments",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          259.875,
+          309.375
+        ],
+        [
+          410.489990234375,
+          309.375
+        ],
+        [
+          410.489990234375,
+          320.33062744140625
+        ],
+        [
+          259.875,
+          320.33062744140625
+        ]
+      ]
+    },
+    {
+      "title": "Combining Data Analysis Techniques",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          259.875,
+          409.48040771484375
+        ],
+        [
+          438.82000732421875,
+          409.48040771484375
+        ],
+        [
+          438.82000732421875,
+          419.48040771484375
+        ],
+        [
+          259.875,
+          419.48040771484375
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSION",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          109.7578125,
+          544.5703125
+        ],
+        [
+          177.6199951171875,
+          544.5703125
+        ],
+        [
+          177.6199951171875,
+          556.4805297851562
+        ],
+        [
+          109.7578125,
+          556.4805297851562
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          323.12109375,
+          515.4803771972656
+        ],
+        [
+          394.1700134277344,
+          515.4803771972656
+        ],
+        [
+          394.1700134277344,
+          525.4803771972656
+        ],
+        [
+          323.12109375,
+          525.4803771972656
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          180
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          178
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          202
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          136
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          203
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          229
+        ],
+        [
+          "Line",
+          114
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          190
+        ],
+        [
+          "Line",
+          109
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          204
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "ListItem",
+          32
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Research in Nursing   Health - 2000 - Sandelowski - Combining Qualitative and Quantitative Sampling  Data Collection  and"
+}

@@ -1,0 +1,641 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Method Variance in\nOrganizational Research",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          103.39453125,
+          134.55517578125
+        ],
+        [
+          318.62982177734375,
+          134.55517578125
+        ],
+        [
+          318.62982177734375,
+          177.50390625
+        ],
+        [
+          103.39453125,
+          177.50390625
+        ]
+      ]
+    },
+    {
+      "title": "Truth or Urban Legend?",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          103.9921875,
+          184.8515625
+        ],
+        [
+          276.41241455078125,
+          184.8515625
+        ],
+        [
+          276.41241455078125,
+          201.64776611328125
+        ],
+        [
+          103.9921875,
+          201.64776611328125
+        ]
+      ]
+    },
+    {
+      "title": "Kernel of Truth:\nMethod Affects Measurement",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          222.92578125,
+          388.9673767089844
+        ],
+        [
+          389.07421875,
+          388.9673767089844
+        ],
+        [
+          389.07421875,
+          415.9666748046875
+        ],
+        [
+          222.92578125,
+          415.9666748046875
+        ]
+      ]
+    },
+    {
+      "title": "Urban Legend:\nEverything Measured With the Same Method Shares CMV",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          141.046875,
+          596.3203125
+        ],
+        [
+          469.7386169433594,
+          596.3203125
+        ],
+        [
+          469.7386169433594,
+          623.9661407470703
+        ],
+        [
+          141.046875,
+          623.9661407470703
+        ]
+      ]
+    },
+    {
+      "title": "All Self-Report Measures Are Correlated",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          105.1875,
+          149.74114990234375
+        ],
+        [
+          317.2122802734375,
+          149.74114990234375
+        ],
+        [
+          317.2122802734375,
+          161.7408447265625
+        ],
+        [
+          105.1875,
+          161.7408447265625
+        ]
+      ]
+    },
+    {
+      "title": "Potential Biasing Variables",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          105.1875,
+          402.7406921386719
+        ],
+        [
+          244.60324096679688,
+          402.7406921386719
+        ],
+        [
+          244.60324096679688,
+          414.7403869628906
+        ],
+        [
+          105.1875,
+          414.7403869628906
+        ]
+      ]
+    },
+    {
+      "title": "Monomethod Versus Multimethod Correlations",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          105.1875,
+          187.9453125
+        ],
+        [
+          350.1874084472656,
+          187.9453125
+        ],
+        [
+          350.1874084472656,
+          200.74072265625
+        ],
+        [
+          105.1875,
+          200.74072265625
+        ]
+      ]
+    },
+    {
+      "title": "What Is a Method?",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          251.015625,
+          615.9668579101562
+        ],
+        [
+          359.6009521484375,
+          615.9668579101562
+        ],
+        [
+          359.6009521484375,
+          628.9666595458984
+        ],
+        [
+          251.015625,
+          628.9666595458984
+        ]
+      ]
+    },
+    {
+      "title": "How Should We Deal With CMV?",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          210.375,
+          375.9673767089844
+        ],
+        [
+          400.9333801269531,
+          375.9673767089844
+        ],
+        [
+          400.9333801269531,
+          388.9671936035156
+        ],
+        [
+          210.375,
+          388.9671936035156
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          272.232421875,
+          205.34765625
+        ],
+        [
+          338.5076599121094,
+          205.34765625
+        ],
+        [
+          338.5076599121094,
+          220.19439697265625
+        ],
+        [
+          272.232421875,
+          220.19439697265625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          80
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          80
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          192
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          194
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/spector-2006-method-variance-in-organizational-research-truth-or-urban-legend"
+}

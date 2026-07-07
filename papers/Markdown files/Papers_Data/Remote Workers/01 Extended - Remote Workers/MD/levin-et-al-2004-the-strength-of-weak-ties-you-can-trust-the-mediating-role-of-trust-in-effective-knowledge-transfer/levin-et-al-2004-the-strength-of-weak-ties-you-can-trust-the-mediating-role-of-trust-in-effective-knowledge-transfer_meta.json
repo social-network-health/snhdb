@@ -1,0 +1,1213 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Management Science",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          171.52734375,
+          75.263916015625
+        ],
+        [
+          331.3760070800781,
+          75.263916015625
+        ],
+        [
+          331.3760070800781,
+          91.263916015625
+        ],
+        [
+          171.52734375,
+          91.263916015625
+        ]
+      ]
+    },
+    {
+      "title": "The Strength of Weak Ties You Can Trust: The Mediating Role of Trust in Effective Knowledge Transfer",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          96.75,
+          105.9609375
+        ],
+        [
+          515.1796875,
+          105.9609375
+        ],
+        [
+          515.1796875,
+          177.1171875
+        ],
+        [
+          96.75,
+          177.1171875
+        ]
+      ]
+    },
+    {
+      "title": "Daniel Z. Levin",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          262.5,
+          192.97265625
+        ],
+        [
+          348.75,
+          192.97265625
+        ],
+        [
+          348.75,
+          204.75
+        ],
+        [
+          262.5,
+          204.75
+        ]
+      ]
+    },
+    {
+      "title": "Rob Cross",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          277.3125,
+          230.87109375
+        ],
+        [
+          333.0,
+          230.87109375
+        ],
+        [
+          333.0,
+          241.5
+        ],
+        [
+          277.3125,
+          241.5
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          57.0,
+          435.05859375
+        ],
+        [
+          133.5,
+          435.05859375
+        ],
+        [
+          133.5,
+          445.5
+        ],
+        [
+          57.0,
+          445.5
+        ]
+      ]
+    },
+    {
+      "title": "Structural Characteristics and Knowledge Transfer",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          311.37890625,
+          670.18359375
+        ],
+        [
+          549.75,
+          670.18359375
+        ],
+        [
+          549.75,
+          679.5
+        ],
+        [
+          311.37890625,
+          679.5
+        ]
+      ]
+    },
+    {
+      "title": "Relational Characteristics and Knowledge Transfer",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          54.984375,
+          657.80859375
+        ],
+        [
+          291.95281982421875,
+          657.80859375
+        ],
+        [
+          291.95281982421875,
+          668.330680847168
+        ],
+        [
+          54.984375,
+          668.330680847168
+        ]
+      ]
+    },
+    {
+      "title": "Knowledge Characteristics and\nKnowledge Transfer",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          58.28000259399414,
+          160.55218505859375
+        ],
+        [
+          201.708984375,
+          160.55218505859375
+        ],
+        [
+          201.708984375,
+          184.078125
+        ],
+        [
+          58.28000259399414,
+          184.078125
+        ]
+      ]
+    },
+    {
+      "title": "All Three Characteristics and\nKnowledge Transfer",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          56.478515625,
+          529.8046875
+        ],
+        [
+          193.28321838378906,
+          529.8046875
+        ],
+        [
+          193.28321838378906,
+          553.5897827148438
+        ],
+        [
+          56.478515625,
+          553.5897827148438
+        ]
+      ]
+    },
+    {
+      "title": "Theoretical Model",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          315.31610107421875,
+          349.20703125
+        ],
+        [
+          425.3900451660156,
+          349.20703125
+        ],
+        [
+          425.3900451660156,
+          362.5066223144531
+        ],
+        [
+          315.31610107421875,
+          362.5066223144531
+        ]
+      ]
+    },
+    {
+      "title": "Tie Strength and Receipt of Useful Knowledge",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          314.3671875,
+          367.3828125
+        ],
+        [
+          532.989013671875,
+          367.3828125
+        ],
+        [
+          532.989013671875,
+          379.5703125
+        ],
+        [
+          314.3671875,
+          379.5703125
+        ]
+      ]
+    },
+    {
+      "title": "Perceived Trustworthiness Mediates Between\nStrong Ties and Receipt of Useful Knowledge",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          313.76953125,
+          573.1171875
+        ],
+        [
+          528.5655517578125,
+          573.1171875
+        ],
+        [
+          528.5655517578125,
+          597.3627319335938
+        ],
+        [
+          313.76953125,
+          597.3627319335938
+        ]
+      ]
+    },
+    {
+      "title": "Perceived Trustworthiness + Weak Ties =\nUseful Knowledge",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          57.375,
+          505.44140625
+        ],
+        [
+          248.2358856201172,
+          505.44140625
+        ],
+        [
+          248.2358856201172,
+          529.410400390625
+        ],
+        [
+          57.375,
+          529.410400390625
+        ]
+      ]
+    },
+    {
+      "title": "Type of Knowledge as a Contingency",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          313.76953125,
+          568.08984375
+        ],
+        [
+          489.48046875,
+          568.08984375
+        ],
+        [
+          489.48046875,
+          578.7911682128906
+        ],
+        [
+          313.76953125,
+          578.7911682128906
+        ]
+      ]
+    },
+    {
+      "title": "Methods",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          315.263671875,
+          121.04296875
+        ],
+        [
+          368.455078125,
+          121.04296875
+        ],
+        [
+          368.455078125,
+          134.89642333984375
+        ],
+        [
+          315.263671875,
+          134.89642333984375
+        ]
+      ]
+    },
+    {
+      "title": "Sample",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          312.873046875,
+          141.15234375
+        ],
+        [
+          349.6272888183594,
+          141.15234375
+        ],
+        [
+          349.6272888183594,
+          151.87359619140625
+        ],
+        [
+          312.873046875,
+          151.87359619140625
+        ]
+      ]
+    },
+    {
+      "title": "Data Collection",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          314.96484375,
+          552.62109375
+        ],
+        [
+          387.87890625,
+          552.62109375
+        ],
+        [
+          387.87890625,
+          562.9304809570312
+        ],
+        [
+          314.96484375,
+          562.9304809570312
+        ]
+      ]
+    },
+    {
+      "title": "Variables",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          314.068359375,
+          358.1015625
+        ],
+        [
+          357.75,
+          358.1015625
+        ],
+        [
+          357.75,
+          367.5
+        ],
+        [
+          314.068359375,
+          367.5
+        ]
+      ]
+    },
+    {
+      "title": "Analysis Techniques",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          312.57421875,
+          151.98046875
+        ],
+        [
+          411.0,
+          151.98046875
+        ],
+        [
+          411.0,
+          162.03515625
+        ],
+        [
+          312.57421875,
+          162.03515625
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          313.5,
+          450.0
+        ],
+        [
+          359.25,
+          450.0
+        ],
+        [
+          359.25,
+          459.75
+        ],
+        [
+          313.5,
+          459.75
+        ]
+      ]
+    },
+    {
+      "title": "Hypothesis 1: Strong Ties",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          313.5,
+          543.33984375
+        ],
+        [
+          435.0,
+          543.33984375
+        ],
+        [
+          435.0,
+          552.75
+        ],
+        [
+          313.5,
+          552.75
+        ]
+      ]
+    },
+    {
+      "title": "Hypothesis 2: Perceived Trustworthiness as Mediator",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          313.5,
+          681.75
+        ],
+        [
+          503.25,
+          681.75
+        ],
+        [
+          503.25,
+          703.44140625
+        ],
+        [
+          313.5,
+          703.44140625
+        ]
+      ]
+    },
+    {
+      "title": "Hypothesis 3: Weak Ties (Controlling for Perceived Trustworthiness)",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          56.25,
+          490.359375
+        ],
+        [
+          248.25,
+          490.359375
+        ],
+        [
+          248.25,
+          512.015625
+        ],
+        [
+          56.25,
+          512.015625
+        ]
+      ]
+    },
+    {
+      "title": "Ruling Out Alternative Explanations",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          313.5,
+          481.46484375
+        ],
+        [
+          486.0,
+          481.46484375
+        ],
+        [
+          486.0,
+          490.5
+        ],
+        [
+          313.5,
+          490.5
+        ]
+      ]
+    },
+    {
+      "title": "Discussion and Conclusion",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          57.97265625,
+          197.61328125
+        ],
+        [
+          222.2706298828125,
+          197.61328125
+        ],
+        [
+          222.2706298828125,
+          211.5634765625
+        ],
+        [
+          57.97265625,
+          211.5634765625
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgments",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          315.3150634765625,
+          397.93359375
+        ],
+        [
+          401.625,
+          397.93359375
+        ],
+        [
+          401.625,
+          408.5295104980469
+        ],
+        [
+          315.3150634765625,
+          408.5295104980469
+        ]
+      ]
+    },
+    {
+      "title": "Appendix. Survey Itemsa",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          314.666015625,
+          584.7471618652344
+        ],
+        [
+          432.2888488769531,
+          584.7471618652344
+        ],
+        [
+          432.2888488769531,
+          595.8073425292969
+        ],
+        [
+          314.666015625,
+          595.8073425292969
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          313.5,
+          425.77734375
+        ],
+        [
+          364.5,
+          425.77734375
+        ],
+        [
+          364.5,
+          434.28515625
+        ],
+        [
+          313.5,
+          434.28515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          95
+        ],
+        [
+          "Span",
+          62
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          218
+        ],
+        [
+          "Line",
+          115
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          214
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          246
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          219
+        ],
+        [
+          "Line",
+          114
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          125
+        ],
+        [
+          "Span",
+          98
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          127
+        ],
+        [
+          "Span",
+          83
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          334
+        ],
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          50
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          120
+        ],
+        [
+          "Span",
+          107
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "Line",
+          113
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          219
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          153
+        ],
+        [
+          "Span",
+          75
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          474
+        ],
+        [
+          "Line",
+          134
+        ],
+        [
+          "ListItem",
+          50
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          183
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/levin-et-al-2004-the-strength-of-weak-ties-you-can-trust-the-mediating-role-of-trust-in-effective-knowledge-transfer"
+}

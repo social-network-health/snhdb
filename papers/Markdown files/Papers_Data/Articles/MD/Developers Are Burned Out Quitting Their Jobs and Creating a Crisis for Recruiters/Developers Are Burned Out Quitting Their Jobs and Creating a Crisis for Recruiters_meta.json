@@ -1,0 +1,403 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Developers are burned out, quitting their jobs and\ncreating a crisis for recruiters",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.79264831542969,
+          63.90155029296875
+        ],
+        [
+          505.17291259765625,
+          63.90155029296875
+        ],
+        [
+          505.17291259765625,
+          108.25634765625
+        ],
+        [
+          34.79264831542969,
+          108.25634765625
+        ]
+      ]
+    },
+    {
+      "title": "More in Talent",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.076171875,
+          545.9627380371094
+        ],
+        [
+          201.14059448242188,
+          545.9627380371094
+        ],
+        [
+          201.14059448242188,
+          564.33251953125
+        ],
+        [
+          59.076171875,
+          564.33251953125
+        ]
+      ]
+    },
+    {
+      "title": "TALENT",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.658203125,
+          600.6320343017578
+        ],
+        [
+          99.60821533203125,
+          600.6320343017578
+        ],
+        [
+          99.60821533203125,
+          611.1191711425781
+        ],
+        [
+          59.658203125,
+          611.1191711425781
+        ]
+      ]
+    },
+    {
+      "title": "As agency talent heads for the exits, some shops experience\na boomerang effect",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.3671875,
+          617.9319610595703
+        ],
+        [
+          534.3208618164062,
+          617.9319610595703
+        ],
+        [
+          534.3208618164062,
+          656.53564453125
+        ],
+        [
+          59.3671875,
+          656.53564453125
+        ]
+      ]
+    },
+    {
+      "title": "TALENT",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          60.240234375,
+          56.39208984375
+        ],
+        [
+          99.60821533203125,
+          56.39208984375
+        ],
+        [
+          99.60821533203125,
+          69.08154296875
+        ],
+        [
+          60.240234375,
+          69.08154296875
+        ]
+      ]
+    },
+    {
+      "title": "Ex-government workers make for rich talent pool for\nprivate-sector employers",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.3671875,
+          75.89434814453125
+        ],
+        [
+          481.2239990234375,
+          75.89434814453125
+        ],
+        [
+          481.2239990234375,
+          112.37255859375
+        ],
+        [
+          59.3671875,
+          112.37255859375
+        ]
+      ]
+    },
+    {
+      "title": "TALENT",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.94921875,
+          272.4931640625
+        ],
+        [
+          99.60821533203125,
+          272.4931640625
+        ],
+        [
+          99.60821533203125,
+          283.497314453125
+        ],
+        [
+          59.94921875,
+          283.497314453125
+        ]
+      ]
+    },
+    {
+      "title": "Rhetoric vs. reality: The persistent, woeful state of things\nfor women in the workplace",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.3671875,
+          290.31036376953125
+        ],
+        [
+          516.213623046875,
+          290.31036376953125
+        ],
+        [
+          516.213623046875,
+          327.650390625
+        ],
+        [
+          59.3671875,
+          327.650390625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          258
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          472
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          674
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          531
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          504
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          153
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Developers Are Burned Out Quitting Their Jobs and Creating a Crisis for Recruiters"
+}

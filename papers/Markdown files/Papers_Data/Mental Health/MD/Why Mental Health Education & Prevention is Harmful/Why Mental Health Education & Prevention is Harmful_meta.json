@@ -1,0 +1,675 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Why Mental Health Education &\nPrevention is Harmful",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.15234375,
+          60.328125
+        ],
+        [
+          450.1361389160156,
+          60.328125
+        ],
+        [
+          450.1361389160156,
+          111.3602294921875
+        ],
+        [
+          57.15234375,
+          111.3602294921875
+        ]
+      ]
+    },
+    {
+      "title": "Psychiatric Ideology is Harmful",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          56.99143981933594,
+          283.7720031738281
+        ],
+        [
+          309.6021423339844,
+          283.7720031738281
+        ],
+        [
+          309.6021423339844,
+          301.29949951171875
+        ],
+        [
+          56.99143981933594,
+          301.29949951171875
+        ]
+      ]
+    },
+    {
+      "title": "Chemical Imbalance Lies have Harmed Generations",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          54.984375,
+          105.1875
+        ],
+        [
+          475.2352294921875,
+          105.1875
+        ],
+        [
+          475.2352294921875,
+          123.54949951171875
+        ],
+        [
+          54.984375,
+          123.54949951171875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          150.01171875,
+          75.41015625
+        ],
+        [
+          430.91015625,
+          75.41015625
+        ],
+        [
+          430.91015625,
+          88.55859375
+        ],
+        [
+          150.01171875,
+          88.55859375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          111.1640625,
+          100.546875
+        ],
+        [
+          496.0546875,
+          100.546875
+        ],
+        [
+          496.0546875,
+          126.84375
+        ],
+        [
+          111.1640625,
+          126.84375
+        ]
+      ]
+    },
+    {
+      "title": "-Thomas Insel, MD",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          254.6015625,
+          542.1796875
+        ],
+        [
+          359.4136047363281,
+          542.1796875
+        ],
+        [
+          359.4136047363281,
+          555.1227874755859
+        ],
+        [
+          254.6015625,
+          555.1227874755859
+        ]
+      ]
+    },
+    {
+      "title": "Public Schools are a Breeding Ground for Indoctrination",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          56.1796875,
+          262.1953125
+        ],
+        [
+          507.6260070800781,
+          262.1953125
+        ],
+        [
+          507.6260070800781,
+          281.04949951171875
+        ],
+        [
+          56.1796875,
+          281.04949951171875
+        ]
+      ]
+    },
+    {
+      "title": "Don't Accept \"Depression Screening\" Measures",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          56.1796875,
+          573.50390625
+        ],
+        [
+          446.24261474609375,
+          573.50390625
+        ],
+        [
+          446.24261474609375,
+          591.5494995117188
+        ],
+        [
+          56.1796875,
+          591.5494995117188
+        ]
+      ]
+    },
+    {
+      "title": "Reclaiming our Communities",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          56.77734375,
+          715.4296875
+        ],
+        [
+          290.8956604003906,
+          715.4296875
+        ],
+        [
+          290.8956604003906,
+          734.049503326416
+        ],
+        [
+          56.77734375,
+          734.049503326416
+        ]
+      ]
+    },
+    {
+      "title": "2 Comments",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          56.83154296875,
+          619.13671875
+        ],
+        [
+          152.7917022705078,
+          619.13671875
+        ],
+        [
+          152.7917022705078,
+          634.5376586914062
+        ],
+        [
+          56.83154296875,
+          634.5376586914062
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          27
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          205
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          138
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          419
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Why Mental Health Education & Prevention is Harmful"
+}

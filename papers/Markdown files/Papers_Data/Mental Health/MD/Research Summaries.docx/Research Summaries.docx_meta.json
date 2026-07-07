@@ -1,0 +1,299 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Peer-adult network structure and suicide attempts in 38 high schools:\nimplications for network-informed suicide prevention (10,291 students)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.71875,
+          75.08984375
+        ],
+        [
+          487.77252197265625,
+          75.08984375
+        ],
+        [
+          487.77252197265625,
+          106.1796875
+        ],
+        [
+          71.71875,
+          106.1796875
+        ]
+      ]
+    },
+    {
+      "title": "JAMA Open Network, October, 2020",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.71875,
+          74.6484375
+        ],
+        [
+          253.96629333496094,
+          74.6484375
+        ],
+        [
+          253.96629333496094,
+          86.6484375
+        ],
+        [
+          71.71875,
+          86.6484375
+        ]
+      ]
+    },
+    {
+      "title": "Peter A. Wyman, PhD; Anthony R. Pisani, PhD; C. Hendricks Brown, et al.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.71875,
+          103.296875
+        ],
+        [
+          433.38580322265625,
+          103.296875
+        ],
+        [
+          433.38580322265625,
+          115.296875
+        ],
+        [
+          71.71875,
+          115.296875
+        ]
+      ]
+    },
+    {
+      "title": "Active Learning and Transfer of Training to Life",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.71875,
+          461.2935791015625
+        ],
+        [
+          304.0050354003906,
+          461.2935791015625
+        ],
+        [
+          304.0050354003906,
+          473.2935791015625
+        ],
+        [
+          71.71875,
+          473.2935791015625
+        ]
+      ]
+    },
+    {
+      "title": "Research Outcomes \u2013 Evidence Based Key Findings include:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.12109375,
+          563.8326416015625
+        ],
+        [
+          366.3096618652344,
+          563.8326416015625
+        ],
+        [
+          366.3096618652344,
+          575.8326416015625
+        ],
+        [
+          71.12109375,
+          575.8326416015625
+        ]
+      ]
+    },
+    {
+      "title": "Wingman-Connect Program increases social integration for Air Force personnel\nat elevated suicide risk: Social network analysis of a cluster RCT\nPeter A. Wyman, Trevor A. Pickering, Anthony R. Pisani, Ian Cero, Bryan Yates, et al.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.5234375,
+          75.0234375
+        ],
+        [
+          529.2959594726562,
+          75.0234375
+        ],
+        [
+          529.2959594726562,
+          120.828125
+        ],
+        [
+          70.5234375,
+          120.828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          797
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          677
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          959
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          629
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          6
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Research Summaries.docx"
+}

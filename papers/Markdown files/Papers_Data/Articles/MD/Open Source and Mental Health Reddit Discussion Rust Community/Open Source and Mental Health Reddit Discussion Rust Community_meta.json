@@ -1,0 +1,68 @@
+{
+  "table_of_contents": [
+    {
+      "title": "You've been blocked by network security.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          130.375,
+          300.89501953125
+        ],
+        [
+          465.0775451660156,
+          300.89501953125
+        ],
+        [
+          465.0775451660156,
+          319.53387451171875
+        ],
+        [
+          130.375,
+          319.53387451171875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          21
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Open Source and Mental Health Reddit Discussion Rust Community"
+}

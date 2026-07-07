@@ -1,0 +1,588 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Maintainer Month: Enhancing Support for Open\nSource Maintainers",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.778337531486144,
+          106.5
+        ],
+        [
+          535.1989924433249,
+          108.0
+        ],
+        [
+          535.1989924433249,
+          153.123046875
+        ],
+        [
+          33.778337531486144,
+          153.123046875
+        ]
+      ]
+    },
+    {
+      "title": "The Unseen Labor of Open Source\nMaintainers",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          33.7578125,
+          43.8868408203125
+        ],
+        [
+          498.1307067871094,
+          43.8868408203125
+        ],
+        [
+          498.1307067871094,
+          105.14605712890625
+        ],
+        [
+          33.7578125,
+          105.14605712890625
+        ]
+      ]
+    },
+    {
+      "title": "The Sustainability Crisis",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.79264831542969,
+          361.0125427246094
+        ],
+        [
+          364.9296569824219,
+          361.0125427246094
+        ],
+        [
+          364.9296569824219,
+          390.78411865234375
+        ],
+        [
+          34.79264831542969,
+          390.78411865234375
+        ]
+      ]
+    },
+    {
+      "title": "Reducing the Cognitive Load of\nMaintainers",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          34.79264831542969,
+          127.6025390625
+        ],
+        [
+          456.9248046875,
+          127.6025390625
+        ],
+        [
+          456.9248046875,
+          189.11322021484375
+        ],
+        [
+          34.79264831542969,
+          189.11322021484375
+        ]
+      ]
+    },
+    {
+      "title": "Streamlining Communication and Workflows",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          33.7578125,
+          478.71533203125
+        ],
+        [
+          542.2660522460938,
+          478.71533203125
+        ],
+        [
+          542.2660522460938,
+          504.0693054199219
+        ],
+        [
+          33.7578125,
+          504.0693054199219
+        ]
+      ]
+    },
+    {
+      "title": "Leveraging Community Support",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          34.79264831542969,
+          741.32958984375
+        ],
+        [
+          398.22943115234375,
+          741.32958984375
+        ],
+        [
+          398.22943115234375,
+          767.9657897949219
+        ],
+        [
+          34.79264831542969,
+          767.9657897949219
+        ]
+      ]
+    },
+    {
+      "title": "Encouraging Asynchronous Work",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          34.79264831542969,
+          381.1375427246094
+        ],
+        [
+          418.4035339355469,
+          381.1375427246094
+        ],
+        [
+          418.4035339355469,
+          405.44677734375
+        ],
+        [
+          34.79264831542969,
+          405.44677734375
+        ]
+      ]
+    },
+    {
+      "title": "Focusing on Documentation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          34.79264831542969,
+          581.208984375
+        ],
+        [
+          356.7351989746094,
+          581.208984375
+        ],
+        [
+          356.7351989746094,
+          606.0292663574219
+        ],
+        [
+          34.79264831542969,
+          606.0292663574219
+        ]
+      ]
+    },
+    {
+      "title": "Providing Training and Resources",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          32.59375,
+          44.04345703125
+        ],
+        [
+          416.55340576171875,
+          44.04345703125
+        ],
+        [
+          416.55340576171875,
+          69.239990234375
+        ],
+        [
+          32.59375,
+          69.239990234375
+        ]
+      ]
+    },
+    {
+      "title": "Celebrating and Supporting\nMaintainers",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          34.79264831542969,
+          265.49560546875
+        ],
+        [
+          412.3394775390625,
+          265.49560546875
+        ],
+        [
+          412.3394775390625,
+          327.05926513671875
+        ],
+        [
+          34.79264831542969,
+          327.05926513671875
+        ]
+      ]
+    },
+    {
+      "title": "RECENT POSTS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          34.79264450073242,
+          146.94873046875
+        ],
+        [
+          105.7685546875,
+          146.94873046875
+        ],
+        [
+          105.7685546875,
+          158.2169189453125
+        ],
+        [
+          34.79264450073242,
+          158.2169189453125
+        ]
+      ]
+    },
+    {
+      "title": "OpenSauced is joining the Linux Foundation",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          34.79264831542969,
+          438.45855712890625
+        ],
+        [
+          423.3320617675781,
+          438.45855712890625
+        ],
+        [
+          423.3320617675781,
+          457.26165771484375
+        ],
+        [
+          34.79264831542969,
+          457.26165771484375
+        ]
+      ]
+    },
+    {
+      "title": "OpenSauced on Azure: Lessons learned from a near-zero downtime migration",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          33.02770780856423,
+          308.25
+        ],
+        [
+          538.2015113350126,
+          308.25
+        ],
+        [
+          538.2015113350126,
+          351.75
+        ],
+        [
+          33.02770780856423,
+          351.75
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          15
+        ],
+        [
+          "Span",
+          12
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          612
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          415
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          549
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          329
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          199
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          15
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Maintainer Month Enhancing Support for Open Source Maintainers"
+}

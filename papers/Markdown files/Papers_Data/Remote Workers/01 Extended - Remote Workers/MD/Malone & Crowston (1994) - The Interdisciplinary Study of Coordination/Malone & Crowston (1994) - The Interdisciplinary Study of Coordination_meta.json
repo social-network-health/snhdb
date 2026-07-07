@@ -1,0 +1,2771 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The Interdisciplinary Study of Coordination",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          107.95625759416768,
+          91.380859375
+        ],
+        [
+          357.60510328068045,
+          91.380859375
+        ],
+        [
+          357.60510328068045,
+          103.771484375
+        ],
+        [
+          107.95625759416768,
+          103.771484375
+        ]
+      ]
+    },
+    {
+      "title": "KEVIN CROWSTON",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          107.95625759416768,
+          148.40642722117204
+        ],
+        [
+          200.16889428918589,
+          148.40642722117204
+        ],
+        [
+          200.16889428918589,
+          156.65122873345936
+        ],
+        [
+          107.95625759416768,
+          156.65122873345936
+        ]
+      ]
+    },
+    {
+      "title": "1. INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          108.7059538274605,
+          518.6729678638942
+        ],
+        [
+          193.42162818955043,
+          518.6729678638942
+        ],
+        [
+          193.42162818955043,
+          527.76318359375
+        ],
+        [
+          108.7059538274605,
+          527.76318359375
+        ]
+      ]
+    },
+    {
+      "title": "CONTENTS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          114.68310546875,
+          83.25
+        ],
+        [
+          170.3867469879518,
+          83.25
+        ],
+        [
+          170.3867469879518,
+          92.3466796875
+        ],
+        [
+          114.68310546875,
+          92.3466796875
+        ]
+      ]
+    },
+    {
+      "title": "1.1 A Motivating Question",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          315.2530120481928,
+          245.0888671875
+        ],
+        [
+          430.8457831325301,
+          245.0888671875
+        ],
+        [
+          430.8457831325301,
+          254.25
+        ],
+        [
+          315.2530120481928,
+          254.25
+        ]
+      ]
+    },
+    {
+      "title": "1.2 How Can We Proceed?",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          106.62877871825876,
+          588.0
+        ],
+        [
+          226.02297460701328,
+          588.0
+        ],
+        [
+          226.02297460701328,
+          597.41455078125
+        ],
+        [
+          106.62877871825876,
+          597.41455078125
+        ]
+      ]
+    },
+    {
+      "title": "2. A FRAMEWORK FOR STUDYING COORDINATION",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          109.5,
+          124.53926206244087
+        ],
+        [
+          246.0,
+          124.53926206244087
+        ],
+        [
+          246.0,
+          144.04541154210028
+        ],
+        [
+          109.5,
+          144.04541154210028
+        ]
+      ]
+    },
+    {
+      "title": "2.1 What is Coordination?",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          109.5,
+          153.04824976348155
+        ],
+        [
+          227.25,
+          153.04824976348155
+        ],
+        [
+          227.25,
+          161.078125
+        ],
+        [
+          109.5,
+          161.078125
+        ]
+      ]
+    },
+    {
+      "title": "2.2 Basic Coordination Processes",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          316.0036144578313,
+          406.162109375
+        ],
+        [
+          466.12409638554215,
+          406.162109375
+        ],
+        [
+          466.12409638554215,
+          416.73822975517896
+        ],
+        [
+          316.0036144578313,
+          416.73822975517896
+        ]
+      ]
+    },
+    {
+      "title": "2.2.1 Managing Shared Resources",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          312.8769792935445,
+          140.91115311909263
+        ],
+        [
+          456.9354445797808,
+          140.91115311909263
+        ],
+        [
+          456.9354445797808,
+          150.65500945179585
+        ],
+        [
+          312.8769792935445,
+          150.65500945179585
+        ]
+      ]
+    },
+    {
+      "title": "2.2.2 Managing Producer / Consumer Relationships",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          317.25,
+          403.62629107981223
+        ],
+        [
+          472.5,
+          403.62629107981223
+        ],
+        [
+          472.5,
+          425.2490234375
+        ],
+        [
+          317.25,
+          425.2490234375
+        ]
+      ]
+    },
+    {
+      "title": "2.2.3 Managing Simultaneity Constraints",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          316.8808664259928,
+          80.1669921875
+        ],
+        [
+          482.0794223826715,
+          80.1669921875
+        ],
+        [
+          482.0794223826715,
+          89.5068359375
+        ],
+        [
+          316.8808664259928,
+          89.5068359375
+        ]
+      ]
+    },
+    {
+      "title": "2.2.4 Managing Task / Subtask Dependencies",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          316.12996389891697,
+          599.69580078125
+        ],
+        [
+          503.85559566787003,
+          599.69580078125
+        ],
+        [
+          503.85559566787003,
+          609.5587958607714
+        ],
+        [
+          316.12996389891697,
+          609.5587958607714
+        ]
+      ]
+    },
+    {
+      "title": "Bottom-Up Goal Identification.",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          320.6259765625,
+          285.6123046875
+        ],
+        [
+          506.0469314079423,
+          285.6123046875
+        ],
+        [
+          506.0469314079423,
+          297.0
+        ],
+        [
+          320.6259765625,
+          297.0
+        ]
+      ]
+    },
+    {
+      "title": "2.2.5 Managing Other Dependencies",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          311.80419921875,
+          491.3466796875
+        ],
+        [
+          465.56317689530687,
+          491.3466796875
+        ],
+        [
+          465.56317689530687,
+          500.25
+        ],
+        [
+          311.80419921875,
+          500.25
+        ]
+      ]
+    },
+    {
+      "title": "2.2.6 Summary of Basic\nCoordination Processes",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          310.3736263736264,
+          479.14453125
+        ],
+        [
+          434.0732600732601,
+          479.14453125
+        ],
+        [
+          434.0732600732601,
+          500.25
+        ],
+        [
+          310.3736263736264,
+          500.25
+        ]
+      ]
+    },
+    {
+      "title": "2.3 Example: Analyzing the Task \nAssignment Process",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          106.50634765625,
+          80.25
+        ],
+        [
+          252.85114045618246,
+          80.25
+        ],
+        [
+          252.85114045618246,
+          101.30859375
+        ],
+        [
+          106.50634765625,
+          101.30859375
+        ]
+      ]
+    },
+    {
+      "title": "2.3.1 A Generic Task Assignment Problem",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          111.79471788715486,
+          369.0
+        ],
+        [
+          287.36494597839135,
+          369.38671875
+        ],
+        [
+          287.36494597839135,
+          379.5
+        ],
+        [
+          111.79471788715486,
+          378.73828125
+        ]
+      ]
+    },
+    {
+      "title": "2.3.2 Possible Coordination Mechanisms",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          114.04561824729892,
+          619.1513671875
+        ],
+        [
+          282.5927734375,
+          619.1513671875
+        ],
+        [
+          282.5927734375,
+          630.0
+        ],
+        [
+          114.04561824729892,
+          630.0
+        ]
+      ]
+    },
+    {
+      "title": "2.3.3 Applying these Models to Various Kinds of Systems",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          318.12725090036014,
+          609.75
+        ],
+        [
+          507.202881152461,
+          609.75
+        ],
+        [
+          507.202881152461,
+          630.0615234375
+        ],
+        [
+          318.12725090036014,
+          630.0615234375
+        ]
+      ]
+    },
+    {
+      "title": "2.4 Other Processes Needed for Coordination",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          109.51171875,
+          296.9068673565381
+        ],
+        [
+          238.69156626506023,
+          296.9068673565381
+        ],
+        [
+          238.69156626506023,
+          316.4007525870179
+        ],
+        [
+          109.51171875,
+          316.4007525870179
+        ]
+      ]
+    },
+    {
+      "title": "2.4.1 Group Decision Making",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          110.33855421686746,
+          487.61767578125
+        ],
+        [
+          232.6867469879518,
+          487.61767578125
+        ],
+        [
+          232.6867469879518,
+          497.84383819379116
+        ],
+        [
+          110.33855421686746,
+          497.84383819379116
+        ]
+      ]
+    },
+    {
+      "title": "2.4.2 Communication",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          313.93359375,
+          302.9049858889934
+        ],
+        [
+          403.82409638554213,
+          302.9049858889934
+        ],
+        [
+          403.82409638554213,
+          311.1523988711195
+        ],
+        [
+          313.93359375,
+          311.1523988711195
+        ]
+      ]
+    },
+    {
+      "title": "3. APPLYING A COORDINATION PERSPECTIVE",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          112.45508982035929,
+          240.82507015902712
+        ],
+        [
+          266.89341317365273,
+          240.82507015902712
+        ],
+        [
+          266.89341317365273,
+          260.3311506080449
+        ],
+        [
+          112.45508982035929,
+          260.3311506080449
+        ]
+      ]
+    },
+    {
+      "title": "3.1 Approaches to Analyzing Coordination \nin Different Kinds of Systems",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          113.20479041916168,
+          270.0841908325538
+        ],
+        [
+          302.8790419161677,
+          270.0841908325538
+        ],
+        [
+          302.8790419161677,
+          290.1767578125
+        ],
+        [
+          113.20479041916168,
+          290.1767578125
+        ]
+      ]
+    },
+    {
+      "title": "3.1.1 Parametric Analysis Versus\nBaseline Analysis",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          314.874251497006,
+          113.9560546875
+        ],
+        [
+          450.57005988023957,
+          113.9560546875
+        ],
+        [
+          450.57005988023957,
+          134.29186155285313
+        ],
+        [
+          314.874251497006,
+          134.29186155285313
+        ]
+      ]
+    },
+    {
+      "title": "3.1.2 Identifying the Components of Coordination in a Situation",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          107.95688622754491,
+          113.25
+        ],
+        [
+          255.6479041916168,
+          113.25
+        ],
+        [
+          255.6479041916168,
+          132.75
+        ],
+        [
+          107.95688622754491,
+          132.75
+        ]
+      ]
+    },
+    {
+      "title": "3.1.3 Preview of Examples",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          311.87544910179645,
+          427.48681640625
+        ],
+        [
+          422.08143712574855,
+          427.48681640625
+        ],
+        [
+          422.08143712574855,
+          437.25
+        ],
+        [
+          311.87544910179645,
+          437.25
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Understandingthe Effects of Information \nTechnology on Organizations \nand Markets",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          110.9554753309266,
+          127.61994355597365
+        ],
+        [
+          305.1275571600481,
+          127.61994355597365
+        ],
+        [
+          305.1275571600481,
+          158.39887111947317
+        ],
+        [
+          110.9554753309266,
+          158.39887111947317
+        ]
+      ]
+    },
+    {
+      "title": "3.2.1 Firm Size",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          316.67138671875,
+          225.60828625235408
+        ],
+        [
+          380.55542168674697,
+          225.60828625235408
+        ],
+        [
+          380.55542168674697,
+          234.60263653483995
+        ],
+        [
+          316.67138671875,
+          234.60263653483995
+        ]
+      ]
+    },
+    {
+      "title": "3.2.2 Centralization of Decision Making",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          109.427734375,
+          267.75
+        ],
+        [
+          272.14131736526946,
+          267.75
+        ],
+        [
+          272.14131736526946,
+          276.75
+        ],
+        [
+          109.427734375,
+          276.75
+        ]
+      ]
+    },
+    {
+      "title": "3.3 Designing Cooperative-Work Tools",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          314.1245508982036,
+          259.5
+        ],
+        [
+          485.0562874251497,
+          259.5
+        ],
+        [
+          485.0562874251497,
+          269.0859375
+        ],
+        [
+          314.1245508982036,
+          269.0859375
+        ]
+      ]
+    },
+    {
+      "title": "3.3.1 Using Coordination Concepts from Other Disciplines to Suggest Design Ideas",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          314.833984375,
+          547.16748046875
+        ],
+        [
+          509.04670658682636,
+          547.16748046875
+        ],
+        [
+          509.04670658682636,
+          567.0
+        ],
+        [
+          314.833984375,
+          567.0
+        ]
+      ]
+    },
+    {
+      "title": "3.3.2 Using Ideas from Linguistics and Philosophy About Speech Acts",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          109.63240628778718,
+          464.25
+        ],
+        [
+          267.322853688029,
+          464.25
+        ],
+        [
+          267.322853688029,
+          485.61767578125
+        ],
+        [
+          109.63240628778718,
+          485.61767578125
+        ]
+      ]
+    },
+    {
+      "title": "3.3.3 Using Ideas from Artificial Intelligence and \nOrganization Theory About Blackboards \nand Adhocracies",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          313.87908101571946,
+          584.25
+        ],
+        [
+          508.3639661426844,
+          584.25
+        ],
+        [
+          508.3639661426844,
+          613.5
+        ],
+        [
+          313.87908101571946,
+          613.5
+        ]
+      ]
+    },
+    {
+      "title": "3.3.4 Using Ideas from Philosophy and Rhetoric About Decision Making",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          110.9794921875,
+          428.705078125
+        ],
+        [
+          304.5,
+          428.705078125
+        ],
+        [
+          304.5,
+          449.3911404335533
+        ],
+        [
+          110.9794921875,
+          449.3911404335533
+        ]
+      ]
+    },
+    {
+      "title": "3.3.5 Using Ideas from Computer Science\nAbout Parallel Processes",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          312.0,
+          73.84765625
+        ],
+        [
+          483.943359375,
+          73.84765625
+        ],
+        [
+          483.943359375,
+          93.7794533459001
+        ],
+        [
+          312.0,
+          93.7794533459001
+        ]
+      ]
+    },
+    {
+      "title": "3.3.6 Summary of Examples",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          313.5,
+          246.07728557964185
+        ],
+        [
+          429.75,
+          246.07728557964185
+        ],
+        [
+          429.75,
+          256.5234375
+        ],
+        [
+          313.5,
+          256.5234375
+        ]
+      ]
+    },
+    {
+      "title": "3.3.7 A Taxonomy of Cooperative-Work Tools",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          313.5,
+          418.599609375
+        ],
+        [
+          500.25,
+          418.599609375
+        ],
+        [
+          500.25,
+          428.38454288407166
+        ],
+        [
+          313.5,
+          428.38454288407166
+        ]
+      ]
+    },
+    {
+      "title": "3.3.8 Analyzing Incentives for Using Cooperative-Work Tools",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          107.330078125,
+          519.75
+        ],
+        [
+          253.3968253968254,
+          519.75
+        ],
+        [
+          253.3968253968254,
+          539.25
+        ],
+        [
+          107.330078125,
+          539.25
+        ]
+      ]
+    },
+    {
+      "title": "3.4 Designing Distributed and Parallel Computer Systems",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          310.3736263736264,
+          608.25
+        ],
+        [
+          476.8058608058608,
+          608.25
+        ],
+        [
+          476.8058608058608,
+          628.41796875
+        ],
+        [
+          310.3736263736264,
+          628.41796875
+        ]
+      ]
+    },
+    {
+      "title": "3.4.1 Analogies with Social and Biological\nSystems as a Source of Design Ideas",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          108.0,
+          290.4052734375
+        ],
+        [
+          287.25,
+          290.4052734375
+        ],
+        [
+          287.25,
+          310.5400390625
+        ],
+        [
+          108.0,
+          310.5400390625
+        ]
+      ]
+    },
+    {
+      "title": "3.4.2 Analyzing Stability Properties of Resource \nAllocation Algorithms",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          108.83734939759036,
+          606.5597365945438
+        ],
+        [
+          300.9915662650602,
+          606.5597365945438
+        ],
+        [
+          300.9915662650602,
+          626.0536218250236
+        ],
+        [
+          108.83734939759036,
+          626.0536218250236
+        ]
+      ]
+    },
+    {
+      "title": "3.5 Summary of Applications",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          312.41259765625,
+          430.3650047036689
+        ],
+        [
+          440.6036144578313,
+          430.3650047036689
+        ],
+        [
+          440.6036144578313,
+          440.14013671875
+        ],
+        [
+          312.41259765625,
+          440.14013671875
+        ]
+      ]
+    },
+    {
+      "title": "4. RESEARCH AGENDA",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          312.1083984375,
+          549.88330078125
+        ],
+        [
+          418.8361445783132,
+          549.88330078125
+        ],
+        [
+          418.8361445783132,
+          558.5747883349012
+        ],
+        [
+          312.1083984375,
+          558.5747883349012
+        ]
+      ]
+    },
+    {
+      "title": "4.1.1 Characterizing Dependencies",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          107.37968561064086,
+          570.0
+        ],
+        [
+          252.30471584038693,
+          570.0
+        ],
+        [
+          252.30471584038693,
+          579.0
+        ],
+        [
+          107.37968561064086,
+          579.0
+        ]
+      ]
+    },
+    {
+      "title": "4.1.2 How General are Coordination Processes?",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          309.287109375,
+          368.25
+        ],
+        [
+          437.853515625,
+          368.25
+        ],
+        [
+          437.853515625,
+          387.0
+        ],
+        [
+          309.287109375,
+          387.0
+        ]
+      ]
+    },
+    {
+      "title": "4.2 Analyzing Specific Processes",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          310.80322265625,
+          526.76513671875
+        ],
+        [
+          458.8041112454655,
+          526.76513671875
+        ],
+        [
+          458.8041112454655,
+          536.25
+        ],
+        [
+          310.80322265625,
+          536.25
+        ]
+      ]
+    },
+    {
+      "title": "4.3 Applications and Methodologies",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          111.08915662650602,
+          422.23876953125
+        ],
+        [
+          270.96746987951803,
+          422.23876953125
+        ],
+        [
+          270.96746987951803,
+          431.11476952022576
+        ],
+        [
+          111.08915662650602,
+          431.11476952022576
+        ]
+      ]
+    },
+    {
+      "title": "5. CONCLUSIONS",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          313.02099609375,
+          164.19849482596425
+        ],
+        [
+          396.3180722891566,
+          161.9492003762935
+        ],
+        [
+          396.3180722891566,
+          172.0087890625
+        ],
+        [
+          313.02099609375,
+          173.19567262464722
+        ]
+      ]
+    },
+    {
+      "title": "APPENDIX A: PREVIOUS DEFINITIONS OF COORDINATION",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          314.5024096385542,
+          438.1943359375
+        ],
+        [
+          490.89397590361443,
+          438.1943359375
+        ],
+        [
+          490.89397590361443,
+          459.60583254938854
+        ],
+        [
+          314.5024096385542,
+          459.60583254938854
+        ]
+      ]
+    },
+    {
+      "title": "APPENDIX B: RESULTS ABOUT\nCOORDINATION FROM SELECTED FIELDS",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          109.662109375,
+          317.4499054820416
+        ],
+        [
+          302.1275820170109,
+          317.4499054820416
+        ],
+        [
+          302.1275820170109,
+          336.96219281663514
+        ],
+        [
+          109.662109375,
+          336.96219281663514
+        ]
+      ]
+    },
+    {
+      "title": "Computer Science",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          110.955042527339,
+          522.328922495274
+        ],
+        [
+          192.6719319562576,
+          522.328922495274
+        ],
+        [
+          192.6719319562576,
+          531.5302734375
+        ],
+        [
+          110.955042527339,
+          531.5302734375
+        ]
+      ]
+    },
+    {
+      "title": "Sharing Resources",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          110.955042527339,
+          538.5087890625
+        ],
+        [
+          189.67314702308627,
+          538.5087890625
+        ],
+        [
+          189.67314702308627,
+          547.8449905482041
+        ],
+        [
+          110.955042527339,
+          547.8449905482041
+        ]
+      ]
+    },
+    {
+      "title": "Managing Unreliable Actors",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          312.62332928311054,
+          187.61814744801512
+        ],
+        [
+          425.8274605103281,
+          187.61814744801512
+        ],
+        [
+          425.8274605103281,
+          196.5615234375
+        ],
+        [
+          312.62332928311054,
+          196.5615234375
+        ]
+      ]
+    },
+    {
+      "title": "Segmenting and Assigning Tasks",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          314.1227217496962,
+          305.4423440453686
+        ],
+        [
+          449.81773997569866,
+          305.4423440453686
+        ],
+        [
+          449.81773997569866,
+          314.4208984375
+        ],
+        [
+          314.1227217496962,
+          314.4208984375
+        ]
+      ]
+    },
+    {
+      "title": "Managing Information Flows",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          314.1227217496962,
+          433.05566406249994
+        ],
+        [
+          430.32563791008505,
+          433.05566406249994
+        ],
+        [
+          430.32563791008505,
+          442.0283553875236
+        ],
+        [
+          314.1227217496962,
+          442.0283553875236
+        ]
+      ]
+    },
+    {
+      "title": "Economics and Operations Research",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          315.6221142162819,
+          612.9462890625
+        ],
+        [
+          477.5565006075334,
+          612.9462890625
+        ],
+        [
+          477.5565006075334,
+          622.1417769376181
+        ],
+        [
+          315.6221142162819,
+          622.1417769376181
+        ]
+      ]
+    },
+    {
+      "title": "Organization Theory",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          310.3736263736264,
+          321.0
+        ],
+        [
+          400.3369963369963,
+          321.0
+        ],
+        [
+          400.3369963369963,
+          331.03125
+        ],
+        [
+          310.3736263736264,
+          331.03125
+        ]
+      ]
+    },
+    {
+      "title": "Biology",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          115.59277108433734,
+          521.0865475070555
+        ],
+        [
+          149.36987951807228,
+          521.0865475070555
+        ],
+        [
+          149.36987951807228,
+          530.42529296875
+        ],
+        [
+          115.59277108433734,
+          530.42529296875
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGMENTS",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          364.73486328125,
+          598.3123236124177
+        ],
+        [
+          466.12409638554215,
+          598.3123236124177
+        ],
+        [
+          466.12409638554215,
+          608.25732421875
+        ],
+        [
+          364.73486328125,
+          608.25732421875
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          168.6813186813187,
+          169.5
+        ],
+        [
+          232.40537240537242,
+          169.5
+        ],
+        [
+          232.40537240537242,
+          178.5
+        ],
+        [
+          168.6813186813187,
+          178.5
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          70
+        ],
+        [
+          "Span",
+          21
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          140
+        ],
+        [
+          "Span",
+          79
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          121
+        ],
+        [
+          "Span",
+          67
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          113
+        ],
+        [
+          "Span",
+          54
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          64
+        ],
+        [
+          "Span",
+          33
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          116
+        ],
+        [
+          "Span",
+          56
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          111
+        ],
+        [
+          "Span",
+          71
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          118
+        ],
+        [
+          "Span",
+          73
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          115
+        ],
+        [
+          "Span",
+          74
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          116
+        ],
+        [
+          "Span",
+          77
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          114
+        ],
+        [
+          "Span",
+          88
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          112
+        ],
+        [
+          "Span",
+          102
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          110
+        ],
+        [
+          "Span",
+          64
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          110
+        ],
+        [
+          "Span",
+          89
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          112
+        ],
+        [
+          "Span",
+          57
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          116
+        ],
+        [
+          "Span",
+          61
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          116
+        ],
+        [
+          "Span",
+          60
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          114
+        ],
+        [
+          "Span",
+          83
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          51
+        ],
+        [
+          "TableCell",
+          22
+        ],
+        [
+          "Span",
+          12
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          110
+        ],
+        [
+          "Span",
+          79
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          114
+        ],
+        [
+          "Span",
+          45
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          115
+        ],
+        [
+          "Span",
+          90
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          112
+        ],
+        [
+          "Span",
+          71
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          138
+        ],
+        [
+          "Span",
+          50
+        ],
+        [
+          "Text",
+          35
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          121
+        ],
+        [
+          "Span",
+          44
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          117
+        ],
+        [
+          "Span",
+          23
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          111
+        ],
+        [
+          "Span",
+          77
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          113
+        ],
+        [
+          "Span",
+          76
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          160
+        ],
+        [
+          "Span",
+          79
+        ],
+        [
+          "ListItem",
+          32
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          200
+        ],
+        [
+          "Span",
+          110
+        ],
+        [
+          "ListItem",
+          36
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          176
+        ],
+        [
+          "Span",
+          83
+        ],
+        [
+          "ListItem",
+          36
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          176
+        ],
+        [
+          "Span",
+          87
+        ],
+        [
+          "ListItem",
+          34
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 32,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          180
+        ],
+        [
+          "Span",
+          92
+        ],
+        [
+          "ListItem",
+          39
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Malone & Crowston (1994) - The Interdisciplinary Study of Coordination"
+}

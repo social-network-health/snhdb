@@ -1,0 +1,570 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Systems all the way down: embracing\ncomplexity in mental health research",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.875,
+          121.2763671875
+        ],
+        [
+          421.390625,
+          121.2763671875
+        ],
+        [
+          421.390625,
+          170.91802978515625
+        ],
+        [
+          55.875,
+          170.91802978515625
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.150390625,
+          220.1513671875
+        ],
+        [
+          101.68303680419922,
+          220.1513671875
+        ],
+        [
+          101.68303680419922,
+          230.5494384765625
+        ],
+        [
+          63.150390625,
+          230.5494384765625
+        ]
+      ]
+    },
+    {
+      "title": "Background",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.875,
+          400.52099609375
+        ],
+        [
+          112.23662567138672,
+          400.52099609375
+        ],
+        [
+          112.23662567138672,
+          411.0030212402344
+        ],
+        [
+          55.875,
+          411.0030212402344
+        ]
+      ]
+    },
+    {
+      "title": "Mental health and mental disorder as products of\ncomplex systems",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          55.875,
+          373.87109375
+        ],
+        [
+          288.6875,
+          373.87109375
+        ],
+        [
+          288.6875,
+          397.7937927246094
+        ],
+        [
+          55.875,
+          397.7937927246094
+        ]
+      ]
+    },
+    {
+      "title": "Psychological treatment from a complex systems\nperspective",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          302.65625,
+          674.74462890625
+        ],
+        [
+          531.581787109375,
+          674.74462890625
+        ],
+        [
+          531.581787109375,
+          697.8125610351562
+        ],
+        [
+          302.65625,
+          697.8125610351562
+        ]
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          55.54659949622166,
+          542.65380859375
+        ],
+        [
+          107.34005037783375,
+          542.65380859375
+        ],
+        [
+          107.34005037783375,
+          551.15087890625
+        ],
+        [
+          55.54659949622166,
+          551.15087890625
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          302.947265625,
+          371.8824644549763
+        ],
+        [
+          369.30982367758185,
+          371.8824644549763
+        ],
+        [
+          369.30982367758185,
+          380.8232421875
+        ],
+        [
+          302.947265625,
+          380.8232421875
+        ]
+      ]
+    },
+    {
+      "title": "Authors' contributions",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          303.2544080604534,
+          400.52099609375
+        ],
+        [
+          378.90234375,
+          400.52099609375
+        ],
+        [
+          378.90234375,
+          409.01806640625
+        ],
+        [
+          303.2544080604534,
+          409.01806640625
+        ]
+      ]
+    },
+    {
+      "title": "Funding",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          306.1484375,
+          437.59912109375
+        ],
+        [
+          331.7578125,
+          437.59912109375
+        ],
+        [
+          331.7578125,
+          446.09619140625
+        ],
+        [
+          306.1484375,
+          446.09619140625
+        ]
+      ]
+    },
+    {
+      "title": "Availability of data and materials",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          303.2544080604534,
+          474.291015625
+        ],
+        [
+          413.5969773299748,
+          474.291015625
+        ],
+        [
+          413.5969773299748,
+          483.59715639810423
+        ],
+        [
+          303.2544080604534,
+          483.59715639810423
+        ]
+      ]
+    },
+    {
+      "title": "Ethics approval and consent to participate",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          303.2544080604534,
+          502.48583984375
+        ],
+        [
+          444.962890625,
+          502.48583984375
+        ],
+        [
+          444.962890625,
+          512.0881516587677
+        ],
+        [
+          303.2544080604534,
+          512.0881516587677
+        ]
+      ]
+    },
+    {
+      "title": "Consent for publication",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          303.2544080604534,
+          533.0815165876777
+        ],
+        [
+          382.8211586901763,
+          533.0815165876777
+        ],
+        [
+          382.8211586901763,
+          541.88134765625
+        ],
+        [
+          303.2544080604534,
+          541.88134765625
+        ]
+      ]
+    },
+    {
+      "title": "Competing interests",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          303.2544080604534,
+          560.8227488151658
+        ],
+        [
+          371.5617128463476,
+          561.19287109375
+        ],
+        [
+          371.5617128463476,
+          569.8199052132701
+        ],
+        [
+          303.2544080604534,
+          569.68994140625
+        ]
+      ]
+    },
+    {
+      "title": "Author details",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          302.65625,
+          585.91162109375
+        ],
+        [
+          351.2947103274559,
+          585.91162109375
+        ],
+        [
+          351.2947103274559,
+          594.5620853080568
+        ],
+        [
+          302.65625,
+          594.5620853080568
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          302.07421875,
+          660.06787109375
+        ],
+        [
+          340.7858942065491,
+          660.06787109375
+        ],
+        [
+          340.7858942065491,
+          669.5383886255923
+        ],
+        [
+          302.07421875,
+          669.5383886255923
+        ]
+      ]
+    },
+    {
+      "title": "Publisher\n's Note",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          55.583984375,
+          434.50927734375
+        ],
+        [
+          132.0734405517578,
+          434.50927734375
+        ],
+        [
+          132.0734405517578,
+          445.81243896484375
+        ],
+        [
+          55.583984375,
+          445.81243896484375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          315.4609375,
+          616.81005859375
+        ],
+        [
+          494.7265625,
+          616.81005859375
+        ],
+        [
+          494.7265625,
+          625.30712890625
+        ],
+        [
+          315.4609375,
+          625.30712890625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          166
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          237
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          136
+        ],
+        [
+          "Span",
+          87
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          10
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          147
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Systems All the Way Down Embracing Complexity in Mental Health Research"
+}

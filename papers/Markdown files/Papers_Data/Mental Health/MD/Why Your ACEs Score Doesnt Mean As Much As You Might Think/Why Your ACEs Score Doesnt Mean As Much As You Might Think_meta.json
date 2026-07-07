@@ -1,0 +1,768 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Why Your ACEs Score Doesn't Mean\nAs Much As You Might Think",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.7578125,
+          102.7489013671875
+        ],
+        [
+          546.6336669921875,
+          102.7489013671875
+        ],
+        [
+          546.6336669921875,
+          165.697998046875
+        ],
+        [
+          33.7578125,
+          165.697998046875
+        ]
+      ]
+    },
+    {
+      "title": "KEY POINTS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.7578125,
+          261.37939453125
+        ],
+        [
+          92.0877456665039,
+          261.37939453125
+        ],
+        [
+          92.0877456665039,
+          273.3760986328125
+        ],
+        [
+          33.7578125,
+          273.3760986328125
+        ]
+      ]
+    },
+    {
+      "title": "ADVERSE CHILDHOOD EXPERIENCES ESSENTIAL READS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          33.7578125,
+          440.02294921875
+        ],
+        [
+          368.1712646484375,
+          440.02294921875
+        ],
+        [
+          368.1712646484375,
+          454.0126647949219
+        ],
+        [
+          33.7578125,
+          454.0126647949219
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.47265625,
+          489.41748046875
+        ],
+        [
+          107.81958770751953,
+          489.41748046875
+        ],
+        [
+          107.81958770751953,
+          502.3580017089844
+        ],
+        [
+          49.47265625,
+          502.3580017089844
+        ]
+      ]
+    },
+    {
+      "title": "About the Author",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          33.7578125,
+          156.82763671875
+        ],
+        [
+          186.96942138671875,
+          156.82763671875
+        ],
+        [
+          186.96942138671875,
+          177.60711669921875
+        ],
+        [
+          33.7578125,
+          177.60711669921875
+        ]
+      ]
+    },
+    {
+      "title": "More from MaryCatherine McDonald Ph.D.",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          106.70440673828125,
+          333.4130859375
+        ],
+        [
+          475.95245361328125,
+          333.4130859375
+        ],
+        [
+          475.95245361328125,
+          353.78802490234375
+        ],
+        [
+          106.70440673828125,
+          353.78802490234375
+        ]
+      ]
+    },
+    {
+      "title": "Reclaiming Joy in a\nWorld That Feels\nHopeless",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          114.078125,
+          529.2355041503906
+        ],
+        [
+          284.556396484375,
+          529.2355041503906
+        ],
+        [
+          284.556396484375,
+          593.6940307617188
+        ],
+        [
+          114.078125,
+          593.6940307617188
+        ]
+      ]
+    },
+    {
+      "title": "Moral Injury Meets\nPolitics",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          321.28125,
+          529.2355041503906
+        ],
+        [
+          486.2994384765625,
+          529.2355041503906
+        ],
+        [
+          486.2994384765625,
+          571.2028198242188
+        ],
+        [
+          321.28125,
+          571.2028198242188
+        ]
+      ]
+    },
+    {
+      "title": "Reframing Trauma\nHealing: The\nToolbox Approach",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          113.49609375,
+          184.81787109375
+        ],
+        [
+          276.6025390625,
+          184.81787109375
+        ],
+        [
+          276.6025390625,
+          249.57879638671875
+        ],
+        [
+          113.49609375,
+          249.57879638671875
+        ]
+      ]
+    },
+    {
+      "title": "What Is a Trauma\nBond?",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          321.86328125,
+          183.5830078125
+        ],
+        [
+          475.5237121582031,
+          183.5830078125
+        ],
+        [
+          475.5237121582031,
+          227.08758544921875
+        ],
+        [
+          321.86328125,
+          227.08758544921875
+        ]
+      ]
+    },
+    {
+      "title": "More from Psychology Today",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          104.765625,
+          358.1103515625
+        ],
+        [
+          361.5622253417969,
+          358.1103515625
+        ],
+        [
+          361.5622253417969,
+          377.77874755859375
+        ],
+        [
+          104.765625,
+          377.77874755859375
+        ]
+      ]
+    },
+    {
+      "title": "8 Common\nDysfunctional\nFamily Roles",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          113.49609375,
+          562.9720764160156
+        ],
+        [
+          234.77622985839844,
+          562.9720764160156
+        ],
+        [
+          234.77622985839844,
+          627.4306030273438
+        ],
+        [
+          113.49609375,
+          627.4306030273438
+        ]
+      ]
+    },
+    {
+      "title": "Mending the\nMother Wound",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          321.572265625,
+          562.9720764160156
+        ],
+        [
+          454.86297607421875,
+          562.9720764160156
+        ],
+        [
+          454.86297607421875,
+          604.9393920898438
+        ],
+        [
+          321.572265625,
+          604.9393920898438
+        ]
+      ]
+    },
+    {
+      "title": "Rejection\nSensitivity Test",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          112.9140625,
+          183.17138671875
+        ],
+        [
+          245.80615234375,
+          183.17138671875
+        ],
+        [
+          245.80615234375,
+          227.08734130859375
+        ],
+        [
+          112.9140625,
+          227.08734130859375
+        ]
+      ]
+    },
+    {
+      "title": "12 Questions to\nHelp Recognize\nChildhood Trauma",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          321.86328125,
+          195.6160888671875
+        ],
+        [
+          485.2712707519531,
+          195.6160888671875
+        ],
+        [
+          485.2712707519531,
+          260.07464599609375
+        ],
+        [
+          321.86328125,
+          260.07464599609375
+        ]
+      ]
+    },
+    {
+      "title": "22 Types of\nChildhood Verbal\nAbuse and Their\nDamage",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          114.63998413085938,
+          524.4052734375
+        ],
+        [
+          266.79681396484375,
+          524.4052734375
+        ],
+        [
+          266.79681396484375,
+          611.6864624023438
+        ],
+        [
+          114.63998413085938,
+          611.6864624023438
+        ]
+      ]
+    },
+    {
+      "title": "5 Ways Predators\nTarget Kids",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          320.69921875,
+          524.7372131347656
+        ],
+        [
+          477.7735595703125,
+          524.7372131347656
+        ],
+        [
+          477.7735595703125,
+          566.80224609375
+        ],
+        [
+          320.69921875,
+          566.80224609375
+        ]
+      ]
+    },
+    {
+      "title": "An Open Letter to\nGirls Abandoned\nby Their Fathers",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          114.078125,
+          195.6165771484375
+        ],
+        [
+          273.4531555175781,
+          195.6165771484375
+        ],
+        [
+          273.4531555175781,
+          260.07464599609375
+        ],
+        [
+          114.078125,
+          260.07464599609375
+        ]
+      ]
+    },
+    {
+      "title": "The 7 Most\nCommon\nUnhealthy\nNarratives in\nChildren",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          322.5098876953125,
+          183.17138671875
+        ],
+        [
+          435.8528747558594,
+          183.17138671875
+        ],
+        [
+          435.8528747558594,
+          294.56146240234375
+        ],
+        [
+          322.5098876953125,
+          294.56146240234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Caption",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PictureGroup",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Caption",
+          7
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PictureGroup",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          45
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Why Your ACEs Score Doesnt Mean As Much As You Might Think"
+}

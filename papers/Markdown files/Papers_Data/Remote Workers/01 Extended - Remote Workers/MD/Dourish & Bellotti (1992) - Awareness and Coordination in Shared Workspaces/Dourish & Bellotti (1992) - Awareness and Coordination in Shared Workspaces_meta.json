@@ -1,0 +1,798 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Awareness and Coordination in Shared Workspaces",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.10546875,
+          25.29541015625
+        ],
+        [
+          496.453125,
+          25.29541015625
+        ],
+        [
+          496.453125,
+          44.46087646484375
+        ],
+        [
+          51.10546875,
+          44.46087646484375
+        ]
+      ]
+    },
+    {
+      "title": "Paul Dourish and Victoria Bellotti",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.4970703125,
+          86.78271484375
+        ],
+        [
+          209.8974609375,
+          86.78271484375
+        ],
+        [
+          209.8974609375,
+          99.63531494140625
+        ],
+        [
+          50.4970703125,
+          99.63531494140625
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.322265625,
+          198.4716796875
+        ],
+        [
+          102.2109375,
+          198.4716796875
+        ],
+        [
+          102.2109375,
+          209.67303466796875
+        ],
+        [
+          52.322265625,
+          209.67303466796875
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.5390625,
+          409.78564453125
+        ],
+        [
+          122.896484375,
+          409.78564453125
+        ],
+        [
+          122.896484375,
+          422.31304931640625
+        ],
+        [
+          53.5390625,
+          422.31304931640625
+        ]
+      ]
+    },
+    {
+      "title": "AWARENESS IN COLLABORATIVE WRITING SYSTEMS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          55.1953125,
+          65.2490234375
+        ],
+        [
+          293.1484375,
+          65.2490234375
+        ],
+        [
+          293.1484375,
+          77.7530517578125
+        ],
+        [
+          55.1953125,
+          77.7530517578125
+        ]
+      ]
+    },
+    {
+      "title": "Quilt",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          57.955078125,
+          176.48681640625
+        ],
+        [
+          79.419921875,
+          176.48681640625
+        ],
+        [
+          79.419921875,
+          188.39306640625
+        ],
+        [
+          57.955078125,
+          188.39306640625
+        ]
+      ]
+    },
+    {
+      "title": "PREP",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          62.861328125,
+          656.02783203125
+        ],
+        [
+          88.005859375,
+          656.02783203125
+        ],
+        [
+          88.005859375,
+          665.5130310058594
+        ],
+        [
+          62.861328125,
+          665.5130310058594
+        ]
+      ]
+    },
+    {
+      "title": "GROVE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          325.345703125,
+          454.77783203125
+        ],
+        [
+          358.0767822265625,
+          454.77783203125
+        ],
+        [
+          358.0767822265625,
+          467.03302001953125
+        ],
+        [
+          325.345703125,
+          467.03302001953125
+        ]
+      ]
+    },
+    {
+      "title": "MECHANISMS FOR AWARENESS INFORMATION",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          51.56640625,
+          251.3671875
+        ],
+        [
+          260.23046875,
+          251.3671875
+        ],
+        [
+          260.23046875,
+          261.31304931640625
+        ],
+        [
+          51.56640625,
+          261.31304931640625
+        ]
+      ]
+    },
+    {
+      "title": "Problems with Informstlonal and Role-Restrictive\nApproaches to Awareness",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          50.3671875,
+          592.7557525634766
+        ],
+        [
+          261.4296875,
+          592.7557525634766
+        ],
+        [
+          261.4296875,
+          613.72265625
+        ],
+        [
+          50.3671875,
+          613.72265625
+        ]
+      ]
+    },
+    {
+      "title": "SHARED FEEDBACK",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          314.794921875,
+          568.0357513427734
+        ],
+        [
+          404.736328125,
+          568.0357513427734
+        ],
+        [
+          404.736328125,
+          576.6730499267578
+        ],
+        [
+          314.794921875,
+          576.6730499267578
+        ]
+      ]
+    },
+    {
+      "title": "A Case Study\u2014ShrEdit",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          58.4619140625,
+          26.68359375
+        ],
+        [
+          158.5966796875,
+          26.68359375
+        ],
+        [
+          158.5966796875,
+          37.15301513671875
+        ],
+        [
+          58.4619140625,
+          37.15301513671875
+        ]
+      ]
+    },
+    {
+      "title": "Description of Study",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          58.4619140625,
+          623.77734375
+        ],
+        [
+          147.8037109375,
+          623.77734375
+        ],
+        [
+          147.8037109375,
+          633.0730438232422
+        ],
+        [
+          58.4619140625,
+          633.0730438232422
+        ]
+      ]
+    },
+    {
+      "title": "Some Observations on Use",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          325.20001220703125,
+          407.21484375
+        ],
+        [
+          441.912109375,
+          407.21484375
+        ],
+        [
+          441.912109375,
+          416.593017578125
+        ],
+        [
+          325.20001220703125,
+          416.593017578125
+        ]
+      ]
+    },
+    {
+      "title": "Use of Shared Feedback in ShrEdit",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.85546875,
+          395.33837890625
+        ],
+        [
+          209.64453125,
+          395.33837890625
+        ],
+        [
+          209.64453125,
+          406.0730285644531
+        ],
+        [
+          59.85546875,
+          406.0730285644531
+        ]
+      ]
+    },
+    {
+      "title": "DISCUSSION",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          323.5199890136719,
+          64.66357421875
+        ],
+        [
+          378.68359375,
+          64.66357421875
+        ],
+        [
+          378.68359375,
+          75.83306884765625
+        ],
+        [
+          323.5199890136719,
+          75.83306884765625
+        ]
+      ]
+    },
+    {
+      "title": "Shared Feedback: An Alternative Approach",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          323.640625,
+          329.900390625
+        ],
+        [
+          508.921875,
+          329.900390625
+        ],
+        [
+          508.921875,
+          340.0730285644531
+        ],
+        [
+          323.640625,
+          340.0730285644531
+        ]
+      ]
+    },
+    {
+      "title": "Semi-Synchronous Systems",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          48.3310546875,
+          388.38720703125
+        ],
+        [
+          170.0537109375,
+          388.38720703125
+        ],
+        [
+          170.0537109375,
+          396.69091796875
+        ],
+        [
+          48.3310546875,
+          396.69091796875
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSIONS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          310.57177734375,
+          397.44580078125
+        ],
+        [
+          376.80322265625,
+          397.44580078125
+        ],
+        [
+          376.80322265625,
+          409.029541015625
+        ],
+        [
+          310.57177734375,
+          409.029541015625
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGMENTS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          62.765625,
+          208.8427734375
+        ],
+        [
+          161.7421875,
+          208.8427734375
+        ],
+        [
+          161.7421875,
+          220.873046875
+        ],
+        [
+          62.765625,
+          220.873046875
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          62.4638671875,
+          316.36962890625
+        ],
+        [
+          124.6259765625,
+          316.36962890625
+        ],
+        [
+          124.6259765625,
+          328.1530456542969
+        ],
+        [
+          62.4638671875,
+          328.1530456542969
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1342
+        ],
+        [
+          "Line",
+          88
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1834
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1928
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1980
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          972
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1923
+        ],
+        [
+          "Line",
+          113
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1900
+        ],
+        [
+          "Line",
+          114
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1239
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Dourish & Bellotti (1992) - Awareness and Coordination in Shared Workspaces"
+}

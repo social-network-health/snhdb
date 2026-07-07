@@ -1,0 +1,557 @@
+{
+  "table_of_contents": [
+    {
+      "title": "How Remote Work Affects Our Communication and\nCollaboration",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.76771545410156,
+          36.4541015625
+        ],
+        [
+          507.2567443847656,
+          36.4541015625
+        ],
+        [
+          507.2567443847656,
+          81.23541259765625
+        ],
+        [
+          34.76771545410156,
+          81.23541259765625
+        ]
+      ]
+    },
+    {
+      "title": "Among their key findings:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.33984375,
+          666.59716796875
+        ],
+        [
+          192.18040466308594,
+          666.59716796875
+        ],
+        [
+          192.18040466308594,
+          683.291015625
+        ],
+        [
+          34.33984375,
+          683.291015625
+        ]
+      ]
+    },
+    {
+      "title": "About the Author",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          34.76771545410156,
+          294.33123779296875
+        ],
+        [
+          232.4751434326172,
+          294.33123779296875
+        ],
+        [
+          232.4751434326172,
+          321.1859130859375
+        ],
+        [
+          34.76771545410156,
+          321.1859130859375
+        ]
+      ]
+    },
+    {
+      "title": "Laura Counts",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          132.994140625,
+          330.45703125
+        ],
+        [
+          237.73353576660156,
+          330.45703125
+        ],
+        [
+          237.73353576660156,
+          348.36016845703125
+        ],
+        [
+          132.994140625,
+          348.36016845703125
+        ]
+      ]
+    },
+    {
+      "title": "You May Also Enjoy",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          33.7578125,
+          486.9916076660156
+        ],
+        [
+          259.3352355957031,
+          486.9916076660156
+        ],
+        [
+          259.3352355957031,
+          513.8463134765625
+        ],
+        [
+          33.7578125,
+          513.8463134765625
+        ]
+      ]
+    },
+    {
+      "title": "Comments",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          33.7578125,
+          484.0045471191406
+        ],
+        [
+          161.85125732421875,
+          484.0045471191406
+        ],
+        [
+          161.85125732421875,
+          510.8592529296875
+        ],
+        [
+          33.7578125,
+          510.8592529296875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          440
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Picture",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          647
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          558
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          159
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          35
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          35
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          35
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/How Remote Work Affects Our Communication and Collaboration - Greater Good Berkeley 2021"
+}

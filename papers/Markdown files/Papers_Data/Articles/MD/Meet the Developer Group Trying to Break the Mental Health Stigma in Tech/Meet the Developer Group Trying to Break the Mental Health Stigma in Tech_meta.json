@@ -1,0 +1,285 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Meet the developer group trying to break the mental health stigma in tech, where moving fast a",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          32.59375,
+          60.50830078125
+        ],
+        [
+          577.1886596679688,
+          60.50830078125
+        ],
+        [
+          577.1886596679688,
+          73.81787109375
+        ],
+        [
+          32.59375,
+          73.81787109375
+        ]
+      ]
+    },
+    {
+      "title": "'There's nowhere to go for support'",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          342.234375,
+          135.42333984375
+        ],
+        [
+          528.789794921875,
+          135.42333984375
+        ],
+        [
+          528.789794921875,
+          146.12548828125
+        ],
+        [
+          342.234375,
+          146.12548828125
+        ]
+      ]
+    },
+    {
+      "title": "'They don't know where to go'",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          340.48828125,
+          271.669921875
+        ],
+        [
+          498.20196533203125,
+          271.669921875
+        ],
+        [
+          498.20196533203125,
+          282.5850830078125
+        ],
+        [
+          340.48828125,
+          282.5850830078125
+        ]
+      ]
+    },
+    {
+      "title": "'Companies are starting to get it'",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          343.98046875,
+          746.26904296875
+        ],
+        [
+          514.8453979492188,
+          746.26904296875
+        ],
+        [
+          514.8453979492188,
+          757.5557708740234
+        ],
+        [
+          343.98046875,
+          757.5557708740234
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          733
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          495
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          483
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          441
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Meet the Developer Group Trying to Break the Mental Health Stigma in Tech"
+}

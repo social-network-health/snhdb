@@ -1,0 +1,179 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Open Source Maintainers Owe You\nNothing",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          32.59375,
+          157.65087890625
+        ],
+        [
+          505.17380352644835,
+          156.0
+        ],
+        [
+          505.17380352644835,
+          211.16162109375
+        ],
+        [
+          32.59375,
+          211.16162109375
+        ]
+      ]
+    },
+    {
+      "title": "Latest Articles",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          34.79264831542969,
+          415.6090393066406
+        ],
+        [
+          188.5258026123047,
+          415.6090393066406
+        ],
+        [
+          188.5258026123047,
+          435.90911865234375
+        ],
+        [
+          34.79264831542969,
+          435.90911865234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          37
+        ],
+        [
+          "Span",
+          13
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          727
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          419
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "TableCell",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Open Source Maintainers Owe You Nothing"
+}

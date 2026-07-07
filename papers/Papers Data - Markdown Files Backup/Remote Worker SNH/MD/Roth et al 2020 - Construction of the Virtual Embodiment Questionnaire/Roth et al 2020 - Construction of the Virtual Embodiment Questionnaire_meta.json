@@ -1,0 +1,1312 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Construction of the Virtual Embodiment Questionnaire (VEQ)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          45.244140625,
+          46.7421875
+        ],
+        [
+          510.927734375,
+          46.7421875
+        ],
+        [
+          510.927734375,
+          66.59991455078125
+        ],
+        [
+          45.244140625,
+          66.59991455078125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          274.49951171875,
+          378.4609375
+        ],
+        [
+          283.87939453125,
+          378.4609375
+        ],
+        [
+          283.87939453125,
+          387.5078125
+        ],
+        [
+          274.49951171875,
+          387.5078125
+        ]
+      ]
+    },
+    {
+      "title": "1 INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          20.966796875,
+          402.962890625
+        ],
+        [
+          96.005859375,
+          402.962890625
+        ],
+        [
+          96.005859375,
+          412.3293151855469
+        ],
+        [
+          20.966796875,
+          412.3293151855469
+        ]
+      ]
+    },
+    {
+      "title": "2 BACKGROUND AND RELATED WORK",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          30.3466796875,
+          299.30078125
+        ],
+        [
+          190.36399841308594,
+          299.30078125
+        ],
+        [
+          190.36399841308594,
+          309.7644348144531
+        ],
+        [
+          30.3466796875,
+          309.7644348144531
+        ]
+      ]
+    },
+    {
+      "title": "2.1 Embodiment",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          29.51904296875,
+          313.248046875
+        ],
+        [
+          106.27210235595703,
+          313.248046875
+        ],
+        [
+          106.27210235595703,
+          323.08038330078125
+        ],
+        [
+          29.51904296875,
+          323.08038330078125
+        ]
+      ]
+    },
+    {
+      "title": "2.2 Virtual Embodiment",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          291.328125,
+          243.51171875
+        ],
+        [
+          399.467529296875,
+          243.51171875
+        ],
+        [
+          399.467529296875,
+          254.6004638671875
+        ],
+        [
+          291.328125,
+          254.6004638671875
+        ]
+      ]
+    },
+    {
+      "title": "3 SCALE CONSTRUCTION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          292.15576171875,
+          662.098030090332
+        ],
+        [
+          401.813720703125,
+          662.098030090332
+        ],
+        [
+          401.813720703125,
+          671.0682373046875
+        ],
+        [
+          292.15576171875,
+          671.0682373046875
+        ]
+      ]
+    },
+    {
+      "title": "Ownership",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          30.8984375,
+          204.685546875
+        ],
+        [
+          67.74351501464844,
+          204.685546875
+        ],
+        [
+          67.74351501464844,
+          214.23870849609375
+        ],
+        [
+          30.8984375,
+          214.23870849609375
+        ]
+      ]
+    },
+    {
+      "title": "Agency",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          28.96728515625,
+          272.537109375
+        ],
+        [
+          56.21875762939453,
+          272.537109375
+        ],
+        [
+          56.21875762939453,
+          280.6934509277344
+        ],
+        [
+          28.96728515625,
+          280.6934509277344
+        ]
+      ]
+    },
+    {
+      "title": "Change (in the perceived body schema)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          29.2431640625,
+          347.55078125
+        ],
+        [
+          160.73068237304688,
+          347.55078125
+        ],
+        [
+          160.73068237304688,
+          356.6166076660156
+        ],
+        [
+          29.2431640625,
+          356.6166076660156
+        ]
+      ]
+    },
+    {
+      "title": "4 DATA ACQUISITION",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          283.32763671875,
+          243.51171875
+        ],
+        [
+          374.6006164550781,
+          243.51171875
+        ],
+        [
+          374.6006164550781,
+          254.90850830078125
+        ],
+        [
+          283.32763671875,
+          254.90850830078125
+        ]
+      ]
+    },
+    {
+      "title": "4.1 Study 1: Level of Immersion",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          282.5,
+          448.197265625
+        ],
+        [
+          424.94000244140625,
+          448.197265625
+        ],
+        [
+          424.94000244140625,
+          457.21380615234375
+        ],
+        [
+          282.5,
+          457.21380615234375
+        ]
+      ]
+    },
+    {
+      "title": "4.1.1 Method",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          283.73809814453125,
+          460.259765625
+        ],
+        [
+          342.6416015625,
+          460.259765625
+        ],
+        [
+          342.6416015625,
+          470.85870361328125
+        ],
+        [
+          283.73809814453125,
+          470.85870361328125
+        ]
+      ]
+    },
+    {
+      "title": "4.2 Study 2: (User-Performed) Personalization",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          291.8798828125,
+          328.326171875
+        ],
+        [
+          494.3768310546875,
+          328.326171875
+        ],
+        [
+          494.3768310546875,
+          338.9659423828125
+        ],
+        [
+          291.8798828125,
+          338.9659423828125
+        ]
+      ]
+    },
+    {
+      "title": "4.2.1 Method",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          292.70751953125,
+          341.896484375
+        ],
+        [
+          351.9725036621094,
+          341.896484375
+        ],
+        [
+          351.9725036621094,
+          352.0280456542969
+        ],
+        [
+          292.70751953125,
+          352.0280456542969
+        ]
+      ]
+    },
+    {
+      "title": "4.3 Study 3: Behavioral Realism",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          19.86328125,
+          248.7890625
+        ],
+        [
+          164.423828125,
+          248.7890625
+        ],
+        [
+          164.423828125,
+          258.08357628765793
+        ],
+        [
+          19.86328125,
+          258.08357628765793
+        ]
+      ]
+    },
+    {
+      "title": "4.3.1 Method",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          19.50863213811421,
+          263.33527696793004
+        ],
+        [
+          80.2855245683931,
+          263.33527696793004
+        ],
+        [
+          80.2855245683931,
+          270.8377065111759
+        ],
+        [
+          19.50863213811421,
+          270.8377065111759
+        ]
+      ]
+    },
+    {
+      "title": "5 CONFIRMATORY FACTOR ANALYSIS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          284.70703125,
+          285.73046875
+        ],
+        [
+          439.6945551128818,
+          285.73046875
+        ],
+        [
+          439.6945551128818,
+          294.0952380952381
+        ],
+        [
+          284.70703125,
+          294.0952380952381
+        ]
+      ]
+    },
+    {
+      "title": "6 CORRELATIONS TO RELATED CONSTRUCTS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          283.603515625,
+          629.134765625
+        ],
+        [
+          473.4594953519256,
+          629.134765625
+        ],
+        [
+          473.4594953519256,
+          639.2069970845481
+        ],
+        [
+          283.603515625,
+          639.2069970845481
+        ]
+      ]
+    },
+    {
+      "title": "7 VALIDATION STUDY: LATENCY AND LATENCY JITTER",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          29.262948207171316,
+          318.8532555879495
+        ],
+        [
+          257.36387782204514,
+          319.279296875
+        ],
+        [
+          257.36387782204514,
+          328.6064139941691
+        ],
+        [
+          29.262948207171316,
+          327.8561710398445
+        ]
+      ]
+    },
+    {
+      "title": "7.1 Method",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          29.262948207171316,
+          399.947265625
+        ],
+        [
+          84.03718459495352,
+          399.947265625
+        ],
+        [
+          84.03718459495352,
+          408.240234375
+        ],
+        [
+          29.262948207171316,
+          408.240234375
+        ]
+      ]
+    },
+    {
+      "title": "7.1.1 Procedure",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          29.262948207171316,
+          481.369140625
+        ],
+        [
+          101.29482071713147,
+          481.369140625
+        ],
+        [
+          101.29482071713147,
+          489.9086491739553
+        ],
+        [
+          29.262948207171316,
+          489.9086491739553
+        ]
+      ]
+    },
+    {
+      "title": "7.1.2 Apparatus",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          29.262948207171316,
+          612.9484936831876
+        ],
+        [
+          100.54448871181938,
+          612.9484936831876
+        ],
+        [
+          100.54448871181938,
+          622.349609375
+        ],
+        [
+          29.262948207171316,
+          622.349609375
+        ]
+      ]
+    },
+    {
+      "title": "7.1.3 Measures",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          292.62948207171314,
+          544.697265625
+        ],
+        [
+          362.41035856573706,
+          544.697265625
+        ],
+        [
+          362.41035856573706,
+          553.6793002915452
+        ],
+        [
+          292.62948207171314,
+          553.6793002915452
+        ]
+      ]
+    },
+    {
+      "title": "7.1.4 Participants",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          19.50863213811421,
+          317.017578125
+        ],
+        [
+          96.79282868525897,
+          317.017578125
+        ],
+        [
+          96.79282868525897,
+          325.310546875
+        ],
+        [
+          19.50863213811421,
+          325.310546875
+        ]
+      ]
+    },
+    {
+      "title": "7.2 Results",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          19.50863213811421,
+          384.12439261418854
+        ],
+        [
+          75.78353253652058,
+          384.12439261418854
+        ],
+        [
+          75.78353253652058,
+          393.162109375
+        ],
+        [
+          19.50863213811421,
+          393.162109375
+        ]
+      ]
+    },
+    {
+      "title": "7.2.1 Comparisons",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          19.50863213811421,
+          399.1292517006803
+        ],
+        [
+          103.54581673306772,
+          399.1292517006803
+        ],
+        [
+          103.54581673306772,
+          408.240234375
+        ],
+        [
+          19.50863213811421,
+          408.240234375
+        ]
+      ]
+    },
+    {
+      "title": "7.2.2 Correlations",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          282.87516600265604,
+          390.900390625
+        ],
+        [
+          361.66002656042497,
+          390.900390625
+        ],
+        [
+          361.66002656042497,
+          399.87949465500486
+        ],
+        [
+          282.87516600265604,
+          399.87949465500486
+        ]
+      ]
+    },
+    {
+      "title": "7.3 Discussion",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          282.87516600265604,
+          511.525390625
+        ],
+        [
+          353.40637450199205,
+          511.525390625
+        ],
+        [
+          353.40637450199205,
+          519.9183673469388
+        ],
+        [
+          282.87516600265604,
+          519.9183673469388
+        ]
+      ]
+    },
+    {
+      "title": "8 GENERAL DISCUSSION",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          29.262948207171316,
+          342.86103012633623
+        ],
+        [
+          138.06108897742365,
+          342.86103012633623
+        ],
+        [
+          138.06108897742365,
+          351.1137026239067
+        ],
+        [
+          29.262948207171316,
+          351.1137026239067
+        ]
+      ]
+    },
+    {
+      "title": "9 CONCLUSION",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          22.34619140625,
+          393.916015625
+        ],
+        [
+          90.37931060791016,
+          393.916015625
+        ],
+        [
+          90.37931060791016,
+          403.74786376953125
+        ],
+        [
+          22.34619140625,
+          403.74786376953125
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGMENTS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          20.966796875,
+          523.587890625
+        ],
+        [
+          107.39727783203125,
+          523.587890625
+        ],
+        [
+          107.39727783203125,
+          534.5978546142578
+        ],
+        [
+          20.966796875,
+          534.5978546142578
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          21.79443359375,
+          635.166015625
+        ],
+        [
+          76.78269958496094,
+          635.166015625
+        ],
+        [
+          76.78269958496094,
+          645.521842956543
+        ],
+        [
+          21.79443359375,
+          645.521842956543
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          212
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          251
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          245
+        ],
+        [
+          "Line",
+          102
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          258
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          140
+        ],
+        [
+          "Span",
+          138
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          150
+        ],
+        [
+          "Span",
+          134
+        ],
+        [
+          "TableCell",
+          87
+        ],
+        [
+          "Text",
+          35
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "TableGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          160
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "Span",
+          92
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "TableGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          200
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Span",
+          85
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          364
+        ],
+        [
+          "Line",
+          117
+        ],
+        [
+          "ListItem",
+          26
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          471
+        ],
+        [
+          "Line",
+          142
+        ],
+        [
+          "ListItem",
+          44
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          243
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "ListItem",
+          25
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Roth et al 2020 - Construction of the Virtual Embodiment Questionnaire"
+}

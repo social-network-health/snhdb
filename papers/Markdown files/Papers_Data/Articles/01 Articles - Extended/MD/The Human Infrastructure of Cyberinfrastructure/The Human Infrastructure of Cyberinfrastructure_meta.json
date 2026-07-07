@@ -1,0 +1,1057 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The Human Infrastructure of Cyberinfrastructure",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          98.63996124267578,
+          73.86328125
+        ],
+        [
+          518.353515625,
+          73.86328125
+        ],
+        [
+          518.353515625,
+          93.30242919921875
+        ],
+        [
+          98.63996124267578,
+          93.30242919921875
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.59375,
+          187.55859375
+        ],
+        [
+          119.53125,
+          187.55859375
+        ],
+        [
+          119.53125,
+          200.28704833984375
+        ],
+        [
+          52.59375,
+          200.28704833984375
+        ]
+      ]
+    },
+    {
+      "title": "Categories and Subject Descriptors",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.59375,
+          345.74993896484375
+        ],
+        [
+          234.70925903320312,
+          345.74993896484375
+        ],
+        [
+          234.70925903320312,
+          357.72698974609375
+        ],
+        [
+          52.59375,
+          357.72698974609375
+        ]
+      ]
+    },
+    {
+      "title": "Keywords",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.19140625,
+          419.58984375
+        ],
+        [
+          105.94978332519531,
+          419.58984375
+        ],
+        [
+          105.94978332519531,
+          432.2469787597656
+        ],
+        [
+          53.19140625,
+          432.2469787597656
+        ]
+      ]
+    },
+    {
+      "title": "1. INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.7890625,
+          456.71484375
+        ],
+        [
+          169.188232421875,
+          456.71484375
+        ],
+        [
+          169.188232421875,
+          468.96697998046875
+        ],
+        [
+          53.7890625,
+          468.96697998046875
+        ]
+      ]
+    },
+    {
+      "title": "1.1 Properties of Infrastructure",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.7890625,
+          300.7499694824219
+        ],
+        [
+          215.15625,
+          300.7499694824219
+        ],
+        [
+          215.15625,
+          312.7270202636719
+        ],
+        [
+          53.7890625,
+          312.7270202636719
+        ]
+      ]
+    },
+    {
+      "title": "2. RESEARCH SITE: FBIRN PROJECT",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          315.5625,
+          371.18994140625
+        ],
+        [
+          536.2647705078125,
+          371.18994140625
+        ],
+        [
+          536.2647705078125,
+          383.1669921875
+        ],
+        [
+          315.5625,
+          383.1669921875
+        ]
+      ]
+    },
+    {
+      "title": "3. SOCIAL GROUPS IN THE FBIRN",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          51.3984375,
+          595.3498382568359
+        ],
+        [
+          257.0287170410156,
+          595.3498382568359
+        ],
+        [
+          257.0287170410156,
+          607.3269195556641
+        ],
+        [
+          51.3984375,
+          607.3269195556641
+        ]
+      ]
+    },
+    {
+      "title": "3.1 Not-so-Virtual Laboratories",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          316.16015625,
+          127.83001708984375
+        ],
+        [
+          486.1212463378906,
+          127.83001708984375
+        ],
+        [
+          486.1212463378906,
+          139.80706787109375
+        ],
+        [
+          316.16015625,
+          139.80706787109375
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Working Groups and Task Forces",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          315.5625,
+          536.5498657226562
+        ],
+        [
+          517.3165283203125,
+          536.5498657226562
+        ],
+        [
+          517.3165283203125,
+          548.5269470214844
+        ],
+        [
+          315.5625,
+          548.5269470214844
+        ]
+      ]
+    },
+    {
+      "title": "3.2.1 \"How they're named doesn't matter\"",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          52.59375,
+          85.06756591796875
+        ],
+        [
+          252.48304748535156,
+          85.06756591796875
+        ],
+        [
+          252.48304748535156,
+          96.08642578125
+        ],
+        [
+          52.59375,
+          96.08642578125
+        ]
+      ]
+    },
+    {
+      "title": "3.2.2 Fuzziness in group membership",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          53.19140625,
+          428.484375
+        ],
+        [
+          226.43617248535156,
+          428.484375
+        ],
+        [
+          226.43617248535156,
+          439.8863525390625
+        ],
+        [
+          53.19140625,
+          439.8863525390625
+        ]
+      ]
+    },
+    {
+      "title": "3.2.3 Fuzziness in organizational membership",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          316.7578125,
+          153.9140625
+        ],
+        [
+          528.12158203125,
+          153.9140625
+        ],
+        [
+          528.12158203125,
+          165.44647216796875
+        ],
+        [
+          316.7578125,
+          165.44647216796875
+        ]
+      ]
+    },
+    {
+      "title": "3.3 Personal Networks",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          53.19140625,
+          376.6640625
+        ],
+        [
+          176.03958129882812,
+          376.6640625
+        ],
+        [
+          176.03958129882812,
+          388.6869812011719
+        ],
+        [
+          53.19140625,
+          388.6869812011719
+        ]
+      ]
+    },
+    {
+      "title": "3.4 Synergy with Other Collaboratories",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          314.96484375,
+          340.4699401855469
+        ],
+        [
+          526.3273315429688,
+          340.4699401855469
+        ],
+        [
+          526.3273315429688,
+          352.4469909667969
+        ],
+        [
+          314.96484375,
+          352.4469909667969
+        ]
+      ]
+    },
+    {
+      "title": "3.5 The Hybrid Nature of Big Science",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          52.59375,
+          562.1098480224609
+        ],
+        [
+          252.96966552734375,
+          562.1098480224609
+        ],
+        [
+          252.96966552734375,
+          574.0869293212891
+        ],
+        [
+          52.59375,
+          574.0869293212891
+        ]
+      ]
+    },
+    {
+      "title": "4. HUMAN INFRASTRUCTURE IN USE",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          315.5625,
+          428.87109375
+        ],
+        [
+          540.0924072265625,
+          428.87109375
+        ],
+        [
+          540.0924072265625,
+          441.4869689941406
+        ],
+        [
+          315.5625,
+          441.4869689941406
+        ]
+      ]
+    },
+    {
+      "title": "4.1 New Practices, Old Conventions",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          314.96484375,
+          525.6298828125
+        ],
+        [
+          506.52337646484375,
+          525.6298828125
+        ],
+        [
+          506.52337646484375,
+          537.6069488525391
+        ],
+        [
+          314.96484375,
+          537.6069488525391
+        ]
+      ]
+    },
+    {
+      "title": "4.2 Experimentation and Negotiation",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          53.19140625,
+          159.328125
+        ],
+        [
+          250.44183349609375,
+          159.328125
+        ],
+        [
+          250.44183349609375,
+          171.487060546875
+        ],
+        [
+          53.19140625,
+          171.487060546875
+        ]
+      ]
+    },
+    {
+      "title": "4.3 Sharing Data",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          52.59375,
+          592.829833984375
+        ],
+        [
+          147.59620666503906,
+          592.829833984375
+        ],
+        [
+          147.59620666503906,
+          604.8069152832031
+        ],
+        [
+          52.59375,
+          604.8069152832031
+        ]
+      ]
+    },
+    {
+      "title": "4.3.1 Policies",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          316.458984375,
+          84.69140625
+        ],
+        [
+          384.6087341308594,
+          84.69140625
+        ],
+        [
+          384.6087341308594,
+          96.08642578125
+        ],
+        [
+          316.458984375,
+          96.08642578125
+        ]
+      ]
+    },
+    {
+      "title": "4.3.2 Standards",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          316.79986572265625,
+          316.3359375
+        ],
+        [
+          393.71807861328125,
+          316.3359375
+        ],
+        [
+          393.71807861328125,
+          328.2864074707031
+        ],
+        [
+          316.79986572265625,
+          328.2864074707031
+        ]
+      ]
+    },
+    {
+      "title": "4.3.3 Tools",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          52.59375,
+          189.87890625
+        ],
+        [
+          110.63835906982422,
+          189.87890625
+        ],
+        [
+          110.63835906982422,
+          201.68634033203125
+        ],
+        [
+          52.59375,
+          201.68634033203125
+        ]
+      ]
+    },
+    {
+      "title": "4.4 Human Infrastructure in Flux",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          53.19140625,
+          513.869873046875
+        ],
+        [
+          234.12005615234375,
+          513.869873046875
+        ],
+        [
+          234.12005615234375,
+          525.846923828125
+        ],
+        [
+          53.19140625,
+          525.846923828125
+        ]
+      ]
+    },
+    {
+      "title": "4.4.1 Recursive formation",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          53.19140625,
+          630.58740234375
+        ],
+        [
+          171.7287139892578,
+          630.58740234375
+        ],
+        [
+          171.7287139892578,
+          641.6062927246094
+        ],
+        [
+          53.19140625,
+          641.6062927246094
+        ]
+      ]
+    },
+    {
+      "title": "4.4.2 Power structures subsumed",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          315.5625,
+          277.06756591796875
+        ],
+        [
+          466.6778564453125,
+          277.06756591796875
+        ],
+        [
+          466.6778564453125,
+          288.08642578125
+        ],
+        [
+          315.5625,
+          288.08642578125
+        ]
+      ]
+    },
+    {
+      "title": "5. RETHINKING DISTRIBUTED TEAMS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          314.3671875,
+          435.05859375
+        ],
+        [
+          546.7011108398438,
+          435.05859375
+        ],
+        [
+          546.7011108398438,
+          447.8469543457031
+        ],
+        [
+          314.3671875,
+          447.8469543457031
+        ]
+      ]
+    },
+    {
+      "title": "5.1 Implications for Infrastructure Building",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          316.16015625,
+          577.2298431396484
+        ],
+        [
+          548.5220947265625,
+          577.2298431396484
+        ],
+        [
+          548.5220947265625,
+          589.2069244384766
+        ],
+        [
+          316.16015625,
+          589.2069244384766
+        ]
+      ]
+    },
+    {
+      "title": "6. ACKNOWLEDGMENTS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          52.892578125,
+          320.58984375
+        ],
+        [
+          206.39630126953125,
+          320.58984375
+        ],
+        [
+          206.39630126953125,
+          333.1269836425781
+        ],
+        [
+          52.892578125,
+          333.1269836425781
+        ]
+      ]
+    },
+    {
+      "title": "7. REFERENCES",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          52.892578125,
+          389.5499572753906
+        ],
+        [
+          153.83236694335938,
+          389.5499572753906
+        ],
+        [
+          153.83236694335938,
+          401.5270080566406
+        ],
+        [
+          52.892578125,
+          401.5270080566406
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          228
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          263
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          246
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          258
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          255
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          250
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          244
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          249
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          249
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          317
+        ],
+        [
+          "Line",
+          109
+        ],
+        [
+          "ListItem",
+          27
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/The Human Infrastructure of Cyberinfrastructure"
+}

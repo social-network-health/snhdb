@@ -1,0 +1,1806 @@
+{
+  "table_of_contents": [
+    {
+      "title": "A General Multilevel SEM Framework for Assessing Multilevel Mediation",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.328125,
+          88.89544677734375
+        ],
+        [
+          533.4706420898438,
+          88.89544677734375
+        ],
+        [
+          533.4706420898438,
+          104.89544677734375
+        ],
+        [
+          60.328125,
+          104.89544677734375
+        ]
+      ]
+    },
+    {
+      "title": "Zhen Zhang\nArizona State University",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          250.3037109375,
+          157.2109375
+        ],
+        [
+          343.17730712890625,
+          157.2109375
+        ],
+        [
+          343.17730712890625,
+          177.23712158203125
+        ],
+        [
+          250.3037109375,
+          177.23712158203125
+        ]
+      ]
+    },
+    {
+      "title": "First Limitation of MLM Framework for Multilevel\nMediation: Conflation of Between and Within Effects\n(Designs 1 to 3 in Table 1)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          52.20703125,
+          474.327392578125
+        ],
+        [
+          284.79638671875,
+          474.327392578125
+        ],
+        [
+          284.79638671875,
+          508.7373962402344
+        ],
+        [
+          52.20703125,
+          508.7373962402344
+        ]
+      ]
+    },
+    {
+      "title": "Second Limitation of MLM Framework for\nMultilevel Mediation: Inability to Treat Upper-Level\nVariables as Outcomes (Designs 3 to 7 in Table 1)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          309.75,
+          474.0
+        ],
+        [
+          543.0,
+          474.0
+        ],
+        [
+          543.0,
+          508.1484375
+        ],
+        [
+          309.75,
+          508.1484375
+        ]
+      ]
+    },
+    {
+      "title": "Two-Step Analyses",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          48.146484375,
+          177.1171875
+        ],
+        [
+          130.8950958251953,
+          177.1171875
+        ],
+        [
+          130.8950958251953,
+          187.87274169921875
+        ],
+        [
+          48.146484375,
+          187.87274169921875
+        ]
+      ]
+    },
+    {
+      "title": "Aggregation",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.56640625,
+          601.372802734375
+        ],
+        [
+          101.44609069824219,
+          601.372802734375
+        ],
+        [
+          101.44609069824219,
+          611.372802734375
+        ],
+        [
+          47.56640625,
+          611.372802734375
+        ]
+      ]
+    },
+    {
+      "title": "Disaggregation",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          306.28125,
+          201.7022705078125
+        ],
+        [
+          371.25,
+          201.7022705078125
+        ],
+        [
+          371.25,
+          211.921875
+        ],
+        [
+          306.28125,
+          211.921875
+        ]
+      ]
+    },
+    {
+      "title": "MSEM",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          304.8310546875,
+          319.0318908691406
+        ],
+        [
+          337.7861328125,
+          319.0318908691406
+        ],
+        [
+          337.7861328125,
+          329.0318908691406
+        ],
+        [
+          304.8310546875,
+          329.0318908691406
+        ]
+      ]
+    },
+    {
+      "title": "Multilevel SEM",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          392.5169982910156,
+          521.68359375
+        ],
+        [
+          460.8720703125,
+          521.68359375
+        ],
+        [
+          460.8720703125,
+          534.3728332519531
+        ],
+        [
+          392.5169982910156,
+          534.3728332519531
+        ]
+      ]
+    },
+    {
+      "title": "A General MSEM Framework for Investigating Multilevel Mediation",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          47.25,
+          580.8515625
+        ],
+        [
+          257.25,
+          580.8515625
+        ],
+        [
+          257.25,
+          603.0
+        ],
+        [
+          47.25,
+          603.0
+        ]
+      ]
+    },
+    {
+      "title": "Specifying Multilevel Mediation Models in MSEM",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          314.982421875,
+          508.5
+        ],
+        [
+          536.25,
+          508.5
+        ],
+        [
+          536.25,
+          518.25
+        ],
+        [
+          314.982421875,
+          518.25
+        ]
+      ]
+    },
+    {
+      "title": "Ordinary Single-Level Mediation",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          305.25,
+          648.0
+        ],
+        [
+          450.75,
+          648.0
+        ],
+        [
+          450.75,
+          657.75
+        ],
+        [
+          305.25,
+          657.75
+        ]
+      ]
+    },
+    {
+      "title": "Mediation in 2-1-1 Data",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          47.25,
+          645.0
+        ],
+        [
+          153.0,
+          645.0
+        ],
+        [
+          153.0,
+          653.94140625
+        ],
+        [
+          47.25,
+          653.94140625
+        ]
+      ]
+    },
+    {
+      "title": "Further MSEM Advantages Over MLM for Multilevel Mediation",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          47.25,
+          125.68359375
+        ],
+        [
+          240.75,
+          125.68359375
+        ],
+        [
+          240.75,
+          146.25
+        ],
+        [
+          47.25,
+          146.25
+        ]
+      ]
+    },
+    {
+      "title": "Empirical Examples",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          381.0,
+          74.63671875
+        ],
+        [
+          471.0,
+          74.63671875
+        ],
+        [
+          471.0,
+          84.75
+        ],
+        [
+          381.0,
+          84.75
+        ]
+      ]
+    },
+    {
+      "title": "Example 1: Determinants of Math Performance (Mediation in a 1-(1-1)-1 Design)",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          305.25,
+          99.0
+        ],
+        [
+          515.25,
+          99.0
+        ],
+        [
+          515.25,
+          121.04296875
+        ],
+        [
+          305.25,
+          121.04296875
+        ]
+      ]
+    },
+    {
+      "title": "Example 2: Antecedents of Team Potency (Mediation in a 2-2-1 Design)",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          47.25,
+          141.75
+        ],
+        [
+          230.25,
+          141.75
+        ],
+        [
+          230.25,
+          163.96875
+        ],
+        [
+          47.25,
+          163.96875
+        ]
+      ]
+    },
+    {
+      "title": "Example 3: Leadership and Team Performance (Mediation in a 1-1-2 Design)",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          47.25,
+          512.015625
+        ],
+        [
+          255.814453125,
+          512.015625
+        ],
+        [
+          255.814453125,
+          533.671875
+        ],
+        [
+          47.25,
+          533.671875
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          145.5,
+          285.0
+        ],
+        [
+          190.5,
+          285.0
+        ],
+        [
+          190.5,
+          293.25
+        ],
+        [
+          145.5,
+          293.25
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          47.25,
+          306.66796875
+        ],
+        [
+          90.75,
+          306.66796875
+        ],
+        [
+          90.75,
+          315.17578125
+        ],
+        [
+          47.25,
+          315.17578125
+        ]
+      ]
+    },
+    {
+      "title": "Issues Relevant to Interpreting Multilevel\nMediation Results",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          47.56640625,
+          159.50921630859375
+        ],
+        [
+          229.7521209716797,
+          159.50921630859375
+        ],
+        [
+          229.7521209716797,
+          181.5322265625
+        ],
+        [
+          47.56640625,
+          181.5322265625
+        ]
+      ]
+    },
+    {
+      "title": "Limitations",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          304.2509765625,
+          207.9183349609375
+        ],
+        [
+          356.1261291503906,
+          207.9183349609375
+        ],
+        [
+          356.1261291503906,
+          217.9183349609375
+        ],
+        [
+          304.2509765625,
+          217.9183349609375
+        ]
+      ]
+    },
+    {
+      "title": "Implementation Issues",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          46.986328125,
+          75.0234375
+        ],
+        [
+          145.8950958251953,
+          75.0234375
+        ],
+        [
+          145.8950958251953,
+          85.37274169921875
+        ],
+        [
+          46.986328125,
+          85.37274169921875
+        ]
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          48.4365234375,
+          116.2818603515625
+        ],
+        [
+          96.46609497070312,
+          116.2818603515625
+        ],
+        [
+          96.46609497070312,
+          126.2818603515625
+        ],
+        [
+          48.4365234375,
+          126.2818603515625
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          401.1240234375,
+          75.37274169921875
+        ],
+        [
+          449.99798583984375,
+          75.37274169921875
+        ],
+        [
+          449.99798583984375,
+          85.37274169921875
+        ],
+        [
+          401.1240234375,
+          85.37274169921875
+        ]
+      ]
+    },
+    {
+      "title": "Appendix A",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          270.0263671875,
+          75.0234375
+        ],
+        [
+          323.9736328125,
+          75.0234375
+        ],
+        [
+          323.9736328125,
+          85.37274169921875
+        ],
+        [
+          270.0263671875,
+          85.37274169921875
+        ]
+      ]
+    },
+    {
+      "title": "Bias Derivation",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          263.0654296875,
+          99.0
+        ],
+        [
+          331.293212890625,
+          99.0
+        ],
+        [
+          331.293212890625,
+          109.37274169921875
+        ],
+        [
+          263.0654296875,
+          109.37274169921875
+        ]
+      ]
+    },
+    {
+      "title": "Appendix B",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          270.6064453125,
+          75.0234375
+        ],
+        [
+          324.0,
+          75.0234375
+        ],
+        [
+          324.0,
+          84.3046875
+        ],
+        [
+          270.6064453125,
+          84.3046875
+        ]
+      ]
+    },
+    {
+      "title": "Specifying Additional Multilevel Mediation Models in MSEM",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          162.75,
+          99.0
+        ],
+        [
+          432.0,
+          99.0
+        ],
+        [
+          432.0,
+          109.0546875
+        ],
+        [
+          162.75,
+          109.0546875
+        ]
+      ]
+    },
+    {
+      "title": "Mediation in 2-2-1 Designs",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          98.25,
+          179.05078125
+        ],
+        [
+          216.75,
+          179.05078125
+        ],
+        [
+          216.75,
+          189.10546875
+        ],
+        [
+          98.25,
+          189.10546875
+        ]
+      ]
+    },
+    {
+      "title": "Mediation in 1-1-1 Designs",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          98.25,
+          75.0
+        ],
+        [
+          216.75,
+          75.0
+        ],
+        [
+          216.75,
+          84.3046875
+        ],
+        [
+          98.25,
+          84.3046875
+        ]
+      ]
+    },
+    {
+      "title": "Mediation in 1-1-2 Designs",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          97.7431640625,
+          74.63671875
+        ],
+        [
+          216.75,
+          74.63671875
+        ],
+        [
+          216.75,
+          84.69140625
+        ],
+        [
+          97.7431640625,
+          84.69140625
+        ]
+      ]
+    },
+    {
+      "title": "Mediation in 1-2-2 Designs",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          98.25,
+          352.6875
+        ],
+        [
+          216.0,
+          352.6875
+        ],
+        [
+          216.0,
+          363.0
+        ],
+        [
+          98.25,
+          363.0
+        ]
+      ]
+    },
+    {
+      "title": "Mediation in 2-1-2 Designs",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          98.25,
+          75.0234375
+        ],
+        [
+          216.75,
+          75.0234375
+        ],
+        [
+          216.75,
+          84.3046875
+        ],
+        [
+          98.25,
+          84.3046875
+        ]
+      ]
+    },
+    {
+      "title": "Mediation in 1-2-1 Designs",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          98.033203125,
+          332.578125
+        ],
+        [
+          216.75,
+          332.578125
+        ],
+        [
+          216.75,
+          341.859375
+        ],
+        [
+          98.033203125,
+          341.859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          192
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Footnote",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          319
+        ],
+        [
+          "Line",
+          115
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Footnote",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          77
+        ],
+        [
+          "Span",
+          66
+        ],
+        [
+          "TableCell",
+          50
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          148
+        ],
+        [
+          "Line",
+          116
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          235
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          174
+        ],
+        [
+          "Line",
+          126
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Equation",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          140
+        ],
+        [
+          "Line",
+          129
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Equation",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          98
+        ],
+        [
+          "Span",
+          98
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Equation",
+          9
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          125
+        ],
+        [
+          "Span",
+          89
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Footnote",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          51
+        ],
+        [
+          "Span",
+          38
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          88
+        ],
+        [
+          "Span",
+          69
+        ],
+        [
+          "TableCell",
+          64
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          77
+        ],
+        [
+          "Span",
+          47
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          78
+        ],
+        [
+          "Span",
+          52
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          228
+        ],
+        [
+          "Line",
+          113
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          253
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          307
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "ListItem",
+          23
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          229
+        ],
+        [
+          "Span",
+          151
+        ],
+        [
+          "ListItem",
+          44
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          404
+        ],
+        [
+          "Line",
+          131
+        ],
+        [
+          "ListItem",
+          46
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          351
+        ],
+        [
+          "Line",
+          117
+        ],
+        [
+          "ListItem",
+          37
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          443
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Equation",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          27
+        ],
+        [
+          "Span",
+          26
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Equation",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          36
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Equation",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Equation",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/A General Multilevel SEM Framework for Assessing Multilevel Mediation"
+}

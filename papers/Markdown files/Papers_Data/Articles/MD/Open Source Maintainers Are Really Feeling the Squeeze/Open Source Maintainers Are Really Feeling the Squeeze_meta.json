@@ -1,0 +1,599 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Open source maintainers are really feeling the\nsqueeze",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          45.3984375,
+          72.85693359375
+        ],
+        [
+          533.4395751953125,
+          72.85693359375
+        ],
+        [
+          533.4395751953125,
+          123.52862548828125
+        ],
+        [
+          45.3984375,
+          123.52862548828125
+        ]
+      ]
+    },
+    {
+      "title": "MORE CONTEXT",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          55.583984375,
+          423.29241943359375
+        ],
+        [
+          160.63575744628906,
+          423.29241943359375
+        ],
+        [
+          160.63575744628906,
+          435.8695068359375
+        ],
+        [
+          55.583984375,
+          435.8695068359375
+        ]
+      ]
+    },
+    {
+      "title": "MORE ABOUT",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          34.630859375,
+          87.263671875
+        ],
+        [
+          122.78367614746094,
+          87.263671875
+        ],
+        [
+          122.78367614746094,
+          101.500732421875
+        ],
+        [
+          34.630859375,
+          101.500732421875
+        ]
+      ]
+    },
+    {
+      "title": "TIP US OFF",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          34.33984375,
+          159.29736328125
+        ],
+        [
+          106.26658630371094,
+          159.29736328125
+        ],
+        [
+          106.26658630371094,
+          171.97314453125
+        ],
+        [
+          34.33984375,
+          171.97314453125
+        ]
+      ]
+    },
+    {
+      "title": "Open Source Initiative defends\ndisallowing board candidate after\ntimezone SNAFU",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          56.45703125,
+          356.4638671875
+        ],
+        [
+          258.6700134277344,
+          356.4638671875
+        ],
+        [
+          258.6700134277344,
+          402.1328125
+        ],
+        [
+          56.45703125,
+          402.1328125
+        ]
+      ]
+    },
+    {
+      "title": "FYI: An appeals court may kill a GNU\nGPL software license",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          302.07421875,
+          357.287109375
+        ],
+        [
+          527.0292358398438,
+          357.287109375
+        ],
+        [
+          527.0292358398438,
+          386.388916015625
+        ],
+        [
+          302.07421875,
+          386.388916015625
+        ]
+      ]
+    },
+    {
+      "title": "How's that open source licensing\ncoming along? That well, huh?",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          57.0390625,
+          627.72216796875
+        ],
+        [
+          259.0906677246094,
+          627.72216796875
+        ],
+        [
+          259.0906677246094,
+          657.032958984375
+        ],
+        [
+          57.0390625,
+          657.032958984375
+        ]
+      ]
+    },
+    {
+      "title": "Fortify your data",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          302.947265625,
+          627.9622344970703
+        ],
+        [
+          405.23370361328125,
+          627.9622344970703
+        ],
+        [
+          405.23370361328125,
+          640.539306640625
+        ],
+        [
+          302.947265625,
+          640.539306640625
+        ]
+      ]
+    },
+    {
+      "title": "Free Software Foundation rides to\ndefend AGPLv3 against Neo4j license\nadd-ons",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          57.26507568359375,
+          156.416015625
+        ],
+        [
+          284.0859375,
+          156.416015625
+        ],
+        [
+          284.0859375,
+          203.4609375
+        ],
+        [
+          57.26507568359375,
+          203.4609375
+        ]
+      ]
+    },
+    {
+      "title": "Worry not. China's on the line saying\nAGI still a long way off",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          303.712646484375,
+          156.00439453125
+        ],
+        [
+          526.9473266601562,
+          156.00439453125
+        ],
+        [
+          526.9473266601562,
+          186.96728515625
+        ],
+        [
+          303.712646484375,
+          186.96728515625
+        ]
+      ]
+    },
+    {
+      "title": "OBS-tacle course: Fedora and\nFlathub's Flatpak fiasco sparks repo\nrumble",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          57.0390625,
+          381.1611328125
+        ],
+        [
+          277.27740478515625,
+          381.1611328125
+        ],
+        [
+          277.27740478515625,
+          428.37255859375
+        ],
+        [
+          57.0390625,
+          428.37255859375
+        ]
+      ]
+    },
+    {
+      "title": "Docker delays Hub pull limits by a\nmonth, tweaks maximums, stalls\nstorage billing indefinitely",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          301.4921875,
+          381.984375
+        ],
+        [
+          510.0390930175781,
+          381.984375
+        ],
+        [
+          510.0390930175781,
+          428.37255859375
+        ],
+        [
+          301.4921875,
+          428.37255859375
+        ]
+      ]
+    },
+    {
+      "title": "Linux royalty backs adoption of Rust\nfor kernel code, says its rise is\ninevitable",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          57.26507568359375,
+          652.8310546875
+        ],
+        [
+          279.95703125,
+          652.8310546875
+        ],
+        [
+          279.95703125,
+          699.766357421875
+        ],
+        [
+          57.26507568359375,
+          699.766357421875
+        ]
+      ]
+    },
+    {
+      "title": "KDE Plasma 6.3 released \u2013 and 6.3.1 is\nalready here",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          300.328125,
+          654.06591796875
+        ],
+        [
+          537.3468627929688,
+          654.06591796875
+        ],
+        [
+          537.3468627929688,
+          683.272705078125
+        ],
+        [
+          300.328125,
+          683.272705078125
+        ]
+      ]
+    },
+    {
+      "title": "GNOME 48 beta is another nail in X11's\ncoffin",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          56.45703125,
+          167.94140625
+        ],
+        [
+          292.43341064453125,
+          167.94140625
+        ],
+        [
+          292.43341064453125,
+          197.462890625
+        ],
+        [
+          56.45703125,
+          197.462890625
+        ]
+      ]
+    },
+    {
+      "title": "Microsoft open sources PostgreSQL\nextensions to muscle in on NoSQL",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          303.23828125,
+          167.52978515625
+        ],
+        [
+          524.2037963867188,
+          167.52978515625
+        ],
+        [
+          524.2037963867188,
+          197.462890625
+        ],
+        [
+          303.23828125,
+          197.462890625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          473
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          685
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          768
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          169
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          246
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Open Source Maintainers Are Really Feeling the Squeeze"
+}

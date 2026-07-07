@@ -1,0 +1,607 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The Silent Crisis in Open Source: When\nMaintainers Walk Away",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.02770780856423,
+          108.0
+        ],
+        [
+          447.37531486146094,
+          108.0
+        ],
+        [
+          447.37531486146094,
+          158.0625
+        ],
+        [
+          33.02770780856423,
+          158.0625
+        ]
+      ]
+    },
+    {
+      "title": "The Impact of a Maintainer's Departure",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.79264831542969,
+          148.845703125
+        ],
+        [
+          560.3731079101562,
+          148.845703125
+        ],
+        [
+          560.3731079101562,
+          178.61724853515625
+        ],
+        [
+          34.79264831542969,
+          178.61724853515625
+        ]
+      ]
+    },
+    {
+      "title": "The Invisible Maintainer: A Hidden Threat",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          33.7578125,
+          86.85205078125
+        ],
+        [
+          502.5113525390625,
+          86.85205078125
+        ],
+        [
+          502.5113525390625,
+          112.32342529296875
+        ],
+        [
+          33.7578125,
+          112.32342529296875
+        ]
+      ]
+    },
+    {
+      "title": "The Ticking Time Bomb of Maintainer\nBurnout",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          34.79264831542969,
+          252.3052978515625
+        ],
+        [
+          537.8280639648438,
+          252.3052978515625
+        ],
+        [
+          537.8280639648438,
+          313.56439208984375
+        ],
+        [
+          34.79264831542969,
+          313.56439208984375
+        ]
+      ]
+    },
+    {
+      "title": "The Trust Paradox: The Hidden\nChallenge of Maintainer Succession",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          34.79264831542969,
+          651.59619140625
+        ],
+        [
+          522.4639892578125,
+          651.59619140625
+        ],
+        [
+          522.4639892578125,
+          714.6571655273438
+        ],
+        [
+          34.79264831542969,
+          714.6571655273438
+        ]
+      ]
+    },
+    {
+      "title": "Quantifying the Risk: New Metrics for Project\nHealth",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          34.79264831542969,
+          623.2925720214844
+        ],
+        [
+          542.6328125,
+          623.2925720214844
+        ],
+        [
+          542.6328125,
+          678.3516387939453
+        ],
+        [
+          34.79264831542969,
+          678.3516387939453
+        ]
+      ]
+    },
+    {
+      "title": "Preventing the Exodus: A Callto Action",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          33.7578125,
+          337.11767578125
+        ],
+        [
+          478.260498046875,
+          337.11767578125
+        ],
+        [
+          478.260498046875,
+          363.4751892089844
+        ],
+        [
+          33.7578125,
+          363.4751892089844
+        ]
+      ]
+    },
+    {
+      "title": "Redefining Open Source Insights",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          34.79264831542969,
+          43.6318359375
+        ],
+        [
+          478.7658996582031,
+          43.6318359375
+        ],
+        [
+          478.7658996582031,
+          73.65838623046875
+        ],
+        [
+          34.79264831542969,
+          73.65838623046875
+        ]
+      ]
+    },
+    {
+      "title": "We should strive to:",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          34.79264831542969,
+          277.84423828125
+        ],
+        [
+          156.56178283691406,
+          277.84423828125
+        ],
+        [
+          156.56178283691406,
+          293.50567626953125
+        ],
+        [
+          34.79264831542969,
+          293.50567626953125
+        ]
+      ]
+    },
+    {
+      "title": "OpenSauced on Azure: Lessons learned from a near-zero\ndowntime migration",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          32.59375,
+          470.0712890625
+        ],
+        [
+          538.2015113350126,
+          466.5
+        ],
+        [
+          538.2015113350126,
+          511.2333984375
+        ],
+        [
+          32.59375,
+          511.2333984375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          18
+        ],
+        [
+          "Span",
+          15
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          508
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          211
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          389
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          416
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          537
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          399
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          237
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          14
+        ],
+        [
+          "Span",
+          12
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/The Silent Crisis in Open Source When Maintainers Walk Away"
+}

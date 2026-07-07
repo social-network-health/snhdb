@@ -1,0 +1,627 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Dealing with burnout in open source",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.0390625,
+          63.80126953125
+        ],
+        [
+          378.643310546875,
+          63.80126953125
+        ],
+        [
+          378.643310546875,
+          82.7987060546875
+        ],
+        [
+          57.0390625,
+          82.7987060546875
+        ]
+      ]
+    },
+    {
+      "title": "Autistic burnout, neurodivergence, and mental health",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          57.0390625,
+          345.76171875
+        ],
+        [
+          493.057861328125,
+          345.76171875
+        ],
+        [
+          493.057861328125,
+          363.6119079589844
+        ],
+        [
+          57.0390625,
+          363.6119079589844
+        ]
+      ]
+    },
+    {
+      "title": "How to help people experiencing burnout",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          57.0390625,
+          660.240234375
+        ],
+        [
+          393.5428161621094,
+          660.240234375
+        ],
+        [
+          393.5428161621094,
+          678.4884948730469
+        ],
+        [
+          57.0390625,
+          678.4884948730469
+        ]
+      ]
+    },
+    {
+      "title": "More open source career advice",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          57.0390625,
+          705.0697326660156
+        ],
+        [
+          340.97955322265625,
+          705.0697326660156
+        ],
+        [
+          340.97955322265625,
+          723.6298828125
+        ],
+        [
+          57.0390625,
+          723.6298828125
+        ]
+      ]
+    },
+    {
+      "title": "Burnout in open source communities",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          57.0390625,
+          742.564453125
+        ],
+        [
+          356.14605712890625,
+          742.564453125
+        ],
+        [
+          356.14605712890625,
+          759.4567642211914
+        ],
+        [
+          57.0390625,
+          759.4567642211914
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          101.2734375,
+          241.2099609375
+        ],
+        [
+          324.7734375,
+          241.2099609375
+        ],
+        [
+          324.7734375,
+          252.7353515625
+        ],
+        [
+          101.2734375,
+          252.7353515625
+        ]
+      ]
+    },
+    {
+      "title": "Key takeaways",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          57.26507568359375,
+          649.2638549804688
+        ],
+        [
+          179.86129760742188,
+          649.2638549804688
+        ],
+        [
+          179.86129760742188,
+          666.826171875
+        ],
+        [
+          57.26507568359375,
+          666.826171875
+        ]
+      ]
+    },
+    {
+      "title": "What to read next",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          57.26507568359375,
+          341.5137939453125
+        ],
+        [
+          230.33372497558594,
+          341.5137939453125
+        ],
+        [
+          230.33372497558594,
+          362.4880676269531
+        ],
+        [
+          57.26507568359375,
+          362.4880676269531
+        ]
+      ]
+    },
+    {
+      "title": "20 ways to be more productive and respect yourself",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          57.0390625,
+          370.458984375
+        ],
+        [
+          449.14288330078125,
+          370.458984375
+        ],
+        [
+          449.14288330078125,
+          387.6027526855469
+        ],
+        [
+          57.0390625,
+          387.6027526855469
+        ]
+      ]
+    },
+    {
+      "title": "Never enough: Working openly with anxiety",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          55.875,
+          316.53662109375
+        ],
+        [
+          384.7662658691406,
+          316.53662109375
+        ],
+        [
+          384.7662658691406,
+          333.6237487792969
+        ],
+        [
+          55.875,
+          333.6237487792969
+        ]
+      ]
+    },
+    {
+      "title": "How I recognize and prevent burnout in open source",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          54.7109375,
+          41.57373046875
+        ],
+        [
+          449.7132873535156,
+          41.57373046875
+        ],
+        [
+          449.7132873535156,
+          58.481689453125
+        ],
+        [
+          54.7109375,
+          58.481689453125
+        ]
+      ]
+    },
+    {
+      "title": "Comments are closed.",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          55.875,
+          467.18994140625
+        ],
+        [
+          236.6602783203125,
+          467.18994140625
+        ],
+        [
+          236.6602783203125,
+          485.0646667480469
+        ],
+        [
+          55.875,
+          485.0646667480469
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          259
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          306
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          419
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "ListItem",
+          17
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          409
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          279
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          53
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Dealing with Burnout in Open Source"
+}

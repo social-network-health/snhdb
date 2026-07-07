@@ -1,0 +1,663 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The Hidden Cost of Free: Why Open Source\nSustainability Matters",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.02770780856423,
+          108.0
+        ],
+        [
+          493.1637279596977,
+          108.0
+        ],
+        [
+          493.1637279596977,
+          156.82763671875
+        ],
+        [
+          33.02770780856423,
+          156.82763671875
+        ]
+      ]
+    },
+    {
+      "title": "Understanding the Tragedy ofthe\nCommons",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.79264831542969,
+          480.7734375
+        ],
+        [
+          492.960205078125,
+          480.7734375
+        ],
+        [
+          492.960205078125,
+          541.4750366210938
+        ],
+        [
+          34.79264831542969,
+          541.4750366210938
+        ]
+      ]
+    },
+    {
+      "title": "Application to Open Source Software",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.79264831542969,
+          712.927734375
+        ],
+        [
+          536.0946044921875,
+          712.927734375
+        ],
+        [
+          536.0946044921875,
+          743.8956909179688
+        ],
+        [
+          34.79264831542969,
+          743.8956909179688
+        ]
+      ]
+    },
+    {
+      "title": "Economic Implications",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          34.79264831542969,
+          547.5721130371094
+        ],
+        [
+          294.5159606933594,
+          547.5721130371094
+        ],
+        [
+          294.5159606933594,
+          572.583740234375
+        ],
+        [
+          34.79264831542969,
+          572.583740234375
+        ]
+      ]
+    },
+    {
+      "title": "The Challenge of Funding and\nRecognition",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          33.7578125,
+          575.4285583496094
+        ],
+        [
+          439.97833251953125,
+          575.4285583496094
+        ],
+        [
+          439.97833251953125,
+          636.6879272460938
+        ],
+        [
+          33.7578125,
+          636.6879272460938
+        ]
+      ]
+    },
+    {
+      "title": "The OSS Pledge: Sentry's Modelfor Direct\nImpact",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          34.79264831542969,
+          318.16217041015625
+        ],
+        [
+          509.15594482421875,
+          318.16217041015625
+        ],
+        [
+          509.15594482421875,
+          373.162109375
+        ],
+        [
+          34.79264831542969,
+          373.162109375
+        ]
+      ]
+    },
+    {
+      "title": "Open Source and Sustainable\nDevelopment",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          34.79264831542969,
+          693.9931640625
+        ],
+        [
+          435.9272155761719,
+          693.9931640625
+        ],
+        [
+          435.9272155761719,
+          755.8912963867188
+        ],
+        [
+          34.79264831542969,
+          755.8912963867188
+        ]
+      ]
+    },
+    {
+      "title": "The Security Imperative",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          33.7578125,
+          400.7471618652344
+        ],
+        [
+          360.8214111328125,
+          400.7471618652344
+        ],
+        [
+          360.8214111328125,
+          430.51873779296875
+        ],
+        [
+          33.7578125,
+          430.51873779296875
+        ]
+      ]
+    },
+    {
+      "title": "Solutions",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          34.79264831542969,
+          64.62451171875
+        ],
+        [
+          167.11172485351562,
+          64.62451171875
+        ],
+        [
+          167.11172485351562,
+          94.65008544921875
+        ],
+        [
+          34.79264831542969,
+          94.65008544921875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          60.53125,
+          123.07470703125
+        ],
+        [
+          236.3046875,
+          123.07470703125
+        ],
+        [
+          236.3046875,
+          143.65576171875
+        ],
+        [
+          60.53125,
+          143.65576171875
+        ]
+      ]
+    },
+    {
+      "title": "Takeaways",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          34.79264831542969,
+          549.1025390625
+        ],
+        [
+          191.3008575439453,
+          549.1025390625
+        ],
+        [
+          191.3008575439453,
+          580.4601440429688
+        ],
+        [
+          34.79264831542969,
+          580.4601440429688
+        ]
+      ]
+    },
+    {
+      "title": "OpenSauced on Azure: Lessons learned from a near-zero downtime migration",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          33.02770780856423,
+          377.25
+        ],
+        [
+          538.2015113350126,
+          375.0
+        ],
+        [
+          538.2015113350126,
+          420.75
+        ],
+        [
+          33.02770780856423,
+          420.75
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          14
+        ],
+        [
+          "Span",
+          13
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          494
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          511
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          587
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          513
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          573
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          401
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          191
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "TableCell",
+          9
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          233
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          15
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/The Hidden Cost of Free Why Open Source Sustainability Matters"
+}

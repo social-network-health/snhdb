@@ -1,0 +1,577 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Annual Intel Open Source Community Survey Results",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          45.3984375,
+          48.052734375
+        ],
+        [
+          421.6681213378906,
+          48.052734375
+        ],
+        [
+          421.6681213378906,
+          67.844970703125
+        ],
+        [
+          45.3984375,
+          67.844970703125
+        ]
+      ]
+    },
+    {
+      "title": "By Nikki McDonald",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          45.3984375,
+          111.54986572265625
+        ],
+        [
+          153.94482421875,
+          111.54986572265625
+        ],
+        [
+          153.94482421875,
+          126.531982421875
+        ],
+        [
+          45.3984375,
+          126.531982421875
+        ]
+      ]
+    },
+    {
+      "title": "The Male Majority",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          45.98046875,
+          713.8517761230469
+        ],
+        [
+          184.0775146484375,
+          713.8517761230469
+        ],
+        [
+          184.0775146484375,
+          735.4433059692383
+        ],
+        [
+          45.98046875,
+          735.4433059692383
+        ]
+      ]
+    },
+    {
+      "title": "Feeling the Burn",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          45.98046875,
+          692.8599548339844
+        ],
+        [
+          174.99452209472656,
+          692.8599548339844
+        ],
+        [
+          174.99452209472656,
+          714.4514923095703
+        ],
+        [
+          45.98046875,
+          714.4514923095703
+        ]
+      ]
+    },
+    {
+      "title": "Nevertheless, They Persisted",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          45.3984375,
+          484.4416198730469
+        ],
+        [
+          270.83526611328125,
+          484.4416198730469
+        ],
+        [
+          270.83526611328125,
+          506.03314208984375
+        ],
+        [
+          45.3984375,
+          506.03314208984375
+        ]
+      ]
+    },
+    {
+      "title": "Let Me See Your License",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          46.02886199951172,
+          118.58489990234375
+        ],
+        [
+          239.193115234375,
+          118.58489990234375
+        ],
+        [
+          239.193115234375,
+          140.1763916015625
+        ],
+        [
+          46.02886199951172,
+          140.1763916015625
+        ]
+      ]
+    },
+    {
+      "title": "Everyone Loves Linux",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          46.02886199951172,
+          694.3591003417969
+        ],
+        [
+          216.05938720703125,
+          694.3591003417969
+        ],
+        [
+          216.05938720703125,
+          715.9506301879883
+        ],
+        [
+          46.02886199951172,
+          715.9506301879883
+        ]
+      ]
+    },
+    {
+      "title": "Open Source on the Road",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          45.3984375,
+          590.1503601074219
+        ],
+        [
+          248.3809051513672,
+          590.1503601074219
+        ],
+        [
+          248.3809051513672,
+          611.7418975830078
+        ],
+        [
+          45.3984375,
+          611.7418975830078
+        ]
+      ]
+    },
+    {
+      "title": "Open Source + AI = Innovation",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          45.98046875,
+          385.4806823730469
+        ],
+        [
+          278.7089538574219,
+          385.4806823730469
+        ],
+        [
+          278.7089538574219,
+          407.07220458984375
+        ],
+        [
+          45.98046875,
+          407.07220458984375
+        ]
+      ]
+    },
+    {
+      "title": "Tried and Trusted",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          46.02886199951172,
+          390.7282409667969
+        ],
+        [
+          184.45152282714844,
+          390.7282409667969
+        ],
+        [
+          184.45152282714844,
+          412.31976318359375
+        ],
+        [
+          46.02886199951172,
+          412.31976318359375
+        ]
+      ]
+    },
+    {
+      "title": "About the Author",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          45.98046875,
+          540.6696472167969
+        ],
+        [
+          180.64454650878906,
+          540.6696472167969
+        ],
+        [
+          180.64454650878906,
+          562.2611694335938
+        ],
+        [
+          45.98046875,
+          562.2611694335938
+        ]
+      ]
+    },
+    {
+      "title": "Product and Performance Information",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          45.98046875,
+          700.9867858886719
+        ],
+        [
+          253.85781860351562,
+          700.9867858886719
+        ],
+        [
+          253.85781860351562,
+          715.7530059814453
+        ],
+        [
+          45.98046875,
+          715.7530059814453
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          389
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          481
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          307
+        ],
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          429
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          439
+        ],
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          253
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          481
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Annual Intel Open Source Community Survey Results"
+}

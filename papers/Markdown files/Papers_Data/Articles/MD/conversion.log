@@ -1,0 +1,1040 @@
+=== Conversion started at Thu 18 Jun 2026 22:44:59 NZST ===
+Total pending: 27
+[1/27] Converting: Dealing with Burnout in Open Source  (22:44:59)
+Traceback (most recent call last):
+  File "/Users/shoaib/.local/bin/marker_single", line 10, in <module>
+    sys.exit(convert_single_cli())
+             ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1524, in __call__
+    return self.main(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1445, in main
+    rv = self.invoke(ctx)
+         ^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1308, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 877, in invoke
+    return callback(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/scripts/convert_single.py", line 26, in convert_single_cli
+    models = create_model_dict()
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/models.py", line 20, in create_model_dict
+    "layout_model": LayoutPredictor(FoundationPredictor(checkpoint=surya_settings.LAYOUT_MODEL_CHECKPOINT, attention_implementation=attention_implementation, device=device, dtype=dtype)),
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/__init__.py", line 113, in __init__
+    super().__init__(checkpoint, device, dtype, attention_implementation)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/common/predictor.py", line 37, in __init__
+    self.model = loader.model(device, dtype, attention_implementation)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/loader.py", line 71, in model
+    ).to(device)
+      ^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4343, in to
+    return super().to(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1383, in to
+    return self._apply(convert)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 964, in _apply
+    param_applied = fn(param)
+                    ^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1369, in convert
+    return t.to(
+           ^^^^^
+RuntimeError: invalid low watermark ratio 1.4
+  ✗ FAILED: Dealing with Burnout in Open Source
+[2/27] Converting: Developers Are Burned Out Quitting Their Jobs and Creating a Crisis for Recruiters  (22:45:03)
+Traceback (most recent call last):
+  File "/Users/shoaib/.local/bin/marker_single", line 10, in <module>
+    sys.exit(convert_single_cli())
+             ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1524, in __call__
+    return self.main(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1445, in main
+    rv = self.invoke(ctx)
+         ^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1308, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 877, in invoke
+    return callback(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/scripts/convert_single.py", line 26, in convert_single_cli
+    models = create_model_dict()
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/models.py", line 20, in create_model_dict
+    "layout_model": LayoutPredictor(FoundationPredictor(checkpoint=surya_settings.LAYOUT_MODEL_CHECKPOINT, attention_implementation=attention_implementation, device=device, dtype=dtype)),
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/__init__.py", line 113, in __init__
+    super().__init__(checkpoint, device, dtype, attention_implementation)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/common/predictor.py", line 37, in __init__
+    self.model = loader.model(device, dtype, attention_implementation)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/loader.py", line 71, in model
+    ).to(device)
+      ^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4343, in to
+    return super().to(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1383, in to
+    return self._apply(convert)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 964, in _apply
+    param_applied = fn(param)
+                    ^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1369, in convert
+    return t.to(
+           ^^^^^
+RuntimeError: invalid low watermark ratio 1.4
+  ✗ FAILED: Developers Are Burned Out Quitting Their Jobs and Creating a Crisis for Recruiters
+[3/27] Converting: How I Recognize And Prevent Burnout In Open Source  (22:45:06)
+Traceback (most recent call last):
+  File "/Users/shoaib/.local/bin/marker_single", line 10, in <module>
+    sys.exit(convert_single_cli())
+             ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1524, in __call__
+    return self.main(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1445, in main
+    rv = self.invoke(ctx)
+         ^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1308, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 877, in invoke
+    return callback(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/scripts/convert_single.py", line 26, in convert_single_cli
+    models = create_model_dict()
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/models.py", line 20, in create_model_dict
+    "layout_model": LayoutPredictor(FoundationPredictor(checkpoint=surya_settings.LAYOUT_MODEL_CHECKPOINT, attention_implementation=attention_implementation, device=device, dtype=dtype)),
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/__init__.py", line 113, in __init__
+    super().__init__(checkpoint, device, dtype, attention_implementation)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/common/predictor.py", line 37, in __init__
+    self.model = loader.model(device, dtype, attention_implementation)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/loader.py", line 71, in model
+    ).to(device)
+      ^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4343, in to
+    return super().to(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1383, in to
+    return self._apply(convert)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 964, in _apply
+    param_applied = fn(param)
+                    ^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1369, in convert
+    return t.to(
+           ^^^^^
+RuntimeError: invalid low watermark ratio 1.4
+  ✗ FAILED: How I Recognize And Prevent Burnout In Open Source
+[4/27] Converting: How Open Source Maintainers Keep Contributors and Themselves Happy  (22:45:09)
+Traceback (most recent call last):
+  File "/Users/shoaib/.local/bin/marker_single", line 10, in <module>
+    sys.exit(convert_single_cli())
+             ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1524, in __call__
+    return self.main(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1445, in main
+    rv = self.invoke(ctx)
+         ^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1308, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 877, in invoke
+    return callback(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/scripts/convert_single.py", line 26, in convert_single_cli
+    models = create_model_dict()
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/models.py", line 20, in create_model_dict
+    "layout_model": LayoutPredictor(FoundationPredictor(checkpoint=surya_settings.LAYOUT_MODEL_CHECKPOINT, attention_implementation=attention_implementation, device=device, dtype=dtype)),
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/__init__.py", line 113, in __init__
+    super().__init__(checkpoint, device, dtype, attention_implementation)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/common/predictor.py", line 37, in __init__
+    self.model = loader.model(device, dtype, attention_implementation)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/loader.py", line 71, in model
+    ).to(device)
+      ^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4343, in to
+    return super().to(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1383, in to
+    return self._apply(convert)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 964, in _apply
+    param_applied = fn(param)
+                    ^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1369, in convert
+    return t.to(
+           ^^^^^
+RuntimeError: invalid low watermark ratio 1.4
+  ✗ FAILED: How Open Source Maintainers Keep Contributors and Themselves Happy
+[5/27] Converting: Intel Survey Finds Maintainer Burnout and Documentation Top Open-Source Challenges  (22:45:12)
+Traceback (most recent call last):
+  File "/Users/shoaib/.local/bin/marker_single", line 10, in <module>
+    sys.exit(convert_single_cli())
+             ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1524, in __call__
+    return self.main(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1445, in main
+    rv = self.invoke(ctx)
+         ^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1308, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 877, in invoke
+    return callback(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/scripts/convert_single.py", line 26, in convert_single_cli
+    models = create_model_dict()
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/models.py", line 20, in create_model_dict
+    "layout_model": LayoutPredictor(FoundationPredictor(checkpoint=surya_settings.LAYOUT_MODEL_CHECKPOINT, attention_implementation=attention_implementation, device=device, dtype=dtype)),
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/__init__.py", line 113, in __init__
+    super().__init__(checkpoint, device, dtype, attention_implementation)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/common/predictor.py", line 37, in __init__
+    self.model = loader.model(device, dtype, attention_implementation)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/loader.py", line 71, in model
+    ).to(device)
+      ^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4343, in to
+    return super().to(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1383, in to
+    return self._apply(convert)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 964, in _apply
+    param_applied = fn(param)
+                    ^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1369, in convert
+    return t.to(
+           ^^^^^
+RuntimeError: invalid low watermark ratio 1.4
+  ✗ FAILED: Intel Survey Finds Maintainer Burnout and Documentation Top Open-Source Challenges
+[6/27] Converting: LaunchDarkly Release Assurance Why Innovative Software Delivery Starts with Trust and Psychological Safety  (22:45:15)
+Traceback (most recent call last):
+  File "/Users/shoaib/.local/bin/marker_single", line 10, in <module>
+    sys.exit(convert_single_cli())
+             ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1524, in __call__
+    return self.main(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1445, in main
+    rv = self.invoke(ctx)
+         ^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1308, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 877, in invoke
+    return callback(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/scripts/convert_single.py", line 26, in convert_single_cli
+    models = create_model_dict()
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/models.py", line 20, in create_model_dict
+    "layout_model": LayoutPredictor(FoundationPredictor(checkpoint=surya_settings.LAYOUT_MODEL_CHECKPOINT, attention_implementation=attention_implementation, device=device, dtype=dtype)),
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/__init__.py", line 113, in __init__
+    super().__init__(checkpoint, device, dtype, attention_implementation)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/common/predictor.py", line 37, in __init__
+    self.model = loader.model(device, dtype, attention_implementation)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/loader.py", line 71, in model
+    ).to(device)
+      ^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4343, in to
+    return super().to(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1383, in to
+    return self._apply(convert)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 964, in _apply
+    param_applied = fn(param)
+                    ^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1369, in convert
+    return t.to(
+           ^^^^^
+RuntimeError: invalid low watermark ratio 1.4
+  ✗ FAILED: LaunchDarkly Release Assurance Why Innovative Software Delivery Starts with Trust and Psychological Safety
+[7/27] Converting: Maintainer Month Enhancing Support for Open Source Maintainers  (22:45:18)
+Traceback (most recent call last):
+  File "/Users/shoaib/.local/bin/marker_single", line 10, in <module>
+    sys.exit(convert_single_cli())
+             ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1524, in __call__
+    return self.main(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1445, in main
+    rv = self.invoke(ctx)
+         ^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1308, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 877, in invoke
+    return callback(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/scripts/convert_single.py", line 26, in convert_single_cli
+    models = create_model_dict()
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/models.py", line 20, in create_model_dict
+    "layout_model": LayoutPredictor(FoundationPredictor(checkpoint=surya_settings.LAYOUT_MODEL_CHECKPOINT, attention_implementation=attention_implementation, device=device, dtype=dtype)),
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/__init__.py", line 113, in __init__
+    super().__init__(checkpoint, device, dtype, attention_implementation)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/common/predictor.py", line 37, in __init__
+    self.model = loader.model(device, dtype, attention_implementation)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/loader.py", line 71, in model
+    ).to(device)
+      ^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4343, in to
+    return super().to(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1383, in to
+    return self._apply(convert)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 964, in _apply
+    param_applied = fn(param)
+                    ^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1369, in convert
+    return t.to(
+           ^^^^^
+RuntimeError: invalid low watermark ratio 1.4
+  ✗ FAILED: Maintainer Month Enhancing Support for Open Source Maintainers
+[8/27] Converting: Maintaining Balance for Open Source Maintainers  (22:45:21)
+Traceback (most recent call last):
+  File "/Users/shoaib/.local/bin/marker_single", line 10, in <module>
+    sys.exit(convert_single_cli())
+             ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1524, in __call__
+    return self.main(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1445, in main
+    rv = self.invoke(ctx)
+         ^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1308, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 877, in invoke
+    return callback(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/scripts/convert_single.py", line 26, in convert_single_cli
+    models = create_model_dict()
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/models.py", line 20, in create_model_dict
+    "layout_model": LayoutPredictor(FoundationPredictor(checkpoint=surya_settings.LAYOUT_MODEL_CHECKPOINT, attention_implementation=attention_implementation, device=device, dtype=dtype)),
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/__init__.py", line 113, in __init__
+    super().__init__(checkpoint, device, dtype, attention_implementation)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/common/predictor.py", line 37, in __init__
+    self.model = loader.model(device, dtype, attention_implementation)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/loader.py", line 71, in model
+    ).to(device)
+      ^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4343, in to
+    return super().to(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1383, in to
+    return self._apply(convert)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 964, in _apply
+    param_applied = fn(param)
+                    ^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1369, in convert
+    return t.to(
+           ^^^^^
+RuntimeError: invalid low watermark ratio 1.4
+  ✗ FAILED: Maintaining Balance for Open Source Maintainers
+[9/27] Converting: Meet the Developer Group Trying to Break the Mental Health Stigma in Tech  (22:45:24)
+Traceback (most recent call last):
+  File "/Users/shoaib/.local/bin/marker_single", line 10, in <module>
+    sys.exit(convert_single_cli())
+             ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1524, in __call__
+    return self.main(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1445, in main
+    rv = self.invoke(ctx)
+         ^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1308, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 877, in invoke
+    return callback(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/scripts/convert_single.py", line 26, in convert_single_cli
+    models = create_model_dict()
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/models.py", line 20, in create_model_dict
+    "layout_model": LayoutPredictor(FoundationPredictor(checkpoint=surya_settings.LAYOUT_MODEL_CHECKPOINT, attention_implementation=attention_implementation, device=device, dtype=dtype)),
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/__init__.py", line 113, in __init__
+    super().__init__(checkpoint, device, dtype, attention_implementation)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/common/predictor.py", line 37, in __init__
+    self.model = loader.model(device, dtype, attention_implementation)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/loader.py", line 71, in model
+    ).to(device)
+      ^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4343, in to
+    return super().to(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1383, in to
+    return self._apply(convert)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 964, in _apply
+    param_applied = fn(param)
+                    ^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1369, in convert
+    return t.to(
+           ^^^^^
+RuntimeError: invalid low watermark ratio 1.4
+  ✗ FAILED: Meet the Developer Group Trying to Break the Mental Health Stigma in Tech
+[10/27] Converting: Mental Health in Open Source  (22:45:27)
+Traceback (most recent call last):
+  File "/Users/shoaib/.local/bin/marker_single", line 10, in <module>
+    sys.exit(convert_single_cli())
+             ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1524, in __call__
+    return self.main(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1445, in main
+    rv = self.invoke(ctx)
+         ^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1308, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 877, in invoke
+    return callback(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/scripts/convert_single.py", line 26, in convert_single_cli
+    models = create_model_dict()
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/models.py", line 20, in create_model_dict
+    "layout_model": LayoutPredictor(FoundationPredictor(checkpoint=surya_settings.LAYOUT_MODEL_CHECKPOINT, attention_implementation=attention_implementation, device=device, dtype=dtype)),
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/__init__.py", line 113, in __init__
+    super().__init__(checkpoint, device, dtype, attention_implementation)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/common/predictor.py", line 37, in __init__
+    self.model = loader.model(device, dtype, attention_implementation)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/loader.py", line 71, in model
+    ).to(device)
+      ^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4343, in to
+    return super().to(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1383, in to
+    return self._apply(convert)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 964, in _apply
+    param_applied = fn(param)
+                    ^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1369, in convert
+    return t.to(
+           ^^^^^
+RuntimeError: invalid low watermark ratio 1.4
+  ✗ FAILED: Mental Health in Open Source
+[11/27] Converting: Mental Health of Developers in the Open Source Landscape  (22:45:30)
+Traceback (most recent call last):
+  File "/Users/shoaib/.local/bin/marker_single", line 10, in <module>
+    sys.exit(convert_single_cli())
+             ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1524, in __call__
+    return self.main(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1445, in main
+    rv = self.invoke(ctx)
+         ^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1308, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 877, in invoke
+    return callback(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/scripts/convert_single.py", line 26, in convert_single_cli
+    models = create_model_dict()
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/models.py", line 20, in create_model_dict
+    "layout_model": LayoutPredictor(FoundationPredictor(checkpoint=surya_settings.LAYOUT_MODEL_CHECKPOINT, attention_implementation=attention_implementation, device=device, dtype=dtype)),
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/__init__.py", line 113, in __init__
+    super().__init__(checkpoint, device, dtype, attention_implementation)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/common/predictor.py", line 37, in __init__
+    self.model = loader.model(device, dtype, attention_implementation)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/loader.py", line 71, in model
+    ).to(device)
+      ^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4343, in to
+    return super().to(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1383, in to
+    return self._apply(convert)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 964, in _apply
+    param_applied = fn(param)
+                    ^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1369, in convert
+    return t.to(
+           ^^^^^
+RuntimeError: invalid low watermark ratio 1.4
+  ✗ FAILED: Mental Health of Developers in the Open Source Landscape
+[12/27] Converting: Open Source and Mental Health Reddit Discussion Rust Community  (22:45:33)
+Traceback (most recent call last):
+  File "/Users/shoaib/.local/bin/marker_single", line 10, in <module>
+    sys.exit(convert_single_cli())
+             ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1524, in __call__
+    return self.main(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1445, in main
+    rv = self.invoke(ctx)
+         ^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1308, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 877, in invoke
+    return callback(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/scripts/convert_single.py", line 26, in convert_single_cli
+    models = create_model_dict()
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/models.py", line 20, in create_model_dict
+    "layout_model": LayoutPredictor(FoundationPredictor(checkpoint=surya_settings.LAYOUT_MODEL_CHECKPOINT, attention_implementation=attention_implementation, device=device, dtype=dtype)),
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/__init__.py", line 113, in __init__
+    super().__init__(checkpoint, device, dtype, attention_implementation)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/common/predictor.py", line 37, in __init__
+    self.model = loader.model(device, dtype, attention_implementation)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/loader.py", line 71, in model
+    ).to(device)
+      ^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4343, in to
+    return super().to(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1383, in to
+    return self._apply(convert)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 964, in _apply
+    param_applied = fn(param)
+                    ^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1369, in convert
+    return t.to(
+           ^^^^^
+RuntimeError: invalid low watermark ratio 1.4
+  ✗ FAILED: Open Source and Mental Health Reddit Discussion Rust Community
+[13/27] Converting: Open Source and Mental Health Redox OS  (22:45:35)
+Traceback (most recent call last):
+  File "/Users/shoaib/.local/bin/marker_single", line 10, in <module>
+    sys.exit(convert_single_cli())
+             ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1524, in __call__
+    return self.main(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1445, in main
+    rv = self.invoke(ctx)
+         ^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1308, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 877, in invoke
+    return callback(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/scripts/convert_single.py", line 26, in convert_single_cli
+    models = create_model_dict()
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/models.py", line 20, in create_model_dict
+    "layout_model": LayoutPredictor(FoundationPredictor(checkpoint=surya_settings.LAYOUT_MODEL_CHECKPOINT, attention_implementation=attention_implementation, device=device, dtype=dtype)),
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/__init__.py", line 113, in __init__
+    super().__init__(checkpoint, device, dtype, attention_implementation)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/common/predictor.py", line 37, in __init__
+    self.model = loader.model(device, dtype, attention_implementation)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/loader.py", line 71, in model
+    ).to(device)
+      ^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4343, in to
+    return super().to(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1383, in to
+    return self._apply(convert)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 964, in _apply
+    param_applied = fn(param)
+                    ^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1369, in convert
+    return t.to(
+           ^^^^^
+RuntimeError: invalid low watermark ratio 1.4
+  ✗ FAILED: Open Source and Mental Health Redox OS
+[14/27] Converting: Open Source Articles Research Spreadsheet  (22:45:38)
+Traceback (most recent call last):
+  File "/Users/shoaib/.local/bin/marker_single", line 10, in <module>
+    sys.exit(convert_single_cli())
+             ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1524, in __call__
+    return self.main(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1445, in main
+    rv = self.invoke(ctx)
+         ^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1308, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 877, in invoke
+    return callback(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/scripts/convert_single.py", line 26, in convert_single_cli
+    models = create_model_dict()
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/models.py", line 20, in create_model_dict
+    "layout_model": LayoutPredictor(FoundationPredictor(checkpoint=surya_settings.LAYOUT_MODEL_CHECKPOINT, attention_implementation=attention_implementation, device=device, dtype=dtype)),
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/__init__.py", line 113, in __init__
+    super().__init__(checkpoint, device, dtype, attention_implementation)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/common/predictor.py", line 37, in __init__
+    self.model = loader.model(device, dtype, attention_implementation)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/loader.py", line 71, in model
+    ).to(device)
+      ^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4343, in to
+    return super().to(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1383, in to
+    return self._apply(convert)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 964, in _apply
+    param_applied = fn(param)
+                    ^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1369, in convert
+    return t.to(
+           ^^^^^
+RuntimeError: invalid low watermark ratio 1.4
+  ✗ FAILED: Open Source Articles Research Spreadsheet
+[15/27] Converting: Open Source Maintainers Are Really Feeling the Squeeze  (22:45:41)
+Traceback (most recent call last):
+  File "/Users/shoaib/.local/bin/marker_single", line 10, in <module>
+    sys.exit(convert_single_cli())
+             ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1524, in __call__
+    return self.main(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1445, in main
+    rv = self.invoke(ctx)
+         ^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 1308, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/click/core.py", line 877, in invoke
+    return callback(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/scripts/convert_single.py", line 26, in convert_single_cli
+    models = create_model_dict()
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/marker/models.py", line 20, in create_model_dict
+    "layout_model": LayoutPredictor(FoundationPredictor(checkpoint=surya_settings.LAYOUT_MODEL_CHECKPOINT, attention_implementation=attention_implementation, device=device, dtype=dtype)),
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/__init__.py", line 113, in __init__
+    super().__init__(checkpoint, device, dtype, attention_implementation)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/common/predictor.py", line 37, in __init__
+    self.model = loader.model(device, dtype, attention_implementation)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/surya/foundation/loader.py", line 71, in model
+    ).to(device)
+      ^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4343, in to
+    return super().to(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1383, in to
+    return self._apply(convert)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 933, in _apply
+    module._apply(fn)
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 964, in _apply
+    param_applied = fn(param)
+                    ^^^^^^^^^
+  File "/Users/shoaib/.local/share/uv/tools/marker-pdf/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1369, in convert
+    return t.to(
+           ^^^^^
+RuntimeError: invalid low watermark ratio 1.4
+  ✗ FAILED: Open Source Maintainers Are Really Feeling the Squeeze
+[16/27] Converting: Open Source Maintainers Owe You Nothing  (22:45:44)
+=== Conversion started at Thu 18 Jun 2026 22:47:46 NZST ===
+Total pending: 26
+[1/26] Converting: Developers Are Burned Out Quitting Their Jobs and Creating a Crisis for Recruiters  (22:47:46)
+2026-06-18 22:47:52,080 [WARNING] surya: `TableRecEncoderDecoderModel` is not compatible with mps backend. Defaulting to cpu instead
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:  17%|█▋        | 1/6 [00:33<02:45, 33.01s/it]Recognizing Layout:  33%|███▎      | 2/6 [00:33<00:55, 13.75s/it]Recognizing Layout:  67%|██████▋   | 4/6 [00:33<00:10,  5.17s/it]Recognizing Layout: 100%|██████████| 6/6 [00:33<00:00,  2.76s/it]Recognizing Layout: 100%|██████████| 6/6 [00:33<00:00,  5.59s/it]
+Running OCR Error Detection:   0%|          | 0/2 [00:00<?, ?it/s]Running OCR Error Detection:  50%|█████     | 1/2 [00:00<00:00,  2.57it/s]Running OCR Error Detection: 100%|██████████| 2/2 [00:00<00:00,  3.14it/s]Running OCR Error Detection: 100%|██████████| 2/2 [00:00<00:00,  3.04it/s]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+2026-06-18 22:48:27,841 [INFO] marker: Saved markdown to /Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH/Papers_Data/Articles/MD/Developers Are Burned Out Quitting Their Jobs and Creating a Crisis for Recruiters
+2026-06-18 22:48:27,841 [INFO] marker: Total time: 35.033549070358276
+  ✓ Done: Developers Are Burned Out Quitting Their Jobs and Creating a Crisis for Recruiters
+[2/26] Converting: How I Recognize And Prevent Burnout In Open Source  (22:48:28)
+2026-06-18 22:48:34,402 [WARNING] surya: `TableRecEncoderDecoderModel` is not compatible with mps backend. Defaulting to cpu instead
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:  14%|█▍        | 1/7 [00:36<03:36, 36.14s/it]Recognizing Layout:  43%|████▎     | 3/7 [00:42<00:46, 11.61s/it]Recognizing Layout:  57%|█████▋    | 4/7 [00:42<00:23,  7.68s/it]Recognizing Layout:  71%|███████▏  | 5/7 [00:42<00:10,  5.18s/it]Recognizing Layout:  86%|████████▌ | 6/7 [00:42<00:03,  3.56s/it]Recognizing Layout: 100%|██████████| 7/7 [00:42<00:00,  2.49s/it]Recognizing Layout: 100%|██████████| 7/7 [00:42<00:00,  6.12s/it]
+Running OCR Error Detection:   0%|          | 0/2 [00:00<?, ?it/s]Running OCR Error Detection:  50%|█████     | 1/2 [00:00<00:00,  8.85it/s]Running OCR Error Detection: 100%|██████████| 2/2 [00:00<00:00, 10.83it/s]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+2026-06-18 22:49:18,942 [INFO] marker: Saved markdown to /Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH/Papers_Data/Articles/MD/How I Recognize And Prevent Burnout In Open Source
+2026-06-18 22:49:18,942 [INFO] marker: Total time: 43.83195900917053
+  ✓ Done: How I Recognize And Prevent Burnout In Open Source
+[3/26] Converting: How Open Source Maintainers Keep Contributors and Themselves Happy  (22:49:19)
+2026-06-18 22:49:25,907 [WARNING] surya: `TableRecEncoderDecoderModel` is not compatible with mps backend. Defaulting to cpu instead
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Recognizing Layout:   9%|▉         | 1/11 [00:31<05:17, 31.78s/it]Recognizing Layout:  18%|█▊        | 2/11 [00:32<02:00, 13.34s/it]Recognizing Layout:  36%|███▋      | 4/11 [00:47<01:08,  9.78s/it]Recognizing Layout:  45%|████▌     | 5/11 [00:47<00:40,  6.80s/it]Recognizing Layout:  64%|██████▎   | 7/11 [00:58<00:24,  6.07s/it]Recognizing Layout:  82%|████████▏ | 9/11 [00:58<00:07,  3.69s/it]Recognizing Layout:  91%|█████████ | 10/11 [00:58<00:02,  2.89s/it]Recognizing Layout: 100%|██████████| 11/11 [00:59<00:00,  2.45s/it]Recognizing Layout: 100%|██████████| 11/11 [00:59<00:00,  5.42s/it]
+Running OCR Error Detection:   0%|          | 0/3 [00:00<?, ?it/s]Running OCR Error Detection:  33%|███▎      | 1/3 [00:00<00:00,  2.10it/s]Running OCR Error Detection: 100%|██████████| 3/3 [00:00<00:00,  5.50it/s]Running OCR Error Detection: 100%|██████████| 3/3 [00:00<00:00,  4.74it/s]
+Detecting bboxes:   0%|          | 0/1 [00:00<?, ?it/s]Detecting bboxes: 100%|██████████| 1/1 [00:00<00:00,  1.78it/s]Detecting bboxes: 100%|██████████| 1/1 [00:00<00:00,  1.78it/s]
+Recognizing Text:   0%|          | 0/9 [00:00<?, ?it/s]Recognizing Text:  11%|█         | 1/9 [00:13<01:49, 13.66s/it]Recognizing Text:  22%|██▏       | 2/9 [00:15<00:47,  6.83s/it]Recognizing Text:  33%|███▎      | 3/9 [00:21<00:37,  6.20s/it]Recognizing Text:  44%|████▍     | 4/9 [00:34<00:44,  8.84s/it]Recognizing Text:  56%|█████▌    | 5/9 [01:49<02:11, 32.99s/it]Recognizing Text:  67%|██████▋   | 6/9 [01:53<01:08, 22.86s/it]Recognizing Text:  78%|███████▊  | 7/9 [01:58<00:34, 17.17s/it]Recognizing Text:  89%|████████▉ | 8/9 [02:08<00:14, 14.86s/it]Recognizing Text: 100%|██████████| 9/9 [02:33<00:00, 18.05s/it]Recognizing Text: 100%|██████████| 9/9 [02:33<00:00, 17.05s/it]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+2026-06-18 22:53:02,633 [INFO] marker: Saved markdown to /Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH/Papers_Data/Articles/MD/How Open Source Maintainers Keep Contributors and Themselves Happy
+2026-06-18 22:53:02,633 [INFO] marker: Total time: 216.0733778476715
+  ✓ Done: How Open Source Maintainers Keep Contributors and Themselves Happy
+[4/26] Converting: Intel Survey Finds Maintainer Burnout and Documentation Top Open-Source Challenges  (22:53:03)
+2026-06-18 22:53:09,933 [WARNING] surya: `TableRecEncoderDecoderModel` is not compatible with mps backend. Defaulting to cpu instead
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Recognizing Layout:  25%|██▌       | 1/4 [00:23<01:09, 23.30s/it]Recognizing Layout:  50%|█████     | 2/4 [00:23<00:19,  9.66s/it]Recognizing Layout:  75%|███████▌  | 3/4 [00:23<00:05,  5.38s/it]Recognizing Layout: 100%|██████████| 4/4 [00:23<00:00,  5.92s/it]
+Running OCR Error Detection:   0%|          | 0/1 [00:00<?, ?it/s]Running OCR Error Detection: 100%|██████████| 1/1 [00:00<00:00,  4.13it/s]Running OCR Error Detection: 100%|██████████| 1/1 [00:00<00:00,  4.13it/s]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+Recognizing tables:   0%|          | 0/1 [00:00<?, ?it/s]Recognizing tables: 100%|██████████| 1/1 [00:02<00:00,  2.09s/it]Recognizing tables: 100%|██████████| 1/1 [00:02<00:00,  2.09s/it]
+Detecting bboxes:   0%|          | 0/1 [00:00<?, ?it/s]Detecting bboxes: 100%|██████████| 1/1 [00:00<00:00,  3.51it/s]Detecting bboxes: 100%|██████████| 1/1 [00:00<00:00,  3.51it/s]
+Recognizing Text:   0%|          | 0/31 [00:00<?, ?it/s]Recognizing Text:   3%|▎         | 1/31 [00:09<04:43,  9.46s/it]Recognizing Text:   6%|▋         | 2/31 [00:10<02:18,  4.77s/it]Recognizing Text:  13%|█▎        | 4/31 [00:11<00:52,  1.93s/it]Recognizing Text:  52%|█████▏    | 16/31 [00:12<00:05,  2.73it/s]Recognizing Text:  55%|█████▍    | 17/31 [00:18<00:12,  1.15it/s]Recognizing Text:  61%|██████▏   | 19/31 [00:18<00:08,  1.36it/s]Recognizing Text:  65%|██████▍   | 20/31 [00:21<00:10,  1.01it/s]Recognizing Text:  68%|██████▊   | 21/31 [00:22<00:09,  1.02it/s]Recognizing Text:  71%|███████   | 22/31 [00:23<00:08,  1.04it/s]Recognizing Text:  74%|███████▍  | 23/31 [00:23<00:06,  1.17it/s]Recognizing Text:  77%|███████▋  | 24/31 [00:24<00:05,  1.31it/s]Recognizing Text:  81%|████████  | 25/31 [00:24<00:04,  1.24it/s]Recognizing Text:  87%|████████▋ | 27/31 [00:25<00:02,  1.51it/s]Recognizing Text:  90%|█████████ | 28/31 [00:27<00:02,  1.22it/s]Recognizing Text:  94%|█████████▎| 29/31 [00:27<00:01,  1.37it/s]Recognizing Text: 100%|██████████| 31/31 [00:44<00:00,  3.98s/it]Recognizing Text: 100%|██████████| 31/31 [00:44<00:00,  1.45s/it]
+2026-06-18 22:54:23,085 [INFO] marker: Saved markdown to /Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH/Papers_Data/Articles/MD/Intel Survey Finds Maintainer Burnout and Documentation Top Open-Source Challenges
+2026-06-18 22:54:23,085 [INFO] marker: Total time: 72.36467790603638
+  ✓ Done: Intel Survey Finds Maintainer Burnout and Documentation Top Open-Source Challenges
+[5/26] Converting: LaunchDarkly Release Assurance Why Innovative Software Delivery Starts with Trust and Psychological Safety  (22:54:23)
+2026-06-18 22:54:30,221 [WARNING] surya: `TableRecEncoderDecoderModel` is not compatible with mps backend. Defaulting to cpu instead
+Recognizing Layout:   0%|          | 0/26 [00:00<?, ?it/s]Recognizing Layout:   4%|▍         | 1/26 [00:28<11:44, 28.19s/it]Recognizing Layout:   8%|▊         | 2/26 [00:28<04:42, 11.77s/it]Recognizing Layout:  12%|█▏        | 3/26 [00:37<04:06, 10.74s/it]Recognizing Layout:  15%|█▌        | 4/26 [00:38<02:24,  6.55s/it]Recognizing Layout:  19%|█▉        | 5/26 [00:47<02:37,  7.50s/it]Recognizing Layout:  23%|██▎       | 6/26 [00:47<01:39,  4.99s/it]Recognizing Layout:  27%|██▋       | 7/26 [00:57<02:05,  6.62s/it]Recognizing Layout:  35%|███▍      | 9/26 [01:07<01:39,  5.86s/it]Recognizing Layout:  46%|████▌     | 12/26 [01:21<01:12,  5.20s/it]Recognizing Layout:  50%|█████     | 13/26 [01:21<00:54,  4.21s/it]Recognizing Layout:  54%|█████▍    | 14/26 [01:31<01:05,  5.45s/it]Recognizing Layout:  62%|██████▏   | 16/26 [01:40<00:51,  5.16s/it]Recognizing Layout:  65%|██████▌   | 17/26 [01:40<00:36,  4.08s/it]Recognizing Layout:  69%|██████▉   | 18/26 [01:50<00:42,  5.34s/it]Recognizing Layout:  73%|███████▎  | 19/26 [01:50<00:28,  4.03s/it]Recognizing Layout:  81%|████████  | 21/26 [02:05<00:27,  5.49s/it]Recognizing Layout:  85%|████████▍ | 22/26 [02:05<00:17,  4.29s/it]Recognizing Layout:  96%|█████████▌| 25/26 [02:05<00:02,  2.19s/it]Recognizing Layout: 100%|██████████| 26/26 [02:05<00:00,  1.80s/it]Recognizing Layout: 100%|██████████| 26/26 [02:05<00:00,  4.84s/it]
+Running OCR Error Detection:   0%|          | 0/7 [00:00<?, ?it/s]Running OCR Error Detection:  14%|█▍        | 1/7 [00:00<00:05,  1.09it/s]Running OCR Error Detection:  43%|████▎     | 3/7 [00:01<00:01,  3.63it/s]Running OCR Error Detection:  71%|███████▏  | 5/7 [00:01<00:00,  6.24it/s]Running OCR Error Detection: 100%|██████████| 7/7 [00:01<00:00,  5.73it/s]
+Detecting bboxes:   0%|          | 0/1 [00:00<?, ?it/s]Detecting bboxes: 100%|██████████| 1/1 [00:00<00:00,  3.18it/s]Detecting bboxes: 100%|██████████| 1/1 [00:00<00:00,  3.18it/s]
+Recognizing Text:   0%|          | 0/3 [00:00<?, ?it/s]Recognizing Text:  33%|███▎      | 1/3 [00:03<00:07,  3.67s/it]Recognizing Text:  67%|██████▋   | 2/3 [00:03<00:01,  1.61s/it]Recognizing Text: 100%|██████████| 3/3 [00:08<00:00,  3.12s/it]Recognizing Text: 100%|██████████| 3/3 [00:08<00:00,  2.92s/it]
+Recognizing tables:   0%|          | 0/3 [00:00<?, ?it/s]Recognizing tables:  33%|███▎      | 1/3 [00:05<00:10,  5.06s/it]Recognizing tables:  67%|██████▋   | 2/3 [00:07<00:03,  3.53s/it]Recognizing tables: 100%|██████████| 3/3 [00:09<00:00,  2.81s/it]Recognizing tables: 100%|██████████| 3/3 [00:09<00:00,  3.15s/it]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+2026-06-18 22:57:02,106 [INFO] marker: Saved markdown to /Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH/Papers_Data/Articles/MD/LaunchDarkly Release Assurance Why Innovative Software Delivery Starts with Trust and Psychological Safety
+2026-06-18 22:57:02,106 [INFO] marker: Total time: 151.18304991722107
+  ✓ Done: LaunchDarkly Release Assurance Why Innovative Software Delivery Starts with Trust and Psychological Safety
+[6/26] Converting: Maintainer Month Enhancing Support for Open Source Maintainers  (22:57:03)
+2026-06-18 22:57:09,181 [WARNING] surya: `TableRecEncoderDecoderModel` is not compatible with mps backend. Defaulting to cpu instead
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:  14%|█▍        | 1/7 [00:31<03:09, 31.60s/it]Recognizing Layout:  29%|██▊       | 2/7 [00:31<01:05, 13.09s/it]Recognizing Layout:  43%|████▎     | 3/7 [00:37<00:38,  9.59s/it]Recognizing Layout:  71%|███████▏  | 5/7 [00:37<00:08,  4.32s/it]Recognizing Layout:  86%|████████▌ | 6/7 [00:37<00:03,  3.12s/it]Recognizing Layout: 100%|██████████| 7/7 [00:38<00:00,  2.33s/it]Recognizing Layout: 100%|██████████| 7/7 [00:38<00:00,  5.47s/it]
+Running OCR Error Detection:   0%|          | 0/2 [00:00<?, ?it/s]Running OCR Error Detection:  50%|█████     | 1/2 [00:00<00:00,  2.35it/s]Running OCR Error Detection: 100%|██████████| 2/2 [00:00<00:00,  4.08it/s]
+Detecting bboxes:   0%|          | 0/1 [00:00<?, ?it/s]Detecting bboxes: 100%|██████████| 1/1 [00:00<00:00,  1.66it/s]Detecting bboxes: 100%|██████████| 1/1 [00:00<00:00,  1.66it/s]
+Recognizing Text:   0%|          | 0/19 [00:00<?, ?it/s]Recognizing Text:   5%|▌         | 1/19 [00:06<02:04,  6.94s/it]Recognizing Text:  11%|█         | 2/19 [00:07<00:53,  3.13s/it]Recognizing Text:  16%|█▌        | 3/19 [00:08<00:35,  2.24s/it]Recognizing Text:  21%|██        | 4/19 [00:09<00:25,  1.73s/it]Recognizing Text:  26%|██▋       | 5/19 [00:10<00:19,  1.39s/it]Recognizing Text:  37%|███▋      | 7/19 [00:12<00:16,  1.35s/it]Recognizing Text:  42%|████▏     | 8/19 [00:13<00:11,  1.05s/it]Recognizing Text:  47%|████▋     | 9/19 [00:13<00:08,  1.21it/s]Recognizing Text:  53%|█████▎    | 10/19 [00:15<00:11,  1.32s/it]Recognizing Text:  68%|██████▊   | 13/19 [00:22<00:10,  1.81s/it]Recognizing Text:  74%|███████▎  | 14/19 [00:24<00:08,  1.72s/it]Recognizing Text:  79%|███████▉  | 15/19 [00:24<00:05,  1.38s/it]Recognizing Text:  84%|████████▍ | 16/19 [00:24<00:03,  1.16s/it]Recognizing Text:  89%|████████▉ | 17/19 [00:24<00:01,  1.08it/s]Recognizing Text: 100%|██████████| 19/19 [00:26<00:00,  1.21it/s]Recognizing Text: 100%|██████████| 19/19 [00:26<00:00,  1.39s/it]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+2026-06-18 22:58:16,574 [INFO] marker: Saved markdown to /Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH/Papers_Data/Articles/MD/Maintainer Month Enhancing Support for Open Source Maintainers
+2026-06-18 22:58:16,575 [INFO] marker: Total time: 66.68894910812378
+  ✓ Done: Maintainer Month Enhancing Support for Open Source Maintainers
+[7/26] Converting: Maintaining Balance for Open Source Maintainers  (22:58:17)
+2026-06-18 22:58:23,190 [WARNING] surya: `TableRecEncoderDecoderModel` is not compatible with mps backend. Defaulting to cpu instead
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:  20%|██        | 1/5 [00:26<01:47, 26.91s/it]Recognizing Layout:  40%|████      | 2/5 [00:27<00:34, 11.36s/it]Recognizing Layout:  60%|██████    | 3/5 [00:27<00:12,  6.43s/it]Recognizing Layout:  80%|████████  | 4/5 [00:28<00:03,  3.98s/it]Recognizing Layout: 100%|██████████| 5/5 [00:28<00:00,  2.71s/it]Recognizing Layout: 100%|██████████| 5/5 [00:28<00:00,  5.73s/it]
+Running OCR Error Detection:   0%|          | 0/2 [00:00<?, ?it/s]Running OCR Error Detection:  50%|█████     | 1/2 [00:00<00:00,  9.26it/s]Running OCR Error Detection: 100%|██████████| 2/2 [00:00<00:00, 14.14it/s]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+2026-06-18 22:58:53,197 [INFO] marker: Saved markdown to /Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH/Papers_Data/Articles/MD/Maintaining Balance for Open Source Maintainers
+2026-06-18 22:58:53,198 [INFO] marker: Total time: 29.325326204299927
+  ✓ Done: Maintaining Balance for Open Source Maintainers
+[8/26] Converting: Meet the Developer Group Trying to Break the Mental Health Stigma in Tech  (22:58:53)
+2026-06-18 22:58:59,799 [WARNING] surya: `TableRecEncoderDecoderModel` is not compatible with mps backend. Defaulting to cpu instead
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:  20%|██        | 1/5 [00:26<01:47, 26.92s/it]Recognizing Layout:  40%|████      | 2/5 [00:27<00:33, 11.22s/it]Recognizing Layout:  60%|██████    | 3/5 [00:27<00:12,  6.15s/it]Recognizing Layout:  80%|████████  | 4/5 [00:27<00:03,  3.81s/it]Recognizing Layout: 100%|██████████| 5/5 [00:27<00:00,  2.52s/it]Recognizing Layout: 100%|██████████| 5/5 [00:27<00:00,  5.54s/it]
+Running OCR Error Detection:   0%|          | 0/2 [00:00<?, ?it/s]Running OCR Error Detection:  50%|█████     | 1/2 [00:00<00:00,  9.22it/s]Running OCR Error Detection: 100%|██████████| 2/2 [00:00<00:00,  4.32it/s]Running OCR Error Detection: 100%|██████████| 2/2 [00:00<00:00,  4.70it/s]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+2026-06-18 22:59:29,173 [INFO] marker: Saved markdown to /Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH/Papers_Data/Articles/MD/Meet the Developer Group Trying to Break the Mental Health Stigma in Tech
+2026-06-18 22:59:29,174 [INFO] marker: Total time: 28.72227716445923
+  ✓ Done: Meet the Developer Group Trying to Break the Mental Health Stigma in Tech
+[9/26] Converting: Mental Health in Open Source  (22:59:29)
+2026-06-18 22:59:36,071 [WARNING] surya: `TableRecEncoderDecoderModel` is not compatible with mps backend. Defaulting to cpu instead
+Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]Recognizing Layout:  10%|█         | 1/10 [00:31<04:47, 31.93s/it]Recognizing Layout:  20%|██        | 2/10 [00:32<01:46, 13.31s/it]Recognizing Layout:  30%|███       | 3/10 [00:42<01:23, 11.94s/it]Recognizing Layout:  60%|██████    | 6/10 [00:53<00:25,  6.42s/it]Recognizing Layout:  70%|███████   | 7/10 [00:53<00:15,  5.04s/it]Recognizing Layout:  80%|████████  | 8/10 [00:54<00:07,  3.79s/it]Recognizing Layout:  90%|█████████ | 9/10 [00:54<00:02,  2.81s/it]Recognizing Layout: 100%|██████████| 10/10 [00:55<00:00,  2.26s/it]Recognizing Layout: 100%|██████████| 10/10 [00:55<00:00,  5.51s/it]
+Running OCR Error Detection:   0%|          | 0/3 [00:00<?, ?it/s]Running OCR Error Detection:  33%|███▎      | 1/3 [00:00<00:01,  1.41it/s]Running OCR Error Detection: 100%|██████████| 3/3 [00:00<00:00,  4.25it/s]Running OCR Error Detection: 100%|██████████| 3/3 [00:00<00:00,  3.54it/s]
+Detecting bboxes:   0%|          | 0/1 [00:00<?, ?it/s]Detecting bboxes: 100%|██████████| 1/1 [00:00<00:00,  1.18it/s]Detecting bboxes: 100%|██████████| 1/1 [00:00<00:00,  1.18it/s]
+Recognizing Text:   0%|          | 0/42 [00:00<?, ?it/s]Recognizing Text:   2%|▏         | 1/42 [00:40<27:34, 40.36s/it]Recognizing Text:   5%|▍         | 2/42 [00:40<11:17, 16.95s/it]Recognizing Text:   7%|▋         | 3/42 [00:52<09:30, 14.63s/it]Recognizing Text:  12%|█▏        | 5/42 [00:57<04:41,  7.61s/it]Recognizing Text:  14%|█▍        | 6/42 [01:00<03:49,  6.37s/it]Recognizing Text:  17%|█▋        | 7/42 [01:02<02:57,  5.07s/it]Recognizing Text:  19%|█▉        | 8/42 [01:12<03:41,  6.50s/it]Recognizing Text:  21%|██▏       | 9/42 [01:13<02:43,  4.96s/it]Recognizing Text:  24%|██▍       | 10/42 [01:18<02:33,  4.80s/it]Recognizing Text:  26%|██▌       | 11/42 [01:25<02:55,  5.65s/it]Recognizing Text:  29%|██▊       | 12/42 [01:26<02:01,  4.05s/it]Recognizing Text:  31%|███       | 13/42 [01:27<01:34,  3.26s/it]Recognizing Text:  33%|███▎      | 14/42 [01:30<01:28,  3.15s/it]Recognizing Text:  36%|███▌      | 15/42 [01:34<01:30,  3.37s/it]Recognizing Text:  38%|███▊      | 16/42 [01:34<01:05,  2.52s/it]Recognizing Text:  40%|████      | 17/42 [01:35<00:50,  2.02s/it]Recognizing Text:  43%|████▎     | 18/42 [01:35<00:35,  1.49s/it]Recognizing Text:  45%|████▌     | 19/42 [01:39<00:46,  2.04s/it]Recognizing Text:  48%|████▊     | 20/42 [01:40<00:40,  1.84s/it]Recognizing Text:  52%|█████▏    | 22/42 [01:41<00:25,  1.28s/it]Recognizing Text:  55%|█████▍    | 23/42 [01:42<00:19,  1.03s/it]Recognizing Text:  57%|█████▋    | 24/42 [01:42<00:16,  1.10it/s]Recognizing Text:  60%|█████▉    | 25/42 [01:43<00:13,  1.24it/s]Recognizing Text:  62%|██████▏   | 26/42 [01:43<00:12,  1.31it/s]Recognizing Text:  64%|██████▍   | 27/42 [01:45<00:14,  1.07it/s]Recognizing Text:  67%|██████▋   | 28/42 [01:46<00:13,  1.02it/s]Recognizing Text:  69%|██████▉   | 29/42 [01:47<00:14,  1.10s/it]Recognizing Text:  76%|███████▌  | 32/42 [01:48<00:05,  1.76it/s]Recognizing Text:  83%|████████▎ | 35/42 [01:49<00:03,  1.91it/s]Recognizing Text:  86%|████████▌ | 36/42 [01:49<00:02,  2.08it/s]Recognizing Text:  88%|████████▊ | 37/42 [01:50<00:02,  2.02it/s]Recognizing Text:  90%|█████████ | 38/42 [01:53<00:04,  1.05s/it]Recognizing Text:  95%|█████████▌| 40/42 [02:12<00:08,  4.31s/it]Recognizing Text:  98%|█████████▊| 41/42 [02:42<00:09,  9.96s/it]Recognizing Text: 100%|██████████| 42/42 [03:01<00:00, 12.12s/it]Recognizing Text: 100%|██████████| 42/42 [03:01<00:00,  4.33s/it]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+2026-06-18 23:03:37,025 [INFO] marker: Saved markdown to /Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH/Papers_Data/Articles/MD/Mental Health in Open Source
+2026-06-18 23:03:37,026 [INFO] marker: Total time: 240.2914741039276
+  ✓ Done: Mental Health in Open Source
+[10/26] Converting: Mental Health of Developers in the Open Source Landscape  (23:03:38)
+2026-06-18 23:03:44,768 [WARNING] surya: `TableRecEncoderDecoderModel` is not compatible with mps backend. Defaulting to cpu instead
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Recognizing Layout:   9%|▉         | 1/11 [00:34<05:42, 34.23s/it]Recognizing Layout:  18%|█▊        | 2/11 [00:34<02:07, 14.18s/it]Recognizing Layout:  45%|████▌     | 5/11 [00:56<00:55,  9.30s/it]Recognizing Layout:  55%|█████▍    | 6/11 [00:56<00:35,  7.01s/it]Recognizing Layout:  64%|██████▎   | 7/11 [01:03<00:27,  6.82s/it]Recognizing Layout:  73%|███████▎  | 8/11 [01:03<00:15,  5.06s/it]Recognizing Layout:  82%|████████▏ | 9/11 [01:03<00:07,  3.71s/it]Recognizing Layout:  91%|█████████ | 10/11 [01:04<00:02,  2.72s/it]Recognizing Layout: 100%|██████████| 11/11 [01:04<00:00,  1.97s/it]Recognizing Layout: 100%|██████████| 11/11 [01:04<00:00,  5.84s/it]
+Running OCR Error Detection:   0%|          | 0/3 [00:00<?, ?it/s]Running OCR Error Detection:  33%|███▎      | 1/3 [00:00<00:00,  2.44it/s]Running OCR Error Detection: 100%|██████████| 3/3 [00:00<00:00,  6.01it/s]Running OCR Error Detection: 100%|██████████| 3/3 [00:00<00:00,  5.24it/s]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+2026-06-18 23:04:51,754 [INFO] marker: Saved markdown to /Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH/Papers_Data/Articles/MD/Mental Health of Developers in the Open Source Landscape
+2026-06-18 23:04:51,755 [INFO] marker: Total time: 66.2899580001831
+  ✓ Done: Mental Health of Developers in the Open Source Landscape
+[11/26] Converting: Open Source and Mental Health Reddit Discussion Rust Community  (23:04:52)
+2026-06-18 23:04:58,605 [WARNING] surya: `TableRecEncoderDecoderModel` is not compatible with mps backend. Defaulting to cpu instead
+Recognizing Layout:   0%|          | 0/1 [00:00<?, ?it/s]Recognizing Layout: 100%|██████████| 1/1 [00:06<00:00,  6.80s/it]Recognizing Layout: 100%|██████████| 1/1 [00:06<00:00,  6.81s/it]
+Running OCR Error Detection:   0%|          | 0/1 [00:00<?, ?it/s]Running OCR Error Detection: 100%|██████████| 1/1 [00:00<00:00,  4.63it/s]Running OCR Error Detection: 100%|██████████| 1/1 [00:00<00:00,  4.62it/s]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+2026-06-18 23:05:06,494 [INFO] marker: Saved markdown to /Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH/Papers_Data/Articles/MD/Open Source and Mental Health Reddit Discussion Rust Community
+2026-06-18 23:05:06,495 [INFO] marker: Total time: 7.244160890579224
+  ✓ Done: Open Source and Mental Health Reddit Discussion Rust Community
+[12/26] Converting: Open Source and Mental Health Redox OS  (23:05:07)
+2026-06-18 23:05:14,009 [WARNING] surya: `TableRecEncoderDecoderModel` is not compatible with mps backend. Defaulting to cpu instead
+Recognizing Layout:   0%|          | 0/3 [00:00<?, ?it/s]Recognizing Layout:  33%|███▎      | 1/3 [00:18<00:37, 18.89s/it]Recognizing Layout:  67%|██████▋   | 2/3 [00:19<00:08,  8.02s/it]Recognizing Layout: 100%|██████████| 3/3 [00:19<00:00,  6.46s/it]
+Running OCR Error Detection:   0%|          | 0/1 [00:00<?, ?it/s]Running OCR Error Detection: 100%|██████████| 1/1 [00:00<00:00, 10.94it/s]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+2026-06-18 23:05:34,912 [INFO] marker: Saved markdown to /Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH/Papers_Data/Articles/MD/Open Source and Mental Health Redox OS
+2026-06-18 23:05:34,912 [INFO] marker: Total time: 20.167617082595825
+  ✓ Done: Open Source and Mental Health Redox OS
+[13/26] Converting: Open Source Articles Research Spreadsheet  (23:05:35)
+2026-06-18 23:05:41,956 [WARNING] surya: `TableRecEncoderDecoderModel` is not compatible with mps backend. Defaulting to cpu instead
+Recognizing Layout:   0%|          | 0/1 [00:00<?, ?it/s]Recognizing Layout: 100%|██████████| 1/1 [00:06<00:00,  6.95s/it]Recognizing Layout: 100%|██████████| 1/1 [00:06<00:00,  6.95s/it]
+Running OCR Error Detection:   0%|          | 0/1 [00:00<?, ?it/s]Running OCR Error Detection: 100%|██████████| 1/1 [00:00<00:00,  3.11it/s]Running OCR Error Detection: 100%|██████████| 1/1 [00:00<00:00,  3.11it/s]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+Recognizing tables:   0%|          | 0/1 [00:00<?, ?it/s]Recognizing tables: 100%|██████████| 1/1 [00:00<00:00,  1.75it/s]Recognizing tables: 100%|██████████| 1/1 [00:00<00:00,  1.75it/s]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+2026-06-18 23:05:50,664 [INFO] marker: Saved markdown to /Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH/Papers_Data/Articles/MD/Open Source Articles Research Spreadsheet
+2026-06-18 23:05:50,665 [INFO] marker: Total time: 8.032415866851807
+  ✓ Done: Open Source Articles Research Spreadsheet
+[14/26] Converting: Open Source Maintainers Are Really Feeling the Squeeze  (23:05:51)
+2026-06-18 23:05:57,501 [WARNING] surya: `TableRecEncoderDecoderModel` is not compatible with mps backend. Defaulting to cpu instead
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:  17%|█▋        | 1/6 [00:35<02:55, 35.11s/it]Recognizing Layout:  33%|███▎      | 2/6 [00:35<00:58, 14.63s/it]Recognizing Layout:  50%|█████     | 3/6 [00:35<00:24,  8.08s/it]Recognizing Layout:  67%|██████▋   | 4/6 [00:35<00:09,  4.94s/it]Recognizing Layout:  83%|████████▎ | 5/6 [00:37<00:03,  3.61s/it]Recognizing Layout: 100%|██████████| 6/6 [00:37<00:00,  2.48s/it]Recognizing Layout: 100%|██████████| 6/6 [00:37<00:00,  6.23s/it]
+Running OCR Error Detection:   0%|          | 0/2 [00:00<?, ?it/s]Running OCR Error Detection:  50%|█████     | 1/2 [00:00<00:00,  2.61it/s]Running OCR Error Detection: 100%|██████████| 2/2 [00:00<00:00,  4.54it/s]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+2026-06-18 23:06:36,889 [INFO] marker: Saved markdown to /Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH/Papers_Data/Articles/MD/Open Source Maintainers Are Really Feeling the Squeeze
+2026-06-18 23:06:36,889 [INFO] marker: Total time: 38.72266101837158
+  ✓ Done: Open Source Maintainers Are Really Feeling the Squeeze
+[15/26] Converting: Open Source Maintainers Owe You Nothing  (23:06:37)
+2026-06-18 23:06:43,609 [WARNING] surya: `TableRecEncoderDecoderModel` is not compatible with mps backend. Defaulting to cpu instead
+Recognizing Layout:   0%|          | 0/3 [00:00<?, ?it/s]Recognizing Layout:  33%|███▎      | 1/3 [00:23<00:46, 23.41s/it]Recognizing Layout: 100%|██████████| 3/3 [00:23<00:00,  7.83s/it]
+Running OCR Error Detection:   0%|          | 0/1 [00:00<?, ?it/s]Running OCR Error Detection: 100%|██████████| 1/1 [00:00<00:00,  1.26it/s]Running OCR Error Detection: 100%|██████████| 1/1 [00:00<00:00,  1.26it/s]
+Detecting bboxes:   0%|          | 0/1 [00:00<?, ?it/s]Detecting bboxes: 100%|██████████| 1/1 [00:00<00:00,  2.28it/s]Detecting bboxes: 100%|██████████| 1/1 [00:00<00:00,  2.28it/s]
+Recognizing Text:   0%|          | 0/11 [00:00<?, ?it/s]Recognizing Text:   9%|▉         | 1/11 [00:14<02:20, 14.00s/it]Recognizing Text:  27%|██▋       | 3/11 [00:16<00:35,  4.49s/it]Recognizing Text:  36%|███▋      | 4/11 [00:21<00:33,  4.83s/it]Recognizing Text:  45%|████▌     | 5/11 [00:22<00:20,  3.49s/it]Recognizing Text:  55%|█████▍    | 6/11 [00:30<00:25,  5.05s/it]Recognizing Text:  64%|██████▎   | 7/11 [00:36<00:21,  5.26s/it]Recognizing Text:  73%|███████▎  | 8/11 [01:06<00:38, 12.84s/it]Recognizing Text:  82%|████████▏ | 9/11 [01:08<00:19,  9.61s/it]Recognizing Text:  91%|█████████ | 10/11 [01:54<00:20, 20.52s/it]Recognizing Text: 100%|██████████| 11/11 [02:12<00:00, 19.89s/it]Recognizing Text: 100%|██████████| 11/11 [02:12<00:00, 12.05s/it]
+Recognizing tables:   0%|          | 0/1 [00:00<?, ?it/s]Recognizing tables: 100%|██████████| 1/1 [00:02<00:00,  2.72s/it]Recognizing tables: 100%|██████████| 1/1 [00:02<00:00,  2.72s/it]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+2026-06-18 23:09:25,351 [INFO] marker: Saved markdown to /Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH/Papers_Data/Articles/MD/Open Source Maintainers Owe You Nothing
+2026-06-18 23:09:25,353 [INFO] marker: Total time: 161.068265914917
+  ✓ Done: Open Source Maintainers Owe You Nothing
+[16/26] Converting: Open Source Maintainers Report 2023 Linux Foundation Research  (23:09:26)
+2026-06-18 23:09:32,611 [WARNING] surya: `TableRecEncoderDecoderModel` is not compatible with mps backend. Defaulting to cpu instead
+Recognizing Layout:   0%|          | 0/31 [00:00<?, ?it/s]Recognizing Layout:   3%|▎         | 1/31 [07:26<3:43:01, 446.06s/it]Recognizing Layout:   6%|▋         | 2/31 [07:27<1:29:14, 184.65s/it]Recognizing Layout:  13%|█▎        | 4/31 [35:27<4:27:57, 595.47s/it]Recognizing Layout:  16%|█▌        | 5/31 [35:27<2:58:14, 411.33s/it]Recognizing Layout:  19%|█▉        | 6/31 [43:38<3:01:35, 435.84s/it]Recognizing Layout:  23%|██▎       | 7/31 [43:39<2:01:17, 303.22s/it]Recognizing Layout:  26%|██▌       | 8/31 [54:56<2:39:40, 416.54s/it]Recognizing Layout:  29%|██▉       | 9/31 [54:56<1:46:38, 290.83s/it]Recognizing Layout:  32%|███▏      | 10/31 [1:01:19<1:51:26, 318.43s/it]Recognizing Layout:  35%|███▌      | 11/31 [1:01:21<1:14:25, 223.30s/it]Recognizing Layout:  39%|███▊      | 12/31 [1:08:27<1:29:58, 284.12s/it]Recognizing Layout:  42%|████▏     | 13/31 [1:08:27<59:37, 198.77s/it]  Recognizing Layout:  48%|████▊     | 15/31 [1:18:38<1:06:09, 248.10s/it]Recognizing Layout:  52%|█████▏    | 16/31 [1:18:39<46:40, 186.72s/it]  Recognizing Layout:  58%|█████▊    | 18/31 [1:27:02<46:16, 213.58s/it]Recognizing Layout:  61%|██████▏   | 19/31 [1:27:02<32:57, 164.82s/it]Recognizing Layout:  65%|██████▍   | 20/31 [1:29:58<30:42, 167.53s/it]Recognizing Layout:  68%|██████▊   | 21/31 [1:29:58<20:40, 124.09s/it]Recognizing Layout:  74%|███████▍  | 23/31 [1:43:17<32:12, 241.52s/it]Recognizing Layout:  77%|███████▋  | 24/31 [1:43:18<21:36, 185.24s/it]Recognizing Layout:  81%|████████  | 25/31 [1:50:07<24:07, 241.27s/it]Recognizing Layout:  84%|████████▍ | 26/31 [1:50:09<14:51, 178.25s/it]Recognizing Layout:  90%|█████████ | 28/31 [1:51:14<05:47, 115.79s/it]Recognizing Layout:  94%|█████████▎| 29/31 [1:51:15<02:57, 88.87s/it] Recognizing Layout:  97%|█████████▋| 30/31 [1:51:17<01:06, 66.91s/it]Recognizing Layout: 100%|██████████| 31/31 [1:51:20<00:00, 50.01s/it]Recognizing Layout: 100%|██████████| 31/31 [1:51:20<00:00, 215.49s/it]
+Running OCR Error Detection:   0%|          | 0/8 [00:00<?, ?it/s]Running OCR Error Detection:  12%|█▎        | 1/8 [00:18<02:10, 18.62s/it]Running OCR Error Detection:  25%|██▌       | 2/8 [00:18<00:47,  7.84s/it]Running OCR Error Detection:  38%|███▊      | 3/8 [00:19<00:21,  4.34s/it]Running OCR Error Detection:  50%|█████     | 4/8 [00:19<00:10,  2.69s/it]Running OCR Error Detection:  62%|██████▎   | 5/8 [00:19<00:05,  1.84s/it]Running OCR Error Detection:  75%|███████▌  | 6/8 [00:19<00:02,  1.28s/it]Running OCR Error Detection:  88%|████████▊ | 7/8 [00:19<00:00,  1.11it/s]Running OCR Error Detection: 100%|██████████| 8/8 [00:22<00:00,  1.30s/it]Running OCR Error Detection: 100%|██████████| 8/8 [00:22<00:00,  2.75s/it]
+Detecting bboxes:   0%|          | 0/1 [00:00<?, ?it/s]Detecting bboxes: 100%|██████████| 1/1 [00:24<00:00, 24.73s/it]Detecting bboxes: 100%|██████████| 1/1 [00:25<00:00, 25.18s/it]
+Recognizing Text:   0%|          | 0/1 [00:00<?, ?it/s]Recognizing Text: 100%|██████████| 1/1 [17:15<00:00, 1035.62s/it]Recognizing Text: 100%|██████████| 1/1 [17:15<00:00, 1035.63s/it]
+python(10434) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Recognizing tables:   0%|          | 0/1 [00:00<?, ?it/s]Recognizing tables: 100%|██████████| 1/1 [00:07<00:00,  7.27s/it]Recognizing tables: 100%|██████████| 1/1 [00:07<00:00,  7.28s/it]
+Detecting bboxes:   0%|          | 0/1 [00:00<?, ?it/s]Detecting bboxes: 100%|██████████| 1/1 [00:44<00:00, 44.12s/it]Detecting bboxes: 100%|██████████| 1/1 [00:44<00:00, 44.13s/it]
+Recognizing Text:   0%|          | 0/48 [00:00<?, ?it/s]Recognizing Text:   2%|▏         | 1/48 [01:16<1:00:00, 76.61s/it]Recognizing Text:  10%|█         | 5/48 [01:17<08:14, 11.51s/it]  Recognizing Text:  19%|█▉        | 9/48 [01:23<03:57,  6.08s/it]Recognizing Text:  21%|██        | 10/48 [01:25<03:26,  5.44s/it]Recognizing Text:  42%|████▏     | 20/48 [01:35<01:04,  2.30s/it]Recognizing Text:  44%|████▍     | 21/48 [01:35<00:57,  2.14s/it]Recognizing Text:  50%|█████     | 24/48 [01:36<00:38,  1.62s/it]Recognizing Text:  52%|█████▏    | 25/48 [01:37<00:33,  1.48s/it]Recognizing Text:  54%|█████▍    | 26/48 [01:37<00:29,  1.33s/it]Recognizing Text:  60%|██████    | 29/48 [01:37<00:16,  1.14it/s]Recognizing Text:  71%|███████   | 34/48 [01:40<00:09,  1.51it/s]Recognizing Text:  73%|███████▎  | 35/48 [01:41<00:09,  1.35it/s]Recognizing Text:  75%|███████▌  | 36/48 [01:41<00:08,  1.44it/s]Recognizing Text:  77%|███████▋  | 37/48 [01:42<00:08,  1.35it/s]Recognizing Text:  79%|███████▉  | 38/48 [01:43<00:07,  1.31it/s]Recognizing Text:  81%|████████▏ | 39/48 [01:44<00:07,  1.13it/s]Recognizing Text:  83%|████████▎ | 40/48 [01:45<00:06,  1.29it/s]Recognizing Text:  85%|████████▌ | 41/48 [01:45<00:04,  1.45it/s]Recognizing Text:  88%|████████▊ | 42/48 [01:48<00:06,  1.09s/it]Recognizing Text:  90%|████████▉ | 43/48 [01:50<00:07,  1.50s/it]Recognizing Text:  92%|█████████▏| 44/48 [01:54<00:08,  2.22s/it]Recognizing Text:  94%|█████████▍| 45/48 [01:56<00:05,  2.00s/it]Recognizing Text:  96%|█████████▌| 46/48 [01:58<00:04,  2.04s/it]Recognizing Text: 100%|██████████| 48/48 [01:58<00:00,  1.22s/it]Recognizing Text: 100%|██████████| 48/48 [01:58<00:00,  2.47s/it]
+2026-06-19 01:22:09,730 [INFO] marker: Saved markdown to /Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH/Papers_Data/Articles/MD/Open Source Maintainers Report 2023 Linux Foundation Research
+2026-06-19 01:22:09,730 [INFO] marker: Total time: 7956.405539035797
+  ✓ Done: Open Source Maintainers Report 2023 Linux Foundation Research
+[17/26] Converting: Open Source of Anxiety  (01:22:11)
+2026-06-19 01:22:24,745 [WARNING] surya: `TableRecEncoderDecoderModel` is not compatible with mps backend. Defaulting to cpu instead
+python(10569) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]Recognizing Layout:   8%|▊         | 1/12 [32:14<5:54:38, 1934.37s/it]Recognizing Layout:  17%|█▋        | 2/12 [32:14<2:12:45, 796.60s/it] Recognizing Layout:  42%|████▏     | 5/12 [38:12<36:22, 311.75s/it]  Recognizing Layout:  50%|█████     | 6/12 [38:13<23:15, 232.58s/it]Recognizing Layout:  58%|█████▊    | 7/12 [58:31<41:16, 495.22s/it]Recognizing Layout:  67%|██████▋   | 8/12 [58:31<23:54, 358.73s/it]Recognizing Layout:  92%|█████████▏| 11/12 [58:31<02:44, 164.46s/it]Recognizing Layout: 100%|██████████| 12/12 [58:33<00:00, 292.82s/it]
+Running OCR Error Detection:   0%|          | 0/3 [00:00<?, ?it/s]Running OCR Error Detection:  33%|███▎      | 1/3 [00:03<00:07,  3.93s/it]Running OCR Error Detection: 100%|██████████| 3/3 [00:04<00:00,  1.08s/it]Running OCR Error Detection: 100%|██████████| 3/3 [00:04<00:00,  1.37s/it]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+Recognizing tables:   0%|          | 0/1 [00:00<?, ?it/s]Recognizing tables: 100%|██████████| 1/1 [00:14<00:00, 14.85s/it]Recognizing tables: 100%|██████████| 1/1 [00:14<00:00, 14.85s/it]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+2026-06-19 02:21:29,782 [INFO] marker: Saved markdown to /Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH/Papers_Data/Articles/MD/Open Source of Anxiety
+2026-06-19 02:21:29,787 [INFO] marker: Total time: 3542.580887079239
+  ✓ Done: Open Source of Anxiety
+[18/26] Converting: Stronger than Fear Mental Health in the Open  (02:21:36)
+2026-06-19 02:21:55,312 [WARNING] surya: `TableRecEncoderDecoderModel` is not compatible with mps backend. Defaulting to cpu instead
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Recognizing Layout:  25%|██▌       | 1/4 [33:26<1:40:20, 2006.84s/it]Recognizing Layout:  50%|█████     | 2/4 [33:27<27:33, 826.53s/it]   Recognizing Layout:  75%|███████▌  | 3/4 [33:27<07:29, 449.21s/it]Recognizing Layout: 100%|██████████| 4/4 [33:27<00:00, 272.07s/it]Recognizing Layout: 100%|██████████| 4/4 [33:27<00:00, 501.97s/it]
+Running OCR Error Detection:   0%|          | 0/1 [00:00<?, ?it/s]Running OCR Error Detection: 100%|██████████| 1/1 [00:02<00:00,  2.58s/it]Running OCR Error Detection: 100%|██████████| 1/1 [00:02<00:00,  2.58s/it]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+2026-06-19 02:55:33,942 [INFO] marker: Saved markdown to /Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH/Papers_Data/Articles/MD/Stronger than Fear Mental Health in the Open
+2026-06-19 02:55:33,950 [INFO] marker: Total time: 2014.9691100120544
+  ✓ Done: Stronger than Fear Mental Health in the Open
+[19/26] Converting: The Dark Side of Open Source  (02:55:39)
+2026-06-19 02:55:50,741 [WARNING] surya: `TableRecEncoderDecoderModel` is not compatible with mps backend. Defaulting to cpu instead
+python(12242) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]Recognizing Layout:  10%|█         | 1/10 [43:29<6:31:28, 2609.83s/it]Recognizing Layout:  20%|██        | 2/10 [43:29<2:23:17, 1074.71s/it]Recognizing Layout:  30%|███       | 3/10 [1:28:04<3:30:37, 1805.33s/it]Recognizing Layout:  60%|██████    | 6/10 [3:23:26<2:22:30, 2137.50s/it]Recognizing Layout:  70%|███████   | 7/10 [3:23:27<1:21:16, 1625.43s/it]Recognizing Layout:  90%|█████████ | 9/10 [3:23:27<16:04, 964.87s/it]   Recognizing Layout: 100%|██████████| 10/10 [3:23:27<00:00, 1220.72s/it]
+Running OCR Error Detection:   0%|          | 0/3 [00:00<?, ?it/s]Running OCR Error Detection:  33%|███▎      | 1/3 [00:03<00:06,  3.16s/it]Running OCR Error Detection: 100%|██████████| 3/3 [00:03<00:00,  1.13it/s]Running OCR Error Detection: 100%|██████████| 3/3 [00:03<00:00,  1.11s/it]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+python(14341) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+2026-06-19 06:19:32,143 [INFO] marker: Saved markdown to /Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH/Papers_Data/Articles/MD/The Dark Side of Open Source
+2026-06-19 06:19:32,149 [INFO] marker: Total time: 12218.189429044724
+  ✓ Done: The Dark Side of Open Source
+[20/26] Converting: The Developer Crisis Mental Health Burnout and Retention  (06:19:37)
+2026-06-19 06:19:48,346 [WARNING] surya: `TableRecEncoderDecoderModel` is not compatible with mps backend. Defaulting to cpu instead
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:  17%|█▋        | 1/6 [18:58<1:34:51, 1138.37s/it]Recognizing Layout:  33%|███▎      | 2/6 [18:59<31:18, 469.62s/it]   Recognizing Layout:  67%|██████▋   | 4/6 [19:01<05:51, 175.59s/it]Recognizing Layout:  83%|████████▎ | 5/6 [19:01<02:01, 121.39s/it]Recognizing Layout: 100%|██████████| 6/6 [19:03<00:00, 84.79s/it] Recognizing Layout: 100%|██████████| 6/6 [19:03<00:00, 190.58s/it]
+Running OCR Error Detection:   0%|          | 0/2 [00:00<?, ?it/s]Running OCR Error Detection:  50%|█████     | 1/2 [00:01<00:01,  1.38s/it]Running OCR Error Detection: 100%|██████████| 2/2 [00:01<00:00,  1.38it/s]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+python(15406) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+2026-06-19 06:39:05,979 [INFO] marker: Saved markdown to /Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH/Papers_Data/Articles/MD/The Developer Crisis Mental Health Burnout and Retention
+2026-06-19 06:39:05,980 [INFO] marker: Total time: 1154.4963080883026
+  ✓ Done: The Developer Crisis Mental Health Burnout and Retention
+[21/26] Converting: The Hidden Cost of Free Why Open Source Sustainability Matters  (06:39:10)
+2026-06-19 06:39:22,326 [WARNING] surya: `TableRecEncoderDecoderModel` is not compatible with mps backend. Defaulting to cpu instead
+python(15424) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]Recognizing Layout:  10%|█         | 1/10 [13:11<1:58:45, 791.78s/it]Recognizing Layout:  20%|██        | 2/10 [13:12<43:29, 326.20s/it]  Recognizing Layout:  40%|████      | 4/10 [20:55<26:42, 267.02s/it]Recognizing Layout:  50%|█████     | 5/10 [21:02<15:32, 186.59s/it]Recognizing Layout:  60%|██████    | 6/10 [24:17<12:36, 189.07s/it]Recognizing Layout:  70%|███████   | 7/10 [24:17<06:34, 131.64s/it]Recognizing Layout:  80%|████████  | 8/10 [24:18<03:03, 91.86s/it] Recognizing Layout:  90%|█████████ | 9/10 [24:18<01:04, 64.18s/it]Recognizing Layout: 100%|██████████| 10/10 [24:18<00:00, 44.87s/it]Recognizing Layout: 100%|██████████| 10/10 [24:18<00:00, 145.87s/it]
+Running OCR Error Detection:   0%|          | 0/3 [00:00<?, ?it/s]Running OCR Error Detection:  33%|███▎      | 1/3 [00:01<00:02,  1.36s/it]Running OCR Error Detection: 100%|██████████| 3/3 [00:01<00:00,  2.40it/s]Running OCR Error Detection: 100%|██████████| 3/3 [00:01<00:00,  1.96it/s]
+Detecting bboxes:   0%|          | 0/1 [00:00<?, ?it/s]Detecting bboxes: 100%|██████████| 1/1 [00:14<00:00, 14.57s/it]Detecting bboxes: 100%|██████████| 1/1 [00:14<00:00, 14.57s/it]
+Recognizing Text:   0%|          | 0/20 [00:00<?, ?it/s]Recognizing Text:   5%|▌         | 1/20 [02:04<39:23, 124.41s/it]Recognizing Text:  10%|█         | 2/20 [02:06<15:43, 52.44s/it] Recognizing Text:  20%|██        | 4/20 [02:06<05:15, 19.73s/it]Recognizing Text:  25%|██▌       | 5/20 [03:12<08:27, 33.82s/it]Recognizing Text:  30%|███       | 6/20 [03:12<05:30, 23.62s/it]Recognizing Text:  40%|████      | 8/20 [03:13<02:32, 12.71s/it]Recognizing Text:  45%|████▌     | 9/20 [03:13<01:45,  9.59s/it]Recognizing Text:  50%|█████     | 10/20 [03:13<01:11,  7.13s/it]Recognizing Text:  55%|█████▌    | 11/20 [03:15<00:49,  5.52s/it]Recognizing Text:  65%|██████▌   | 13/20 [03:16<00:23,  3.32s/it]Recognizing Text:  70%|███████   | 14/20 [03:24<00:27,  4.54s/it]Recognizing Text:  75%|███████▌  | 15/20 [03:24<00:17,  3.45s/it]Recognizing Text:  85%|████████▌ | 17/20 [03:24<00:06,  2.05s/it]Recognizing Text:  90%|█████████ | 18/20 [03:25<00:03,  1.68s/it]Recognizing Text: 100%|██████████| 20/20 [03:28<00:00,  1.59s/it]Recognizing Text: 100%|██████████| 20/20 [03:28<00:00, 10.42s/it]
+python(17044) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Recognizing tables:   0%|          | 0/1 [00:00<?, ?it/s]Recognizing tables: 100%|██████████| 1/1 [00:09<00:00,  9.71s/it]Recognizing tables: 100%|██████████| 1/1 [00:09<00:00,  9.71s/it]
+Detecting bboxes:   0%|          | 0/1 [00:00<?, ?it/s]Detecting bboxes: 100%|██████████| 1/1 [00:42<00:00, 42.81s/it]Detecting bboxes: 100%|██████████| 1/1 [00:42<00:00, 42.83s/it]
+Recognizing Text:   0%|          | 0/9 [00:00<?, ?it/s]Recognizing Text:  11%|█         | 1/9 [02:44<21:57, 164.73s/it]Recognizing Text:  33%|███▎      | 3/9 [02:45<04:17, 42.88s/it] Recognizing Text:  56%|█████▌    | 5/9 [02:46<01:24, 21.11s/it]Recognizing Text:  67%|██████▋   | 6/9 [02:47<00:46, 15.64s/it]Recognizing Text:  89%|████████▉ | 8/9 [02:47<00:09,  9.03s/it]Recognizing Text: 100%|██████████| 9/9 [02:48<00:00,  6.97s/it]Recognizing Text: 100%|██████████| 9/9 [02:48<00:00, 18.69s/it]
+2026-06-19 07:11:19,863 [INFO] marker: Saved markdown to /Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH/Papers_Data/Articles/MD/The Hidden Cost of Free Why Open Source Sustainability Matters
+2026-06-19 07:11:19,866 [INFO] marker: Total time: 1915.1933813095093
+  ✓ Done: The Hidden Cost of Free Why Open Source Sustainability Matters
+[22/26] Converting: The Lonely Journey of Open-Source Maintainers A Call for Connection and Recognition  (07:11:31)
+2026-06-19 07:11:57,380 [WARNING] surya: `TableRecEncoderDecoderModel` is not compatible with mps backend. Defaulting to cpu instead
+python(17372) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:  12%|█▎        | 1/8 [11:23<1:19:40, 682.99s/it]Recognizing Layout:  25%|██▌       | 2/8 [11:23<28:08, 281.43s/it]  Recognizing Layout:  50%|█████     | 4/8 [14:35<11:01, 165.35s/it]Recognizing Layout:  75%|███████▌  | 6/8 [14:36<02:54, 87.36s/it] Recognizing Layout:  88%|████████▊ | 7/8 [14:37<01:05, 65.67s/it]Recognizing Layout: 100%|██████████| 8/8 [14:38<00:00, 48.53s/it]Recognizing Layout: 100%|██████████| 8/8 [14:38<00:00, 109.86s/it]
+Running OCR Error Detection:   0%|          | 0/2 [00:00<?, ?it/s]Running OCR Error Detection:  50%|█████     | 1/2 [00:02<00:02,  2.23s/it]Running OCR Error Detection: 100%|██████████| 2/2 [00:02<00:00,  1.15s/it]
+Detecting bboxes:   0%|          | 0/1 [00:00<?, ?it/s]Detecting bboxes: 100%|██████████| 1/1 [00:28<00:00, 28.47s/it]Detecting bboxes: 100%|██████████| 1/1 [00:28<00:00, 28.47s/it]
+Recognizing Text:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Text:  14%|█▍        | 1/7 [01:53<11:21, 113.60s/it]Recognizing Text:  29%|██▊       | 2/7 [01:54<03:55, 47.04s/it] Recognizing Text:  57%|█████▋    | 4/7 [01:56<00:54, 18.20s/it]Recognizing Text:  71%|███████▏  | 5/7 [02:04<00:30, 15.06s/it]Recognizing Text:  86%|████████▌ | 6/7 [02:10<00:12, 12.36s/it]Recognizing Text: 100%|██████████| 7/7 [02:13<00:00,  9.41s/it]Recognizing Text: 100%|██████████| 7/7 [02:13<00:00, 19.01s/it]
+python(18423) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+2026-06-19 07:29:36,817 [INFO] marker: Saved markdown to /Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH/Papers_Data/Articles/MD/The Lonely Journey of Open-Source Maintainers A Call for Connection and Recognition
+2026-06-19 07:29:36,821 [INFO] marker: Total time: 1050.3167748451233
+  ✓ Done: The Lonely Journey of Open-Source Maintainers A Call for Connection and Recognition
+[23/26] Converting: The Silent Crisis in Open Source When Maintainers Walk Away  (07:29:47)
+2026-06-19 07:30:00,953 [WARNING] surya: `TableRecEncoderDecoderModel` is not compatible with mps backend. Defaulting to cpu instead
+python(18471) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Recognizing Layout:  11%|█         | 1/9 [23:16<3:06:13, 1396.66s/it]Recognizing Layout:  33%|███▎      | 3/9 [51:23<1:38:40, 986.83s/it] Recognizing Layout:  56%|█████▌    | 5/9 [55:23<36:04, 541.10s/it]  Recognizing Layout:  67%|██████▋   | 6/9 [55:23<19:47, 395.92s/it]Recognizing Layout:  78%|███████▊  | 7/9 [55:24<09:32, 286.45s/it]Recognizing Layout: 100%|██████████| 9/9 [55:25<00:00, 159.92s/it]Recognizing Layout: 100%|██████████| 9/9 [55:25<00:00, 369.49s/it]
+Running OCR Error Detection:   0%|          | 0/3 [00:00<?, ?it/s]Running OCR Error Detection:  33%|███▎      | 1/3 [00:03<00:07,  3.89s/it]Running OCR Error Detection:  67%|██████▋   | 2/3 [00:04<00:01,  1.71s/it]Running OCR Error Detection: 100%|██████████| 3/3 [00:05<00:00,  1.56s/it]Running OCR Error Detection: 100%|██████████| 3/3 [00:05<00:00,  1.82s/it]
+Detecting bboxes:   0%|          | 0/1 [00:00<?, ?it/s]Detecting bboxes: 100%|██████████| 1/1 [00:17<00:00, 17.13s/it]Detecting bboxes: 100%|██████████| 1/1 [00:17<00:00, 17.13s/it]
+Recognizing Text:   0%|          | 0/27 [00:00<?, ?it/s]Recognizing Text:   4%|▎         | 1/27 [04:17<1:51:36, 257.55s/it]Recognizing Text:   7%|▋         | 2/27 [04:18<44:29, 106.77s/it]  Recognizing Text:  11%|█         | 3/27 [04:22<23:51, 59.63s/it] Recognizing Text:  15%|█▍        | 4/27 [04:22<13:54, 36.27s/it]Recognizing Text:  19%|█▊        | 5/27 [04:26<08:58, 24.50s/it]Recognizing Text:  22%|██▏       | 6/27 [04:28<05:54, 16.89s/it]Recognizing Text:  26%|██▌       | 7/27 [04:28<03:50, 11.52s/it]Recognizing Text:  30%|██▉       | 8/27 [04:30<02:35,  8.20s/it]Recognizing Text:  33%|███▎      | 9/27 [04:31<01:49,  6.11s/it]Recognizing Text:  41%|████      | 11/27 [04:33<01:00,  3.79s/it]Recognizing Text:  63%|██████▎   | 17/27 [04:35<00:14,  1.42s/it]Recognizing Text:  67%|██████▋   | 18/27 [04:35<00:11,  1.29s/it]Recognizing Text:  70%|███████   | 19/27 [04:36<00:09,  1.15s/it]Recognizing Text:  78%|███████▊  | 21/27 [04:36<00:04,  1.22it/s]Recognizing Text:  81%|████████▏ | 22/27 [04:36<00:03,  1.39it/s]Recognizing Text:  85%|████████▌ | 23/27 [04:37<00:02,  1.50it/s]Recognizing Text:  93%|█████████▎| 25/27 [04:38<00:01,  1.70it/s]Recognizing Text: 100%|██████████| 27/27 [04:38<00:00,  2.36it/s]Recognizing Text: 100%|██████████| 27/27 [04:38<00:00, 10.31s/it]
+python(21394) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+2026-06-19 08:30:35,700 [INFO] marker: Saved markdown to /Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH/Papers_Data/Articles/MD/The Silent Crisis in Open Source When Maintainers Walk Away
+2026-06-19 08:30:35,704 [INFO] marker: Total time: 3631.9898319244385
+  ✓ Done: The Silent Crisis in Open Source When Maintainers Walk Away
+[24/26] Converting: Why I Quit Open Source (2)  (08:30:46)
+2026-06-19 08:30:56,670 [WARNING] surya: `TableRecEncoderDecoderModel` is not compatible with mps backend. Defaulting to cpu instead
+python(21408) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:  17%|█▋        | 1/6 [51:28<4:17:24, 3088.81s/it]Recognizing Layout:  33%|███▎      | 2/6 [51:29<1:24:48, 1272.08s/it]Recognizing Layout:  67%|██████▋   | 4/6 [51:29<15:49, 474.58s/it]   Recognizing Layout: 100%|██████████| 6/6 [51:29<00:00, 250.45s/it]Recognizing Layout: 100%|██████████| 6/6 [51:29<00:00, 514.96s/it]
+Running OCR Error Detection:   0%|          | 0/2 [00:00<?, ?it/s]Running OCR Error Detection:  50%|█████     | 1/2 [00:02<00:02,  2.02s/it]Running OCR Error Detection: 100%|██████████| 2/2 [00:02<00:00,  1.04s/it]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+python(22635) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+2026-06-19 09:22:37,000 [INFO] marker: Saved markdown to /Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH/Papers_Data/Articles/MD/Why I Quit Open Source (2)
+2026-06-19 09:22:37,016 [INFO] marker: Total time: 3097.7963812351227
+  ✓ Done: Why I Quit Open Source (2)
+[25/26] Converting: Why I Quit Open Source  (09:22:50)
+2026-06-19 09:23:05,040 [WARNING] surya: `TableRecEncoderDecoderModel` is not compatible with mps backend. Defaulting to cpu instead
+python(22653) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:  17%|█▋        | 1/6 [29:51<2:29:15, 1791.03s/it]Recognizing Layout:  33%|███▎      | 2/6 [29:51<49:11, 737.84s/it]   Recognizing Layout:  67%|██████▋   | 4/6 [29:51<09:10, 275.29s/it]Recognizing Layout: 100%|██████████| 6/6 [29:52<00:00, 145.32s/it]Recognizing Layout: 100%|██████████| 6/6 [29:52<00:00, 298.70s/it]
+Running OCR Error Detection:   0%|          | 0/2 [00:00<?, ?it/s]Running OCR Error Detection:  50%|█████     | 1/2 [00:03<00:03,  3.48s/it]Running OCR Error Detection: 100%|██████████| 2/2 [00:03<00:00,  1.53s/it]Running OCR Error Detection: 100%|██████████| 2/2 [00:03<00:00,  1.82s/it]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+python(23862) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+2026-06-19 09:53:20,623 [INFO] marker: Saved markdown to /Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH/Papers_Data/Articles/MD/Why I Quit Open Source
+2026-06-19 09:53:20,642 [INFO] marker: Total time: 1807.5932178497314
+  ✓ Done: Why I Quit Open Source
+[26/26] Converting: Why Open-Source Developers Are Burning Out  (09:53:34)
+2026-06-19 09:53:51,323 [WARNING] surya: `TableRecEncoderDecoderModel` is not compatible with mps backend. Defaulting to cpu instead
+Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]Recognizing Layout:  10%|█         | 1/10 [1:36:29<14:28:23, 5789.22s/it]Recognizing Layout:  20%|██        | 2/10 [1:36:30<5:17:57, 2384.63s/it] Recognizing Layout:  30%|███       | 3/10 [1:59:46<3:45:33, 1933.33s/it]Recognizing Layout:  40%|████      | 4/10 [1:59:47<1:57:01, 1170.31s/it]Recognizing Layout:  50%|█████     | 5/10 [2:26:11<1:49:57, 1319.46s/it]Recognizing Layout:  70%|███████   | 7/10 [2:26:17<32:34, 651.54s/it]   Recognizing Layout:  80%|████████  | 8/10 [2:26:18<15:56, 478.25s/it]Recognizing Layout: 100%|██████████| 10/10 [2:26:20<00:00, 272.28s/it]Recognizing Layout: 100%|██████████| 10/10 [2:26:20<00:00, 878.08s/it]
+Running OCR Error Detection:   0%|          | 0/3 [00:00<?, ?it/s]Running OCR Error Detection:  33%|███▎      | 1/3 [00:01<00:03,  1.73s/it]Running OCR Error Detection: 100%|██████████| 3/3 [00:01<00:00,  1.65it/s]
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+python(26640) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Detecting bboxes: 0it [00:00, ?it/s]Detecting bboxes: 0it [00:00, ?it/s]
+2026-06-19 12:20:21,797 [INFO] marker: Saved markdown to /Users/shoaib/Documents/All_Data/Shoaib_Data/Claude/Projects/SNH/Papers_Data/Articles/MD/Why Open-Source Developers Are Burning Out
+2026-06-19 12:20:21,799 [INFO] marker: Total time: 8786.576184988022
+  ✓ Done: Why Open-Source Developers Are Burning Out
+=== Conversion finished at Fri 19 Jun 2026 12:20:34 NZST ===

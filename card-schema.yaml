@@ -1,0 +1,124 @@
+# =============================================================================
+# SNHDB Card Schema
+# =============================================================================
+# Defines the metadata card format used to index sources in the SNHDB corpus.
+# Each card is one YAML document. Multiple cards in the same file are
+# separated by a line containing only: ---
+#
+# Formatting conventions (all cards must follow these):
+#   - All string scalars are double-quoted.
+#   - `venue` and `method` use inline flow-style mappings, e.g. {key: "val"}.
+#     Do not write them as block-style (indented key: value on separate lines).
+#   - No markdown headings (#, ##) inside or around individual cards. A single
+#     "# Card Schemas - <Set Name>" heading at the very top of a file, above
+#     all cards, is the only permitted heading.
+#   - No YAML code fences (```yaml) wrapping individual cards.
+#   - Files must be saved as true markdown (mimeType text/markdown), not
+#     plain text, even though the body is YAML.
+#
+# id convention:
+#   - Slug-style, not a raw DOI: <first-author-lastname>-<year>-<short-title-slug>
+#   - Lowercase, hyphen-separated, ASCII only.
+#   - Example: "rook-2012-ambivalent-versus-problematic-social-ties"
+#   - Known issue: several existing cards use a raw DOI as the id instead
+#     (see corpus audit notes). New cards must use the slug convention.
+# =============================================================================
+
+id: "author-year-short-title-slug"          # string, required, slug-style (see above)
+title: "Full title of the source"           # string, required
+
+authors:                                    # array of strings, "Last, First" format
+  - "Last, First M."
+  - "Last, First M."
+
+year: 2024                                  # integer, publication year
+
+doi: "10.xxxx/xxxxx"                        # string or null if no DOI exists
+
+venue:                                      # inline flow-style mapping, required
+  type: "journal"                           # enum: journal | book | report | thesis |
+                                             #       conference | preprint | other
+  name: "Journal or publisher name"         # string or null
+  volume: 1                                 # integer or null
+  issue: 1                                  # integer or null
+  pages: "1-20"                             # string or null
+
+citation: "Full formatted citation string." # string, required
+
+article_type: "empirical"                   # enum: empirical | review | theory |
+                                             #       methods | methodological | theoretical
+
+method:                                      # inline flow-style mapping, required
+  design: "cross-sectional"                  # e.g. cross-sectional | longitudinal |
+                                              # longitudinal-panel | rct | review-systematic |
+                                              # qualitative | theory | textbook | design-report
+  approach: "survey"                         # e.g. survey | interview | experiment |
+                                              # secondary-data | modelling | analytical | other
+  evidence_level: "moderate"                 # enum: speculative | weak | low |
+                                              # low-to-moderate | moderate | strong |
+                                              # very-strong | reference
+  preregistered: false                       # boolean
+
+gist: >                                      # block scalar, required
+  Written from the project's design perspective, not the author's own
+  framing. Explain what this source contributes to the SNH design
+  problem, not just what the paper says about itself.
+
+claims:                                      # array, required, at least one entry
+  - text: "Verbatim or lightly-edited claim, with effect sizes/stats if given."
+    evidence: "cross-sectional"              # evidence type, matches method.design vocabulary
+    support_strength: "moderate"             # enum: speculative | weak | low | low-to-moderate |
+                                              # moderate | strong | very-strong
+    outcomes: ["outcome-slug-1", "outcome-slug-2"]
+    predictors: ["predictor-slug-1"]
+
+population:                                  # required
+  who: "Description of the sample or target population."
+  where: ["Country or region"]                # array of strings, or [] if not applicable
+  when: "Data collection period, or null"     # string or null
+  n: 100                                      # integer or null
+  sector: ["tag-1", "tag-2"]                  # array of sector/domain tags
+  sample_notes: >                             # block scalar
+    Recruitment method, response rate, demographic breakdown, and any
+    caveats about representativeness.
+
+limitation:                                   # required
+  primary: "The single most important limitation, in the author's or a
+    reasonable reviewer's own terms."
+  others:                                     # array of additional limitations
+    - "Second limitation."
+    - "Third limitation."
+
+risk_of_bias: "medium"                        # enum: low | medium | high | unclear | not-applicable
+
+relevance_to_project: >                       # block scalar, required
+  Why this source matters for the SNH design project specifically —
+  what design decision or mechanism it informs.
+
+tags:                                         # required, controlled vocabulary (see note below)
+  topic: ["topic-tag-1", "topic-tag-2"]
+  method: ["method-tag-1"]
+  population: ["population-tag-1"]
+
+source:                                       # required
+  markdown: "exact-filename-in-papers-folder.md"
+  pdf: null                                   # string filename or null
+  notes: null                                 # string or null, for provenance caveats
+
+# =============================================================================
+# Known gaps / proposed additions (not yet implemented — flagged for the
+# next schema revision, tracked separately from the fields above):
+#   - source_type / credibility_tier: card-level field distinguishing e.g.
+#     peer-reviewed journal vs. blog post vs. grey literature.
+#   - claim-level certainty/strength field distinct from support_strength,
+#     to separate "how strong is the evidence" from "how certain are we
+#     this claim is correctly extracted."
+#   - replication/consensus status marker, for lone against-the-grain
+#     findings (single-study claims that contradict the wider literature).
+#   - provenance field for claims cited at second- or third-hand.
+#   - controlled tag vocabulary: the topic/method/population tag lists
+#     above are currently free text per card; a fixed, versioned list is
+#     needed to make tags reliably filterable across the corpus.
+#   - explicit mediation/moderation model structure, so multi-path models
+#     aren't flattened into independent claims.
+# =============================================================================

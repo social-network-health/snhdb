@@ -1,0 +1,125 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Leading Teams",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          100.982421875,
+          59.3970947265625
+        ],
+        [
+          176.08079528808594,
+          59.3970947265625
+        ],
+        [
+          176.08079528808594,
+          70.798828125
+        ],
+        [
+          100.982421875,
+          70.798828125
+        ]
+      ]
+    },
+    {
+      "title": "A Study of 1,100 Employees\nFound That Remote Workers\nFeel Shunned and Left Out",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          100.109375,
+          81.89642333984375
+        ],
+        [
+          374.53741455078125,
+          81.89642333984375
+        ],
+        [
+          374.53741455078125,
+          142.605712890625
+        ],
+        [
+          100.109375,
+          142.605712890625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          228
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/A Study of 1100 Employees Found That Remote Workers Feel Shunned and Left Out - HBR 2017"
+}

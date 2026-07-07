@@ -1,0 +1,778 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Portholes: Supporting Awareness in a Distributed Work\nGroup",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.1796875,
+          67.62890625
+        ],
+        [
+          538.8671875,
+          67.62890625
+        ],
+        [
+          538.8671875,
+          109.70037841796875
+        ],
+        [
+          64.1796875,
+          109.70037841796875
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.25390625,
+          241.75390625000003
+        ],
+        [
+          99.90234375,
+          241.75390625000003
+        ],
+        [
+          99.90234375,
+          255.10076904296875
+        ],
+        [
+          50.25390625,
+          255.10076904296875
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION AND MOTIVATIONS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          48.4375,
+          552.302734375
+        ],
+        [
+          203.4375,
+          552.302734375
+        ],
+        [
+          203.4375,
+          567.5951995849609
+        ],
+        [
+          48.4375,
+          567.5951995849609
+        ]
+      ]
+    },
+    {
+      "title": "DESIGN CONSTRAINTS AND ARCHITECTIJRE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          322.3583984375,
+          346.1630859375
+        ],
+        [
+          521.1962890625,
+          346.1630859375
+        ],
+        [
+          521.1962890625,
+          357.4591979980469
+        ],
+        [
+          322.3583984375,
+          357.4591979980469
+        ]
+      ]
+    },
+    {
+      "title": "interface Requirements",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          323.86474609375,
+          506.85400390625006
+        ],
+        [
+          423.28369140625,
+          506.85400390625006
+        ],
+        [
+          423.28369140625,
+          515.8664245605469
+        ],
+        [
+          323.86474609375,
+          515.8664245605469
+        ]
+      ]
+    },
+    {
+      "title": "The Portholes Architecture",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          45.7314702308627,
+          512.6767485822306
+        ],
+        [
+          162.685546875,
+          512.6767485822306
+        ],
+        [
+          162.685546875,
+          521.56787109375
+        ],
+        [
+          45.7314702308627,
+          521.56787109375
+        ]
+      ]
+    },
+    {
+      "title": "Components",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          46.09423828125,
+          534.4130434782609
+        ],
+        [
+          102.70838396111786,
+          534.4130434782609
+        ],
+        [
+          102.70838396111786,
+          543.25146484375
+        ],
+        [
+          46.09423828125,
+          543.25146484375
+        ]
+      ]
+    },
+    {
+      "title": "Data Flow",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          308.80126953125,
+          543.4073724007562
+        ],
+        [
+          353.1069258809234,
+          543.4073724007562
+        ],
+        [
+          353.1069258809234,
+          552.54443359375
+        ],
+        [
+          308.80126953125,
+          552.54443359375
+        ]
+      ]
+    },
+    {
+      "title": "PRESENTING PORTHOLES INFORMATION",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          63.779296875,
+          206.2548828125
+        ],
+        [
+          247.220703125,
+          206.2548828125
+        ],
+        [
+          247.220703125,
+          216.0235595703125
+        ],
+        [
+          63.779296875,
+          216.0235595703125
+        ]
+      ]
+    },
+    {
+      "title": "PORTHOLES IN USE",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          328.0078125,
+          70.8271484375
+        ],
+        [
+          415.4765625,
+          70.8271484375
+        ],
+        [
+          415.4765625,
+          81.83673095703125
+        ],
+        [
+          328.0078125,
+          81.83673095703125
+        ]
+      ]
+    },
+    {
+      "title": "Initial Observations",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          330.1337890625,
+          599.69580078125
+        ],
+        [
+          413.3505859375,
+          599.69580078125
+        ],
+        [
+          413.3505859375,
+          608.4213104248047
+        ],
+        [
+          330.1337890625,
+          608.4213104248047
+        ]
+      ]
+    },
+    {
+      "title": "User Feedback",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          44.88916015625,
+          355.84326171875
+        ],
+        [
+          109.36083984375,
+          355.84326171875
+        ],
+        [
+          109.36083984375,
+          366.5831604003906
+        ],
+        [
+          44.88916015625,
+          366.5831604003906
+        ]
+      ]
+    },
+    {
+      "title": "Basic Usage",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          44.28662109375,
+          503.75634765625006
+        ],
+        [
+          97.91259765625,
+          503.75634765625006
+        ],
+        [
+          97.91259765625,
+          514.3139038085938
+        ],
+        [
+          44.28662109375,
+          514.3139038085938
+        ]
+      ]
+    },
+    {
+      "title": "Portholes as an Information Tool",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          307.59619140625,
+          128.16552734375
+        ],
+        [
+          449.19287109375,
+          128.16552734375
+        ],
+        [
+          449.19287109375,
+          138.95391845703125
+        ],
+        [
+          307.59619140625,
+          138.95391845703125
+        ]
+      ]
+    },
+    {
+      "title": "Portholes as a Community",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          307.294921875,
+          343.83984375
+        ],
+        [
+          420.572265625,
+          343.83984375
+        ],
+        [
+          420.572265625,
+          353.2738952636719
+        ],
+        [
+          307.294921875,
+          353.2738952636719
+        ]
+      ]
+    },
+    {
+      "title": "DISCUSSION: CURRENT RESULTS AND ISSUES",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          307.294921875,
+          615.27197265625
+        ],
+        [
+          512.158203125,
+          615.27197265625
+        ],
+        [
+          512.158203125,
+          625.7892608642578
+        ],
+        [
+          307.294921875,
+          625.7892608642578
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSIONS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          326.86883273164864,
+          271.414863593603
+        ],
+        [
+          394.3417569193743,
+          271.414863593603
+        ],
+        [
+          394.3417569193743,
+          281.36279296875
+        ],
+        [
+          326.86883273164864,
+          281.36279296875
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGEMENTS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          326.7099609375,
+          670.2897460018814
+        ],
+        [
+          432.57641395908547,
+          670.2897460018814
+        ],
+        [
+          432.57641395908547,
+          680.0366886171214
+        ],
+        [
+          326.7099609375,
+          680.0366886171214
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          44.4130859375,
+          171.015625
+        ],
+        [
+          105.2529296875,
+          171.015625
+        ],
+        [
+          105.2529296875,
+          180.9420166015625
+        ],
+        [
+          44.4130859375,
+          180.9420166015625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1404
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1033
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          85
+        ],
+        [
+          "Span",
+          36
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1988
+        ],
+        [
+          "Line",
+          109
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1583
+        ],
+        [
+          "Line",
+          98
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          118
+        ],
+        [
+          "Span",
+          48
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          678
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Dourish & Bly (1992) - Portholes - Supporting Awareness in a Distributed Work Group"
+}

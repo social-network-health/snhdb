@@ -1,0 +1,795 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Journal of Public Economics",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          213.0234375,
+          84.1298828125
+        ],
+        [
+          392.2890625,
+          84.1298828125
+        ],
+        [
+          392.2890625,
+          99.90374755859375
+        ],
+        [
+          213.0234375,
+          99.90374755859375
+        ]
+      ]
+    },
+    {
+      "title": "How many jobs can be done at home?\u2606",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          41.32421875,
+          165.9371337890625
+        ],
+        [
+          284.89849853515625,
+          165.9371337890625
+        ],
+        [
+          284.89849853515625,
+          181.37969970703125
+        ],
+        [
+          41.32421875,
+          181.37969970703125
+        ]
+      ]
+    },
+    {
+      "title": "article info abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          41.90625,
+          240.28131103515625
+        ],
+        [
+          271.3636474609375,
+          240.28131103515625
+        ],
+        [
+          271.3636474609375,
+          249.24761962890625
+        ],
+        [
+          41.90625,
+          249.24761962890625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          206.0390625,
+          240.37109374999997
+        ],
+        [
+          271.2265625,
+          240.37109374999997
+        ],
+        [
+          271.2265625,
+          246.57421874999997
+        ],
+        [
+          206.0390625,
+          246.57421874999997
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          41.90625,
+          386.919921875
+        ],
+        [
+          98.73908996582031,
+          386.919921875
+        ],
+        [
+          98.73908996582031,
+          395.6566162109375
+        ],
+        [
+          41.90625,
+          395.6566162109375
+        ]
+      ]
+    },
+    {
+      "title": "2. Classification of occupations",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          310.5081787109375,
+          631.4636993408203
+        ],
+        [
+          425.173828125,
+          631.4636993408203
+        ],
+        [
+          425.173828125,
+          640.0849609375
+        ],
+        [
+          310.5081787109375,
+          640.0849609375
+        ]
+      ]
+    },
+    {
+      "title": "3. Results for the United States",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          301.7207336425781,
+          184.1552734375
+        ],
+        [
+          415.7759094238281,
+          184.1552734375
+        ],
+        [
+          415.7759094238281,
+          193.37225341796875
+        ],
+        [
+          301.7207336425781,
+          193.37225341796875
+        ]
+      ]
+    },
+    {
+      "title": "4. Results for countries other than the United States",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          40.7421875,
+          433.05566406249994
+        ],
+        [
+          235.71658325195312,
+          433.05566406249994
+        ],
+        [
+          235.71658325195312,
+          442.25738525390625
+        ],
+        [
+          40.7421875,
+          442.25738525390625
+        ]
+      ]
+    },
+    {
+      "title": "5. Related literature and real-time measures",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          299.74609375,
+          451.66503906249994
+        ],
+        [
+          466.11724853515625,
+          451.66503906249994
+        ],
+        [
+          466.11724853515625,
+          463.1772155761719
+        ],
+        [
+          299.74609375,
+          463.1772155761719
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          207.78515625,
+          301.626953125
+        ],
+        [
+          392.87109375,
+          301.626953125
+        ],
+        [
+          392.87109375,
+          312.482421875
+        ],
+        [
+          207.78515625,
+          312.482421875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          201.96484375,
+          581.9306640625
+        ],
+        [
+          398.69140625,
+          581.9306640625
+        ],
+        [
+          398.69140625,
+          590.4599609375
+        ],
+        [
+          201.96484375,
+          590.4599609375
+        ]
+      ]
+    },
+    {
+      "title": "6. Conclusion",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          301.4921875,
+          172.76312255859375
+        ],
+        [
+          351.6536560058594,
+          172.76312255859375
+        ],
+        [
+          351.6536560058594,
+          180.73333740234375
+        ],
+        [
+          301.4921875,
+          180.73333740234375
+        ]
+      ]
+    },
+    {
+      "title": "Appendix A",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          31.4296875,
+          349.3134765625
+        ],
+        [
+          76.62519836425781,
+          349.3134765625
+        ],
+        [
+          76.62519836425781,
+          358.52117919921875
+        ],
+        [
+          31.4296875,
+          358.52117919921875
+        ]
+      ]
+    },
+    {
+      "title": "A.1. Mapping to international occupational codes",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          32.01171875,
+          402.0400390625
+        ],
+        [
+          200.80078125,
+          402.0400390625
+        ],
+        [
+          200.80078125,
+          410.847900390625
+        ],
+        [
+          32.01171875,
+          410.847900390625
+        ]
+      ]
+    },
+    {
+      "title": "A.2. Additional exhibits",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          32.884765625,
+          504.39160156249994
+        ],
+        [
+          111.5299301147461,
+          504.39160156249994
+        ],
+        [
+          111.5299301147461,
+          515.4448547363281
+        ],
+        [
+          32.884765625,
+          515.4448547363281
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          32.59375,
+          357.63739376770536
+        ],
+        [
+          75.06297229219143,
+          357.63739376770536
+        ],
+        [
+          75.06297229219143,
+          365.8847969782814
+        ],
+        [
+          32.59375,
+          365.8847969782814
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          244
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          404
+        ],
+        [
+          "Line",
+          127
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          151
+        ],
+        [
+          "TableCell",
+          92
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          270
+        ],
+        [
+          "TableCell",
+          227
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "TableGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          282
+        ],
+        [
+          "Line",
+          86
+        ],
+        [
+          "TableCell",
+          39
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          153
+        ],
+        [
+          "Span",
+          142
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "TableGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          61
+        ],
+        [
+          "Span",
+          57
+        ],
+        [
+          "Text",
+          24
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Dingel & Neiman (2020) - How Many Jobs Can Be Done at Home.pdf"
+}

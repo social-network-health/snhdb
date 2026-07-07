@@ -1,0 +1,129 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Remote Work",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          101.0863037109375,
+          59.3970947265625
+        ],
+        [
+          169.2581024169922,
+          59.3970947265625
+        ],
+        [
+          169.2581024169922,
+          69.88421630859375
+        ],
+        [
+          101.0863037109375,
+          69.88421630859375
+        ]
+      ]
+    },
+    {
+      "title": "Fighting Loneliness on Remote\nTeams",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          99.52734375,
+          81.89642333984375
+        ],
+        [
+          396.7784423828125,
+          81.89642333984375
+        ],
+        [
+          396.7784423828125,
+          122.3636474609375
+        ],
+        [
+          99.52734375,
+          122.3636474609375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          258
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Fighting Loneliness on Remote Teams - HBR March 2024"
+}

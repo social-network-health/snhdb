@@ -1,0 +1,1519 @@
+{
+  "table_of_contents": [
+    {
+      "title": "npg",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          557.00390625,
+          40.3203125
+        ],
+        [
+          574.46484375,
+          40.3203125
+        ],
+        [
+          574.46484375,
+          55.82812499999999
+        ],
+        [
+          557.00390625,
+          55.82812499999999
+        ]
+      ]
+    },
+    {
+      "title": "EXPERT REVIEW",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          37.531486146095716,
+          80.640625
+        ],
+        [
+          162.88664987405542,
+          80.640625
+        ],
+        [
+          162.88664987405542,
+          95.96978281397544
+        ],
+        [
+          37.531486146095716,
+          95.96978281397544
+        ]
+      ]
+    },
+    {
+      "title": "The dappled nature of causes of psychiatric illness: replacing the organic\u2013functional/hardware\u2013software dichotomy with empirically based pluralism",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.7808564231738,
+          108.55468749999999
+        ],
+        [
+          488.6599496221662,
+          108.55468749999999
+        ],
+        [
+          488.6599496221662,
+          165.93359375
+        ],
+        [
+          36.7808564231738,
+          165.93359375
+        ]
+      ]
+    },
+    {
+      "title": "Schizophrenia",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          57.62109375,
+          69.3974609375
+        ],
+        [
+          129.10831234256926,
+          69.3974609375
+        ],
+        [
+          129.10831234256926,
+          80.2247403210576
+        ],
+        [
+          57.62109375,
+          80.2247403210576
+        ]
+      ]
+    },
+    {
+      "title": "Molecular genetics",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          58.54911838790932,
+          86.84375
+        ],
+        [
+          143.37027707808562,
+          86.84375
+        ],
+        [
+          143.37027707808562,
+          96.1484375
+        ],
+        [
+          58.54911838790932,
+          96.1484375
+        ]
+      ]
+    },
+    {
+      "title": "Molecular neuroscience",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          58.494140625,
+          233.17658168083096
+        ],
+        [
+          165.13853904282115,
+          233.17658168083096
+        ],
+        [
+          165.13853904282115,
+          241.42398489140697
+        ],
+        [
+          58.494140625,
+          241.42398489140697
+        ]
+      ]
+    },
+    {
+      "title": "Systems neuroscience",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          59.29974811083123,
+          368.8838526912181
+        ],
+        [
+          157.632241813602,
+          368.8838526912181
+        ],
+        [
+          157.632241813602,
+          377.8810198300283
+        ],
+        [
+          59.29974811083123,
+          377.8810198300283
+        ]
+      ]
+    },
+    {
+      "title": "Aggregate genetic effects",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          58.494140625,
+          515.837582625118
+        ],
+        [
+          169.64231738035264,
+          515.837582625118
+        ],
+        [
+          169.64231738035264,
+          525.3271484375
+        ],
+        [
+          58.494140625,
+          525.3271484375
+        ]
+      ]
+    },
+    {
+      "title": "Other biological risk factors",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          58.54911838790932,
+          650.1650390625
+        ],
+        [
+          183.1536523929471,
+          650.1650390625
+        ],
+        [
+          183.1536523929471,
+          659.7922568460812
+        ],
+        [
+          58.54911838790932,
+          659.7922568460812
+        ]
+      ]
+    },
+    {
+      "title": "Neuropsychology",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          315.169921875,
+          69.72804532577904
+        ],
+        [
+          395.58186397984883,
+          69.72804532577904
+        ],
+        [
+          395.58186397984883,
+          79.47497639282341
+        ],
+        [
+          315.169921875,
+          79.47497639282341
+        ]
+      ]
+    },
+    {
+      "title": "Personality and cognitive/attitudinal patterns",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          316.625,
+          166.708984375
+        ],
+        [
+          519.4357682619648,
+          166.708984375
+        ],
+        [
+          519.4357682619648,
+          176.19452313503305
+        ],
+        [
+          316.625,
+          176.19452313503305
+        ]
+      ]
+    },
+    {
+      "title": "Trauma exposure",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          316.7657430730478,
+          230.9272898961284
+        ],
+        [
+          395.58186397984883,
+          230.9272898961284
+        ],
+        [
+          395.58186397984883,
+          240.6742209631728
+        ],
+        [
+          316.7657430730478,
+          240.6742209631728
+        ]
+      ]
+    },
+    {
+      "title": "Social",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          316.7657430730478,
+          295.423828125
+        ],
+        [
+          346.0403022670025,
+          295.423828125
+        ],
+        [
+          346.0403022670025,
+          303.6543909348442
+        ],
+        [
+          316.7657430730478,
+          303.6543909348442
+        ]
+      ]
+    },
+    {
+      "title": "Political",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          316.7657430730478,
+          445.46191406249994
+        ],
+        [
+          355.0478589420655,
+          445.46191406249994
+        ],
+        [
+          355.0478589420655,
+          455.85646836638335
+        ],
+        [
+          316.7657430730478,
+          455.85646836638335
+        ]
+      ]
+    },
+    {
+      "title": "Cultural",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          316.7657430730478,
+          510.59472656249994
+        ],
+        [
+          355.0478589420655,
+          510.59472656249994
+        ],
+        [
+          355.0478589420655,
+          519.1240234375
+        ],
+        [
+          316.7657430730478,
+          519.1240234375
+        ]
+      ]
+    },
+    {
+      "title": "Major depression",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          315.169921875,
+          603.5599622285174
+        ],
+        [
+          400.08564231738035,
+          603.5599622285174
+        ],
+        [
+          400.08564231738035,
+          613.3068932955618
+        ],
+        [
+          315.169921875,
+          613.3068932955618
+        ]
+      ]
+    },
+    {
+      "title": "Molecular genetic",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          314.296875,
+          619.1494140625
+        ],
+        [
+          397.0831234256927,
+          619.1494140625
+        ],
+        [
+          397.0831234256927,
+          629.8016997167139
+        ],
+        [
+          314.296875,
+          629.8016997167139
+        ]
+      ]
+    },
+    {
+      "title": "Molecular neuroscience",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          315.4609375,
+          671.8759765625
+        ],
+        [
+          423.3551637279597,
+          671.8759765625
+        ],
+        [
+          423.3551637279597,
+          681.5354107648725
+        ],
+        [
+          315.4609375,
+          681.5354107648725
+        ]
+      ]
+    },
+    {
+      "title": "Systems neuroscience",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          37.531486146095716,
+          70.1728515625
+        ],
+        [
+          136.6146095717884,
+          70.1728515625
+        ],
+        [
+          136.6146095717884,
+          78.72521246458923
+        ],
+        [
+          37.531486146095716,
+          78.72521246458923
+        ]
+      ]
+    },
+    {
+      "title": "Aggregate genetic effects",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          37.531486146095716,
+          156.70066100094428
+        ],
+        [
+          149.37531486146094,
+          156.70066100094428
+        ],
+        [
+          149.37531486146094,
+          166.44759206798867
+        ],
+        [
+          37.531486146095716,
+          166.44759206798867
+        ]
+      ]
+    },
+    {
+      "title": "Other biological risk factors",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          37.531486146095716,
+          209.7431640625
+        ],
+        [
+          162.88664987405542,
+          209.7431640625
+        ],
+        [
+          162.88664987405542,
+          219.68083097261567
+        ],
+        [
+          37.531486146095716,
+          219.68083097261567
+        ]
+      ]
+    },
+    {
+      "title": "Neuropsychology",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          37.531486146095716,
+          263.6328125
+        ],
+        [
+          115.5969773299748,
+          263.6328125
+        ],
+        [
+          115.5969773299748,
+          272.9375
+        ],
+        [
+          37.531486146095716,
+          272.9375
+        ]
+      ]
+    },
+    {
+      "title": "Personality and cognitive/attitudinal patterns",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          37.531486146095716,
+          338.8932955618508
+        ],
+        [
+          240.9521410579345,
+          338.8932955618508
+        ],
+        [
+          240.9521410579345,
+          348.92578125
+        ],
+        [
+          37.531486146095716,
+          348.92578125
+        ]
+      ]
+    },
+    {
+      "title": "Trauma exposure",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          38.28211586901763,
+          436.15722656249994
+        ],
+        [
+          117.09823677581863,
+          436.15722656249994
+        ],
+        [
+          117.09823677581863,
+          445.3597733711048
+        ],
+        [
+          38.28211586901763,
+          445.3597733711048
+        ]
+      ]
+    },
+    {
+      "title": "Social",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          37.531486146095716,
+          523.0009765625
+        ],
+        [
+          66.80604534005037,
+          523.0009765625
+        ],
+        [
+          66.80604534005037,
+          531.5302734375
+        ],
+        [
+          37.531486146095716,
+          531.5302734375
+        ]
+      ]
+    },
+    {
+      "title": "Political",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          36.958984375,
+          563.3212890625
+        ],
+        [
+          75.81360201511335,
+          563.3212890625
+        ],
+        [
+          75.81360201511335,
+          572.8196411709159
+        ],
+        [
+          36.958984375,
+          572.8196411709159
+        ]
+      ]
+    },
+    {
+      "title": "Cultural",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          37.531486146095716,
+          628.4541015625
+        ],
+        [
+          75.81360201511335,
+          628.4541015625
+        ],
+        [
+          75.81360201511335,
+          636.9833984375
+        ],
+        [
+          37.531486146095716,
+          636.9833984375
+        ]
+      ]
+    },
+    {
+      "title": "Alcohol dependence",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          37.531486146095716,
+          689.7828139754484
+        ],
+        [
+          135.8639798488665,
+          689.7828139754484
+        ],
+        [
+          135.8639798488665,
+          699.5297450424929
+        ],
+        [
+          37.531486146095716,
+          699.5297450424929
+        ]
+      ]
+    },
+    {
+      "title": "Molecular genetic",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          37.531486146095716,
+          705.9931640625
+        ],
+        [
+          118.59949622166246,
+          705.9931640625
+        ],
+        [
+          118.59949622166246,
+          715.2747875354107
+        ],
+        [
+          37.531486146095716,
+          715.2747875354107
+        ]
+      ]
+    },
+    {
+      "title": "Molecular neuroscience",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          294.216796875,
+          211.68164062499997
+        ],
+        [
+          401.58690176322415,
+          211.68164062499997
+        ],
+        [
+          401.58690176322415,
+          219.68083097261567
+        ],
+        [
+          294.216796875,
+          219.68083097261567
+        ]
+      ]
+    },
+    {
+      "title": "Systems neuroscience",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          294.5078125,
+          286.40982058545796
+        ],
+        [
+          394.08060453400503,
+          286.40982058545796
+        ],
+        [
+          394.08060453400503,
+          295.8115234375
+        ],
+        [
+          294.5078125,
+          295.8115234375
+        ]
+      ]
+    },
+    {
+      "title": "Aggregate genetic effects",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          294.99748110831234,
+          416.1189801699716
+        ],
+        [
+          406.09068010075566,
+          416.1189801699716
+        ],
+        [
+          406.09068010075566,
+          426.07714843749994
+        ],
+        [
+          294.99748110831234,
+          426.07714843749994
+        ]
+      ]
+    },
+    {
+      "title": "Neuropsychology",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          294.216796875,
+          491.09537299338996
+        ],
+        [
+          373.06297229219143,
+          491.09537299338996
+        ],
+        [
+          373.06297229219143,
+          500.84230406043434
+        ],
+        [
+          294.216796875,
+          500.84230406043434
+        ]
+      ]
+    },
+    {
+      "title": "Personality and cognitive/attitudinal patterns",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          293.92578125,
+          544.328611898017
+        ],
+        [
+          498.4181360201511,
+          544.328611898017
+        ],
+        [
+          498.4181360201511,
+          553.3257790368272
+        ],
+        [
+          293.92578125,
+          553.3257790368272
+        ]
+      ]
+    },
+    {
+      "title": "Trauma exposure",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          294.99748110831234,
+          705.9931640625
+        ],
+        [
+          373.81360201511336,
+          705.9931640625
+        ],
+        [
+          373.81360201511336,
+          715.2747875354107
+        ],
+        [
+          294.99748110831234,
+          715.2747875354107
+        ]
+      ]
+    },
+    {
+      "title": "Social",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.29974811083123,
+          144.998046875
+        ],
+        [
+          87.82367758186398,
+          144.998046875
+        ],
+        [
+          87.82367758186398,
+          152.95184135977337
+        ],
+        [
+          59.29974811083123,
+          152.95184135977337
+        ]
+      ]
+    },
+    {
+      "title": "Political",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          58.54911838790932,
+          333.6449480642115
+        ],
+        [
+          98.33249370277078,
+          333.6449480642115
+        ],
+        [
+          98.33249370277078,
+          342.6421152030217
+        ],
+        [
+          58.54911838790932,
+          342.6421152030217
+        ]
+      ]
+    },
+    {
+      "title": "Cultural",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          316.625,
+          68.97828139754485
+        ],
+        [
+          354.29722921914356,
+          68.97828139754485
+        ],
+        [
+          354.29722921914356,
+          77.97544853635505
+        ],
+        [
+          316.625,
+          77.97544853635505
+        ]
+      ]
+    },
+    {
+      "title": "Causal signatures",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          316.625,
+          200.05078125
+        ],
+        [
+          401.58690176322415,
+          200.05078125
+        ],
+        [
+          401.58690176322415,
+          209.35546875
+        ],
+        [
+          316.625,
+          209.35546875
+        ]
+      ]
+    },
+    {
+      "title": "Concerns and comments",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          37.83203125,
+          634.6572265625
+        ],
+        [
+          153.69151306152344,
+          634.6572265625
+        ],
+        [
+          153.69151306152344,
+          645.4657592773438
+        ],
+        [
+          37.83203125,
+          645.4657592773438
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          37.541015625,
+          470.27441406249994
+        ],
+        [
+          84.25020599365234,
+          470.27441406249994
+        ],
+        [
+          84.25020599365234,
+          481.0563659667969
+        ],
+        [
+          37.541015625,
+          481.0563659667969
+        ]
+      ]
+    },
+    {
+      "title": "Conflict of interest",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          38.4140625,
+          712.1962890625
+        ],
+        [
+          125.87393951416016,
+          712.1962890625
+        ],
+        [
+          125.87393951416016,
+          722.1712646484375
+        ],
+        [
+          38.4140625,
+          722.1712646484375
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgments",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          295.8801574707031,
+          69.3974609375
+        ],
+        [
+          383.55859375,
+          69.3974609375
+        ],
+        [
+          383.55859375,
+          81.4847412109375
+        ],
+        [
+          295.8801574707031,
+          81.4847412109375
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          293.634765625,
+          173.2998046875
+        ],
+        [
+          346.408447265625,
+          173.2998046875
+        ],
+        [
+          346.408447265625,
+          183.70208740234375
+        ],
+        [
+          293.634765625,
+          183.70208740234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          91
+        ],
+        [
+          "Span",
+          41
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          133
+        ],
+        [
+          "Span",
+          56
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          259
+        ],
+        [
+          "Line",
+          126
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          141
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "SectionHeader",
+          15
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          144
+        ],
+        [
+          "Span",
+          64
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "SectionHeader",
+          17
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          117
+        ],
+        [
+          "Span",
+          73
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          276
+        ],
+        [
+          "Line",
+          124
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          253
+        ],
+        [
+          "Line",
+          125
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          358
+        ],
+        [
+          "Line",
+          130
+        ],
+        [
+          "ListItem",
+          23
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          588
+        ],
+        [
+          "Line",
+          152
+        ],
+        [
+          "ListItem",
+          49
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          604
+        ],
+        [
+          "Line",
+          152
+        ],
+        [
+          "ListItem",
+          46
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          304
+        ],
+        [
+          "Line",
+          81
+        ],
+        [
+          "ListItem",
+          27
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/The Dappled Nature of Causes of Psychiatric Illness - Replacing the Hardware-Software Dichotomy with Empirically Based Pluralism"
+}

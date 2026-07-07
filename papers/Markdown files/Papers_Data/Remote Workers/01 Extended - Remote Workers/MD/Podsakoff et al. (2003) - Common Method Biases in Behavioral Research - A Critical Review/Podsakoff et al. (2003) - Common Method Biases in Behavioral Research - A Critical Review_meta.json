@@ -1,0 +1,1366 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Common Method Biases in Behavioral Research: A Critical Review of the\nLiterature and Recommended Remedies",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.046875,
+          88.171875
+        ],
+        [
+          543.4105834960938,
+          88.171875
+        ],
+        [
+          543.4105834960938,
+          122.84326171875
+        ],
+        [
+          51.046875,
+          122.84326171875
+        ]
+      ]
+    },
+    {
+      "title": "Extent of the Bias Caused by Common Method Variance",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          306.861328125,
+          638.859375
+        ],
+        [
+          544.1659545898438,
+          638.859375
+        ],
+        [
+          544.1659545898438,
+          648.9414825439453
+        ],
+        [
+          306.861328125,
+          648.9414825439453
+        ]
+      ]
+    },
+    {
+      "title": "Potential Sources of Common Method Biases",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          75.36930084228516,
+          413.40234375
+        ],
+        [
+          262.0193176269531,
+          413.40234375
+        ],
+        [
+          262.0193176269531,
+          423.77105712890625
+        ],
+        [
+          75.36930084228516,
+          423.77105712890625
+        ]
+      ]
+    },
+    {
+      "title": "Method Effects Produced by a Common Source or Rater",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.56640625,
+          573.2429656982422
+        ],
+        [
+          281.91796875,
+          573.2429656982422
+        ],
+        [
+          281.91796875,
+          583.2429656982422
+        ],
+        [
+          47.56640625,
+          583.2429656982422
+        ]
+      ]
+    },
+    {
+      "title": "Method Effects Produced by Item Characteristics",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          46.40625,
+          682.55859375
+        ],
+        [
+          250.85614013671875,
+          682.55859375
+        ],
+        [
+          250.85614013671875,
+          693.8451766967773
+        ],
+        [
+          46.40625,
+          693.8451766967773
+        ]
+      ]
+    },
+    {
+      "title": "Method Effects Produced by Item Context",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          47.56640625,
+          493.83984375
+        ],
+        [
+          220.4296875,
+          493.83984375
+        ],
+        [
+          220.4296875,
+          504.41339111328125
+        ],
+        [
+          47.56640625,
+          504.41339111328125
+        ]
+      ]
+    },
+    {
+      "title": "Method Effects Produced by Measurement Context",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          46.40625,
+          506.21484375
+        ],
+        [
+          256.95611572265625,
+          506.21484375
+        ],
+        [
+          256.95611572265625,
+          517.4133911132812
+        ],
+        [
+          46.40625,
+          517.4133911132812
+        ]
+      ]
+    },
+    {
+      "title": "Summary of the Sources of Common Method Variance",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          305.701171875,
+          187.9453125
+        ],
+        [
+          530.51611328125,
+          187.9453125
+        ],
+        [
+          530.51611328125,
+          198.07244873046875
+        ],
+        [
+          305.701171875,
+          198.07244873046875
+        ]
+      ]
+    },
+    {
+      "title": "Processes Through Which Method Biases Influence\nRespondent Behavior",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          320.8863830566406,
+          450.52734375
+        ],
+        [
+          532.51171875,
+          450.52734375
+        ],
+        [
+          532.51171875,
+          473.6005554199219
+        ],
+        [
+          320.8863830566406,
+          473.6005554199219
+        ]
+      ]
+    },
+    {
+      "title": "Techniques for Controlling Common Method Biases",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          61.204498291015625,
+          617.4414825439453
+        ],
+        [
+          276.18450927734375,
+          617.4414825439453
+        ],
+        [
+          276.18450927734375,
+          627.4414825439453
+        ],
+        [
+          61.204498291015625,
+          627.4414825439453
+        ]
+      ]
+    },
+    {
+      "title": "Procedural Remedies",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          305.9912109375,
+          75.0234375
+        ],
+        [
+          394.7431640625,
+          75.0234375
+        ],
+        [
+          394.7431640625,
+          85.413330078125
+        ],
+        [
+          305.9912109375,
+          85.413330078125
+        ]
+      ]
+    },
+    {
+      "title": "Statistical Remedies",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          306.6761169433594,
+          682.55859375
+        ],
+        [
+          389.232421875,
+          682.55859375
+        ],
+        [
+          389.232421875,
+          693.4133758544922
+        ],
+        [
+          306.6761169433594,
+          693.4133758544922
+        ]
+      ]
+    },
+    {
+      "title": "Comparison of Statistical Remedies for Common Method\nBiases",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          48.7265625,
+          616.7710723876953
+        ],
+        [
+          286.743408203125,
+          616.7710723876953
+        ],
+        [
+          286.743408203125,
+          638.7710723876953
+        ],
+        [
+          48.7265625,
+          638.7710723876953
+        ]
+      ]
+    },
+    {
+      "title": "Recommendations for Controlling Method Biases in\nResearch Settings",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          60.908203125,
+          671.7710876464844
+        ],
+        [
+          275.63140869140625,
+          671.7710876464844
+        ],
+        [
+          275.63140869140625,
+          694.16015625
+        ],
+        [
+          60.908203125,
+          694.16015625
+        ]
+      ]
+    },
+    {
+      "title": "Some Additional Considerations",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          360.5185546875,
+          330.64453125
+        ],
+        [
+          493.3564453125,
+          330.64453125
+        ],
+        [
+          493.3564453125,
+          341.1005554199219
+        ],
+        [
+          360.5185546875,
+          341.1005554199219
+        ]
+      ]
+    },
+    {
+      "title": "Controlling for Method Variance in Experimental\nResearch Examining Mediated Effects",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          305.701171875,
+          505.828125
+        ],
+        [
+          511.048828125,
+          505.828125
+        ],
+        [
+          511.048828125,
+          528.5724487304688
+        ],
+        [
+          305.701171875,
+          528.5724487304688
+        ]
+      ]
+    },
+    {
+      "title": "Controlling for Method Variance in Studies Using\nFormative Constructs",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          46.986328125,
+          74.63671875
+        ],
+        [
+          254.77609252929688,
+          74.63671875
+        ],
+        [
+          254.77609252929688,
+          97.413330078125
+        ],
+        [
+          46.986328125,
+          97.413330078125
+        ]
+      ]
+    },
+    {
+      "title": "Conclusions",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          401.9573669433594,
+          75.41015625
+        ],
+        [
+          451.880859375,
+          75.41015625
+        ],
+        [
+          451.880859375,
+          85.44140625
+        ],
+        [
+          401.9573669433594,
+          85.44140625
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          404.4687805175781,
+          243.81646728515625
+        ],
+        [
+          448.98046875,
+          243.81646728515625
+        ],
+        [
+          448.98046875,
+          253.81646728515625
+        ],
+        [
+          404.4687805175781,
+          253.81646728515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          177
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          351
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "TableCell",
+          69
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          253
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          238
+        ],
+        [
+          "Line",
+          94
+        ],
+        [
+          "TableCell",
+          46
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          240
+        ],
+        [
+          "Line",
+          117
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          260
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          231
+        ],
+        [
+          "Line",
+          115
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          228
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          231
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          243
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1012
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          711
+        ],
+        [
+          "Line",
+          81
+        ],
+        [
+          "TableCell",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          535
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          229
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          248
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          327
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "TableCell",
+          15
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          237
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          219
+        ],
+        [
+          "Line",
+          117
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          288
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          409
+        ],
+        [
+          "Line",
+          130
+        ],
+        [
+          "ListItem",
+          45
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          401
+        ],
+        [
+          "Line",
+          130
+        ],
+        [
+          "ListItem",
+          43
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          361
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "ListItem",
+          39
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Podsakoff et al. (2003) - Common Method Biases in Behavioral Research - A Critical Review"
+}

@@ -1,0 +1,934 @@
+{
+  "table_of_contents": [
+    {
+      "title": "PAID VS. VOLUNTEER WORK IN OPEN SOURCE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          162.88385009765625,
+          87.55718994140625
+        ],
+        [
+          442.6910705566406,
+          87.55718994140625
+        ],
+        [
+          442.6910705566406,
+          101.837158203125
+        ],
+        [
+          162.88385009765625,
+          101.837158203125
+        ]
+      ]
+    },
+    {
+      "title": "Dirk Riehle",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          161.96484375,
+          148.7720947265625
+        ],
+        [
+          215.09054565429688,
+          148.7720947265625
+        ],
+        [
+          215.09054565429688,
+          159.99212646484375
+        ],
+        [
+          161.96484375,
+          159.99212646484375
+        ]
+      ]
+    },
+    {
+      "title": "Carsten Kolassa",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          150.908203125,
+          234.758056640625
+        ],
+        [
+          225.043701171875,
+          234.758056640625
+        ],
+        [
+          225.043701171875,
+          245.97808837890625
+        ],
+        [
+          150.908203125,
+          245.97808837890625
+        ]
+      ]
+    },
+    {
+      "title": "Philipp Riemer",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          387.8958740234375,
+          148.7720947265625
+        ],
+        [
+          457.505859375,
+          148.7720947265625
+        ],
+        [
+          457.505859375,
+          162.03515625
+        ],
+        [
+          387.8958740234375,
+          162.03515625
+        ]
+      ]
+    },
+    {
+      "title": "Michael Schmidt",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          381.3046875,
+          234.758056640625
+        ],
+        [
+          460.48004150390625,
+          234.758056640625
+        ],
+        [
+          460.48004150390625,
+          245.97808837890625
+        ],
+        [
+          381.3046875,
+          245.97808837890625
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.431640625,
+          327.9811096191406
+        ],
+        [
+          124.47702026367188,
+          327.9811096191406
+        ],
+        [
+          124.47702026367188,
+          340.22113037109375
+        ],
+        [
+          68.431640625,
+          340.22113037109375
+        ]
+      ]
+    },
+    {
+      "title": "1. INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.029296875,
+          523.4130859375
+        ],
+        [
+          160.90652465820312,
+          523.4130859375
+        ],
+        [
+          160.90652465820312,
+          535.6531066894531
+        ],
+        [
+          69.029296875,
+          535.6531066894531
+        ]
+      ]
+    },
+    {
+      "title": "2. RESEARCH APPROACH",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          69.626953125,
+          71.422607421875
+        ],
+        [
+          198.37905883789062,
+          71.422607421875
+        ],
+        [
+          198.37905883789062,
+          83.66259765625
+        ],
+        [
+          69.626953125,
+          83.66259765625
+        ]
+      ]
+    },
+    {
+      "title": "2.1 Definitions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          68.431640625,
+          99.7734375
+        ],
+        [
+          138.89552307128906,
+          99.7734375
+        ],
+        [
+          138.89552307128906,
+          111.0035400390625
+        ],
+        [
+          68.431640625,
+          111.0035400390625
+        ]
+      ]
+    },
+    {
+      "title": "2.2 Data Sources",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          68.73046875,
+          545.9315032958984
+        ],
+        [
+          149.80136108398438,
+          545.9315032958984
+        ],
+        [
+          149.80136108398438,
+          557.1515045166016
+        ],
+        [
+          68.73046875,
+          557.1515045166016
+        ]
+      ]
+    },
+    {
+      "title": "2.3 Data Quality",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          311.677734375,
+          180.6263427734375
+        ],
+        [
+          392.8725280761719,
+          180.6263427734375
+        ],
+        [
+          392.8725280761719,
+          191.8463134765625
+        ],
+        [
+          311.677734375,
+          191.8463134765625
+        ]
+      ]
+    },
+    {
+      "title": "2.4 Data Interpretation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          312.275390625,
+          287.947509765625
+        ],
+        [
+          425.2820129394531,
+          287.947509765625
+        ],
+        [
+          425.2820129394531,
+          299.1675109863281
+        ],
+        [
+          312.275390625,
+          299.1675109863281
+        ]
+      ]
+    },
+    {
+      "title": "3. PAID WORK IN OPEN SOURCE",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          313.76953125,
+          606.8965148925781
+        ],
+        [
+          480.7585754394531,
+          606.8965148925781
+        ],
+        [
+          480.7585754394531,
+          619.1365203857422
+        ],
+        [
+          313.76953125,
+          619.1365203857422
+        ]
+      ]
+    },
+    {
+      "title": "3.1 Total Work during Working Time",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          312.57421875,
+          635.2575073242188
+        ],
+        [
+          496.03533935546875,
+          635.2575073242188
+        ],
+        [
+          496.03533935546875,
+          646.4775085449219
+        ],
+        [
+          312.57421875,
+          646.4775085449219
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Trends in Work during Working Time",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          311.9765625,
+          549.0562744140625
+        ],
+        [
+          516.5157470703125,
+          549.0562744140625
+        ],
+        [
+          516.5157470703125,
+          560.2762756347656
+        ],
+        [
+          311.9765625,
+          560.2762756347656
+        ]
+      ]
+    },
+    {
+      "title": "3.3 Developer Classification",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          313.171875,
+          286.7122802734375
+        ],
+        [
+          447.4027404785156,
+          286.7122802734375
+        ],
+        [
+          447.4027404785156,
+          297.9322814941406
+        ],
+        [
+          313.171875,
+          297.9322814941406
+        ]
+      ]
+    },
+    {
+      "title": "3.4 Project Classification",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          69.328125,
+          343.0014953613281
+        ],
+        [
+          189.02749633789062,
+          343.0014953613281
+        ],
+        [
+          189.02749633789062,
+          354.22149658203125
+        ],
+        [
+          69.328125,
+          354.22149658203125
+        ]
+      ]
+    },
+    {
+      "title": "4. DISCUSSION OF FINDINGS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          312.57421875,
+          263.64056396484375
+        ],
+        [
+          457.20703125,
+          263.64056396484375
+        ],
+        [
+          457.20703125,
+          275.88055419921875
+        ],
+        [
+          312.57421875,
+          275.88055419921875
+        ]
+      ]
+    },
+    {
+      "title": "5. RELATED WORK",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          68.431640625,
+          431.4192810058594
+        ],
+        [
+          168.40066528320312,
+          431.4192810058594
+        ],
+        [
+          168.40066528320312,
+          443.6593017578125
+        ],
+        [
+          68.431640625,
+          443.6593017578125
+        ]
+      ]
+    },
+    {
+      "title": "6. CONCLUSIONS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          313.470703125,
+          619.6092834472656
+        ],
+        [
+          400.2832946777344,
+          619.6092834472656
+        ],
+        [
+          400.2832946777344,
+          631.8492889404297
+        ],
+        [
+          313.470703125,
+          631.8492889404297
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          69.328125,
+          313.3033142089844
+        ],
+        [
+          137.04994201660156,
+          313.3033142089844
+        ],
+        [
+          137.04994201660156,
+          325.5433349609375
+        ],
+        [
+          69.328125,
+          325.5433349609375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          189
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          223
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          141
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          86
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "FigureGroup",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          217
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "TableCell",
+          13
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Figure",
+          6
+        ],
+        [
+          "Caption",
+          6
+        ],
+        [
+          "FigureGroup",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          230
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "TableCell",
+          23
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          187
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          275
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "ListItem",
+          22
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          56
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Paid vs Volunteer Work in Open Source"
+}

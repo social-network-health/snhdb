@@ -1,0 +1,288 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Review Symposium",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          189.0,
+          33.2998046875
+        ],
+        [
+          265.78125,
+          33.2998046875
+        ],
+        [
+          265.78125,
+          42.92413330078125
+        ],
+        [
+          189.0,
+          42.92413330078125
+        ]
+      ]
+    },
+    {
+      "title": "Review by Steven B. Andrews",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          189.4921875,
+          51.111328125
+        ],
+        [
+          334.1953125,
+          51.111328125
+        ],
+        [
+          334.1953125,
+          62.54071044921875
+        ],
+        [
+          189.4921875,
+          62.54071044921875
+        ]
+      ]
+    },
+    {
+      "title": "Review Symposium",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          189.73828125,
+          32.13818359375
+        ],
+        [
+          267.01171875,
+          32.13818359375
+        ],
+        [
+          267.01171875,
+          42.98687744140625
+        ],
+        [
+          189.73828125,
+          42.98687744140625
+        ]
+      ]
+    },
+    {
+      "title": "Steven B. Andrews",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          188.26171875,
+          299.31103515625
+        ],
+        [
+          278.33203125,
+          299.31103515625
+        ],
+        [
+          278.33203125,
+          310.686767578125
+        ],
+        [
+          188.26171875,
+          310.686767578125
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCE",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          187.03125,
+          366.68505859375
+        ],
+        [
+          234.28125,
+          366.68505859375
+        ],
+        [
+          234.28125,
+          376.2183532714844
+        ],
+        [
+          187.03125,
+          376.2183532714844
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          47
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          123
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Gladwin (1981) - Review of Cultures Consequences - International Differences in Work-Related Values"
+}
