@@ -241,3 +241,17 @@ social-network-health/research/protocols/checkin_protocol.md (v0.1, open questio
   shows "reserved for Subscribers" when not logged in in this browser profile).
   Card marks the partial capture; re-export while logged in to HBR and drop in
   /incoming to complete it. Corpus now 295 cards = 295 conversions, audit green.
+
+### 2026-07-08 (later still) — Ponte 2022 completed; Backup dir deleted
+- "How to Be a Mental Health Ally" full 13-page PDF re-exported by Rich while
+  logged in; converted and card regenerated from full text (earlier export had
+  silently truncated at the subscriber wall).
+- `papers/Papers Data - Markdown Files Backup/` (35 MB legacy duplicate)
+  deleted per decision #3 — Phase 3 cards verified by Rich.
+- Diagnosed the last optional item: `Open Source Articles Research
+  Spreadsheet.pdf` is a Pdfcrowd capture of the **Google Sheets sign-in page**
+  (same login-wall failure mode as the old Reddit/UyBico captures). The real
+  source is a Google Sheet in the Drive research folder. Options: export it
+  (File → Download → PDF/CSV) into /incoming to be converted+carded, or drop
+  it from the corpus if it was only an internal tracking index. Awaiting
+  Rich's call.

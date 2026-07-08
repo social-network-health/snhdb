@@ -1584,49 +1584,59 @@ doi: null
 venue: {type: "other", name: "Harvard Business Review", volume: null, issue: null, pages: null}
 citation: "Ponte (2022). How to Be a Mental Health Ally. Harvard Business Review."
 article_type: "commentary"
-method: {design: "practitioner-commentary", approach: "other", evidence_level: "speculative", preregistered: false}
+method: {design: "narrative-commentary", approach: "other", evidence_level: "speculative", preregistered: false}
 gist: >
-  This HBR practitioner article argues that because most people will experience a mental
-  health challenge at some point in their life, colleagues should proactively become
-  workplace "mental health allies," extending empathy to coworkers dealing with mental
-  health issues. The author, a mental health advocate and lecturer with lived experience of
-  bipolar I disorder, frames allyship as a matter of recognizing shared vulnerability rather
-  than treating mental illness as rare or other.
+  A Harvard Business Review practitioner article by Katherine Ponte laying out concrete
+  tactics for being a workplace "mental health ally": how to open and sustain one-on-one
+  conversations with a struggling colleague, scripted examples of supportive versus
+  stigmatizing language, education formats (personal-account events vs. workshops), employee
+  resource groups and peer group activities, and organizational policy levers (mental health
+  director role, ADA-style accommodations, confidential leave, access-to-care benefits). It
+  is grounded in the author's professional and lived experience rather than a formal study.
 claims:
-  - text: "Someone you know at work — a colleague, a client, or a board member — will likely experience a mental health challenge at some point, which should motivate proactive workplace allyship."
-    evidence: "Assertion in the article's summary and opening paragraph, presented as a research-backed generalization but without a cited study, statistic, or source in the captured text."
-    support_strength: "speculative"
-    outcomes: ["mental-health"]
-    predictors: ["organizational-culture"]
-  - text: "Being a mental health ally means treating colleagues dealing with mental health issues with the empathy one would want under similar circumstances."
-    evidence: "Normative claim stated directly in the article's opening paragraph as the article's core recommendation."
-    support_strength: "speculative"
-    outcomes: ["mental-health", "wellbeing"]
-    predictors: ["organizational-culture"]
+  - text: "Effective one-on-one allyship requires preparing to set aside implicit bias, timing conversations to a colleague's mood, starting gently and indirectly (e.g., asking about stressors rather than diagnoses), choosing a private or low-pressure channel (text/call before face-to-face), and assuring confidentiality before and during the conversation."
+    evidence: "Author's practitioner guidance and lived-experience advice; no cited study or data."
+    support_strength: "weak"
+    outcomes: ["wellbeing", "help-seeking", "sense-of-belonging"]
+    predictors: ["social-support"]
+  - text: "Using person-first, non-judgmental, and non-platitude language (contrasted with paired 'don't say / say' examples) reduces stigma and self-stigma, while employee resource groups and shared non-mental-health-focused group activities counter loneliness and isolation for employees living with mental illness."
+    evidence: "Author's practitioner recommendations illustrated with sample dialogue and program examples; not empirically tested in the article."
+    support_strength: "weak"
+    outcomes: ["isolation", "sense-of-belonging", "job-engagement"]
+    predictors: ["peer-mentoring", "inclusiveness"]
+  - text: "Organizational policy levers -- a designated mental health director, transparent benefit communication, ADA-style accommodations (flextime, remote or part-time work, quiet spaces), and confidential leave and care-access benefits -- support disclosure and help-seeking, but the article notes employees often perceive disclosure risks as outweighing benefits."
+    evidence: "Author's policy recommendations referencing ADA accommodation categories and APA guidance on mental health apps; no primary data presented."
+    support_strength: "weak"
+    outcomes: ["help-seeking", "retention"]
+    predictors: ["organizational-culture", "leadership-style"]
 population:
-  who: "General workplace audience (managers, colleagues, HR) addressed as potential mental health allies"
+  who: "General workplace colleagues, managers, and leaders addressed as potential 'mental health allies' to coworkers experiencing mental health challenges"
   where: []
   when: null
   n: null
-  sector: ["general workplace"]
+  sector: []
   sample_notes: >
-    Not a study; no population sampled. Partial capture — only the article summary, opening
-    paragraph, and author bio survived conversion (full text pending re-export), so any body
-    content on how to be an ally is missing.
+    Not an empirical study; no sample, participants, or data collection. Advice synthesized
+    from the author's professional (NAMI-NYC board, Yale lecturer) and personal (living with
+    bipolar I disorder) experience, adapted from the HBR Guide to Better Mental Health at
+    Work.
 limitation:
-  primary: "Capture is partial: only the summary blurb, one opening paragraph, and the author bio were extracted, so the article's substantive guidance and any cited evidence are not represented here."
+  primary: "Practitioner opinion piece with no cited primary research, data, or systematic evidence base; recommendations are asserted rather than tested."
   others:
-    - "No citations, studies, or data are present in the captured text; the central claim about prevalence is unsupported as captured."
-    - "Practitioner commentary rather than empirical research, so findings are opinion/advice rather than measured outcomes."
-risk_of_bias: "not-applicable"
+    - "Single author with personal and organizational stake in the topic (ForLikeMinds founder, NAMI-NYC board member), creating potential advocacy bias."
+    - "No discussion of contexts (industries, cultures, team structures) where the suggested tactics might fail or backfire."
+risk_of_bias: "high"
 relevance_to_project: >
-  Speaks to workplace mental health allyship and manager/colleague empathy as informal
-  social support mechanisms relevant to SNH's interest in belonging and mental health,
-  though the partial capture limits usable detail to the framing claim itself.
+  Directly actionable for the project's proposed peer check-in protocol: the article's
+  scripted guidance on when/how to initiate one-on-one conversations, gentle regular check-
+  ins, person-first and non-judgmental supportive language, and group/ERG engagement maps
+  closely onto the protocol's core mechanics, and its policy section (accommodations,
+  confidential leave, mental health director role) offers organizational-support language
+  the project can reuse or cite.
 tags:
-  topic: ["mental-health", "wellbeing", "remote-work"]
-  method: ["practitioner-commentary"]
-  population: ["general-workplace"]
+  topic: ["mental-health", "social-support", "wellbeing", "psychological-safety", "community-health"]
+  method: ["narrative-commentary"]
+  population: ["knowledge-workers", "managers", "general-workforce"]
 source:
   markdown: "Papers_Data/Mental Health/MD/How to Be a Mental Health Ally - HBR 2022/How to Be a Mental Health Ally - HBR 2022.md"
   pdf: null
