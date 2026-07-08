@@ -23,7 +23,6 @@ papers/Markdown files/Papers_Data/<Topic>/
         <paper-name>_meta.json        conversion metadata
         card_schema.md                that paper's individual card
         _page_*.jpeg                  extracted figures (usually ignore)
-papers/Summary Files/*.xlsx           legacy spreadsheets (superseded by cards)
 docs/, uncategorized/                 intake notes and not-yet-filed material
 ```
 

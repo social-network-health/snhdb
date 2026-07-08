@@ -255,3 +255,11 @@ social-network-health/research/protocols/checkin_protocol.md (v0.1, open questio
   (File → Download → PDF/CSV) into /incoming to be converted+carded, or drop
   it from the corpus if it was only an internal tracking index. Awaiting
   Rich's call.
+
+### 2026-07-08 (final) — Spreadsheet data removed
+All spreadsheet data removed pending Rich's review of the Drive spreadsheets:
+Summary Files/*.xlsx (both copies), the Google-Sheets-sign-in stub PDF + its
+conversion/card, and stale Claude_Connect spreadsheet copies. Ledger in
+DUPLICATES.md. Corpus: 294 cards = 294 conversions. Note for a future pass:
+`papers/Markdown files/Claude_Connect/` is a stale pre-repair flat export of
+papers+cards — decide whether to regenerate or drop it.

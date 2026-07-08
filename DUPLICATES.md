@@ -105,3 +105,10 @@ Format: kept copy, then removed copies (md5 of removed content).
 
 - **Removed 2026-07-08:** `papers/Remote Workers/The Impact of Remote Work on Team Collaboration and Productivity - Vorecol Blog Article.pdf` and its conversion folder — AI-generated marketing blog post (Vorecol/Psico-smart) aggregating uncited statistics; not a research source. Approved by Rich.
 - **Removed 2026-07-08:** `papers/Articles/Open Source and Mental Health Reddit Discussion Rust Community.pdf` — the capture was Reddit's login-wall page, not the thread. Replaced by a live text capture (2026-07-08) of the r/Redox thread ny8d1j in the renamed conversion folder `.../Articles/MD/Open Source and Mental Health Reddit Discussion Redox Community/` (markdown-only source; no PDF).
+- **Removed 2026-07-08 (spreadsheet data, pending Rich's Drive spreadsheet review):**
+  `papers/Summary Files/*.xlsx` (8 legacy summary spreadsheets, superseded by cards),
+  the duplicate set `papers/Markdown files/Papers_Data/Summery Files/*.xlsx`,
+  `papers/Articles/Open Source Articles Research Spreadsheet.pdf` (a Pdfcrowd capture
+  of the Google Sheets sign-in page, no content) + its conversion folder and card,
+  and the stale copies in `Claude_Connect/Papers/` (stub .md, copy_report.csv).
+  The source Google Sheets remain in Drive; may be re-added deliberately later.
